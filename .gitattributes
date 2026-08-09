@@ -1,0 +1,13 @@
+# Force LF line endings so mirrored docs match upstream and avoid CRLF churn
+# in the automatic-update commit detection.
+* text=auto eol=lf
+
+# The grouped markdown/doc files always use LF regardless of platform.
+docs/** text eol=lf
+*.md text eol=lf
+*.mdx text eol=lf
+*.json text eol=lf
+*.py text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.sh text eol=lf

@@ -1,0 +1,2 @@
+# The fetch script uses only the Python standard library (urllib, json, hashlib)
+# and requires no third-party packages.

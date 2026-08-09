@@ -1,0 +1,1615 @@
+{
+  "files": {
+    "developer-guide/_category_.json": {
+      "sha": "c71068b88d81a8b7166765b965678fa2fd7de565",
+      "last_updated": "2026-08-09T09:09:58.475640+00:00"
+    },
+    "developer-guide/acp-internals.md": {
+      "sha": "e739d808711894e590d3c1fce02ff1472050611e",
+      "last_updated": "2026-08-09T09:09:58.722493+00:00"
+    },
+    "developer-guide/adding-platform-adapters.md": {
+      "sha": "d2209c638fc89fdf40ea89ae959ea418db96bbc4",
+      "last_updated": "2026-08-09T09:09:58.961353+00:00"
+    },
+    "developer-guide/adding-providers.md": {
+      "sha": "fa7adbe73c87679d73db199d7dde76e190bdb269",
+      "last_updated": "2026-08-09T09:09:59.208202+00:00"
+    },
+    "developer-guide/adding-tools.md": {
+      "sha": "975bdaca0603d6f961da0cbaff63f8a40f95ff00",
+      "last_updated": "2026-08-09T09:09:59.453056+00:00"
+    },
+    "developer-guide/agent-loop.md": {
+      "sha": "24cee51082df7aa4672aa674621fe72a31b05215",
+      "last_updated": "2026-08-09T09:09:59.699909+00:00"
+    },
+    "developer-guide/architecture.md": {
+      "sha": "6c1f6cafa412c399a73475da93127265b677f669",
+      "last_updated": "2026-08-09T09:09:59.947763+00:00"
+    },
+    "developer-guide/browser-provider-plugin.md": {
+      "sha": "abf8a8e80f4bdab20e067061904748eebee5367a",
+      "last_updated": "2026-08-09T09:10:00.192619+00:00"
+    },
+    "developer-guide/browser-supervisor.md": {
+      "sha": "a30abdbdaca5a6daaf0e9d85de2fb2d14f714fea",
+      "last_updated": "2026-08-09T09:10:00.438467+00:00"
+    },
+    "developer-guide/codebase-ownership.md": {
+      "sha": "c6f85d7e1f81314183ef2c0191c62b43dc8c3c34",
+      "last_updated": "2026-08-09T09:10:00.684321+00:00"
+    },
+    "developer-guide/context-compression-and-caching.md": {
+      "sha": "4284ebe3b0291b67175d552cf00a50135e90340a",
+      "last_updated": "2026-08-09T09:10:00.933142+00:00"
+    },
+    "developer-guide/context-engine-plugin.md": {
+      "sha": "6609158e076554fcac8ef905554fc317baee0936",
+      "last_updated": "2026-08-09T09:10:01.184024+00:00"
+    },
+    "developer-guide/contributing.md": {
+      "sha": "3e5cf9d98103741001d7d41cd94879044fa0a04a",
+      "last_updated": "2026-08-09T09:10:01.431874+00:00"
+    },
+    "developer-guide/creating-skills.md": {
+      "sha": "25d023ed57c826d473a451b83921103e4f465d56",
+      "last_updated": "2026-08-09T09:10:01.682725+00:00"
+    },
+    "developer-guide/cron-internals.md": {
+      "sha": "13a342324cc96ea9f0845714221edc7113a5ab95",
+      "last_updated": "2026-08-09T09:10:01.930596+00:00"
+    },
+    "developer-guide/desktop-plugin-sdk.md": {
+      "sha": "2e5abb8bec37f936c27ad99dbb7f258481663846",
+      "last_updated": "2026-08-09T09:10:02.182428+00:00"
+    },
+    "developer-guide/egress-internals.md": {
+      "sha": "f84160788a0c1f02388748fa8d470717bca850b3",
+      "last_updated": "2026-08-09T09:10:02.432281+00:00"
+    },
+    "developer-guide/extending-the-cli.md": {
+      "sha": "fbd6da6f946537b155f8db03af48d58fe40fca68",
+      "last_updated": "2026-08-09T09:10:02.680130+00:00"
+    },
+    "developer-guide/gateway-internals.md": {
+      "sha": "30c8cb9e1f09cd13eb9cd7e880e9fa99ebdceda2",
+      "last_updated": "2026-08-09T09:10:02.929982+00:00"
+    },
+    "developer-guide/image-gen-provider-plugin.md": {
+      "sha": "44b509029511de1a34bdb0a5abf280a87ec8bb14",
+      "last_updated": "2026-08-09T09:10:03.176833+00:00"
+    },
+    "developer-guide/memory-provider-plugin.md": {
+      "sha": "f6a35dc060db2ae38599f242831d923fe01ac56f",
+      "last_updated": "2026-08-09T09:10:03.425689+00:00"
+    },
+    "developer-guide/model-provider-plugin.md": {
+      "sha": "dd1be9f291b75c56fb0e2b142003e98ce4425e15",
+      "last_updated": "2026-08-09T09:10:03.676536+00:00"
+    },
+    "developer-guide/plugin-llm-access.md": {
+      "sha": "0d7959f519da72920ed3795753d5c7663c35581e",
+      "last_updated": "2026-08-09T09:10:03.924389+00:00"
+    },
+    "developer-guide/plugins/index.md": {
+      "sha": "c16e079354bff1c103003f676c74ef98a998cc01",
+      "last_updated": "2026-08-09T09:10:04.180236+00:00"
+    },
+    "developer-guide/programmatic-integration.md": {
+      "sha": "46e05aec050c18eb018e32db8d240869628d0f04",
+      "last_updated": "2026-08-09T09:10:04.425088+00:00"
+    },
+    "developer-guide/prompt-assembly.md": {
+      "sha": "e7d0497db3621f84723651143700af6296764a42",
+      "last_updated": "2026-08-09T09:10:04.670941+00:00"
+    },
+    "developer-guide/provider-runtime.md": {
+      "sha": "9cfd90097dda8272f727a97a82a271691b383ba0",
+      "last_updated": "2026-08-09T09:10:04.916796+00:00"
+    },
+    "developer-guide/secret-source-plugin.md": {
+      "sha": "5df9f803a6923c9801606884d38b4731ba32a734",
+      "last_updated": "2026-08-09T09:10:05.152654+00:00"
+    },
+    "developer-guide/session-storage.md": {
+      "sha": "0ff701d7f3c34d93df4cf97fb78bf27b14cb8382",
+      "last_updated": "2026-08-09T09:10:05.399507+00:00"
+    },
+    "developer-guide/subagent-lifecycle-api.md": {
+      "sha": "7054afcdb7356a8da9966c1b1243085a26957a43",
+      "last_updated": "2026-08-09T09:10:05.656356+00:00"
+    },
+    "developer-guide/tools-runtime.md": {
+      "sha": "7fcbb4d7cd0a844beee08814de36030da5b93c7d",
+      "last_updated": "2026-08-09T09:10:05.903209+00:00"
+    },
+    "developer-guide/trajectory-format.md": {
+      "sha": "fbc46632305461a4e73d16f07d8e8846b5773401",
+      "last_updated": "2026-08-09T09:10:06.150070+00:00"
+    },
+    "developer-guide/video-gen-provider-plugin.md": {
+      "sha": "4301b6bd261ea5ed17734e48e6ce88f58216cf0b",
+      "last_updated": "2026-08-09T09:10:06.396914+00:00"
+    },
+    "developer-guide/web-search-provider-plugin.md": {
+      "sha": "4f880866c69966b6569c9365b665d700ec5d15c3",
+      "last_updated": "2026-08-09T09:10:06.646764+00:00"
+    },
+    "developer-guide/worktree-ui-dev.md": {
+      "sha": "4f3ab1f847b4afd69b362d7009d99db3af398ba6",
+      "last_updated": "2026-08-09T09:10:06.893616+00:00"
+    },
+    "getting-started/_category_.json": {
+      "sha": "e3fd17f7a356e0b23257f145182faffab67518b9",
+      "last_updated": "2026-08-09T09:10:07.140471+00:00"
+    },
+    "getting-started/installation.md": {
+      "sha": "1794d68a6952e42065cca80954cd6e260f8ba0dc",
+      "last_updated": "2026-08-09T09:10:07.390322+00:00"
+    },
+    "getting-started/learning-path.md": {
+      "sha": "a643267637a00f9796cb46bd54b0f27c96cf1809",
+      "last_updated": "2026-08-09T09:10:07.639141+00:00"
+    },
+    "getting-started/nix-setup.md": {
+      "sha": "2919d14acfb86e2225f0740f3125950aa04d32fc",
+      "last_updated": "2026-08-09T09:10:07.891021+00:00"
+    },
+    "getting-started/platform-support.md": {
+      "sha": "1791716717c92e07f449eed99eace2fec2fe5a03",
+      "last_updated": "2026-08-09T09:10:08.136846+00:00"
+    },
+    "getting-started/quickstart.md": {
+      "sha": "390cdba2ac0c8d5b1f865efe6ccf46ae98ab4011",
+      "last_updated": "2026-08-09T09:10:08.384727+00:00"
+    },
+    "getting-started/termux.md": {
+      "sha": "1dd3226c1af222bf0a0e6f59a861943c42b1636c",
+      "last_updated": "2026-08-09T09:10:08.630547+00:00"
+    },
+    "getting-started/updating.md": {
+      "sha": "3c361adca63da60e9d778a6bdd7b839c7891b964",
+      "last_updated": "2026-08-09T09:10:08.876434+00:00"
+    },
+    "guides/_category_.json": {
+      "sha": "6d1d2f0b9ec098f749715dd4deebc4d4b753b610",
+      "last_updated": "2026-08-09T09:10:09.121297+00:00"
+    },
+    "guides/agent-email-address.md": {
+      "sha": "a879b8ace8d934265cd2bf7b4d5d8a8317ac90c8",
+      "last_updated": "2026-08-09T09:10:09.367141+00:00"
+    },
+    "guides/automate-with-cron.md": {
+      "sha": "dec05e43fd466e0554aebaf819aba1cb39f1907b",
+      "last_updated": "2026-08-09T09:10:09.604969+00:00"
+    },
+    "guides/automation-blueprints.md": {
+      "sha": "7bf861e8e22258438e08d3b5513bf647ae48f853",
+      "last_updated": "2026-08-09T09:10:09.852852+00:00"
+    },
+    "guides/aws-bedrock.md": {
+      "sha": "ec7b1224fce534945ed289321fd19cfae4221147",
+      "last_updated": "2026-08-09T09:10:10.101704+00:00"
+    },
+    "guides/azure-foundry.md": {
+      "sha": "76412937b0da0a1b2f5e091ec38145055df5b917",
+      "last_updated": "2026-08-09T09:10:10.351549+00:00"
+    },
+    "guides/cron-script-only.md": {
+      "sha": "ae3f1f0ae0e69435e2bafacaae472ca674818b5a",
+      "last_updated": "2026-08-09T09:10:10.599407+00:00"
+    },
+    "guides/cron-troubleshooting.md": {
+      "sha": "2f2cb43b34659c3226f9075201ab221a1c4c0fb4",
+      "last_updated": "2026-08-09T09:10:10.834266+00:00"
+    },
+    "guides/daily-briefing-bot.md": {
+      "sha": "a4fda461be8feca8f3840ac77ec89719d9674408",
+      "last_updated": "2026-08-09T09:10:11.081119+00:00"
+    },
+    "guides/delegation-patterns.md": {
+      "sha": "9f16bb34999f2dbf04b83721be0c85a16bec7301",
+      "last_updated": "2026-08-09T09:10:11.329972+00:00"
+    },
+    "guides/desktop-native-signin.md": {
+      "sha": "96c59048c784ced3ced012848169c75f1c756682",
+      "last_updated": "2026-08-09T09:10:11.575825+00:00"
+    },
+    "guides/github-pr-review-agent.md": {
+      "sha": "f45684973bd45028efc2c8e2291998a024705b71",
+      "last_updated": "2026-08-09T09:10:11.822676+00:00"
+    },
+    "guides/google-gemini.md": {
+      "sha": "7a00eabf8dff2950d79df3a9a6fc2a8826b87be1",
+      "last_updated": "2026-08-09T09:10:12.071529+00:00"
+    },
+    "guides/google-vertex.md": {
+      "sha": "54923db967d5a5c1965a45badddc32ff4efc8cbb",
+      "last_updated": "2026-08-09T09:10:12.309387+00:00"
+    },
+    "guides/local-llm-on-mac.md": {
+      "sha": "a0a3a200bd9e2ff77dfbd3308f71af15929566be",
+      "last_updated": "2026-08-09T09:10:12.559239+00:00"
+    },
+    "guides/local-ollama-setup.md": {
+      "sha": "5136cf5f71f81edc5e1d06baba7caa188215bd4a",
+      "last_updated": "2026-08-09T09:10:12.797096+00:00"
+    },
+    "guides/microsoft-graph-app-registration.md": {
+      "sha": "70de0498cfedc9f9687eb0dc5961c80842f5304a",
+      "last_updated": "2026-08-09T09:10:13.046947+00:00"
+    },
+    "guides/migrate-from-openclaw.md": {
+      "sha": "9680717dc3bdea33f8fe26f7ebdfc9ee653a02e0",
+      "last_updated": "2026-08-09T09:10:13.293800+00:00"
+    },
+    "guides/minimax-oauth.md": {
+      "sha": "0c0770252a73182e3bbd24c773744735a98ed6d8",
+      "last_updated": "2026-08-09T09:10:13.541653+00:00"
+    },
+    "guides/oauth-over-ssh.md": {
+      "sha": "c58aeb401d48f3666425d4ecf1ac4f3e196ec053",
+      "last_updated": "2026-08-09T09:10:13.789505+00:00"
+    },
+    "guides/operate-teams-meeting-pipeline.md": {
+      "sha": "6da6185b7a98c2e878e11be51539316a136c914f",
+      "last_updated": "2026-08-09T09:10:14.037358+00:00"
+    },
+    "guides/pipe-script-output.md": {
+      "sha": "a58f408260767b4e7bda30d775643baadc4765ce",
+      "last_updated": "2026-08-09T09:10:14.283209+00:00"
+    },
+    "guides/python-library.md": {
+      "sha": "1fb0387400e1c6541db395c7f0e4fabf7e23528b",
+      "last_updated": "2026-08-09T09:10:14.532068+00:00"
+    },
+    "guides/run-hermes-with-nous-portal.md": {
+      "sha": "e4928ef6df3a612a04c8133b34bb01ba96d0cc4b",
+      "last_updated": "2026-08-09T09:10:14.771918+00:00"
+    },
+    "guides/run-nemotron-3-ultra-free.md": {
+      "sha": "db613e79e99106b52a2519fd246a23e0e93e63a1",
+      "last_updated": "2026-08-09T09:10:15.021770+00:00"
+    },
+    "guides/secure-hermes-on-a-work-machine.md": {
+      "sha": "280f26b4bd095b2489f5fe6d7b2f2fa695ac4204",
+      "last_updated": "2026-08-09T09:10:15.259629+00:00"
+    },
+    "guides/team-telegram-assistant.md": {
+      "sha": "3b168eb4caf49527624672fadb5f3b716345f9f5",
+      "last_updated": "2026-08-09T09:10:15.507479+00:00"
+    },
+    "guides/tips.md": {
+      "sha": "693bcaaf4208e0b449382af3d3f6282758192871",
+      "last_updated": "2026-08-09T09:10:15.771326+00:00"
+    },
+    "guides/troubleshooting-agent-quality.md": {
+      "sha": "67a10953688c6e07ee0d2512809797664ecdd49e",
+      "last_updated": "2026-08-09T09:10:16.018173+00:00"
+    },
+    "guides/use-mcp-with-hermes.md": {
+      "sha": "6b8eee4a5929b508b7bd80c5bdb3e2eda776986d",
+      "last_updated": "2026-08-09T09:10:16.266020+00:00"
+    },
+    "guides/use-soul-with-hermes.md": {
+      "sha": "81a3680b0d6f0c6d531824646c80f610723f5889",
+      "last_updated": "2026-08-09T09:10:16.510880+00:00"
+    },
+    "guides/use-voice-mode-with-hermes.md": {
+      "sha": "b13baca4af102f583577e17a41e3db5624192650",
+      "last_updated": "2026-08-09T09:10:16.757701+00:00"
+    },
+    "guides/webhook-github-pr-review.md": {
+      "sha": "644dca0fd59195cb415225223249b71bc6c28bac",
+      "last_updated": "2026-08-09T09:10:16.993602+00:00"
+    },
+    "guides/work-with-skills.md": {
+      "sha": "2a011a2b7bf57d17652cec98eb4fa907b1307334",
+      "last_updated": "2026-08-09T09:10:17.239452+00:00"
+    },
+    "guides/xai-grok-oauth.md": {
+      "sha": "12f4e738eb6fc844bfd932cc19df8fbbe11eff38",
+      "last_updated": "2026-08-09T09:10:17.487297+00:00"
+    },
+    "index.mdx": {
+      "sha": "f7a943cba9f734787c3a44202ab23b34fec0aa42",
+      "last_updated": "2026-08-09T09:10:17.735152+00:00"
+    },
+    "integrations/buzz.md": {
+      "sha": "c0514bf99e4721692207e653947214213559d2c5",
+      "last_updated": "2026-08-09T09:10:17.980973+00:00"
+    },
+    "integrations/index.md": {
+      "sha": "9780de27a4d570da6fd5a0b80be9462f2c2f1992",
+      "last_updated": "2026-08-09T09:10:18.227858+00:00"
+    },
+    "integrations/nous-portal.md": {
+      "sha": "61098b3ef4a685af02a93528b65735121a86e4c8",
+      "last_updated": "2026-08-09T09:10:18.474709+00:00"
+    },
+    "integrations/providers.md": {
+      "sha": "a5b81f5660c6c072f0a31e67868e635f958d4fdb",
+      "last_updated": "2026-08-09T09:10:18.725560+00:00"
+    },
+    "reference/_category_.json": {
+      "sha": "8150d97ad57c8f434b72e9cc65a58abd091787c6",
+      "last_updated": "2026-08-09T09:10:18.972414+00:00"
+    },
+    "reference/automation-blueprints-catalog.mdx": {
+      "sha": "820f5d8719950be69d0373a820c08e4fedfc122e",
+      "last_updated": "2026-08-09T09:10:19.218265+00:00"
+    },
+    "reference/cli-commands.md": {
+      "sha": "bd670e9fdd8748fc6233adf8bbc25a976ed69272",
+      "last_updated": "2026-08-09T09:10:19.483107+00:00"
+    },
+    "reference/environment-variables.md": {
+      "sha": "bae4a6166c20ac6530c498f3531138d1a673b10e",
+      "last_updated": "2026-08-09T09:10:19.746958+00:00"
+    },
+    "reference/faq.md": {
+      "sha": "fc199a509b72af19e25ce700b8963c8db27237b1",
+      "last_updated": "2026-08-09T09:10:19.986808+00:00"
+    },
+    "reference/mcp-config-reference.md": {
+      "sha": "1a851ae0137df9a6d3f0a7e45f645f4759ba4353",
+      "last_updated": "2026-08-09T09:10:20.233662+00:00"
+    },
+    "reference/model-catalog.md": {
+      "sha": "4769a720c8f12c80d417f22f15bdb80ec8521633",
+      "last_updated": "2026-08-09T09:10:20.482512+00:00"
+    },
+    "reference/optional-skills-catalog.md": {
+      "sha": "a73ceadcbd6b903d0e551d07589e64cfa3df0734",
+      "last_updated": "2026-08-09T09:10:20.721369+00:00"
+    },
+    "reference/profile-commands.md": {
+      "sha": "24a8f6791b55a79fdea746756f4b573ed2de685b",
+      "last_updated": "2026-08-09T09:10:20.971226+00:00"
+    },
+    "reference/skills-catalog.md": {
+      "sha": "fba5674e0a5d1169759947b38e276dca270f64d7",
+      "last_updated": "2026-08-09T09:10:21.221072+00:00"
+    },
+    "reference/slash-commands.md": {
+      "sha": "c5f646fa6acb412befb75a2f4608b30795b847b6",
+      "last_updated": "2026-08-09T09:10:21.464929+00:00"
+    },
+    "reference/tools-reference.md": {
+      "sha": "c05f93e193409694f37f23e3642fc22b3d5c4587",
+      "last_updated": "2026-08-09T09:10:21.715778+00:00"
+    },
+    "reference/toolsets-reference.md": {
+      "sha": "fc92521ad90b43f2999a6be6596f5f84c440cdd8",
+      "last_updated": "2026-08-09T09:10:21.964630+00:00"
+    },
+    "user-guide/_category_.json": {
+      "sha": "7911fa56fec15dafb51ceb520070a85fadf7addc",
+      "last_updated": "2026-08-09T09:10:22.209483+00:00"
+    },
+    "user-guide/checkpoints-and-rollback.md": {
+      "sha": "a71ec2fe5b79a1c4c373ff3600a1b25c9059f29c",
+      "last_updated": "2026-08-09T09:10:22.457336+00:00"
+    },
+    "user-guide/cli.md": {
+      "sha": "2f3d78fafc3d57f9f847139b59e5a0a1243ec9ee",
+      "last_updated": "2026-08-09T09:10:22.709184+00:00"
+    },
+    "user-guide/configuration.md": {
+      "sha": "4a97edca682514e934e7732052e0fe5c3621cc30",
+      "last_updated": "2026-08-09T09:10:22.980024+00:00"
+    },
+    "user-guide/configuring-models.md": {
+      "sha": "13c33f0f2f308f53bb75ffcdc43b862727b97428",
+      "last_updated": "2026-08-09T09:10:23.217884+00:00"
+    },
+    "user-guide/desktop.md": {
+      "sha": "d7c803ed77bab287bf4af79f45e8f512693fb287",
+      "last_updated": "2026-08-09T09:10:23.471729+00:00"
+    },
+    "user-guide/docker.md": {
+      "sha": "fd0c047d4837c034dd3c7da8a440c29bdf042925",
+      "last_updated": "2026-08-09T09:10:23.724580+00:00"
+    },
+    "user-guide/egress/index.md": {
+      "sha": "90ccbb8a05e663ba816b4ac1e8bef7bca32eed5b",
+      "last_updated": "2026-08-09T09:10:24.064376+00:00"
+    },
+    "user-guide/egress/iron-proxy.md": {
+      "sha": "f38cbfa33a85b4d3c2623ba3110f57d70f8e65be",
+      "last_updated": "2026-08-09T09:10:24.436124+00:00"
+    },
+    "user-guide/features/_category_.json": {
+      "sha": "48a9c0ce8b2b8882c8d74045dbc2fa4b75c06fdc",
+      "last_updated": "2026-08-09T09:10:24.733947+00:00"
+    },
+    "user-guide/features/acp.md": {
+      "sha": "1424c427f0418d6f0b6c109367a42c367bb79647",
+      "last_updated": "2026-08-09T09:10:25.035796+00:00"
+    },
+    "user-guide/features/api-server.md": {
+      "sha": "ccba76e104d1c5b3e196fd901da098375b6a6e0d",
+      "last_updated": "2026-08-09T09:10:25.380559+00:00"
+    },
+    "user-guide/features/batch-processing.md": {
+      "sha": "87bbf03af162883671a24d8b58b26cde684b50de",
+      "last_updated": "2026-08-09T09:10:25.679415+00:00"
+    },
+    "user-guide/features/browser.md": {
+      "sha": "4c9a61a63561a116033e9136cc8e236a63ebf9f7",
+      "last_updated": "2026-08-09T09:10:25.989231+00:00"
+    },
+    "user-guide/features/built-in-plugins.md": {
+      "sha": "9ffbf639f700e0cd99f0ef56f356af54f60bf90b",
+      "last_updated": "2026-08-09T09:10:26.297015+00:00"
+    },
+    "user-guide/features/code-execution.md": {
+      "sha": "1585f415a24f5636bfae7288d2970c0819d1ccb3",
+      "last_updated": "2026-08-09T09:10:26.633814+00:00"
+    },
+    "user-guide/features/codex-app-server-runtime.md": {
+      "sha": "51821278d77b9610ff08acf05cef07d26bb2d924",
+      "last_updated": "2026-08-09T09:10:26.981639+00:00"
+    },
+    "user-guide/features/computer-use.md": {
+      "sha": "1b3aa824956d5476dc7723d9dc6e4cd69b000a51",
+      "last_updated": "2026-08-09T09:10:27.319435+00:00"
+    },
+    "user-guide/features/context-files.md": {
+      "sha": "4ec8e3886690832fd8baaefa565615b3b52b0e57",
+      "last_updated": "2026-08-09T09:10:27.650210+00:00"
+    },
+    "user-guide/features/context-references.md": {
+      "sha": "b43c3e3b1cafb952482d51c9b3103cdf858a2d40",
+      "last_updated": "2026-08-09T09:10:27.953058+00:00"
+    },
+    "user-guide/features/credential-pools.md": {
+      "sha": "f66f2a624a9165b31f084da837c3b2ba5577d023",
+      "last_updated": "2026-08-09T09:10:28.289872+00:00"
+    },
+    "user-guide/features/cron.md": {
+      "sha": "0181723079766e6a8b0c44a8859d68450a785cc2",
+      "last_updated": "2026-08-09T09:10:28.580683+00:00"
+    },
+    "user-guide/features/curator.md": {
+      "sha": "853e4205acd28a29da1a4a7f7fe32493ab48e242",
+      "last_updated": "2026-08-09T09:10:28.889501+00:00"
+    },
+    "user-guide/features/delegation.md": {
+      "sha": "2830416a9ab5579d0604be415c725e5577aa637b",
+      "last_updated": "2026-08-09T09:10:29.208309+00:00"
+    },
+    "user-guide/features/deliverable-mode.md": {
+      "sha": "d01847ebb0573d9bd176ac083fc71ff70ba4e727",
+      "last_updated": "2026-08-09T09:10:29.515127+00:00"
+    },
+    "user-guide/features/document-extraction.md": {
+      "sha": "e3872a8e70212c44962cab4c8b8d9d9b87dd0104",
+      "last_updated": "2026-08-09T09:10:29.820956+00:00"
+    },
+    "user-guide/features/extending-the-dashboard.md": {
+      "sha": "50f4958b12bf26d6f2b217570c51517c3314beca",
+      "last_updated": "2026-08-09T09:10:30.129762+00:00"
+    },
+    "user-guide/features/fallback-providers.md": {
+      "sha": "b44b882f59d630e32cac511c9f1944e6fb9bf24f",
+      "last_updated": "2026-08-09T09:10:30.467560+00:00"
+    },
+    "user-guide/features/goals.md": {
+      "sha": "b4a9f315858409f0432eff323fb377fbd8e95d0f",
+      "last_updated": "2026-08-09T09:10:30.960265+00:00"
+    },
+    "user-guide/features/heartbeat.md": {
+      "sha": "69984a3d7fae5eeda2ff647efbb4435cd38bf03b",
+      "last_updated": "2026-08-09T09:10:31.259088+00:00"
+    },
+    "user-guide/features/honcho.md": {
+      "sha": "31d8391383072c9f98161fbbb1b5720b30fbb543",
+      "last_updated": "2026-08-09T09:10:31.744797+00:00"
+    },
+    "user-guide/features/hooks.md": {
+      "sha": "bb543896319ed1835bcc08a470391ef1e6c0f81d",
+      "last_updated": "2026-08-09T09:10:32.067606+00:00"
+    },
+    "user-guide/features/image-generation.md": {
+      "sha": "a4504a94416b1bf4f8b53853ccd284f018d1ec4e",
+      "last_updated": "2026-08-09T09:10:32.422393+00:00"
+    },
+    "user-guide/features/kanban-tutorial.md": {
+      "sha": "8280631cade3815577c0918a67b5f693f0302a48",
+      "last_updated": "2026-08-09T09:10:32.746202+00:00"
+    },
+    "user-guide/features/kanban-worker-lanes.md": {
+      "sha": "69f879c6b113285e3c09536d0a8aeec520ce978d",
+      "last_updated": "2026-08-09T09:10:33.048024+00:00"
+    },
+    "user-guide/features/kanban.md": {
+      "sha": "8e5859a3bed44f2f81d2fcdbe59d39e6149228d8",
+      "last_updated": "2026-08-09T09:10:33.434795+00:00"
+    },
+    "user-guide/features/lsp.md": {
+      "sha": "8f5830f47914631f574953b3072115c3310f569a",
+      "last_updated": "2026-08-09T09:10:33.729614+00:00"
+    },
+    "user-guide/features/mcp.md": {
+      "sha": "66879394b88670389afacd9f82d3cb0912d08f9a",
+      "last_updated": "2026-08-09T09:10:34.036431+00:00"
+    },
+    "user-guide/features/memory-providers.md": {
+      "sha": "099d73b3ebeb0dcd87bd3eda3b0eba95a0d3dff2",
+      "last_updated": "2026-08-09T09:10:34.342257+00:00"
+    },
+    "user-guide/features/memory.md": {
+      "sha": "0e37d1408abec2e2bff02f2f9c781e3d5f9e4eb9",
+      "last_updated": "2026-08-09T09:10:34.657068+00:00"
+    },
+    "user-guide/features/mixture-of-agents.md": {
+      "sha": "55c6d23791f0ff961c2dd5bb56a71d1cd999d01e",
+      "last_updated": "2026-08-09T09:10:34.965880+00:00"
+    },
+    "user-guide/features/overview.md": {
+      "sha": "094b29622604f2c96def3f563525182c67330d1e",
+      "last_updated": "2026-08-09T09:10:35.266698+00:00"
+    },
+    "user-guide/features/personality.md": {
+      "sha": "cfae4abdf92071c29a7df413c1a419508b172190",
+      "last_updated": "2026-08-09T09:10:35.555527+00:00"
+    },
+    "user-guide/features/pets.md": {
+      "sha": "f36f90a471c656cdb4b97c7bc9a5e59c7453e8f7",
+      "last_updated": "2026-08-09T09:10:35.898321+00:00"
+    },
+    "user-guide/features/plugins.md": {
+      "sha": "3896124965cc89faa700a2f7e9464c7b015a9828",
+      "last_updated": "2026-08-09T09:10:36.213134+00:00"
+    },
+    "user-guide/features/provider-routing.md": {
+      "sha": "ff8a9ef56ccc23709cbf4ff900e82560332b350d",
+      "last_updated": "2026-08-09T09:10:36.531946+00:00"
+    },
+    "user-guide/features/skills.md": {
+      "sha": "40bf6d33dcdc0def54d57a20e8b2293832bff705",
+      "last_updated": "2026-08-09T09:10:36.847756+00:00"
+    },
+    "user-guide/features/skins.md": {
+      "sha": "75353479f12cc87c64c473cc33acf5ea4dc1fc89",
+      "last_updated": "2026-08-09T09:10:37.137584+00:00"
+    },
+    "user-guide/features/spotify.md": {
+      "sha": "1a2b628293a424aa20901461b011a4778841c90f",
+      "last_updated": "2026-08-09T09:10:37.454407+00:00"
+    },
+    "user-guide/features/subscription-proxy.md": {
+      "sha": "5e7e852a3cf78e3c1aff0d68607513132fe6c13b",
+      "last_updated": "2026-08-09T09:10:37.754216+00:00"
+    },
+    "user-guide/features/tool-gateway.md": {
+      "sha": "43a6c7dcb880a10c6543e04b80ea3bf3eea2afd0",
+      "last_updated": "2026-08-09T09:10:38.063033+00:00"
+    },
+    "user-guide/features/tool-search.md": {
+      "sha": "468989f787d07ed1effff5957c585f6dbc37d068",
+      "last_updated": "2026-08-09T09:10:38.401831+00:00"
+    },
+    "user-guide/features/tools.md": {
+      "sha": "0283d40ec0b22ba075971039d0ffaa56feeb771f",
+      "last_updated": "2026-08-09T09:10:38.734632+00:00"
+    },
+    "user-guide/features/tts.md": {
+      "sha": "7552cfeb211a9d7a2b6017c2edb245322c43efb4",
+      "last_updated": "2026-08-09T09:10:39.079429+00:00"
+    },
+    "user-guide/features/vision.md": {
+      "sha": "44352af392d9a6851cdecf39d6323876ae90137b",
+      "last_updated": "2026-08-09T09:10:39.382215+00:00"
+    },
+    "user-guide/features/voice-mode.md": {
+      "sha": "5ac1f37b061a2af74700f8e08178a38f2e747f38",
+      "last_updated": "2026-08-09T09:10:39.688063+00:00"
+    },
+    "user-guide/features/wake-word.md": {
+      "sha": "622532cd5f6885a4b0a6b6a548edf01ea92e2ccf",
+      "last_updated": "2026-08-09T09:10:39.986886+00:00"
+    },
+    "user-guide/features/web-dashboard.md": {
+      "sha": "30c55a9ae672bfc3bbc268b708df9393ab5a48ea",
+      "last_updated": "2026-08-09T09:10:40.345672+00:00"
+    },
+    "user-guide/features/web-search.md": {
+      "sha": "ca7f529bbcf0ba03b3657a4a9c1a1d202eea1e7b",
+      "last_updated": "2026-08-09T09:10:40.708456+00:00"
+    },
+    "user-guide/features/x-search.md": {
+      "sha": "7b8271d9ae55d22fcf50fd5c4afb31a921d32c0e",
+      "last_updated": "2026-08-09T09:10:41.042256+00:00"
+    },
+    "user-guide/git-worktrees.md": {
+      "sha": "2d665135a2999dcc10abb48757c6bbf40d93bc27",
+      "last_updated": "2026-08-09T09:10:41.348073+00:00"
+    },
+    "user-guide/import-from-other-agents.md": {
+      "sha": "53f8d7b2304ec583c55a2f514c8b41d68a3677c8",
+      "last_updated": "2026-08-09T09:10:41.830786+00:00"
+    },
+    "user-guide/managed-scope.md": {
+      "sha": "46f9654477fe5efaf25e095b7738f6fa39d49eb4",
+      "last_updated": "2026-08-09T09:10:42.161589+00:00"
+    },
+    "user-guide/messaging/_category_.json": {
+      "sha": "5c8c368cc80370f0128ef01d410610668aec2250",
+      "last_updated": "2026-08-09T09:10:42.461411+00:00"
+    },
+    "user-guide/messaging/a2a.md": {
+      "sha": "71aecfaa0ae3a7053ca6b0842308e338838cb3d5",
+      "last_updated": "2026-08-09T09:10:42.768234+00:00"
+    },
+    "user-guide/messaging/bluebubbles.md": {
+      "sha": "12efd3823bcde90ad642c0deb565d7314d9eb642",
+      "last_updated": "2026-08-09T09:10:43.102029+00:00"
+    },
+    "user-guide/messaging/buzz.md": {
+      "sha": "848e21c0532e61b2b0ae68db25e06b25bbbc8452",
+      "last_updated": "2026-08-09T09:10:43.437830+00:00"
+    },
+    "user-guide/messaging/dingtalk.md": {
+      "sha": "72ec3f2eadc0a5c50b30fce8fc341157cda28df4",
+      "last_updated": "2026-08-09T09:10:43.784624+00:00"
+    },
+    "user-guide/messaging/discord.md": {
+      "sha": "31dd0863af86fd49092fc89b8f856cec0b64c0d3",
+      "last_updated": "2026-08-09T09:10:44.129417+00:00"
+    },
+    "user-guide/messaging/email.md": {
+      "sha": "eabde5da496fcddd2bc9511576ac02fba392a5e5",
+      "last_updated": "2026-08-09T09:10:44.430239+00:00"
+    },
+    "user-guide/messaging/feishu.md": {
+      "sha": "1c5a66543e4318f20cc38e404b3cabf32850520b",
+      "last_updated": "2026-08-09T09:10:44.734061+00:00"
+    },
+    "user-guide/messaging/google_chat.md": {
+      "sha": "e613331a4de8aeb941e9ea0304579ab019232b6a",
+      "last_updated": "2026-08-09T09:10:45.043873+00:00"
+    },
+    "user-guide/messaging/homeassistant.md": {
+      "sha": "2079654305cfa15557c3e5a582fe13ac2fc1b018",
+      "last_updated": "2026-08-09T09:10:45.350689+00:00"
+    },
+    "user-guide/messaging/index.md": {
+      "sha": "61c47d5a421ca87d23c51c3c530fcc029d83328d",
+      "last_updated": "2026-08-09T09:10:45.620530+00:00"
+    },
+    "user-guide/messaging/irc.md": {
+      "sha": "f9fa9d94ceef9cdd502c535bf5185a341ea8ffd3",
+      "last_updated": "2026-08-09T09:10:45.920351+00:00"
+    },
+    "user-guide/messaging/line.md": {
+      "sha": "abed60427b38a534ad68fd9ef269755e02dfba2b",
+      "last_updated": "2026-08-09T09:10:46.222170+00:00"
+    },
+    "user-guide/messaging/matrix.md": {
+      "sha": "c5406c87b05fbc01a8fb3f625762f612afe9bd5a",
+      "last_updated": "2026-08-09T09:10:46.536982+00:00"
+    },
+    "user-guide/messaging/mattermost.md": {
+      "sha": "5d86dc71c49abc3437dab1e8e40067dd306b0000",
+      "last_updated": "2026-08-09T09:10:46.843802+00:00"
+    },
+    "user-guide/messaging/msgraph-webhook.md": {
+      "sha": "eb1cb1dec9bc83166e727c93b3d07cae129dd04d",
+      "last_updated": "2026-08-09T09:10:47.153619+00:00"
+    },
+    "user-guide/messaging/ntfy.md": {
+      "sha": "c7895710fb0926cbe96430ba4344633dd76b1bb7",
+      "last_updated": "2026-08-09T09:10:47.493414+00:00"
+    },
+    "user-guide/messaging/open-webui.md": {
+      "sha": "c3e88e82328e6cfa40826afb3fa855ca25ecdc6b",
+      "last_updated": "2026-08-09T09:10:47.810223+00:00"
+    },
+    "user-guide/messaging/photon.md": {
+      "sha": "ee85f313e14d8532718d9c84411b1b60511234bc",
+      "last_updated": "2026-08-09T09:10:48.115042+00:00"
+    },
+    "user-guide/messaging/qqbot.md": {
+      "sha": "e5050b304fc6d5b20acbf2ab9c793a5eba675cdf",
+      "last_updated": "2026-08-09T09:10:48.418861+00:00"
+    },
+    "user-guide/messaging/raft.md": {
+      "sha": "0e62b1aa749150c29901eff39f7bfe10555fa936",
+      "last_updated": "2026-08-09T09:10:48.721682+00:00"
+    },
+    "user-guide/messaging/relay.md": {
+      "sha": "a84852134b36f088263bafd2d00ddad5b731aea4",
+      "last_updated": "2026-08-09T09:10:49.035495+00:00"
+    },
+    "user-guide/messaging/signal.md": {
+      "sha": "597a7fa30be28962cd909f7deff3b5bf2305393e",
+      "last_updated": "2026-08-09T09:10:49.370294+00:00"
+    },
+    "user-guide/messaging/simplex.md": {
+      "sha": "cffff51fe0ad10a22492cef4288b599f02bd14b5",
+      "last_updated": "2026-08-09T09:10:49.680110+00:00"
+    },
+    "user-guide/messaging/slack.md": {
+      "sha": "683d1a823c7d5e2305e5a9e289b5d3f93ba02378",
+      "last_updated": "2026-08-09T09:10:49.985929+00:00"
+    },
+    "user-guide/messaging/sms.md": {
+      "sha": "8878cc5f0ab5bac6e5741e2954c56248bd08ccc7",
+      "last_updated": "2026-08-09T09:10:50.312736+00:00"
+    },
+    "user-guide/messaging/teams-meetings.md": {
+      "sha": "aca258d37219d4d61683d81e4c3b83be851ff55f",
+      "last_updated": "2026-08-09T09:10:50.606557+00:00"
+    },
+    "user-guide/messaging/teams.md": {
+      "sha": "626958355f772abecd6dc42f9d1ee7af58d87ada",
+      "last_updated": "2026-08-09T09:10:50.924369+00:00"
+    },
+    "user-guide/messaging/telegram.md": {
+      "sha": "35f38e30e8a0e4a17c2d619b0acd44c8d77a31b7",
+      "last_updated": "2026-08-09T09:10:51.297148+00:00"
+    },
+    "user-guide/messaging/webhooks.md": {
+      "sha": "71262d35291dccbd3acbf3a155998797b974c628",
+      "last_updated": "2026-08-09T09:10:51.645940+00:00"
+    },
+    "user-guide/messaging/wecom-callback.md": {
+      "sha": "f6cf5ed4a473f9555e0b40169fcc5bd57e33ab09",
+      "last_updated": "2026-08-09T09:10:52.007725+00:00"
+    },
+    "user-guide/messaging/wecom.md": {
+      "sha": "2ac5bddb143568a30ca726a9a5574ca58831f8ff",
+      "last_updated": "2026-08-09T09:10:52.314541+00:00"
+    },
+    "user-guide/messaging/weixin.md": {
+      "sha": "b38ee4a472da9e589ea45e357917dd1b8d093c37",
+      "last_updated": "2026-08-09T09:10:52.810216+00:00"
+    },
+    "user-guide/messaging/whatsapp-cloud.md": {
+      "sha": "1bf7e68edaee472185a34b0a1cd3e895cbb74e00",
+      "last_updated": "2026-08-09T09:10:53.125049+00:00"
+    },
+    "user-guide/messaging/whatsapp.md": {
+      "sha": "17d89e968d41eadc0761c967d5613821c3fa56ca",
+      "last_updated": "2026-08-09T09:10:53.625728+00:00"
+    },
+    "user-guide/messaging/yuanbao.md": {
+      "sha": "a7414f8852f46fec632871e31a2f4038df223747",
+      "last_updated": "2026-08-09T09:10:53.981547+00:00"
+    },
+    "user-guide/multi-profile-gateways.md": {
+      "sha": "515856e969658cef5c8f63530f5e0b648bf1b188",
+      "last_updated": "2026-08-09T09:10:54.327340+00:00"
+    },
+    "user-guide/profile-distributions.md": {
+      "sha": "5a9da248505355abcf4ac4565078a8c648c020e8",
+      "last_updated": "2026-08-09T09:10:54.637156+00:00"
+    },
+    "user-guide/profiles.md": {
+      "sha": "9603f956749d0da8ec9c207350db1485fe644ce1",
+      "last_updated": "2026-08-09T09:10:54.926987+00:00"
+    },
+    "user-guide/secrets/bitwarden.md": {
+      "sha": "671fb640fef781aacf418770bc94370bccd1c4b4",
+      "last_updated": "2026-08-09T09:10:55.256787+00:00"
+    },
+    "user-guide/secrets/command.md": {
+      "sha": "04184eb95de5c9bc52cc09ca8a5faccec90f7799",
+      "last_updated": "2026-08-09T09:10:55.556608+00:00"
+    },
+    "user-guide/secrets/index.md": {
+      "sha": "29c7df9e94e49874c284abb26c10140359f501bd",
+      "last_updated": "2026-08-09T09:10:55.911398+00:00"
+    },
+    "user-guide/secrets/onepassword.md": {
+      "sha": "787d996cb67b0ae232ddb64475cd5f6ed588cb84",
+      "last_updated": "2026-08-09T09:10:56.224210+00:00"
+    },
+    "user-guide/security.md": {
+      "sha": "59fde9033a35f6ceca4ca4f36da10530c3ebe68a",
+      "last_updated": "2026-08-09T09:10:56.541022+00:00"
+    },
+    "user-guide/sessions.md": {
+      "sha": "20d4ed49519400b6b1da112a6e397ae7a0dccb3d",
+      "last_updated": "2026-08-09T09:10:56.874825+00:00"
+    },
+    "user-guide/skills/bundled/apple/apple-apple-notes.md": {
+      "sha": "ac3ecdfff6a1d58df78ef3c4a71b804bf2053f68",
+      "last_updated": "2026-08-09T09:10:57.191638+00:00"
+    },
+    "user-guide/skills/bundled/apple/apple-apple-reminders.md": {
+      "sha": "9ab15d6b54785575a74314c816d585475cae2a3f",
+      "last_updated": "2026-08-09T09:10:57.496453+00:00"
+    },
+    "user-guide/skills/bundled/apple/apple-findmy.md": {
+      "sha": "0d4647e4474214bd6eb1fc257eb81fb0a2def715",
+      "last_updated": "2026-08-09T09:10:57.802270+00:00"
+    },
+    "user-guide/skills/bundled/apple/apple-imessage.md": {
+      "sha": "d29fab6ebc73a3802a0c68a41845699e1c024af3",
+      "last_updated": "2026-08-09T09:10:58.155062+00:00"
+    },
+    "user-guide/skills/bundled/autonomous-ai-agents/autonomous-ai-agents-claude-code.md": {
+      "sha": "4310d1b074cffee28e43e04e77d86c8199acb543",
+      "last_updated": "2026-08-09T09:10:58.463878+00:00"
+    },
+    "user-guide/skills/bundled/autonomous-ai-agents/autonomous-ai-agents-codex.md": {
+      "sha": "503774e55387d4d0db02749dc118426e1b39fcfb",
+      "last_updated": "2026-08-09T09:10:58.767697+00:00"
+    },
+    "user-guide/skills/bundled/autonomous-ai-agents/autonomous-ai-agents-computer-use.md": {
+      "sha": "5996c313d1fe8ad4301aee56883668028398f0fe",
+      "last_updated": "2026-08-09T09:10:59.101497+00:00"
+    },
+    "user-guide/skills/bundled/autonomous-ai-agents/autonomous-ai-agents-hermes-agent.md": {
+      "sha": "ed894fba0bf5a913729381c4e7080eec1424f1f8",
+      "last_updated": "2026-08-09T09:10:59.412279+00:00"
+    },
+    "user-guide/skills/bundled/autonomous-ai-agents/autonomous-ai-agents-opencode.md": {
+      "sha": "37c6c1d15dcb04ac2d995121eadec778ff6d7093",
+      "last_updated": "2026-08-09T09:10:59.737119+00:00"
+    },
+    "user-guide/skills/bundled/creative/creative-architecture-diagram.md": {
+      "sha": "ad816a370ad640226a08ac722b59c927fb2b669b",
+      "last_updated": "2026-08-09T09:11:00.079923+00:00"
+    },
+    "user-guide/skills/bundled/creative/creative-ascii-art.md": {
+      "sha": "ba08d77c05947be5790b8b7e46fc776d6950a6c6",
+      "last_updated": "2026-08-09T09:11:00.436701+00:00"
+    },
+    "user-guide/skills/bundled/creative/creative-ascii-video.md": {
+      "sha": "73eb134110af274c92f1c86bea7c6e012a0c4dcd",
+      "last_updated": "2026-08-09T09:11:00.741523+00:00"
+    },
+    "user-guide/skills/bundled/creative/creative-baoyu-infographic.md": {
+      "sha": "e915f2ce63bd8ebd31e6bddd525a9fae8761ae0b",
+      "last_updated": "2026-08-09T09:11:01.065330+00:00"
+    },
+    "user-guide/skills/bundled/creative/creative-claude-design.md": {
+      "sha": "c20dd7dceb7c13ac5922b358040c6903bd22bb0e",
+      "last_updated": "2026-08-09T09:11:01.393134+00:00"
+    },
+    "user-guide/skills/bundled/creative/creative-comfyui.md": {
+      "sha": "5276ffaa0d03566e4b9bf8d30d158f6ecfc6bf40",
+      "last_updated": "2026-08-09T09:11:01.708945+00:00"
+    },
+    "user-guide/skills/bundled/creative/creative-design-md.md": {
+      "sha": "2e83398a2c311e8f2cb639f0c7596c05f48dfb3e",
+      "last_updated": "2026-08-09T09:11:02.018760+00:00"
+    },
+    "user-guide/skills/bundled/creative/creative-excalidraw.md": {
+      "sha": "682c75d2cf186e48c2907e11a96a3341bbbdc1ed",
+      "last_updated": "2026-08-09T09:11:02.328576+00:00"
+    },
+    "user-guide/skills/bundled/creative/creative-humanizer.md": {
+      "sha": "4474c11114ebabfdda63138555c625f83c4e8990",
+      "last_updated": "2026-08-09T09:11:02.642389+00:00"
+    },
+    "user-guide/skills/bundled/creative/creative-manim-video.md": {
+      "sha": "f22a7005d822b5d3be22fa74a882fbce5073e364",
+      "last_updated": "2026-08-09T09:11:02.996148+00:00"
+    },
+    "user-guide/skills/bundled/creative/creative-p5js.md": {
+      "sha": "46ecfa9299f33589725a8bd1b6e33529ec705cc4",
+      "last_updated": "2026-08-09T09:11:03.308991+00:00"
+    },
+    "user-guide/skills/bundled/creative/creative-popular-web-designs.md": {
+      "sha": "5352e475029381e10a0c0768f5ff294994b37304",
+      "last_updated": "2026-08-09T09:11:03.613809+00:00"
+    },
+    "user-guide/skills/bundled/creative/creative-pretext.md": {
+      "sha": "59cdfc8773469c36dfde187bc5ba9c82ee14958c",
+      "last_updated": "2026-08-09T09:11:03.916630+00:00"
+    },
+    "user-guide/skills/bundled/creative/creative-sketch.md": {
+      "sha": "b4f54f54170bafda83578d0367abe7452b3fe1af",
+      "last_updated": "2026-08-09T09:11:04.231441+00:00"
+    },
+    "user-guide/skills/bundled/creative/creative-songwriting-and-ai-music.md": {
+      "sha": "db3781f7e6fe8231a7ec40e07600d67cc524482e",
+      "last_updated": "2026-08-09T09:11:04.538259+00:00"
+    },
+    "user-guide/skills/bundled/creative/creative-touchdesigner-mcp.md": {
+      "sha": "8fff080b38368a8dfc7835ad3aba1cbe53899a9f",
+      "last_updated": "2026-08-09T09:11:04.854072+00:00"
+    },
+    "user-guide/skills/bundled/email/email-email-inbox-triage.md": {
+      "sha": "a19dfed71f7712bbd097b48b70ea464535c0749a",
+      "last_updated": "2026-08-09T09:11:05.166885+00:00"
+    },
+    "user-guide/skills/bundled/email/email-himalaya.md": {
+      "sha": "38768284682fc3f05188508ca21d6ca610091e37",
+      "last_updated": "2026-08-09T09:11:05.472702+00:00"
+    },
+    "user-guide/skills/bundled/github/github-codebase-inspection.md": {
+      "sha": "f727c1cd311dc597047d9365924821fecd214684",
+      "last_updated": "2026-08-09T09:11:05.764529+00:00"
+    },
+    "user-guide/skills/bundled/github/github-github-auth.md": {
+      "sha": "ba58277c4e96419f0f634c4ddbce1115d96ac853",
+      "last_updated": "2026-08-09T09:11:06.072352+00:00"
+    },
+    "user-guide/skills/bundled/github/github-github-code-review.md": {
+      "sha": "50418869999859c2ca3cddea37e3003dd0ba3274",
+      "last_updated": "2026-08-09T09:11:06.398154+00:00"
+    },
+    "user-guide/skills/bundled/github/github-github-issue-to-pr.md": {
+      "sha": "3d821e45b198222c106767118c32245c1d8bde7d",
+      "last_updated": "2026-08-09T09:11:06.712967+00:00"
+    },
+    "user-guide/skills/bundled/github/github-github-issues.md": {
+      "sha": "e25ceb4cb24e57cd90192588559c276674781b19",
+      "last_updated": "2026-08-09T09:11:07.021780+00:00"
+    },
+    "user-guide/skills/bundled/github/github-github-pr-workflow.md": {
+      "sha": "0536a0dd6a57cf0a35f4b3e4f85169908c0fa2fc",
+      "last_updated": "2026-08-09T09:11:07.329598+00:00"
+    },
+    "user-guide/skills/bundled/github/github-github-repo-management.md": {
+      "sha": "f540d02eb264a9981b10697d311fa0fcb453e119",
+      "last_updated": "2026-08-09T09:11:07.643411+00:00"
+    },
+    "user-guide/skills/bundled/media/media-gif-search.md": {
+      "sha": "31d0e03eb88298fe59401d3959079befc56b75e0",
+      "last_updated": "2026-08-09T09:11:07.965218+00:00"
+    },
+    "user-guide/skills/bundled/media/media-songsee.md": {
+      "sha": "dd1e1d3d5eec34513c887adcc96e3cd123ea57ed",
+      "last_updated": "2026-08-09T09:11:08.263010+00:00"
+    },
+    "user-guide/skills/bundled/media/media-youtube-content.md": {
+      "sha": "47cc4acc46baa131c5ce1b181fcacf6151aa67b5",
+      "last_updated": "2026-08-09T09:11:08.565863+00:00"
+    },
+    "user-guide/skills/bundled/mlops/mlops-evaluation-evaluating-llms-harness.md": {
+      "sha": "96a5423450e279ea34c9a31dc277e349fff5d930",
+      "last_updated": "2026-08-09T09:11:08.887670+00:00"
+    },
+    "user-guide/skills/bundled/mlops/mlops-evaluation-weights-and-biases.md": {
+      "sha": "c99938e6db182517613102167cc066fe45b20239",
+      "last_updated": "2026-08-09T09:11:09.204482+00:00"
+    },
+    "user-guide/skills/bundled/mlops/mlops-huggingface-hub.md": {
+      "sha": "6e8f804079b072ee616e3ed6c405cd0f7d4b7edf",
+      "last_updated": "2026-08-09T09:11:09.518292+00:00"
+    },
+    "user-guide/skills/bundled/mlops/mlops-inference-llama-cpp.md": {
+      "sha": "95997729c5779a8d19e1b5542eaafe9563c85d93",
+      "last_updated": "2026-08-09T09:11:09.838104+00:00"
+    },
+    "user-guide/skills/bundled/mlops/mlops-inference-serving-llms-vllm.md": {
+      "sha": "7aaca4c2bdb302e0be3b9508c44bceb7f4ec02a3",
+      "last_updated": "2026-08-09T09:11:10.161909+00:00"
+    },
+    "user-guide/skills/bundled/note-taking/note-taking-obsidian.md": {
+      "sha": "22e5178a68abd4800d103c7efd0d62a385d32cbb",
+      "last_updated": "2026-08-09T09:11:10.473725+00:00"
+    },
+    "user-guide/skills/bundled/productivity/productivity-airtable.md": {
+      "sha": "05a3e13fba069c1e9bf3b78086031bee876db0ed",
+      "last_updated": "2026-08-09T09:11:10.774545+00:00"
+    },
+    "user-guide/skills/bundled/productivity/productivity-document-to-action-items.md": {
+      "sha": "5ba166e1d78df4f2c028a7f538e579e109011489",
+      "last_updated": "2026-08-09T09:11:11.083363+00:00"
+    },
+    "user-guide/skills/bundled/productivity/productivity-docx.md": {
+      "sha": "c00e2fc02329eb49ccbf02a17725bfc8b45a6e6e",
+      "last_updated": "2026-08-09T09:11:11.442147+00:00"
+    },
+    "user-guide/skills/bundled/productivity/productivity-google-workspace.md": {
+      "sha": "23c1245764e998de2b19ed554e4cc38abb3a3e23",
+      "last_updated": "2026-08-09T09:11:11.751964+00:00"
+    },
+    "user-guide/skills/bundled/productivity/productivity-maps.md": {
+      "sha": "7fdc002cc3001324b3570338eaa13ecb37ec2e70",
+      "last_updated": "2026-08-09T09:11:12.057750+00:00"
+    },
+    "user-guide/skills/bundled/productivity/productivity-meeting-action-items.md": {
+      "sha": "ce07cee2bc516970096920166e39822a7362d024",
+      "last_updated": "2026-08-09T09:11:12.360604+00:00"
+    },
+    "user-guide/skills/bundled/productivity/productivity-nano-pdf.md": {
+      "sha": "acd3b12ba9de7316755356ae245352fbc3088b3c",
+      "last_updated": "2026-08-09T09:11:12.673416+00:00"
+    },
+    "user-guide/skills/bundled/productivity/productivity-notion.md": {
+      "sha": "985240ca41f5e2f30327d491f791f4b8116910e0",
+      "last_updated": "2026-08-09T09:11:12.989226+00:00"
+    },
+    "user-guide/skills/bundled/productivity/productivity-ocr-and-documents.md": {
+      "sha": "9aed152a6f504bbe8e74e1aa3dc97e7f71d67413",
+      "last_updated": "2026-08-09T09:11:13.296044+00:00"
+    },
+    "user-guide/skills/bundled/productivity/productivity-pdf.md": {
+      "sha": "20950d56e418afa716df8d3ece17eeb59b9bf2fb",
+      "last_updated": "2026-08-09T09:11:13.629844+00:00"
+    },
+    "user-guide/skills/bundled/productivity/productivity-powerpoint.md": {
+      "sha": "fad7d26eaf086240ae1b1fd05b5f818c4acb8d1f",
+      "last_updated": "2026-08-09T09:11:13.928666+00:00"
+    },
+    "user-guide/skills/bundled/productivity/productivity-product-price-monitor.md": {
+      "sha": "f0349effb980abe2321989dafd054cc298f092b8",
+      "last_updated": "2026-08-09T09:11:14.241481+00:00"
+    },
+    "user-guide/skills/bundled/productivity/productivity-teams-meeting-pipeline.md": {
+      "sha": "adac36e9c2493b5140b8806840456c9c4bed4900",
+      "last_updated": "2026-08-09T09:11:14.543301+00:00"
+    },
+    "user-guide/skills/bundled/productivity/productivity-weekly-review-planning.md": {
+      "sha": "1d932c05e2a5a0a20f3b8958994ddbb012be1213",
+      "last_updated": "2026-08-09T09:11:14.849120+00:00"
+    },
+    "user-guide/skills/bundled/productivity/productivity-xlsx.md": {
+      "sha": "7315c346ec252b23a5fe3428407d0b9cfbbc31a3",
+      "last_updated": "2026-08-09T09:11:15.159934+00:00"
+    },
+    "user-guide/skills/bundled/research/research-arxiv.md": {
+      "sha": "4425858d7472f473e8f76ce322becb077684247b",
+      "last_updated": "2026-08-09T09:11:15.471748+00:00"
+    },
+    "user-guide/skills/bundled/research/research-blogwatcher.md": {
+      "sha": "f0fcad76f76447b3235e898b780c81ce9e27247e",
+      "last_updated": "2026-08-09T09:11:15.776570+00:00"
+    },
+    "user-guide/skills/bundled/research/research-competitor-news-monitor.md": {
+      "sha": "bc31b958ed9389bd763c4ec7d41e733f8a2cebb3",
+      "last_updated": "2026-08-09T09:11:16.125361+00:00"
+    },
+    "user-guide/skills/bundled/research/research-grounded-citations.md": {
+      "sha": "487e06a6b6c61410a7e4cd106c412c802a99be66",
+      "last_updated": "2026-08-09T09:11:16.492142+00:00"
+    },
+    "user-guide/skills/bundled/research/research-llm-wiki.md": {
+      "sha": "566c7378b9e859ff1767e73511041c86737bb7f8",
+      "last_updated": "2026-08-09T09:11:16.800959+00:00"
+    },
+    "user-guide/skills/bundled/research/research-research-paper-writing.md": {
+      "sha": "d7677cac8e7a23ceec4b53a5b002ddfb73b437fb",
+      "last_updated": "2026-08-09T09:11:17.134758+00:00"
+    },
+    "user-guide/skills/bundled/smart-home/smart-home-openhue.md": {
+      "sha": "3255b428e14af1574df85ac498772d7535b41f69",
+      "last_updated": "2026-08-09T09:11:17.441577+00:00"
+    },
+    "user-guide/skills/bundled/social-media/social-media-xurl.md": {
+      "sha": "c88091157f48c3238374db6d1fefaa047c66d783",
+      "last_updated": "2026-08-09T09:11:17.749359+00:00"
+    },
+    "user-guide/skills/bundled/software-development/software-development-dogfood.md": {
+      "sha": "953add5b009d89dd030d8db8d9f22a265f52e6e0",
+      "last_updated": "2026-08-09T09:11:18.089157+00:00"
+    },
+    "user-guide/skills/bundled/software-development/software-development-hermes-agent-skill-authoring.md": {
+      "sha": "8953ec3d863442de809b29a4652dd90f8dba1d28",
+      "last_updated": "2026-08-09T09:11:18.387007+00:00"
+    },
+    "user-guide/skills/bundled/software-development/software-development-inspecting-hermes-desktop-dom.md": {
+      "sha": "7779328dbe1504e216024ec8f9ab5459da31df0a",
+      "last_updated": "2026-08-09T09:11:18.694796+00:00"
+    },
+    "user-guide/skills/bundled/software-development/software-development-node-inspect-debugger.md": {
+      "sha": "57f26162d806dcfc8bdf6f277ed16c57e072921d",
+      "last_updated": "2026-08-09T09:11:19.002639+00:00"
+    },
+    "user-guide/skills/bundled/software-development/software-development-plan.md": {
+      "sha": "2368cfc6d25940fafc8bae39adab7c42849def6e",
+      "last_updated": "2026-08-09T09:11:19.320463+00:00"
+    },
+    "user-guide/skills/bundled/software-development/software-development-python-debugpy.md": {
+      "sha": "4f7c4c37e3d83dd0e181b88fccfd6725c596ccaf",
+      "last_updated": "2026-08-09T09:11:19.656258+00:00"
+    },
+    "user-guide/skills/bundled/software-development/software-development-requesting-code-review.md": {
+      "sha": "66100e83fd0223c3a312cd3480f3ec980906ec85",
+      "last_updated": "2026-08-09T09:11:19.967041+00:00"
+    },
+    "user-guide/skills/bundled/software-development/software-development-simplify-code.md": {
+      "sha": "49e3d0143d2d6ddd36aa71de84451cb70643015c",
+      "last_updated": "2026-08-09T09:11:20.276888+00:00"
+    },
+    "user-guide/skills/bundled/software-development/software-development-spike.md": {
+      "sha": "56c0954b6980d2aa228e81335fe4f9409d23916e",
+      "last_updated": "2026-08-09T09:11:20.603694+00:00"
+    },
+    "user-guide/skills/bundled/software-development/software-development-systematic-debugging.md": {
+      "sha": "09c9e3c2680db08f11e052cfe148f17147a6184f",
+      "last_updated": "2026-08-09T09:11:20.906515+00:00"
+    },
+    "user-guide/skills/bundled/software-development/software-development-test-driven-development.md": {
+      "sha": "bdf88a6620a1e2266c63c5a1bf5132ebe8d1462b",
+      "last_updated": "2026-08-09T09:11:21.272265+00:00"
+    },
+    "user-guide/skills/google-workspace.md": {
+      "sha": "7248612c6bf3d6fa403b4302fba2b4ef66341b93",
+      "last_updated": "2026-08-09T09:11:21.650069+00:00"
+    },
+    "user-guide/skills/optional/autonomous-ai-agents/autonomous-ai-agents-antigravity-cli.md": {
+      "sha": "bb6e19904fde4a50b0fd0825a1083aa144d66138",
+      "last_updated": "2026-08-09T09:11:21.959886+00:00"
+    },
+    "user-guide/skills/optional/autonomous-ai-agents/autonomous-ai-agents-blackbox.md": {
+      "sha": "822bb73de67848c602bf7c36f1e433eeacbb4f2a",
+      "last_updated": "2026-08-09T09:11:22.291688+00:00"
+    },
+    "user-guide/skills/optional/autonomous-ai-agents/autonomous-ai-agents-grok.md": {
+      "sha": "a51590f761ad635dcf30cfd0ee1cb2d1be19e023",
+      "last_updated": "2026-08-09T09:11:22.603504+00:00"
+    },
+    "user-guide/skills/optional/autonomous-ai-agents/autonomous-ai-agents-honcho.md": {
+      "sha": "4d3c1c1a452757767f84e290df9c2d09589bf833",
+      "last_updated": "2026-08-09T09:11:22.918315+00:00"
+    },
+    "user-guide/skills/optional/autonomous-ai-agents/autonomous-ai-agents-openhands.md": {
+      "sha": "9774fe25b0279e1ddda5b76dc87689310ad49d90",
+      "last_updated": "2026-08-09T09:11:23.236127+00:00"
+    },
+    "user-guide/skills/optional/blockchain/blockchain-evm.md": {
+      "sha": "01006870ee420b2496269d1c330f0b62be9fc054",
+      "last_updated": "2026-08-09T09:11:23.547908+00:00"
+    },
+    "user-guide/skills/optional/blockchain/blockchain-hyperliquid.md": {
+      "sha": "177dfe36a10bf8bfe5b7b71517662dd22550fe09",
+      "last_updated": "2026-08-09T09:11:23.860756+00:00"
+    },
+    "user-guide/skills/optional/blockchain/blockchain-solana.md": {
+      "sha": "f2c293ef7c32294bbd7dd66dde38f407eaa0815c",
+      "last_updated": "2026-08-09T09:11:24.205548+00:00"
+    },
+    "user-guide/skills/optional/communication/communication-one-three-one-rule.md": {
+      "sha": "c0471b16ee73a4056d98f7b8d1935368e1f7338f",
+      "last_updated": "2026-08-09T09:11:24.528331+00:00"
+    },
+    "user-guide/skills/optional/creative/creative-audiocraft-audio-generation.md": {
+      "sha": "418ab5e652cff8083640007f9030515439d3bb7c",
+      "last_updated": "2026-08-09T09:11:24.842173+00:00"
+    },
+    "user-guide/skills/optional/creative/creative-baoyu-article-illustrator.md": {
+      "sha": "2fbe498b784c20e8cd678742051d6fa730d83b21",
+      "last_updated": "2026-08-09T09:11:25.202955+00:00"
+    },
+    "user-guide/skills/optional/creative/creative-baoyu-comic.md": {
+      "sha": "88fdc93af6a3f9927cd5139319d1c79a0c24a9e8",
+      "last_updated": "2026-08-09T09:11:25.551748+00:00"
+    },
+    "user-guide/skills/optional/creative/creative-blender-mcp.md": {
+      "sha": "d6206c2f649a14238a9fbd4c45410385f76c2a4b",
+      "last_updated": "2026-08-09T09:11:25.900509+00:00"
+    },
+    "user-guide/skills/optional/creative/creative-concept-diagrams.md": {
+      "sha": "09ac135f4ae369651cbf3d2eedcf223e215ba629",
+      "last_updated": "2026-08-09T09:11:26.218350+00:00"
+    },
+    "user-guide/skills/optional/creative/creative-creative-ideation.md": {
+      "sha": "698b105eaab0e39278d04b33ff3d18d53f73646d",
+      "last_updated": "2026-08-09T09:11:26.523177+00:00"
+    },
+    "user-guide/skills/optional/creative/creative-heartmula.md": {
+      "sha": "052970f3bb63ed25218d550d4644c44ee2cd90db",
+      "last_updated": "2026-08-09T09:11:26.843979+00:00"
+    },
+    "user-guide/skills/optional/creative/creative-hyperframes.md": {
+      "sha": "3f453acd8db8989ff97889785e40d00f670b6098",
+      "last_updated": "2026-08-09T09:11:27.158792+00:00"
+    },
+    "user-guide/skills/optional/creative/creative-kanban-video-orchestrator.md": {
+      "sha": "2b556066353b9a1c9f7fad3e8b93eb6bb81c38b8",
+      "last_updated": "2026-08-09T09:11:27.468614+00:00"
+    },
+    "user-guide/skills/optional/creative/creative-meme-generation.md": {
+      "sha": "605fe7ddc0b5abe672a244854ec1c972c0a4b04c",
+      "last_updated": "2026-08-09T09:11:27.775424+00:00"
+    },
+    "user-guide/skills/optional/creative/creative-pixel-art.md": {
+      "sha": "c2f3d20b24e9eff466b3691d981b9a38fed2f439",
+      "last_updated": "2026-08-09T09:11:28.096203+00:00"
+    },
+    "user-guide/skills/optional/creative/creative-social-media-content-calendar.md": {
+      "sha": "fd57bca15047167f15966c0a64d5ac25cf898e60",
+      "last_updated": "2026-08-09T09:11:28.479007+00:00"
+    },
+    "user-guide/skills/optional/creative/creative-tldraw-offline.md": {
+      "sha": "59cc602b93e685e32658790a1ff5d9a3c0b8e8cd",
+      "last_updated": "2026-08-09T09:11:28.798818+00:00"
+    },
+    "user-guide/skills/optional/creative/creative-unreal-mcp.md": {
+      "sha": "7ffd9b9408a38255bf33a51e02710edc5d6b8119",
+      "last_updated": "2026-08-09T09:11:29.139613+00:00"
+    },
+    "user-guide/skills/optional/data-science/data-science-jupyter-notebook.md": {
+      "sha": "a869a968d218f28b9f31dcb8768cdd78cf949863",
+      "last_updated": "2026-08-09T09:11:29.463419+00:00"
+    },
+    "user-guide/skills/optional/devops/devops-actual-setup.md": {
+      "sha": "d7fa4bd756a3b7ce300029dfeb3856b04ea84535",
+      "last_updated": "2026-08-09T09:11:29.794222+00:00"
+    },
+    "user-guide/skills/optional/devops/devops-docker-management.md": {
+      "sha": "bc9c60c9c698b68aa592ac92b163eabf65d5eac1",
+      "last_updated": "2026-08-09T09:11:30.110034+00:00"
+    },
+    "user-guide/skills/optional/devops/devops-hermes-s6-container-supervision.md": {
+      "sha": "6bcadfa0acb9365f594b7913b308fc9e9b5d6b70",
+      "last_updated": "2026-08-09T09:11:30.463823+00:00"
+    },
+    "user-guide/skills/optional/devops/devops-inference-sh-cli.md": {
+      "sha": "0fe5f1dfa702c8bae9347f5f21582c5a840946a5",
+      "last_updated": "2026-08-09T09:11:30.771642+00:00"
+    },
+    "user-guide/skills/optional/devops/devops-pinggy-tunnel.md": {
+      "sha": "ff7ec24d22917f3d5951c95784b9c87feb852711",
+      "last_updated": "2026-08-09T09:11:31.089450+00:00"
+    },
+    "user-guide/skills/optional/devops/devops-watchers.md": {
+      "sha": "9d2fc7f7523baaad78fc64fd2c957fe43ce194db",
+      "last_updated": "2026-08-09T09:11:31.438245+00:00"
+    },
+    "user-guide/skills/optional/dogfood/dogfood-adversarial-ux-test.md": {
+      "sha": "2a552a58464e36992789e533873aacc1574cbe5b",
+      "last_updated": "2026-08-09T09:11:31.766048+00:00"
+    },
+    "user-guide/skills/optional/email/email-agentmail.md": {
+      "sha": "e134da466747063894ce017e2c7c7e2fd7308cb6",
+      "last_updated": "2026-08-09T09:11:32.120838+00:00"
+    },
+    "user-guide/skills/optional/finance/finance-3-statement-model.md": {
+      "sha": "d945e58e49a3a7b289f6ad5a0430b470184d38ee",
+      "last_updated": "2026-08-09T09:11:32.480623+00:00"
+    },
+    "user-guide/skills/optional/finance/finance-comps-analysis.md": {
+      "sha": "192f0f98e5e3e56c37041a209a247a1e5a7c6cec",
+      "last_updated": "2026-08-09T09:11:32.808434+00:00"
+    },
+    "user-guide/skills/optional/finance/finance-dcf-model.md": {
+      "sha": "34a847d2db7da9773657f194b08bd54de9ecd090",
+      "last_updated": "2026-08-09T09:11:33.149227+00:00"
+    },
+    "user-guide/skills/optional/finance/finance-excel-author.md": {
+      "sha": "732080ee06dd39cb5216279acfef204cda6b7ab5",
+      "last_updated": "2026-08-09T09:11:33.463038+00:00"
+    },
+    "user-guide/skills/optional/finance/finance-lbo-model.md": {
+      "sha": "052cf588096d904e839d550e1fdbab678e218d4c",
+      "last_updated": "2026-08-09T09:11:33.833817+00:00"
+    },
+    "user-guide/skills/optional/finance/finance-merger-model.md": {
+      "sha": "c7876caac8449ad51a1f9b3c14347bf37cefa890",
+      "last_updated": "2026-08-09T09:11:34.168620+00:00"
+    },
+    "user-guide/skills/optional/finance/finance-polymarket.md": {
+      "sha": "78f370685af25cb7a83c5a0ee5612e5a3db003ee",
+      "last_updated": "2026-08-09T09:11:34.510384+00:00"
+    },
+    "user-guide/skills/optional/finance/finance-pptx-author.md": {
+      "sha": "ae7d711c39674b95de4ed2300102c0f0d966f1a4",
+      "last_updated": "2026-08-09T09:11:34.813236+00:00"
+    },
+    "user-guide/skills/optional/finance/finance-stocks.md": {
+      "sha": "7c43dea3065e2de4a97a8af42b6cb9c27892fbcf",
+      "last_updated": "2026-08-09T09:11:35.132048+00:00"
+    },
+    "user-guide/skills/optional/gaming/gaming-minecraft-modpack-server.md": {
+      "sha": "4b8f0ec356c9f1fcb9fb26d9ca52f40ff9703df9",
+      "last_updated": "2026-08-09T09:11:35.466857+00:00"
+    },
+    "user-guide/skills/optional/gaming/gaming-pokemon-player.md": {
+      "sha": "3a98d97a751da22200b75499416753a3e505d587",
+      "last_updated": "2026-08-09T09:11:35.790654+00:00"
+    },
+    "user-guide/skills/optional/health/health-fitness-nutrition.md": {
+      "sha": "feb2a450498fb15a0d6f7cf61cc2aa37dcd457b8",
+      "last_updated": "2026-08-09T09:11:36.098439+00:00"
+    },
+    "user-guide/skills/optional/health/health-neuroskill-bci.md": {
+      "sha": "d011ca445536944c2b69bcb7ef0fa1b28b43ca97",
+      "last_updated": "2026-08-09T09:11:36.409285+00:00"
+    },
+    "user-guide/skills/optional/mcp/mcp-fastmcp.md": {
+      "sha": "8012434d42d1316285fa2786a132232f9182097c",
+      "last_updated": "2026-08-09T09:11:36.728097+00:00"
+    },
+    "user-guide/skills/optional/mcp/mcp-mcp-oauth-remote-gateway.md": {
+      "sha": "935382b96fc70858a3e54ac203efc4dfee307950",
+      "last_updated": "2026-08-09T09:11:37.048905+00:00"
+    },
+    "user-guide/skills/optional/mcp/mcp-mcporter.md": {
+      "sha": "0bc09c9a4f1dd96fde4821c24c1a9df153a05226",
+      "last_updated": "2026-08-09T09:11:37.364716+00:00"
+    },
+    "user-guide/skills/optional/migration/migration-openclaw-migration.md": {
+      "sha": "f2e9fba4e7c640bfde428b6cfcc8fc4cddfb3312",
+      "last_updated": "2026-08-09T09:11:37.673533+00:00"
+    },
+    "user-guide/skills/optional/mlops/mlops-accelerate.md": {
+      "sha": "ef74ff473a946d106cdb74242c666e2e36cfac0c",
+      "last_updated": "2026-08-09T09:11:37.981350+00:00"
+    },
+    "user-guide/skills/optional/mlops/mlops-chroma.md": {
+      "sha": "1dafc4cc54bcb635f8ed5757b0b031b649a26e01",
+      "last_updated": "2026-08-09T09:11:38.309147+00:00"
+    },
+    "user-guide/skills/optional/mlops/mlops-clip.md": {
+      "sha": "e9266e443b29d3f229ce6d1fa26bac387efa465e",
+      "last_updated": "2026-08-09T09:11:38.633931+00:00"
+    },
+    "user-guide/skills/optional/mlops/mlops-faiss.md": {
+      "sha": "e83bc5a59be3fbee511f771d7b657232b0ae024c",
+      "last_updated": "2026-08-09T09:11:38.933783+00:00"
+    },
+    "user-guide/skills/optional/mlops/mlops-flash-attention.md": {
+      "sha": "5269e41af2c77ea3b81bb417250638f01fc6b30e",
+      "last_updated": "2026-08-09T09:11:39.242601+00:00"
+    },
+    "user-guide/skills/optional/mlops/mlops-guidance.md": {
+      "sha": "d8f7de7512a1f21224c9067aed93f14d32bd62f9",
+      "last_updated": "2026-08-09T09:11:39.556379+00:00"
+    },
+    "user-guide/skills/optional/mlops/mlops-huggingface-tokenizers.md": {
+      "sha": "723cf707a7f70671d76eb38c5fcc8314366560c0",
+      "last_updated": "2026-08-09T09:11:39.867237+00:00"
+    },
+    "user-guide/skills/optional/mlops/mlops-inference-outlines.md": {
+      "sha": "6e247586b9e242ef3d39826401fc99cc3d81bf46",
+      "last_updated": "2026-08-09T09:11:40.186007+00:00"
+    },
+    "user-guide/skills/optional/mlops/mlops-instructor.md": {
+      "sha": "323b03847d9124ef34ba84d23654738cb3cea38b",
+      "last_updated": "2026-08-09T09:11:40.498912+00:00"
+    },
+    "user-guide/skills/optional/mlops/mlops-lambda-labs.md": {
+      "sha": "1dfee1330448c0c2689cea387ef48fe5966f6fa0",
+      "last_updated": "2026-08-09T09:11:40.818669+00:00"
+    },
+    "user-guide/skills/optional/mlops/mlops-llava.md": {
+      "sha": "bd50b50ab43dbd45d4d925df23b1f1b4ec6feac4",
+      "last_updated": "2026-08-09T09:11:41.163471+00:00"
+    },
+    "user-guide/skills/optional/mlops/mlops-modal.md": {
+      "sha": "4fce9a4c9da36c00f3f34913303c6af02df5103d",
+      "last_updated": "2026-08-09T09:11:41.488264+00:00"
+    },
+    "user-guide/skills/optional/mlops/mlops-models-segment-anything-model.md": {
+      "sha": "f18118c370e0f72a35e89b3947d3aee7d6dc4e31",
+      "last_updated": "2026-08-09T09:11:41.796085+00:00"
+    },
+    "user-guide/skills/optional/mlops/mlops-nemo-curator.md": {
+      "sha": "84eeca4bb6f54aedabbde2d49249df62faa76826",
+      "last_updated": "2026-08-09T09:11:42.102900+00:00"
+    },
+    "user-guide/skills/optional/mlops/mlops-obliteratus.md": {
+      "sha": "48cb3ce976fd0864bdc3c62a3becaa2ccd5ec6c7",
+      "last_updated": "2026-08-09T09:11:42.443695+00:00"
+    },
+    "user-guide/skills/optional/mlops/mlops-peft.md": {
+      "sha": "f5ed6889a9865843e5ad62b512db43c8eb889b80",
+      "last_updated": "2026-08-09T09:11:42.760511+00:00"
+    },
+    "user-guide/skills/optional/mlops/mlops-pinecone.md": {
+      "sha": "d9e57578dde69f352442c4a7a2ee908e8123f547",
+      "last_updated": "2026-08-09T09:11:43.071324+00:00"
+    },
+    "user-guide/skills/optional/mlops/mlops-pytorch-fsdp.md": {
+      "sha": "48fb4118a15b9dd6b54ce53f8547aac94db789fc",
+      "last_updated": "2026-08-09T09:11:43.444086+00:00"
+    },
+    "user-guide/skills/optional/mlops/mlops-pytorch-lightning.md": {
+      "sha": "dac2b7e6132cbb2b25f8f221c3b8296746dbd950",
+      "last_updated": "2026-08-09T09:11:43.796891+00:00"
+    },
+    "user-guide/skills/optional/mlops/mlops-qdrant.md": {
+      "sha": "c167093093087e04da877eb1cba431e1a30e3b45",
+      "last_updated": "2026-08-09T09:11:44.143682+00:00"
+    },
+    "user-guide/skills/optional/mlops/mlops-research-dspy.md": {
+      "sha": "a7f4ca9d8cba7d99c7466100d262660dcb46b301",
+      "last_updated": "2026-08-09T09:11:44.486478+00:00"
+    },
+    "user-guide/skills/optional/mlops/mlops-saelens.md": {
+      "sha": "ce0def00c52e55e1ca265901b61f39d15f8b6cb2",
+      "last_updated": "2026-08-09T09:11:44.833273+00:00"
+    },
+    "user-guide/skills/optional/mlops/mlops-simpo.md": {
+      "sha": "5897175df0843f4ec2663d066301adb1e891109f",
+      "last_updated": "2026-08-09T09:11:45.187032+00:00"
+    },
+    "user-guide/skills/optional/mlops/mlops-slime.md": {
+      "sha": "27df63be800f3dc69a8d7e1b2384775127e0f937",
+      "last_updated": "2026-08-09T09:11:45.501875+00:00"
+    },
+    "user-guide/skills/optional/mlops/mlops-stable-diffusion.md": {
+      "sha": "8bc55a8d88c5c0b138a5a1ebe24525a4fe07f76e",
+      "last_updated": "2026-08-09T09:11:45.816690+00:00"
+    },
+    "user-guide/skills/optional/mlops/mlops-tensorrt-llm.md": {
+      "sha": "9ef46ce0fbaa37b65dbe0bac2864f059f4f21db5",
+      "last_updated": "2026-08-09T09:11:46.130471+00:00"
+    },
+    "user-guide/skills/optional/mlops/mlops-torchtitan.md": {
+      "sha": "40a7b94a8750f5c94f057feec782d19c2d4c1065",
+      "last_updated": "2026-08-09T09:11:46.449311+00:00"
+    },
+    "user-guide/skills/optional/mlops/mlops-training-axolotl.md": {
+      "sha": "a23fb70816dc3c09f28293b14f92db20170ade03",
+      "last_updated": "2026-08-09T09:11:46.801103+00:00"
+    },
+    "user-guide/skills/optional/mlops/mlops-training-trl-fine-tuning.md": {
+      "sha": "d46746137ad327c1289134659272e02c0482f576",
+      "last_updated": "2026-08-09T09:11:47.117914+00:00"
+    },
+    "user-guide/skills/optional/mlops/mlops-training-unsloth.md": {
+      "sha": "28b70227971ef81d50345281da1ddee763f7e309",
+      "last_updated": "2026-08-09T09:11:47.418734+00:00"
+    },
+    "user-guide/skills/optional/mlops/mlops-whisper.md": {
+      "sha": "458316b67c1a106dea1d93020c31c421dd185ff3",
+      "last_updated": "2026-08-09T09:11:47.729550+00:00"
+    },
+    "user-guide/skills/optional/payments/payments-mpp-agent.md": {
+      "sha": "ee2ff286e2566eb537ef1ad155b20a505a058fbe",
+      "last_updated": "2026-08-09T09:11:48.075345+00:00"
+    },
+    "user-guide/skills/optional/payments/payments-stripe-link-cli.md": {
+      "sha": "fdabbab6cb146e10fc242cff6555d2ec8fc33263",
+      "last_updated": "2026-08-09T09:11:48.381161+00:00"
+    },
+    "user-guide/skills/optional/payments/payments-stripe-projects.md": {
+      "sha": "fcd20673edd6aaa2f6c51e2076bebf400145a919",
+      "last_updated": "2026-08-09T09:11:48.723539+00:00"
+    },
+    "user-guide/skills/optional/productivity/productivity-canvas.md": {
+      "sha": "90f44f1a61895e171d45d07300e7d6f8e2144106",
+      "last_updated": "2026-08-09T09:11:49.068336+00:00"
+    },
+    "user-guide/skills/optional/productivity/productivity-here-now.md": {
+      "sha": "7240ecac1da4971c029408b353eb4719ff7df169",
+      "last_updated": "2026-08-09T09:11:49.372155+00:00"
+    },
+    "user-guide/skills/optional/productivity/productivity-memento-flashcards.md": {
+      "sha": "71caeb2607b9c15c793dc93c826d0d8470e3656f",
+      "last_updated": "2026-08-09T09:11:49.734940+00:00"
+    },
+    "user-guide/skills/optional/productivity/productivity-shop.md": {
+      "sha": "d2dfa08bd9b9b3d116b14648bc53e5573e3ecc6a",
+      "last_updated": "2026-08-09T09:11:50.046721+00:00"
+    },
+    "user-guide/skills/optional/productivity/productivity-shopify.md": {
+      "sha": "a552bc5bfdbd9e979ca7d1a90e0abd3d2c303ea4",
+      "last_updated": "2026-08-09T09:11:50.394688+00:00"
+    },
+    "user-guide/skills/optional/productivity/productivity-siyuan.md": {
+      "sha": "6747083b07d1e061d29cac7d4f1393a438c2618d",
+      "last_updated": "2026-08-09T09:11:50.698476+00:00"
+    },
+    "user-guide/skills/optional/productivity/productivity-telephony.md": {
+      "sha": "d3f6b81adaf806f5d3896fb7ebb51ae101dc7170",
+      "last_updated": "2026-08-09T09:11:51.012321+00:00"
+    },
+    "user-guide/skills/optional/research/research-bioinformatics.md": {
+      "sha": "084d596c7d43d464f4fd1a5e14d2a1d64a770628",
+      "last_updated": "2026-08-09T09:11:51.506025+00:00"
+    },
+    "user-guide/skills/optional/research/research-darwinian-evolver.md": {
+      "sha": "6975bf22190208bd4ceaf9f6cd49122d4291b66b",
+      "last_updated": "2026-08-09T09:11:51.815843+00:00"
+    },
+    "user-guide/skills/optional/research/research-domain-intel.md": {
+      "sha": "62fdd42b4b6919d79b332370ff6dbedcf0cee267",
+      "last_updated": "2026-08-09T09:11:52.136620+00:00"
+    },
+    "user-guide/skills/optional/research/research-drug-discovery.md": {
+      "sha": "d636ac8b8d4492d79853d9b69f516a3d28245dd2",
+      "last_updated": "2026-08-09T09:11:52.492408+00:00"
+    },
+    "user-guide/skills/optional/research/research-duckduckgo-search.md": {
+      "sha": "466b8cc9aa5997059ea4638cf9c9b1aa2bf3a96d",
+      "last_updated": "2026-08-09T09:11:52.846230+00:00"
+    },
+    "user-guide/skills/optional/research/research-gitnexus-explorer.md": {
+      "sha": "c5d3feed896336177d82d8416b95b4cb5472951b",
+      "last_updated": "2026-08-09T09:11:53.192023+00:00"
+    },
+    "user-guide/skills/optional/research/research-osint-investigation.md": {
+      "sha": "b118a2468e4c3c83c273c2e7361c00fbbf0b3275",
+      "last_updated": "2026-08-09T09:11:53.535819+00:00"
+    },
+    "user-guide/skills/optional/research/research-parallel-cli.md": {
+      "sha": "07e55f9b80347718d80d79de50753f3ae121063c",
+      "last_updated": "2026-08-09T09:11:53.850633+00:00"
+    },
+    "user-guide/skills/optional/research/research-pinecone-research.md": {
+      "sha": "dd6a9eb0796dbb9745d557f7f991b3dbcce50c4a",
+      "last_updated": "2026-08-09T09:11:54.142459+00:00"
+    },
+    "user-guide/skills/optional/research/research-qmd.md": {
+      "sha": "503455865cafb5a8e26bbb49576dc5705e011d13",
+      "last_updated": "2026-08-09T09:11:54.468232+00:00"
+    },
+    "user-guide/skills/optional/research/research-scrapling.md": {
+      "sha": "7d916178d962b8d1cae7c196857ebb7f407e7680",
+      "last_updated": "2026-08-09T09:11:54.782079+00:00"
+    },
+    "user-guide/skills/optional/research/research-searxng-search.md": {
+      "sha": "b8e829324d13950a503d3b496d92932cd4418712",
+      "last_updated": "2026-08-09T09:11:55.095859+00:00"
+    },
+    "user-guide/skills/optional/security/security-1password.md": {
+      "sha": "4b9697bacf6a384df9697285c7a3f7d5c8b099de",
+      "last_updated": "2026-08-09T09:11:55.461676+00:00"
+    },
+    "user-guide/skills/optional/security/security-godmode.md": {
+      "sha": "f41975a49669a404b0edea3f987b0104beaf0d8c",
+      "last_updated": "2026-08-09T09:11:55.816463+00:00"
+    },
+    "user-guide/skills/optional/security/security-oss-forensics.md": {
+      "sha": "8c331a4ddcfb2070402642c545b1971f850562aa",
+      "last_updated": "2026-08-09T09:11:56.165258+00:00"
+    },
+    "user-guide/skills/optional/security/security-sherlock.md": {
+      "sha": "ad50f1a6eb73ea4ead70bfbf37de4da7ee4593c1",
+      "last_updated": "2026-08-09T09:11:56.472074+00:00"
+    },
+    "user-guide/skills/optional/security/security-unbroker.md": {
+      "sha": "4125826689ad8c35fc4d8981388665793ee87492",
+      "last_updated": "2026-08-09T09:11:56.774887+00:00"
+    },
+    "user-guide/skills/optional/security/security-web-pentest.md": {
+      "sha": "64ea3c35f5beaf7bc9d50d3c92d55e63ea5b9f6d",
+      "last_updated": "2026-08-09T09:11:57.081710+00:00"
+    },
+    "user-guide/skills/optional/software-development/software-development-code-wiki.md": {
+      "sha": "89033235d1f71e6998028302a47a05f420686026",
+      "last_updated": "2026-08-09T09:11:57.717332+00:00"
+    },
+    "user-guide/skills/optional/software-development/software-development-rest-graphql-debug.md": {
+      "sha": "367149a4a43ae5136c8362cbe909c6c6c9639786",
+      "last_updated": "2026-08-09T09:11:58.023149+00:00"
+    },
+    "user-guide/skills/optional/software-development/software-development-subagent-driven-development.md": {
+      "sha": "e773edd76cd5205a4ce847a35f815de9961aec33",
+      "last_updated": "2026-08-09T09:11:58.390931+00:00"
+    },
+    "user-guide/skills/optional/web-development/web-development-cloudflare-temporary-deploy.md": {
+      "sha": "835e5e0bd687fd17c06b36afbe9456c45aac7f40",
+      "last_updated": "2026-08-09T09:11:58.692751+00:00"
+    },
+    "user-guide/skills/optional/web-development/web-development-page-agent.md": {
+      "sha": "f8332ab3dd5a9e110460e4f30d90eeeab06abdff",
+      "last_updated": "2026-08-09T09:11:59.005566+00:00"
+    },
+    "user-guide/skills/optional/yuanbao/yuanbao-yuanbao.md": {
+      "sha": "2457757f8cd245e70e3a8c3034c4012b71942577",
+      "last_updated": "2026-08-09T09:11:59.350359+00:00"
+    },
+    "user-guide/tui.md": {
+      "sha": "c15ee3f6edd4bc1acfd8db37476a30eea95f431b",
+      "last_updated": "2026-08-09T09:11:59.661175+00:00"
+    },
+    "user-guide/which-file-does-what.md": {
+      "sha": "153e2648db594190a59ff5f94d08b14c151a5ce1",
+      "last_updated": "2026-08-09T09:11:59.971959+00:00"
+    },
+    "user-guide/windows-native.md": {
+      "sha": "de369fc08af8b22dddaa3f6b845ca77c8eb2a591",
+      "last_updated": "2026-08-09T09:12:00.287772+00:00"
+    },
+    "user-guide/windows-wsl-quickstart.md": {
+      "sha": "2128b3be9147d810566c79c22701b8dabcb9cb5d",
+      "last_updated": "2026-08-09T09:12:00.593616+00:00"
+    },
+    "user-stories.mdx": {
+      "sha": "6dc721dde819b7b1675f1a6f848b34d9857b1a01",
+      "last_updated": "2026-08-09T09:12:00.935420+00:00"
+    }
+  },
+  "last_updated": "2026-08-09T09:12:12.859325+00:00",
+  "source": {
+    "owner": "NousResearch",
+    "repo": "hermes-agent",
+    "branch": "main",
+    "path": "website/docs"
+  }
+}
