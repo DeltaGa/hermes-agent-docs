@@ -50,8 +50,9 @@ def load_manifest() -> dict:
     return {"files": {}}
 
 
-def save_manifest(manifest: dict) -> None:
-    manifest["last_updated"] = datetime.now(timezone.utc).isoformat()
+def save_manifest(manifest: dict, touch_timestamp: bool) -> None:
+    if touch_timestamp:
+        manifest["last_updated"] = datetime.now(timezone.utc).isoformat()
     manifest["source"] = {
         "owner": UPSTREAM_OWNER,
         "repo": UPSTREAM_REPO,
@@ -142,7 +143,7 @@ def main() -> int:
 
     removed = remove_obsolete_files(current_files, manifest)
     prune_empty_directories(DOCS_DIR)
-    save_manifest(manifest)
+    save_manifest(manifest, touch_timestamp=bool(updated) or bool(removed))
 
     print(f"upstream_files={len(upstream_shas)}")
     print(f"updated={len(updated)}")
