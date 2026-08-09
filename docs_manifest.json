@@ -553,8 +553,8 @@
       "last_updated": "2026-08-09T09:10:35.266698+00:00"
     },
     "user-guide/features/personality.md": {
-      "sha": "cfae4abdf92071c29a7df413c1a419508b172190",
-      "last_updated": "2026-08-09T09:10:35.555527+00:00"
+      "sha": "a1ca34a5356b5ea2d290c957ebe0eee9185cae60",
+      "last_updated": "2026-08-09T18:49:44.610419+00:00"
     },
     "user-guide/features/pets.md": {
       "sha": "f36f90a471c656cdb4b97c7bc9a5e59c7453e8f7",
@@ -1605,7 +1605,7 @@
       "last_updated": "2026-08-09T09:12:00.935420+00:00"
     }
   },
-  "last_updated": "2026-08-09T09:14:27.690424+00:00",
+  "last_updated": "2026-08-09T18:49:44.818914+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
