@@ -59,7 +59,9 @@ def save_manifest(manifest: dict, touch_timestamp: bool) -> None:
         "branch": UPSTREAM_BRANCH,
         "path": UPSTREAM_DOCS_PATH,
     }
-    MANIFEST_FILE.write_text(json.dumps(manifest, indent=2), encoding="utf-8")
+    MANIFEST_FILE.write_text(
+        json.dumps(manifest, indent=2) + "\n", encoding="utf-8", newline="\n"
+    )
 
 
 def http_get(url: str) -> bytes:
