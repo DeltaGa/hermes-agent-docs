@@ -49,8 +49,8 @@
       "last_updated": "2026-08-09T09:10:01.184024+00:00"
     },
     "developer-guide/contributing.md": {
-      "sha": "3e5cf9d98103741001d7d41cd94879044fa0a04a",
-      "last_updated": "2026-08-09T09:10:01.431874+00:00"
+      "sha": "3ed14ba030b1114b0de66f2b874f2c01d322ba51",
+      "last_updated": "2026-08-10T21:48:26.878780+00:00"
     },
     "developer-guide/creating-skills.md": {
       "sha": "25d023ed57c826d473a451b83921103e4f465d56",
@@ -341,8 +341,8 @@
       "last_updated": "2026-08-09T09:10:19.218265+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "c9dbb927a5e4723ba7d301eebaeb42e96c7f5a96",
-      "last_updated": "2026-08-10T07:51:07.585857+00:00"
+      "sha": "4d1642452499faa85049b870fc1c091f0385a78c",
+      "last_updated": "2026-08-10T21:48:27.247130+00:00"
     },
     "reference/environment-variables.md": {
       "sha": "7aa44c6eaf859e5598f125bb70f842b09c43a4e7",
@@ -361,8 +361,8 @@
       "last_updated": "2026-08-09T09:10:20.482512+00:00"
     },
     "reference/optional-skills-catalog.md": {
-      "sha": "a73ceadcbd6b903d0e551d07589e64cfa3df0734",
-      "last_updated": "2026-08-09T09:10:20.721369+00:00"
+      "sha": "44fd6c13797447d4560c800d732bec1a364ee30a",
+      "last_updated": "2026-08-10T21:48:27.605214+00:00"
     },
     "reference/profile-commands.md": {
       "sha": "24a8f6791b55a79fdea746756f4b573ed2de685b",
@@ -377,12 +377,12 @@
       "last_updated": "2026-08-09T09:10:21.464929+00:00"
     },
     "reference/tools-reference.md": {
-      "sha": "c05f93e193409694f37f23e3642fc22b3d5c4587",
-      "last_updated": "2026-08-09T09:10:21.715778+00:00"
+      "sha": "c435c16bc21e7f10177b9b49360f111e0ddf6a19",
+      "last_updated": "2026-08-10T21:48:27.974388+00:00"
     },
     "reference/toolsets-reference.md": {
-      "sha": "fc92521ad90b43f2999a6be6596f5f84c440cdd8",
-      "last_updated": "2026-08-09T09:10:21.964630+00:00"
+      "sha": "f830261c57208c056ad3d37fb58bb922df098aa6",
+      "last_updated": "2026-08-10T21:48:28.363725+00:00"
     },
     "user-guide/_category_.json": {
       "sha": "7911fa56fec15dafb51ceb520070a85fadf7addc",
@@ -437,8 +437,8 @@
       "last_updated": "2026-08-09T09:10:25.679415+00:00"
     },
     "user-guide/features/browser.md": {
-      "sha": "8f1ec183a63f9e6174649e7960019bcda47dfc6b",
-      "last_updated": "2026-08-10T19:04:05.478369+00:00"
+      "sha": "e56a363676c33d5428203f03ab49be5edd28b554",
+      "last_updated": "2026-08-10T21:48:28.692972+00:00"
     },
     "user-guide/features/built-in-plugins.md": {
       "sha": "9ffbf639f700e0cd99f0ef56f356af54f60bf90b",
@@ -517,16 +517,16 @@
       "last_updated": "2026-08-09T09:10:32.422393+00:00"
     },
     "user-guide/features/kanban-tutorial.md": {
-      "sha": "f24967a12a81a4342050fc7e7ed5eed27ecd10ff",
-      "last_updated": "2026-08-10T19:04:06.307265+00:00"
+      "sha": "3e76e94da6a052627c446537462424ee3c4da1d9",
+      "last_updated": "2026-08-10T21:48:29.024697+00:00"
     },
     "user-guide/features/kanban-worker-lanes.md": {
-      "sha": "69f879c6b113285e3c09536d0a8aeec520ce978d",
-      "last_updated": "2026-08-09T09:10:33.048024+00:00"
+      "sha": "c14025d49ebd06421a13f061cb5e44b02c532ac7",
+      "last_updated": "2026-08-10T21:48:29.396493+00:00"
     },
     "user-guide/features/kanban.md": {
-      "sha": "9f05c4489452688a001a6891b9e79b085782caed",
-      "last_updated": "2026-08-10T19:04:06.734928+00:00"
+      "sha": "7ee2942d2b2f5f0ae0bb2a336cea2c5d421d5f7b",
+      "last_updated": "2026-08-10T21:48:29.802503+00:00"
     },
     "user-guide/features/lsp.md": {
       "sha": "8f5830f47914631f574953b3072115c3310f569a",
@@ -1176,10 +1176,6 @@
       "sha": "88fdc93af6a3f9927cd5139319d1c79a0c24a9e8",
       "last_updated": "2026-08-09T09:11:25.551748+00:00"
     },
-    "user-guide/skills/optional/creative/creative-blender-mcp.md": {
-      "sha": "d6206c2f649a14238a9fbd4c45410385f76c2a4b",
-      "last_updated": "2026-08-09T09:11:25.900509+00:00"
-    },
     "user-guide/skills/optional/creative/creative-concept-diagrams.md": {
       "sha": "09ac135f4ae369651cbf3d2eedcf223e215ba629",
       "last_updated": "2026-08-09T09:11:26.218350+00:00"
@@ -1197,8 +1193,8 @@
       "last_updated": "2026-08-09T09:11:27.158792+00:00"
     },
     "user-guide/skills/optional/creative/creative-kanban-video-orchestrator.md": {
-      "sha": "2b556066353b9a1c9f7fad3e8b93eb6bb81c38b8",
-      "last_updated": "2026-08-09T09:11:27.468614+00:00"
+      "sha": "6d3185eb80295faf8186f2ae9130d1cacf37a489",
+      "last_updated": "2026-08-10T21:48:30.165560+00:00"
     },
     "user-guide/skills/optional/creative/creative-meme-generation.md": {
       "sha": "605fe7ddc0b5abe672a244854ec1c972c0a4b04c",
@@ -1217,8 +1213,8 @@
       "last_updated": "2026-08-09T09:11:28.798818+00:00"
     },
     "user-guide/skills/optional/creative/creative-unreal-mcp.md": {
-      "sha": "7ffd9b9408a38255bf33a51e02710edc5d6b8119",
-      "last_updated": "2026-08-09T09:11:29.139613+00:00"
+      "sha": "65aa94e9e1815c746be6c37b433fd360ba172c34",
+      "last_updated": "2026-08-10T21:48:30.532767+00:00"
     },
     "user-guide/skills/optional/data-science/data-science-jupyter-notebook.md": {
       "sha": "a869a968d218f28b9f31dcb8768cdd78cf949863",
@@ -1605,7 +1601,7 @@
       "last_updated": "2026-08-09T09:12:00.935420+00:00"
     }
   },
-  "last_updated": "2026-08-10T19:04:06.942399+00:00",
+  "last_updated": "2026-08-10T21:48:30.740640+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
