@@ -345,8 +345,8 @@
       "last_updated": "2026-08-10T07:51:07.585857+00:00"
     },
     "reference/environment-variables.md": {
-      "sha": "bae4a6166c20ac6530c498f3531138d1a673b10e",
-      "last_updated": "2026-08-09T09:10:19.746958+00:00"
+      "sha": "7aa44c6eaf859e5598f125bb70f842b09c43a4e7",
+      "last_updated": "2026-08-10T19:04:04.915374+00:00"
     },
     "reference/faq.md": {
       "sha": "fc199a509b72af19e25ce700b8963c8db27237b1",
@@ -437,8 +437,8 @@
       "last_updated": "2026-08-09T09:10:25.679415+00:00"
     },
     "user-guide/features/browser.md": {
-      "sha": "4c9a61a63561a116033e9136cc8e236a63ebf9f7",
-      "last_updated": "2026-08-09T09:10:25.989231+00:00"
+      "sha": "8f1ec183a63f9e6174649e7960019bcda47dfc6b",
+      "last_updated": "2026-08-10T19:04:05.478369+00:00"
     },
     "user-guide/features/built-in-plugins.md": {
       "sha": "9ffbf639f700e0cd99f0ef56f356af54f60bf90b",
@@ -477,8 +477,8 @@
       "last_updated": "2026-08-09T09:10:28.889501+00:00"
     },
     "user-guide/features/delegation.md": {
-      "sha": "2830416a9ab5579d0604be415c725e5577aa637b",
-      "last_updated": "2026-08-09T09:10:29.208309+00:00"
+      "sha": "63d96751024a11a46d74cd0fc0fe330e93d2ed96",
+      "last_updated": "2026-08-10T19:04:05.904538+00:00"
     },
     "user-guide/features/deliverable-mode.md": {
       "sha": "d01847ebb0573d9bd176ac083fc71ff70ba4e727",
@@ -517,16 +517,16 @@
       "last_updated": "2026-08-09T09:10:32.422393+00:00"
     },
     "user-guide/features/kanban-tutorial.md": {
-      "sha": "8280631cade3815577c0918a67b5f693f0302a48",
-      "last_updated": "2026-08-09T09:10:32.746202+00:00"
+      "sha": "f24967a12a81a4342050fc7e7ed5eed27ecd10ff",
+      "last_updated": "2026-08-10T19:04:06.307265+00:00"
     },
     "user-guide/features/kanban-worker-lanes.md": {
       "sha": "69f879c6b113285e3c09536d0a8aeec520ce978d",
       "last_updated": "2026-08-09T09:10:33.048024+00:00"
     },
     "user-guide/features/kanban.md": {
-      "sha": "8e5859a3bed44f2f81d2fcdbe59d39e6149228d8",
-      "last_updated": "2026-08-09T09:10:33.434795+00:00"
+      "sha": "9f05c4489452688a001a6891b9e79b085782caed",
+      "last_updated": "2026-08-10T19:04:06.734928+00:00"
     },
     "user-guide/features/lsp.md": {
       "sha": "8f5830f47914631f574953b3072115c3310f569a",
@@ -1605,7 +1605,7 @@
       "last_updated": "2026-08-09T09:12:00.935420+00:00"
     }
   },
-  "last_updated": "2026-08-10T07:51:08.202729+00:00",
+  "last_updated": "2026-08-10T19:04:06.942399+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
