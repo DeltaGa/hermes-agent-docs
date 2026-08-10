@@ -97,8 +97,8 @@
       "last_updated": "2026-08-09T09:10:04.180236+00:00"
     },
     "developer-guide/programmatic-integration.md": {
-      "sha": "46e05aec050c18eb018e32db8d240869628d0f04",
-      "last_updated": "2026-08-09T09:10:04.425088+00:00"
+      "sha": "ac7469d33eab7576242516103030eb1f3da9c646",
+      "last_updated": "2026-08-10T07:51:07.161647+00:00"
     },
     "developer-guide/prompt-assembly.md": {
       "sha": "e7d0497db3621f84723651143700af6296764a42",
@@ -341,8 +341,8 @@
       "last_updated": "2026-08-09T09:10:19.218265+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "bd670e9fdd8748fc6233adf8bbc25a976ed69272",
-      "last_updated": "2026-08-09T09:10:19.483107+00:00"
+      "sha": "c9dbb927a5e4723ba7d301eebaeb42e96c7f5a96",
+      "last_updated": "2026-08-10T07:51:07.585857+00:00"
     },
     "reference/environment-variables.md": {
       "sha": "bae4a6166c20ac6530c498f3531138d1a673b10e",
@@ -813,8 +813,8 @@
       "last_updated": "2026-08-09T09:10:56.541022+00:00"
     },
     "user-guide/sessions.md": {
-      "sha": "20d4ed49519400b6b1da112a6e397ae7a0dccb3d",
-      "last_updated": "2026-08-09T09:10:56.874825+00:00"
+      "sha": "3f02dd2be20b94f69916ddc7a3d22122d9d204a4",
+      "last_updated": "2026-08-10T07:51:07.994446+00:00"
     },
     "user-guide/skills/bundled/apple/apple-apple-notes.md": {
       "sha": "ac3ecdfff6a1d58df78ef3c4a71b804bf2053f68",
@@ -1605,7 +1605,7 @@
       "last_updated": "2026-08-09T09:12:00.935420+00:00"
     }
   },
-  "last_updated": "2026-08-09T21:37:53.144249+00:00",
+  "last_updated": "2026-08-10T07:51:08.202729+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
