@@ -397,8 +397,8 @@
       "last_updated": "2026-08-09T09:10:22.709184+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "3fa977b4a7e3bd55c24be309e2fa68df3fb2bbc9",
-      "last_updated": "2026-08-09T21:37:52.934575+00:00"
+      "sha": "a8d42caaece1f2c65e59cefcd50698d5235d9f21",
+      "last_updated": "2026-08-11T02:05:52.765570+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "13c33f0f2f308f53bb75ffcdc43b862727b97428",
@@ -745,8 +745,8 @@
       "last_updated": "2026-08-09T09:10:50.606557+00:00"
     },
     "user-guide/messaging/teams.md": {
-      "sha": "626958355f772abecd6dc42f9d1ee7af58d87ada",
-      "last_updated": "2026-08-09T09:10:50.924369+00:00"
+      "sha": "d64efd8a03fef051f0978c4eb6ee74b3cc9dc11e",
+      "last_updated": "2026-08-11T02:05:53.119749+00:00"
     },
     "user-guide/messaging/telegram.md": {
       "sha": "35f38e30e8a0e4a17c2d619b0acd44c8d77a31b7",
@@ -1601,7 +1601,7 @@
       "last_updated": "2026-08-09T09:12:00.935420+00:00"
     }
   },
-  "last_updated": "2026-08-10T21:48:30.740640+00:00",
+  "last_updated": "2026-08-11T02:05:53.328245+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
