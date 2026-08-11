@@ -781,8 +781,8 @@
       "last_updated": "2026-08-09T09:10:53.981547+00:00"
     },
     "user-guide/multi-profile-gateways.md": {
-      "sha": "515856e969658cef5c8f63530f5e0b648bf1b188",
-      "last_updated": "2026-08-09T09:10:54.327340+00:00"
+      "sha": "b73d18459527a394f1c2a9da655700b15f53ec24",
+      "last_updated": "2026-08-11T07:15:55.977928+00:00"
     },
     "user-guide/profile-distributions.md": {
       "sha": "5a9da248505355abcf4ac4565078a8c648c020e8",
@@ -1601,7 +1601,7 @@
       "last_updated": "2026-08-09T09:12:00.935420+00:00"
     }
   },
-  "last_updated": "2026-08-11T02:05:53.328245+00:00",
+  "last_updated": "2026-08-11T07:15:56.191121+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
