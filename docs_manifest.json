@@ -365,16 +365,16 @@
       "last_updated": "2026-08-10T21:48:27.605214+00:00"
     },
     "reference/profile-commands.md": {
-      "sha": "24a8f6791b55a79fdea746756f4b573ed2de685b",
-      "last_updated": "2026-08-09T09:10:20.971226+00:00"
+      "sha": "1f13d8e03b2785bc68292736d87f48aee38be208",
+      "last_updated": "2026-08-12T19:08:19.991995+00:00"
     },
     "reference/skills-catalog.md": {
       "sha": "fba5674e0a5d1169759947b38e276dca270f64d7",
       "last_updated": "2026-08-09T09:10:21.221072+00:00"
     },
     "reference/slash-commands.md": {
-      "sha": "c5f646fa6acb412befb75a2f4608b30795b847b6",
-      "last_updated": "2026-08-09T09:10:21.464929+00:00"
+      "sha": "bbf996ac840f6ebf1ea82c306685235418faebd1",
+      "last_updated": "2026-08-12T19:08:20.274177+00:00"
     },
     "reference/tools-reference.md": {
       "sha": "c435c16bc21e7f10177b9b49360f111e0ddf6a19",
@@ -405,8 +405,8 @@
       "last_updated": "2026-08-12T04:51:55.168550+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "d7c803ed77bab287bf4af79f45e8f512693fb287",
-      "last_updated": "2026-08-09T09:10:23.471729+00:00"
+      "sha": "bfbdf249935b1fc222a0f33c88a31fb27e58bb63",
+      "last_updated": "2026-08-12T19:08:20.562066+00:00"
     },
     "user-guide/docker.md": {
       "sha": "fd0c047d4837c034dd3c7da8a440c29bdf042925",
@@ -785,12 +785,12 @@
       "last_updated": "2026-08-11T07:15:55.977928+00:00"
     },
     "user-guide/profile-distributions.md": {
-      "sha": "5a9da248505355abcf4ac4565078a8c648c020e8",
-      "last_updated": "2026-08-09T09:10:54.637156+00:00"
+      "sha": "46f0660210962cb7a48b106a2336344557e7526f",
+      "last_updated": "2026-08-12T19:08:20.857302+00:00"
     },
     "user-guide/profiles.md": {
-      "sha": "9603f956749d0da8ec9c207350db1485fe644ce1",
-      "last_updated": "2026-08-09T09:10:54.926987+00:00"
+      "sha": "cd68f1c4b7a08ed83f3813d5e695b34833765661",
+      "last_updated": "2026-08-12T19:08:21.135517+00:00"
     },
     "user-guide/secrets/bitwarden.md": {
       "sha": "671fb640fef781aacf418770bc94370bccd1c4b4",
@@ -809,8 +809,8 @@
       "last_updated": "2026-08-09T09:10:56.224210+00:00"
     },
     "user-guide/security.md": {
-      "sha": "59fde9033a35f6ceca4ca4f36da10530c3ebe68a",
-      "last_updated": "2026-08-09T09:10:56.541022+00:00"
+      "sha": "9818ffa9f4f0fcb7ee713446260798eacc2b5245",
+      "last_updated": "2026-08-12T19:08:21.416743+00:00"
     },
     "user-guide/sessions.md": {
       "sha": "3f02dd2be20b94f69916ddc7a3d22122d9d204a4",
@@ -1601,7 +1601,7 @@
       "last_updated": "2026-08-09T09:12:00.935420+00:00"
     }
   },
-  "last_updated": "2026-08-12T16:02:33.247394+00:00",
+  "last_updated": "2026-08-12T19:08:21.624963+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
