@@ -401,8 +401,8 @@
       "last_updated": "2026-08-11T02:05:52.765570+00:00"
     },
     "user-guide/configuring-models.md": {
-      "sha": "13c33f0f2f308f53bb75ffcdc43b862727b97428",
-      "last_updated": "2026-08-09T09:10:23.217884+00:00"
+      "sha": "487ae9529c1676179c269d3b65044c1fd921405f",
+      "last_updated": "2026-08-12T04:51:55.168550+00:00"
     },
     "user-guide/desktop.md": {
       "sha": "d7c803ed77bab287bf4af79f45e8f512693fb287",
@@ -1601,7 +1601,7 @@
       "last_updated": "2026-08-09T09:12:00.935420+00:00"
     }
   },
-  "last_updated": "2026-08-12T02:23:06.880628+00:00",
+  "last_updated": "2026-08-12T04:51:55.377497+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
