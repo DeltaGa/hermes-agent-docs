@@ -437,8 +437,8 @@
       "last_updated": "2026-08-09T09:10:25.679415+00:00"
     },
     "user-guide/features/browser.md": {
-      "sha": "e56a363676c33d5428203f03ab49be5edd28b554",
-      "last_updated": "2026-08-10T21:48:28.692972+00:00"
+      "sha": "4f7e36b16907a8d49bbbc4520a1e441c1b063451",
+      "last_updated": "2026-08-12T16:02:33.038121+00:00"
     },
     "user-guide/features/built-in-plugins.md": {
       "sha": "9ffbf639f700e0cd99f0ef56f356af54f60bf90b",
@@ -1601,7 +1601,7 @@
       "last_updated": "2026-08-09T09:12:00.935420+00:00"
     }
   },
-  "last_updated": "2026-08-12T10:12:15.377156+00:00",
+  "last_updated": "2026-08-12T16:02:33.247394+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
