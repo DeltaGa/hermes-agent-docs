@@ -721,8 +721,8 @@
       "last_updated": "2026-08-09T09:10:48.721682+00:00"
     },
     "user-guide/messaging/relay.md": {
-      "sha": "a84852134b36f088263bafd2d00ddad5b731aea4",
-      "last_updated": "2026-08-09T09:10:49.035495+00:00"
+      "sha": "d12ae3edc5669f9d4a3461979620a7d2b461162f",
+      "last_updated": "2026-08-12T02:23:06.672262+00:00"
     },
     "user-guide/messaging/signal.md": {
       "sha": "597a7fa30be28962cd909f7deff3b5bf2305393e",
@@ -1601,7 +1601,7 @@
       "last_updated": "2026-08-09T09:12:00.935420+00:00"
     }
   },
-  "last_updated": "2026-08-11T07:15:56.191121+00:00",
+  "last_updated": "2026-08-12T02:23:06.880628+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
