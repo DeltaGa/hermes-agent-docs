@@ -61,8 +61,8 @@
       "last_updated": "2026-08-09T09:10:01.930596+00:00"
     },
     "developer-guide/desktop-plugin-sdk.md": {
-      "sha": "f85454e47d5e925e72660be6ae5440693ea5c1f2",
-      "last_updated": "2026-08-13T07:41:45.894257+00:00"
+      "sha": "6d4e88544b62213e663ab65b5ac1ed3442df6207",
+      "last_updated": "2026-08-13T19:08:55.986855+00:00"
     },
     "developer-guide/egress-internals.md": {
       "sha": "f84160788a0c1f02388748fa8d470717bca850b3",
@@ -81,12 +81,12 @@
       "last_updated": "2026-08-09T09:10:03.176833+00:00"
     },
     "developer-guide/memory-provider-plugin.md": {
-      "sha": "f6a35dc060db2ae38599f242831d923fe01ac56f",
-      "last_updated": "2026-08-09T09:10:03.425689+00:00"
+      "sha": "40dc5ba3ef0a73e476d0098e0c1c02167a9c6c2a",
+      "last_updated": "2026-08-13T19:08:56.384305+00:00"
     },
     "developer-guide/model-provider-plugin.md": {
-      "sha": "dd1be9f291b75c56fb0e2b142003e98ce4425e15",
-      "last_updated": "2026-08-09T09:10:03.676536+00:00"
+      "sha": "5127107fa3122304d55a856308491d78d72b5eac",
+      "last_updated": "2026-08-13T19:08:56.750814+00:00"
     },
     "developer-guide/plugin-llm-access.md": {
       "sha": "f6eeee09cdf25333823b87287697bea528ae079a",
@@ -97,8 +97,8 @@
       "last_updated": "2026-08-13T02:24:46.037299+00:00"
     },
     "developer-guide/programmatic-integration.md": {
-      "sha": "b74dbff452f7542d471f1626bf9680b4cd740b66",
-      "last_updated": "2026-08-13T10:13:27.965380+00:00"
+      "sha": "42a603215e0a484a1cebf3bd8f29e6f75ef49dd9",
+      "last_updated": "2026-08-13T19:08:57.125675+00:00"
     },
     "developer-guide/prompt-assembly.md": {
       "sha": "e7d0497db3621f84723651143700af6296764a42",
@@ -441,8 +441,8 @@
       "last_updated": "2026-08-13T10:13:29.119896+00:00"
     },
     "user-guide/features/built-in-plugins.md": {
-      "sha": "9ffbf639f700e0cd99f0ef56f356af54f60bf90b",
-      "last_updated": "2026-08-09T09:10:26.297015+00:00"
+      "sha": "77edbf71163ef9dce56a621b1adec75de7144ff2",
+      "last_updated": "2026-08-13T19:08:57.539053+00:00"
     },
     "user-guide/features/code-execution.md": {
       "sha": "1585f415a24f5636bfae7288d2970c0819d1ccb3",
@@ -469,16 +469,16 @@
       "last_updated": "2026-08-09T09:10:28.289872+00:00"
     },
     "user-guide/features/cron.md": {
-      "sha": "0181723079766e6a8b0c44a8859d68450a785cc2",
-      "last_updated": "2026-08-09T09:10:28.580683+00:00"
+      "sha": "9cff27584920b0d892fe68aba17e949941b3707c",
+      "last_updated": "2026-08-13T19:08:57.893586+00:00"
     },
     "user-guide/features/curator.md": {
       "sha": "853e4205acd28a29da1a4a7f7fe32493ab48e242",
       "last_updated": "2026-08-09T09:10:28.889501+00:00"
     },
     "user-guide/features/delegation.md": {
-      "sha": "ce46a54eef73b98f18178d7aeae028ce287458e9",
-      "last_updated": "2026-08-13T04:56:22.961663+00:00"
+      "sha": "f7f3819f1ea295fb46324eb40d5b7ac119089b4e",
+      "last_updated": "2026-08-13T19:08:58.273609+00:00"
     },
     "user-guide/features/deliverable-mode.md": {
       "sha": "d01847ebb0573d9bd176ac083fc71ff70ba4e727",
@@ -509,8 +509,8 @@
       "last_updated": "2026-08-09T09:10:31.744797+00:00"
     },
     "user-guide/features/hooks.md": {
-      "sha": "bcad31ce22e172f3d74d0fc166cee5e6b102cc65",
-      "last_updated": "2026-08-13T04:56:23.327091+00:00"
+      "sha": "f52aec8030ce0e4b944a4ad300f93428ed73aa71",
+      "last_updated": "2026-08-13T19:08:58.685252+00:00"
     },
     "user-guide/features/image-generation.md": {
       "sha": "a4504a94416b1bf4f8b53853ccd284f018d1ec4e",
@@ -525,8 +525,8 @@
       "last_updated": "2026-08-10T21:48:29.396493+00:00"
     },
     "user-guide/features/kanban.md": {
-      "sha": "7ee2942d2b2f5f0ae0bb2a336cea2c5d421d5f7b",
-      "last_updated": "2026-08-10T21:48:29.802503+00:00"
+      "sha": "0bb77c3210cdd1e15f87bfe3752f77e100073a63",
+      "last_updated": "2026-08-13T19:08:59.072399+00:00"
     },
     "user-guide/features/lsp.md": {
       "sha": "8f5830f47914631f574953b3072115c3310f569a",
@@ -733,8 +733,8 @@
       "last_updated": "2026-08-09T09:10:49.680110+00:00"
     },
     "user-guide/messaging/slack.md": {
-      "sha": "683d1a823c7d5e2305e5a9e289b5d3f93ba02378",
-      "last_updated": "2026-08-09T09:10:49.985929+00:00"
+      "sha": "544ed727e9142f90e85fe2cb703c3966b0396872",
+      "last_updated": "2026-08-13T19:08:59.448622+00:00"
     },
     "user-guide/messaging/sms.md": {
       "sha": "8878cc5f0ab5bac6e5741e2954c56248bd08ccc7",
@@ -1609,7 +1609,7 @@
       "last_updated": "2026-08-13T04:56:24.447270+00:00"
     }
   },
-  "last_updated": "2026-08-13T13:23:32.613815+00:00",
+  "last_updated": "2026-08-13T19:08:59.657146+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
