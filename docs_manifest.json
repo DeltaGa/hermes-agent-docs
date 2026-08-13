@@ -29,8 +29,8 @@
       "last_updated": "2026-08-09T09:09:59.947763+00:00"
     },
     "developer-guide/browser-provider-plugin.md": {
-      "sha": "abf8a8e80f4bdab20e067061904748eebee5367a",
-      "last_updated": "2026-08-09T09:10:00.192619+00:00"
+      "sha": "0f71b1684feb27c6244880bd3f1ca09b6c5ed501",
+      "last_updated": "2026-08-13T10:13:27.678101+00:00"
     },
     "developer-guide/browser-supervisor.md": {
       "sha": "a30abdbdaca5a6daaf0e9d85de2fb2d14f714fea",
@@ -97,8 +97,8 @@
       "last_updated": "2026-08-13T02:24:46.037299+00:00"
     },
     "developer-guide/programmatic-integration.md": {
-      "sha": "ac7469d33eab7576242516103030eb1f3da9c646",
-      "last_updated": "2026-08-10T07:51:07.161647+00:00"
+      "sha": "b74dbff452f7542d471f1626bf9680b4cd740b66",
+      "last_updated": "2026-08-13T10:13:27.965380+00:00"
     },
     "developer-guide/prompt-assembly.md": {
       "sha": "e7d0497db3621f84723651143700af6296764a42",
@@ -145,8 +145,8 @@
       "last_updated": "2026-08-09T09:10:07.140471+00:00"
     },
     "getting-started/installation.md": {
-      "sha": "1794d68a6952e42065cca80954cd6e260f8ba0dc",
-      "last_updated": "2026-08-09T09:10:07.390322+00:00"
+      "sha": "4dfaabc151e1ff52849ed9f7f497f1706ee79f37",
+      "last_updated": "2026-08-13T10:13:28.267000+00:00"
     },
     "getting-started/learning-path.md": {
       "sha": "a643267637a00f9796cb46bd54b0f27c96cf1809",
@@ -165,8 +165,8 @@
       "last_updated": "2026-08-09T09:10:08.384727+00:00"
     },
     "getting-started/termux.md": {
-      "sha": "1dd3226c1af222bf0a0e6f59a861943c42b1636c",
-      "last_updated": "2026-08-09T09:10:08.630547+00:00"
+      "sha": "1545ff644552290e44073902e27c7e067080e11c",
+      "last_updated": "2026-08-13T10:13:28.568187+00:00"
     },
     "getting-started/updating.md": {
       "sha": "3c361adca63da60e9d778a6bdd7b839c7891b964",
@@ -301,8 +301,8 @@
       "last_updated": "2026-08-13T02:24:46.985636+00:00"
     },
     "guides/webhook-github-pr-review.md": {
-      "sha": "644dca0fd59195cb415225223249b71bc6c28bac",
-      "last_updated": "2026-08-09T09:10:16.993602+00:00"
+      "sha": "3f7ec74d2b66a10e8e43e54eca86eb5fbdee9458",
+      "last_updated": "2026-08-13T10:13:28.867876+00:00"
     },
     "guides/work-with-skills.md": {
       "sha": "2a011a2b7bf57d17652cec98eb4fa907b1307334",
@@ -437,8 +437,8 @@
       "last_updated": "2026-08-09T09:10:25.679415+00:00"
     },
     "user-guide/features/browser.md": {
-      "sha": "4f7e36b16907a8d49bbbc4520a1e441c1b063451",
-      "last_updated": "2026-08-12T16:02:33.038121+00:00"
+      "sha": "9b064a6bc00f4f312871dae80d72ae5be2570ab3",
+      "last_updated": "2026-08-13T10:13:29.119896+00:00"
     },
     "user-guide/features/built-in-plugins.md": {
       "sha": "9ffbf639f700e0cd99f0ef56f356af54f60bf90b",
@@ -453,8 +453,8 @@
       "last_updated": "2026-08-09T09:10:26.981639+00:00"
     },
     "user-guide/features/computer-use.md": {
-      "sha": "1b3aa824956d5476dc7723d9dc6e4cd69b000a51",
-      "last_updated": "2026-08-09T09:10:27.319435+00:00"
+      "sha": "72b6ef1fd25863ae1608ccc83450120db09fa5a7",
+      "last_updated": "2026-08-13T10:13:29.425678+00:00"
     },
     "user-guide/features/context-files.md": {
       "sha": "4ec8e3886690832fd8baaefa565615b3b52b0e57",
@@ -753,8 +753,8 @@
       "last_updated": "2026-08-09T09:10:51.297148+00:00"
     },
     "user-guide/messaging/webhooks.md": {
-      "sha": "71262d35291dccbd3acbf3a155998797b974c628",
-      "last_updated": "2026-08-09T09:10:51.645940+00:00"
+      "sha": "dd1148b0fac12bfd9ec26b1f37d56431f4c9a1f2",
+      "last_updated": "2026-08-13T10:13:29.708806+00:00"
     },
     "user-guide/messaging/wecom-callback.md": {
       "sha": "f6cf5ed4a473f9555e0b40169fcc5bd57e33ab09",
@@ -1609,7 +1609,7 @@
       "last_updated": "2026-08-13T04:56:24.447270+00:00"
     }
   },
-  "last_updated": "2026-08-13T07:41:47.043478+00:00",
+  "last_updated": "2026-08-13T10:13:29.917206+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
