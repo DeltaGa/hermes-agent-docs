@@ -9,8 +9,8 @@
       "last_updated": "2026-08-09T09:09:58.722493+00:00"
     },
     "developer-guide/adding-platform-adapters.md": {
-      "sha": "d2209c638fc89fdf40ea89ae959ea418db96bbc4",
-      "last_updated": "2026-08-09T09:09:58.961353+00:00"
+      "sha": "2847ba974b53d40cb4a279ef3ecc6f0ef336d71b",
+      "last_updated": "2026-08-13T02:24:45.204994+00:00"
     },
     "developer-guide/adding-providers.md": {
       "sha": "fa7adbe73c87679d73db199d7dde76e190bdb269",
@@ -89,12 +89,12 @@
       "last_updated": "2026-08-09T09:10:03.676536+00:00"
     },
     "developer-guide/plugin-llm-access.md": {
-      "sha": "0d7959f519da72920ed3795753d5c7663c35581e",
-      "last_updated": "2026-08-09T09:10:03.924389+00:00"
+      "sha": "f6eeee09cdf25333823b87287697bea528ae079a",
+      "last_updated": "2026-08-13T02:24:45.613061+00:00"
     },
     "developer-guide/plugins/index.md": {
-      "sha": "c16e079354bff1c103003f676c74ef98a998cc01",
-      "last_updated": "2026-08-09T09:10:04.180236+00:00"
+      "sha": "ad241b350fbe06a3faf0ee2f0aa8d4986e662ce6",
+      "last_updated": "2026-08-13T02:24:46.037299+00:00"
     },
     "developer-guide/programmatic-integration.md": {
       "sha": "ac7469d33eab7576242516103030eb1f3da9c646",
@@ -109,8 +109,8 @@
       "last_updated": "2026-08-09T09:10:04.916796+00:00"
     },
     "developer-guide/secret-source-plugin.md": {
-      "sha": "5df9f803a6923c9801606884d38b4731ba32a734",
-      "last_updated": "2026-08-09T09:10:05.152654+00:00"
+      "sha": "3c0dd465e263a0b676d16156313a07e1f8b87da0",
+      "last_updated": "2026-08-13T02:24:46.396580+00:00"
     },
     "developer-guide/session-storage.md": {
       "sha": "0ff701d7f3c34d93df4cf97fb78bf27b14cb8382",
@@ -297,8 +297,8 @@
       "last_updated": "2026-08-09T09:10:16.510880+00:00"
     },
     "guides/use-voice-mode-with-hermes.md": {
-      "sha": "b13baca4af102f583577e17a41e3db5624192650",
-      "last_updated": "2026-08-09T09:10:16.757701+00:00"
+      "sha": "996f0167b0d04608a22ef78f2ec4076fd5b635e9",
+      "last_updated": "2026-08-13T02:24:46.985636+00:00"
     },
     "guides/webhook-github-pr-review.md": {
       "sha": "644dca0fd59195cb415225223249b71bc6c28bac",
@@ -341,8 +341,8 @@
       "last_updated": "2026-08-09T09:10:19.218265+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "4d1642452499faa85049b870fc1c091f0385a78c",
-      "last_updated": "2026-08-10T21:48:27.247130+00:00"
+      "sha": "1a1e15e665d191196723b596fc27de051729db21",
+      "last_updated": "2026-08-13T02:24:47.395460+00:00"
     },
     "reference/environment-variables.md": {
       "sha": "7aa44c6eaf859e5598f125bb70f842b09c43a4e7",
@@ -397,8 +397,8 @@
       "last_updated": "2026-08-09T09:10:22.709184+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "18635f798577a53a58e5122d9ff9673303edbbef",
-      "last_updated": "2026-08-12T10:12:14.881688+00:00"
+      "sha": "6a5a36dd83bed5cef5aae519a07232888960e6c0",
+      "last_updated": "2026-08-13T02:24:47.812265+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "487ae9529c1676179c269d3b65044c1fd921405f",
@@ -509,8 +509,8 @@
       "last_updated": "2026-08-09T09:10:31.744797+00:00"
     },
     "user-guide/features/hooks.md": {
-      "sha": "bb543896319ed1835bcc08a470391ef1e6c0f81d",
-      "last_updated": "2026-08-09T09:10:32.067606+00:00"
+      "sha": "c20f7646f66c99003f5bb8435cd84be48f8b3c8f",
+      "last_updated": "2026-08-13T02:24:48.215660+00:00"
     },
     "user-guide/features/image-generation.md": {
       "sha": "a4504a94416b1bf4f8b53853ccd284f018d1ec4e",
@@ -561,8 +561,8 @@
       "last_updated": "2026-08-09T09:10:35.898321+00:00"
     },
     "user-guide/features/plugins.md": {
-      "sha": "3896124965cc89faa700a2f7e9464c7b015a9828",
-      "last_updated": "2026-08-09T09:10:36.213134+00:00"
+      "sha": "5c93c9a3fe6de953f8bd74d3b6fb8b639a5d10fd",
+      "last_updated": "2026-08-13T02:24:48.639960+00:00"
     },
     "user-guide/features/provider-routing.md": {
       "sha": "ff8a9ef56ccc23709cbf4ff900e82560332b350d",
@@ -1601,7 +1601,7 @@
       "last_updated": "2026-08-09T09:12:00.935420+00:00"
     }
   },
-  "last_updated": "2026-08-12T19:08:21.624963+00:00",
+  "last_updated": "2026-08-13T02:24:48.848830+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
