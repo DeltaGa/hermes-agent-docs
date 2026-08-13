@@ -93,8 +93,8 @@
       "last_updated": "2026-08-13T02:24:45.613061+00:00"
     },
     "developer-guide/plugins/index.md": {
-      "sha": "ad241b350fbe06a3faf0ee2f0aa8d4986e662ce6",
-      "last_updated": "2026-08-13T02:24:46.037299+00:00"
+      "sha": "3ba389c4e07aaa8d675a3c42607e02775c3e2563",
+      "last_updated": "2026-08-13T21:52:31.274904+00:00"
     },
     "developer-guide/programmatic-integration.md": {
       "sha": "42a603215e0a484a1cebf3bd8f29e6f75ef49dd9",
@@ -401,8 +401,8 @@
       "last_updated": "2026-08-13T13:23:32.006493+00:00"
     },
     "user-guide/configuring-models.md": {
-      "sha": "487ae9529c1676179c269d3b65044c1fd921405f",
-      "last_updated": "2026-08-12T04:51:55.168550+00:00"
+      "sha": "887c0486adb80b7c444182d68288cfe9b8a8984b",
+      "last_updated": "2026-08-13T21:52:31.679921+00:00"
     },
     "user-guide/desktop.md": {
       "sha": "bfbdf249935b1fc222a0f33c88a31fb27e58bb63",
@@ -525,8 +525,8 @@
       "last_updated": "2026-08-10T21:48:29.396493+00:00"
     },
     "user-guide/features/kanban.md": {
-      "sha": "0bb77c3210cdd1e15f87bfe3752f77e100073a63",
-      "last_updated": "2026-08-13T19:08:59.072399+00:00"
+      "sha": "b978f97c91221ce295843ddc39f2776a37c31492",
+      "last_updated": "2026-08-13T21:52:32.095378+00:00"
     },
     "user-guide/features/lsp.md": {
       "sha": "8f5830f47914631f574953b3072115c3310f569a",
@@ -1609,7 +1609,7 @@
       "last_updated": "2026-08-13T04:56:24.447270+00:00"
     }
   },
-  "last_updated": "2026-08-13T19:08:59.657146+00:00",
+  "last_updated": "2026-08-13T21:52:32.302908+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
