@@ -397,8 +397,8 @@
       "last_updated": "2026-08-09T09:10:22.709184+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "423dfc7b7395467f0d90065a73b78fd422035101",
-      "last_updated": "2026-08-13T13:23:32.006493+00:00"
+      "sha": "97e53ab083af3d082adce34050d6deb6f74b5232",
+      "last_updated": "2026-08-14T21:29:42.285321+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "887c0486adb80b7c444182d68288cfe9b8a8984b",
@@ -1611,9 +1611,13 @@
     "user-guide/skills/bundled/productivity/productivity-box.md": {
       "sha": "ed5f012031e5499b7ef67dd8b1f914702505c4d8",
       "last_updated": "2026-08-14T07:39:36.070424+00:00"
+    },
+    "user-guide/features/loops.md": {
+      "sha": "7b066b44ba0a2071ca524c108a0c966830086c3b",
+      "last_updated": "2026-08-14T21:29:42.715594+00:00"
     }
   },
-  "last_updated": "2026-08-14T07:39:36.278903+00:00",
+  "last_updated": "2026-08-14T21:29:42.921010+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
