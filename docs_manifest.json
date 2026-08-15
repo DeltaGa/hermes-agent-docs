@@ -393,20 +393,20 @@
       "last_updated": "2026-08-09T09:10:22.457336+00:00"
     },
     "user-guide/cli.md": {
-      "sha": "2f3d78fafc3d57f9f847139b59e5a0a1243ec9ee",
-      "last_updated": "2026-08-09T09:10:22.709184+00:00"
+      "sha": "1e8151597fe813cf1aec5f8cccdbf759915d99ea",
+      "last_updated": "2026-08-15T09:30:31.679658+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "97e53ab083af3d082adce34050d6deb6f74b5232",
-      "last_updated": "2026-08-14T21:29:42.285321+00:00"
+      "sha": "42af4f30ce751097f849b55e65ac46dd12bad542",
+      "last_updated": "2026-08-15T09:30:32.064060+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "887c0486adb80b7c444182d68288cfe9b8a8984b",
       "last_updated": "2026-08-13T21:52:31.679921+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "77145c6514976020e7df0ba56d3593584cc7eefe",
-      "last_updated": "2026-08-14T07:39:34.892929+00:00"
+      "sha": "a881c806c4e4b2b41ed76c450931341727a28eef",
+      "last_updated": "2026-08-15T09:30:32.442754+00:00"
     },
     "user-guide/docker.md": {
       "sha": "fd0c047d4837c034dd3c7da8a440c29bdf042925",
@@ -533,8 +533,8 @@
       "last_updated": "2026-08-09T09:10:33.729614+00:00"
     },
     "user-guide/features/mcp.md": {
-      "sha": "66879394b88670389afacd9f82d3cb0912d08f9a",
-      "last_updated": "2026-08-09T09:10:34.036431+00:00"
+      "sha": "ca85ba855b40f7b114c7c65662ed7ffbd26d0d64",
+      "last_updated": "2026-08-15T09:30:32.833865+00:00"
     },
     "user-guide/features/memory-providers.md": {
       "sha": "099d73b3ebeb0dcd87bd3eda3b0eba95a0d3dff2",
@@ -809,12 +809,12 @@
       "last_updated": "2026-08-09T09:10:56.224210+00:00"
     },
     "user-guide/security.md": {
-      "sha": "9818ffa9f4f0fcb7ee713446260798eacc2b5245",
-      "last_updated": "2026-08-12T19:08:21.416743+00:00"
+      "sha": "d4bc6b3cd468f553bed33c070514cccc7616a12d",
+      "last_updated": "2026-08-15T09:30:33.216023+00:00"
     },
     "user-guide/sessions.md": {
-      "sha": "3f02dd2be20b94f69916ddc7a3d22122d9d204a4",
-      "last_updated": "2026-08-10T07:51:07.994446+00:00"
+      "sha": "7d36dfa256e1513e072b75785318e1467be3af89",
+      "last_updated": "2026-08-15T09:30:33.593415+00:00"
     },
     "user-guide/skills/bundled/apple/apple-apple-notes.md": {
       "sha": "ac3ecdfff6a1d58df78ef3c4a71b804bf2053f68",
@@ -1617,7 +1617,7 @@
       "last_updated": "2026-08-14T21:29:42.715594+00:00"
     }
   },
-  "last_updated": "2026-08-15T06:47:33.962526+00:00",
+  "last_updated": "2026-08-15T09:30:33.802075+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
