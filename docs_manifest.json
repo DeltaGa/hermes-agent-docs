@@ -329,8 +329,8 @@
       "last_updated": "2026-08-09T09:10:18.474709+00:00"
     },
     "integrations/providers.md": {
-      "sha": "549c93049f6d2578af5288b25da52dc6b772c24c",
-      "last_updated": "2026-08-13T13:23:31.570739+00:00"
+      "sha": "6137f8f559405521555769c2592e5a0457d7445d",
+      "last_updated": "2026-08-15T12:47:23.347845+00:00"
     },
     "reference/_category_.json": {
       "sha": "8150d97ad57c8f434b72e9cc65a58abd091787c6",
@@ -405,8 +405,8 @@
       "last_updated": "2026-08-13T21:52:31.679921+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "a881c806c4e4b2b41ed76c450931341727a28eef",
-      "last_updated": "2026-08-15T09:30:32.442754+00:00"
+      "sha": "68de972a120b80b18e64e16197541323d9ce7399",
+      "last_updated": "2026-08-15T12:47:23.645258+00:00"
     },
     "user-guide/docker.md": {
       "sha": "fd0c047d4837c034dd3c7da8a440c29bdf042925",
@@ -437,8 +437,8 @@
       "last_updated": "2026-08-09T09:10:25.679415+00:00"
     },
     "user-guide/features/browser.md": {
-      "sha": "9b064a6bc00f4f312871dae80d72ae5be2570ab3",
-      "last_updated": "2026-08-13T10:13:29.119896+00:00"
+      "sha": "99fb0e84c2a500ace946747150b45ca024b7749a",
+      "last_updated": "2026-08-15T12:47:23.938346+00:00"
     },
     "user-guide/features/built-in-plugins.md": {
       "sha": "77edbf71163ef9dce56a621b1adec75de7144ff2",
@@ -781,8 +781,8 @@
       "last_updated": "2026-08-09T09:10:53.981547+00:00"
     },
     "user-guide/multi-profile-gateways.md": {
-      "sha": "b73d18459527a394f1c2a9da655700b15f53ec24",
-      "last_updated": "2026-08-11T07:15:55.977928+00:00"
+      "sha": "7feddd069a90e16db198363f5ffae115a9debcfe",
+      "last_updated": "2026-08-15T12:47:24.538989+00:00"
     },
     "user-guide/profile-distributions.md": {
       "sha": "46f0660210962cb7a48b106a2336344557e7526f",
@@ -1615,9 +1615,13 @@
     "user-guide/features/loops.md": {
       "sha": "7b066b44ba0a2071ca524c108a0c966830086c3b",
       "last_updated": "2026-08-14T21:29:42.715594+00:00"
+    },
+    "user-guide/multi-connection-desktop.md": {
+      "sha": "8af9f9ba9f75835d233ad38b4541a157c1ce5b16",
+      "last_updated": "2026-08-15T12:47:24.224033+00:00"
     }
   },
-  "last_updated": "2026-08-15T09:30:33.802075+00:00",
+  "last_updated": "2026-08-15T12:47:24.747455+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
