@@ -9,8 +9,8 @@
       "last_updated": "2026-08-09T09:09:58.722493+00:00"
     },
     "developer-guide/adding-platform-adapters.md": {
-      "sha": "2847ba974b53d40cb4a279ef3ecc6f0ef336d71b",
-      "last_updated": "2026-08-13T02:24:45.204994+00:00"
+      "sha": "870c6608dd03488244fd2ce1a44fbc8b70165dfc",
+      "last_updated": "2026-08-15T06:47:31.889536+00:00"
     },
     "developer-guide/adding-providers.md": {
       "sha": "fa7adbe73c87679d73db199d7dde76e190bdb269",
@@ -169,8 +169,8 @@
       "last_updated": "2026-08-13T10:13:28.568187+00:00"
     },
     "getting-started/updating.md": {
-      "sha": "3c361adca63da60e9d778a6bdd7b839c7891b964",
-      "last_updated": "2026-08-09T09:10:08.876434+00:00"
+      "sha": "8f1a82d824e5a32de3e524bd73503658173a9142",
+      "last_updated": "2026-08-15T06:47:32.223169+00:00"
     },
     "guides/_category_.json": {
       "sha": "6d1d2f0b9ec098f749715dd4deebc4d4b753b610",
@@ -469,8 +469,8 @@
       "last_updated": "2026-08-09T09:10:28.289872+00:00"
     },
     "user-guide/features/cron.md": {
-      "sha": "9cff27584920b0d892fe68aba17e949941b3707c",
-      "last_updated": "2026-08-13T19:08:57.893586+00:00"
+      "sha": "38473ff7ea6aa7d356bec1d048da00c8afd9acb1",
+      "last_updated": "2026-08-15T06:47:32.541575+00:00"
     },
     "user-guide/features/curator.md": {
       "sha": "853e4205acd28a29da1a4a7f7fe32493ab48e242",
@@ -569,8 +569,8 @@
       "last_updated": "2026-08-09T09:10:36.531946+00:00"
     },
     "user-guide/features/skills.md": {
-      "sha": "40bf6d33dcdc0def54d57a20e8b2293832bff705",
-      "last_updated": "2026-08-09T09:10:36.847756+00:00"
+      "sha": "79c693380dfd7a029b1df271826543062ef4abeb",
+      "last_updated": "2026-08-15T06:47:32.848056+00:00"
     },
     "user-guide/features/skins.md": {
       "sha": "75353479f12cc87c64c473cc33acf5ea4dc1fc89",
@@ -605,8 +605,8 @@
       "last_updated": "2026-08-09T09:10:39.382215+00:00"
     },
     "user-guide/features/voice-mode.md": {
-      "sha": "5ac1f37b061a2af74700f8e08178a38f2e747f38",
-      "last_updated": "2026-08-09T09:10:39.688063+00:00"
+      "sha": "7b51cdbf61bfe87bfc87b31547dda9ed52a5cc01",
+      "last_updated": "2026-08-15T06:47:33.153190+00:00"
     },
     "user-guide/features/wake-word.md": {
       "sha": "622532cd5f6885a4b0a6b6a548edf01ea92e2ccf",
@@ -641,8 +641,8 @@
       "last_updated": "2026-08-09T09:10:42.461411+00:00"
     },
     "user-guide/messaging/a2a.md": {
-      "sha": "71aecfaa0ae3a7053ca6b0842308e338838cb3d5",
-      "last_updated": "2026-08-09T09:10:42.768234+00:00"
+      "sha": "92d98d19d94086a0d772e07bf6ac2def31a4012d",
+      "last_updated": "2026-08-15T06:47:33.444944+00:00"
     },
     "user-guide/messaging/bluebubbles.md": {
       "sha": "12efd3823bcde90ad642c0deb565d7314d9eb642",
@@ -749,8 +749,8 @@
       "last_updated": "2026-08-11T02:05:53.119749+00:00"
     },
     "user-guide/messaging/telegram.md": {
-      "sha": "35f38e30e8a0e4a17c2d619b0acd44c8d77a31b7",
-      "last_updated": "2026-08-09T09:10:51.297148+00:00"
+      "sha": "993423874b709a2e579f95a47a6a9eedbe29a34c",
+      "last_updated": "2026-08-15T06:47:33.754103+00:00"
     },
     "user-guide/messaging/webhooks.md": {
       "sha": "dd1148b0fac12bfd9ec26b1f37d56431f4c9a1f2",
@@ -1617,7 +1617,7 @@
       "last_updated": "2026-08-14T21:29:42.715594+00:00"
     }
   },
-  "last_updated": "2026-08-15T01:35:09.071861+00:00",
+  "last_updated": "2026-08-15T06:47:33.962526+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
