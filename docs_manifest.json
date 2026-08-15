@@ -213,8 +213,8 @@
       "last_updated": "2026-08-09T09:10:11.329972+00:00"
     },
     "guides/desktop-native-signin.md": {
-      "sha": "96c59048c784ced3ced012848169c75f1c756682",
-      "last_updated": "2026-08-09T09:10:11.575825+00:00"
+      "sha": "186acec1540bbdc56d166ac77947e36253b9b0e2",
+      "last_updated": "2026-08-15T01:35:08.862380+00:00"
     },
     "guides/github-pr-review-agent.md": {
       "sha": "f45684973bd45028efc2c8e2291998a024705b71",
@@ -1617,7 +1617,7 @@
       "last_updated": "2026-08-14T21:29:42.715594+00:00"
     }
   },
-  "last_updated": "2026-08-14T21:29:42.921010+00:00",
+  "last_updated": "2026-08-15T01:35:09.071861+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
