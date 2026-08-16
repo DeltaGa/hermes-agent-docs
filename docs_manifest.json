@@ -341,8 +341,8 @@
       "last_updated": "2026-08-09T09:10:19.218265+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "d2e7b091313b40808b20e45e8f017bccc6e66dab",
-      "last_updated": "2026-08-13T04:56:21.875856+00:00"
+      "sha": "18acbc934a7b9a9182baa1ef6c1ca0389edecb73",
+      "last_updated": "2026-08-16T01:41:30.682038+00:00"
     },
     "reference/environment-variables.md": {
       "sha": "8bdeb8b7369f8ba07ac2cf8ed13582ba9443ac8e",
@@ -453,8 +453,8 @@
       "last_updated": "2026-08-09T09:10:26.981639+00:00"
     },
     "user-guide/features/computer-use.md": {
-      "sha": "72b6ef1fd25863ae1608ccc83450120db09fa5a7",
-      "last_updated": "2026-08-13T10:13:29.425678+00:00"
+      "sha": "f14fc93bfc27595f29a024572b7ce0fae7b87c7d",
+      "last_updated": "2026-08-16T01:41:31.059811+00:00"
     },
     "user-guide/features/context-files.md": {
       "sha": "4ec8e3886690832fd8baaefa565615b3b52b0e57",
@@ -813,8 +813,8 @@
       "last_updated": "2026-08-15T09:30:33.216023+00:00"
     },
     "user-guide/sessions.md": {
-      "sha": "7d36dfa256e1513e072b75785318e1467be3af89",
-      "last_updated": "2026-08-15T09:30:33.593415+00:00"
+      "sha": "2c8fc4bbb860684eb469792de9be94abab73fa71",
+      "last_updated": "2026-08-16T01:41:31.436745+00:00"
     },
     "user-guide/skills/bundled/apple/apple-apple-notes.md": {
       "sha": "ac3ecdfff6a1d58df78ef3c4a71b804bf2053f68",
@@ -1621,7 +1621,7 @@
       "last_updated": "2026-08-15T12:47:24.224033+00:00"
     }
   },
-  "last_updated": "2026-08-15T12:47:24.747455+00:00",
+  "last_updated": "2026-08-16T01:41:31.643337+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
