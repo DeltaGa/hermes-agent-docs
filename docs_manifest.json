@@ -541,8 +541,8 @@
       "last_updated": "2026-08-09T09:10:34.342257+00:00"
     },
     "user-guide/features/memory.md": {
-      "sha": "0e37d1408abec2e2bff02f2f9c781e3d5f9e4eb9",
-      "last_updated": "2026-08-09T09:10:34.657068+00:00"
+      "sha": "4d981ae4e3c07a12689ef84795cd98235f731f35",
+      "last_updated": "2026-08-16T15:26:26.626886+00:00"
     },
     "user-guide/features/mixture-of-agents.md": {
       "sha": "55c6d23791f0ff961c2dd5bb56a71d1cd999d01e",
@@ -1621,7 +1621,7 @@
       "last_updated": "2026-08-16T12:49:15.604572+00:00"
     }
   },
-  "last_updated": "2026-08-16T12:49:15.813116+00:00",
+  "last_updated": "2026-08-16T15:26:26.835769+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
