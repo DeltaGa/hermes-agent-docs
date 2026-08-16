@@ -41,8 +41,8 @@
       "last_updated": "2026-08-09T09:10:00.684321+00:00"
     },
     "developer-guide/context-compression-and-caching.md": {
-      "sha": "4284ebe3b0291b67175d552cf00a50135e90340a",
-      "last_updated": "2026-08-09T09:10:00.933142+00:00"
+      "sha": "31e3c9a0cb751f16a579a59c5fb0c5160e550fc3",
+      "last_updated": "2026-08-16T06:48:48.512571+00:00"
     },
     "developer-guide/context-engine-plugin.md": {
       "sha": "6609158e076554fcac8ef905554fc317baee0936",
@@ -397,8 +397,8 @@
       "last_updated": "2026-08-15T09:30:31.679658+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "42af4f30ce751097f849b55e65ac46dd12bad542",
-      "last_updated": "2026-08-15T09:30:32.064060+00:00"
+      "sha": "6bf1376e655098f41c6f8a26966b7cb98f064c7a",
+      "last_updated": "2026-08-16T06:48:48.938996+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "887c0486adb80b7c444182d68288cfe9b8a8984b",
@@ -509,8 +509,8 @@
       "last_updated": "2026-08-09T09:10:31.744797+00:00"
     },
     "user-guide/features/hooks.md": {
-      "sha": "f52aec8030ce0e4b944a4ad300f93428ed73aa71",
-      "last_updated": "2026-08-13T19:08:58.685252+00:00"
+      "sha": "ace2d2998c7418c2845c5d7130d98b8db4519e68",
+      "last_updated": "2026-08-16T06:48:49.356687+00:00"
     },
     "user-guide/features/image-generation.md": {
       "sha": "a4504a94416b1bf4f8b53853ccd284f018d1ec4e",
@@ -1621,7 +1621,7 @@
       "last_updated": "2026-08-15T12:47:24.224033+00:00"
     }
   },
-  "last_updated": "2026-08-16T01:41:31.643337+00:00",
+  "last_updated": "2026-08-16T06:48:49.565703+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
