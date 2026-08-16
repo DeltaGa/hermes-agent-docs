@@ -453,8 +453,8 @@
       "last_updated": "2026-08-09T09:10:26.981639+00:00"
     },
     "user-guide/features/computer-use.md": {
-      "sha": "f84c6b5ba40cabe258253dbe7521d0c104bddc95",
-      "last_updated": "2026-08-16T18:35:41.501254+00:00"
+      "sha": "7215899c66c219f5603251a5800a340dccf47911",
+      "last_updated": "2026-08-16T21:25:15.868602+00:00"
     },
     "user-guide/features/context-files.md": {
       "sha": "4ec8e3886690832fd8baaefa565615b3b52b0e57",
@@ -1621,7 +1621,7 @@
       "last_updated": "2026-08-16T12:49:15.604572+00:00"
     }
   },
-  "last_updated": "2026-08-16T18:35:42.663931+00:00",
+  "last_updated": "2026-08-16T21:25:16.077610+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
