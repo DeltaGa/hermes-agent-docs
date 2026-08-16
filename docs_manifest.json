@@ -341,8 +341,8 @@
       "last_updated": "2026-08-09T09:10:19.218265+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "18acbc934a7b9a9182baa1ef6c1ca0389edecb73",
-      "last_updated": "2026-08-16T01:41:30.682038+00:00"
+      "sha": "49cbf54615757f82550d8a9f9e1de66dfe394dc7",
+      "last_updated": "2026-08-16T18:35:41.180934+00:00"
     },
     "reference/environment-variables.md": {
       "sha": "8bdeb8b7369f8ba07ac2cf8ed13582ba9443ac8e",
@@ -453,8 +453,8 @@
       "last_updated": "2026-08-09T09:10:26.981639+00:00"
     },
     "user-guide/features/computer-use.md": {
-      "sha": "f14fc93bfc27595f29a024572b7ce0fae7b87c7d",
-      "last_updated": "2026-08-16T01:41:31.059811+00:00"
+      "sha": "f84c6b5ba40cabe258253dbe7521d0c104bddc95",
+      "last_updated": "2026-08-16T18:35:41.501254+00:00"
     },
     "user-guide/features/context-files.md": {
       "sha": "4ec8e3886690832fd8baaefa565615b3b52b0e57",
@@ -513,8 +513,8 @@
       "last_updated": "2026-08-16T06:48:49.356687+00:00"
     },
     "user-guide/features/image-generation.md": {
-      "sha": "a4504a94416b1bf4f8b53853ccd284f018d1ec4e",
-      "last_updated": "2026-08-09T09:10:32.422393+00:00"
+      "sha": "ff2f5e4c96966b53b62656ba19c08dfee917dc00",
+      "last_updated": "2026-08-16T18:35:41.816501+00:00"
     },
     "user-guide/features/kanban-tutorial.md": {
       "sha": "3e76e94da6a052627c446537462424ee3c4da1d9",
@@ -541,8 +541,8 @@
       "last_updated": "2026-08-09T09:10:34.342257+00:00"
     },
     "user-guide/features/memory.md": {
-      "sha": "4d981ae4e3c07a12689ef84795cd98235f731f35",
-      "last_updated": "2026-08-16T15:26:26.626886+00:00"
+      "sha": "624465821e38697a526d2696ff93612db5e34c66",
+      "last_updated": "2026-08-16T18:35:42.120105+00:00"
     },
     "user-guide/features/mixture-of-agents.md": {
       "sha": "55c6d23791f0ff961c2dd5bb56a71d1cd999d01e",
@@ -841,8 +841,8 @@
       "last_updated": "2026-08-09T09:10:58.767697+00:00"
     },
     "user-guide/skills/bundled/autonomous-ai-agents/autonomous-ai-agents-computer-use.md": {
-      "sha": "5996c313d1fe8ad4301aee56883668028398f0fe",
-      "last_updated": "2026-08-09T09:10:59.101497+00:00"
+      "sha": "40cfe3ff6fe53d8803c3f10600b093674c1b9436",
+      "last_updated": "2026-08-16T18:35:42.455498+00:00"
     },
     "user-guide/skills/bundled/autonomous-ai-agents/autonomous-ai-agents-hermes-agent.md": {
       "sha": "ed894fba0bf5a913729381c4e7080eec1424f1f8",
@@ -1621,7 +1621,7 @@
       "last_updated": "2026-08-16T12:49:15.604572+00:00"
     }
   },
-  "last_updated": "2026-08-16T15:26:26.835769+00:00",
+  "last_updated": "2026-08-16T18:35:42.663931+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
