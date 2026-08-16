@@ -353,8 +353,8 @@
       "last_updated": "2026-08-09T09:10:19.986808+00:00"
     },
     "reference/mcp-config-reference.md": {
-      "sha": "1a851ae0137df9a6d3f0a7e45f645f4759ba4353",
-      "last_updated": "2026-08-09T09:10:20.233662+00:00"
+      "sha": "a523740b91f455ac526a59b1f0518c079745c596",
+      "last_updated": "2026-08-16T09:32:04.472819+00:00"
     },
     "reference/model-catalog.md": {
       "sha": "4769a720c8f12c80d417f22f15bdb80ec8521633",
@@ -401,8 +401,8 @@
       "last_updated": "2026-08-16T06:48:48.938996+00:00"
     },
     "user-guide/configuring-models.md": {
-      "sha": "887c0486adb80b7c444182d68288cfe9b8a8984b",
-      "last_updated": "2026-08-13T21:52:31.679921+00:00"
+      "sha": "a14b345dae06ca51b14e23ef9d886561d4a1aa4e",
+      "last_updated": "2026-08-16T09:32:04.849501+00:00"
     },
     "user-guide/desktop.md": {
       "sha": "68de972a120b80b18e64e16197541323d9ce7399",
@@ -809,8 +809,8 @@
       "last_updated": "2026-08-09T09:10:56.224210+00:00"
     },
     "user-guide/security.md": {
-      "sha": "d4bc6b3cd468f553bed33c070514cccc7616a12d",
-      "last_updated": "2026-08-15T09:30:33.216023+00:00"
+      "sha": "e63199af0b5fc34d99dc4e83a3def242cf23453f",
+      "last_updated": "2026-08-16T09:32:05.222167+00:00"
     },
     "user-guide/sessions.md": {
       "sha": "2c8fc4bbb860684eb469792de9be94abab73fa71",
@@ -1621,7 +1621,7 @@
       "last_updated": "2026-08-15T12:47:24.224033+00:00"
     }
   },
-  "last_updated": "2026-08-16T06:48:49.565703+00:00",
+  "last_updated": "2026-08-16T09:32:05.430569+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
