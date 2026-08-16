@@ -61,8 +61,8 @@
       "last_updated": "2026-08-09T09:10:01.930596+00:00"
     },
     "developer-guide/desktop-plugin-sdk.md": {
-      "sha": "73973aa24b2d4851d7d125f2083921b79cd24af4",
-      "last_updated": "2026-08-14T07:39:33.404594+00:00"
+      "sha": "d0c4892277f7e72f3f2f341458616ca90b4268d9",
+      "last_updated": "2026-08-16T12:49:15.080435+00:00"
     },
     "developer-guide/egress-internals.md": {
       "sha": "f84160788a0c1f02388748fa8d470717bca850b3",
@@ -405,8 +405,8 @@
       "last_updated": "2026-08-16T09:32:04.849501+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "68de972a120b80b18e64e16197541323d9ce7399",
-      "last_updated": "2026-08-15T12:47:23.645258+00:00"
+      "sha": "51921303a7cd0a5098218fbdda5cea87bc24a5ad",
+      "last_updated": "2026-08-16T12:49:15.315751+00:00"
     },
     "user-guide/docker.md": {
       "sha": "fd0c047d4837c034dd3c7da8a440c29bdf042925",
@@ -1617,11 +1617,11 @@
       "last_updated": "2026-08-14T21:29:42.715594+00:00"
     },
     "user-guide/multi-connection-desktop.md": {
-      "sha": "8af9f9ba9f75835d233ad38b4541a157c1ce5b16",
-      "last_updated": "2026-08-15T12:47:24.224033+00:00"
+      "sha": "8ecab447b0201bfa1dc078a2b457ce187b1eb76f",
+      "last_updated": "2026-08-16T12:49:15.604572+00:00"
     }
   },
-  "last_updated": "2026-08-16T09:32:05.430569+00:00",
+  "last_updated": "2026-08-16T12:49:15.813116+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
