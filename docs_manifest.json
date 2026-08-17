@@ -477,8 +477,8 @@
       "last_updated": "2026-08-17T09:49:03.578935+00:00"
     },
     "user-guide/features/delegation.md": {
-      "sha": "f7f3819f1ea295fb46324eb40d5b7ac119089b4e",
-      "last_updated": "2026-08-13T19:08:58.273609+00:00"
+      "sha": "15d27cc20eb53ce4fa8ad90e08895e0295840815",
+      "last_updated": "2026-08-17T15:30:18.253316+00:00"
     },
     "user-guide/features/deliverable-mode.md": {
       "sha": "d01847ebb0573d9bd176ac083fc71ff70ba4e727",
@@ -1629,7 +1629,7 @@
       "last_updated": "2026-08-17T09:49:06.297104+00:00"
     }
   },
-  "last_updated": "2026-08-17T12:54:06.002641+00:00",
+  "last_updated": "2026-08-17T15:30:18.462295+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
