@@ -329,8 +329,8 @@
       "last_updated": "2026-08-09T09:10:18.474709+00:00"
     },
     "integrations/providers.md": {
-      "sha": "6137f8f559405521555769c2592e5a0457d7445d",
-      "last_updated": "2026-08-15T12:47:23.347845+00:00"
+      "sha": "1b298c1464784a252fe15e0e0c496547277d60a8",
+      "last_updated": "2026-08-17T12:54:04.339267+00:00"
     },
     "reference/_category_.json": {
       "sha": "8150d97ad57c8f434b72e9cc65a58abd091787c6",
@@ -341,8 +341,8 @@
       "last_updated": "2026-08-09T09:10:19.218265+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "49cbf54615757f82550d8a9f9e1de66dfe394dc7",
-      "last_updated": "2026-08-16T18:35:41.180934+00:00"
+      "sha": "e853c1fccab3fb7bd5dcc5503add296310447e8c",
+      "last_updated": "2026-08-17T12:54:04.601325+00:00"
     },
     "reference/environment-variables.md": {
       "sha": "8bdeb8b7369f8ba07ac2cf8ed13582ba9443ac8e",
@@ -353,8 +353,8 @@
       "last_updated": "2026-08-09T09:10:19.986808+00:00"
     },
     "reference/mcp-config-reference.md": {
-      "sha": "a523740b91f455ac526a59b1f0518c079745c596",
-      "last_updated": "2026-08-16T09:32:04.472819+00:00"
+      "sha": "494a66b397b67fc1d5a2cbca282726f28923c173",
+      "last_updated": "2026-08-17T12:54:04.920036+00:00"
     },
     "reference/model-catalog.md": {
       "sha": "4769a720c8f12c80d417f22f15bdb80ec8521633",
@@ -397,8 +397,8 @@
       "last_updated": "2026-08-15T09:30:31.679658+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "3758ef5f59fb71e903ce15ce97a2a06d06bfa600",
-      "last_updated": "2026-08-17T09:49:02.295594+00:00"
+      "sha": "b7e3d72c7415339083e3933793d5f437a03d7234",
+      "last_updated": "2026-08-17T12:54:05.218695+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "422cdc57a3ba2a5acef53717a654d294f2c8c624",
@@ -493,8 +493,8 @@
       "last_updated": "2026-08-09T09:10:30.129762+00:00"
     },
     "user-guide/features/fallback-providers.md": {
-      "sha": "0e083ee078dff089675fc5c15a8d0a71df88cdea",
-      "last_updated": "2026-08-13T13:23:32.404919+00:00"
+      "sha": "2c3cdbc066d19cf2eac441e1df4a604972674491",
+      "last_updated": "2026-08-17T12:54:05.497514+00:00"
     },
     "user-guide/features/goals.md": {
       "sha": "b4a9f315858409f0432eff323fb377fbd8e95d0f",
@@ -749,8 +749,8 @@
       "last_updated": "2026-08-11T02:05:53.119749+00:00"
     },
     "user-guide/messaging/telegram.md": {
-      "sha": "993423874b709a2e579f95a47a6a9eedbe29a34c",
-      "last_updated": "2026-08-15T06:47:33.754103+00:00"
+      "sha": "4b4b58feeffe7a12b6cbb557783ad925e906f7ae",
+      "last_updated": "2026-08-17T12:54:05.794012+00:00"
     },
     "user-guide/messaging/webhooks.md": {
       "sha": "dd1148b0fac12bfd9ec26b1f37d56431f4c9a1f2",
@@ -1629,7 +1629,7 @@
       "last_updated": "2026-08-17T09:49:06.297104+00:00"
     }
   },
-  "last_updated": "2026-08-17T09:49:06.504669+00:00",
+  "last_updated": "2026-08-17T12:54:06.002641+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
