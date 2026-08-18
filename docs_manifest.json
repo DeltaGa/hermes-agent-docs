@@ -1617,8 +1617,8 @@
       "last_updated": "2026-08-14T21:29:42.715594+00:00"
     },
     "user-guide/multi-connection-desktop.md": {
-      "sha": "45d7fd0516c79cffb1b26267300dac5ed78891bd",
-      "last_updated": "2026-08-18T03:49:14.071146+00:00"
+      "sha": "66d116a942cee6644f6efe9cad53e649d3c595d1",
+      "last_updated": "2026-08-18T18:45:03.689077+00:00"
     },
     "user-guide/skills/optional/creative/creative-draw-your-font.md": {
       "sha": "23a0596bc8ce5ee92b489c5a0e37220686441bb3",
@@ -1629,15 +1629,15 @@
       "last_updated": "2026-08-17T09:49:06.297104+00:00"
     },
     "user-guide/bot-mode.md": {
-      "sha": "3eda420575c03e2e9c46468584ebab37c156c450",
-      "last_updated": "2026-08-18T09:38:36.308771+00:00"
+      "sha": "3fcdd03019ae2c95de72f95d9c289d677848ed8a",
+      "last_updated": "2026-08-18T18:45:03.370671+00:00"
     },
     "reference/cli-symbols.md": {
       "sha": "6876e87af084db0ddae469c1a3ceec971958e0d3",
       "last_updated": "2026-08-18T09:38:35.921713+00:00"
     }
   },
-  "last_updated": "2026-08-18T09:38:38.093863+00:00",
+  "last_updated": "2026-08-18T18:45:03.894222+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
