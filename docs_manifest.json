@@ -61,8 +61,8 @@
       "last_updated": "2026-08-09T09:10:01.930596+00:00"
     },
     "developer-guide/desktop-plugin-sdk.md": {
-      "sha": "bd9184b34472b1924c235e242aff30b3b40e34ec",
-      "last_updated": "2026-08-18T03:49:10.415573+00:00"
+      "sha": "83d4a35971a85db575621f8f2eaa7b8f2ffddd31",
+      "last_updated": "2026-08-18T21:29:29.607979+00:00"
     },
     "developer-guide/egress-internals.md": {
       "sha": "f84160788a0c1f02388748fa8d470717bca850b3",
@@ -253,8 +253,8 @@
       "last_updated": "2026-08-09T09:10:13.789505+00:00"
     },
     "guides/operate-teams-meeting-pipeline.md": {
-      "sha": "6da6185b7a98c2e878e11be51539316a136c914f",
-      "last_updated": "2026-08-09T09:10:14.037358+00:00"
+      "sha": "93c259cc15e72c26f956ba2abc735039dae8fbe6",
+      "last_updated": "2026-08-18T21:29:29.970628+00:00"
     },
     "guides/pipe-script-output.md": {
       "sha": "a58f408260767b4e7bda30d775643baadc4765ce",
@@ -1037,8 +1037,8 @@
       "last_updated": "2026-08-09T09:11:14.241481+00:00"
     },
     "user-guide/skills/bundled/productivity/productivity-teams-meeting-pipeline.md": {
-      "sha": "adac36e9c2493b5140b8806840456c9c4bed4900",
-      "last_updated": "2026-08-09T09:11:14.543301+00:00"
+      "sha": "60eb2d6a3cdc14e8fdaa567f3e285969c47a49f1",
+      "last_updated": "2026-08-18T21:29:30.384967+00:00"
     },
     "user-guide/skills/bundled/productivity/productivity-weekly-review-planning.md": {
       "sha": "1d932c05e2a5a0a20f3b8958994ddbb012be1213",
@@ -1637,7 +1637,7 @@
       "last_updated": "2026-08-18T09:38:35.921713+00:00"
     }
   },
-  "last_updated": "2026-08-18T18:45:03.894222+00:00",
+  "last_updated": "2026-08-18T21:29:30.593090+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
