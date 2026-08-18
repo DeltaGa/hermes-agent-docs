@@ -169,8 +169,8 @@
       "last_updated": "2026-08-18T03:49:10.763164+00:00"
     },
     "getting-started/updating.md": {
-      "sha": "24ac9e0cc299f06e064df960b76a5f0ef9e45de4",
-      "last_updated": "2026-08-17T09:49:01.024702+00:00"
+      "sha": "ab51e86541af0b5821258c9956f0a3f2cdbf9468",
+      "last_updated": "2026-08-18T09:38:34.910674+00:00"
     },
     "guides/_category_.json": {
       "sha": "6d1d2f0b9ec098f749715dd4deebc4d4b753b610",
@@ -397,8 +397,8 @@
       "last_updated": "2026-08-15T09:30:31.679658+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "b7e3d72c7415339083e3933793d5f437a03d7234",
-      "last_updated": "2026-08-17T12:54:05.218695+00:00"
+      "sha": "0eccf2d5aa51903f39fdfbbe9375612a784eae8d",
+      "last_updated": "2026-08-18T09:38:36.698379+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "422cdc57a3ba2a5acef53717a654d294f2c8c624",
@@ -789,8 +789,8 @@
       "last_updated": "2026-08-12T19:08:20.857302+00:00"
     },
     "user-guide/profiles.md": {
-      "sha": "cd68f1c4b7a08ed83f3813d5e695b34833765661",
-      "last_updated": "2026-08-12T19:08:21.135517+00:00"
+      "sha": "ae4ad7055f308f8434b30566fe3c0cda984f9de7",
+      "last_updated": "2026-08-18T09:38:37.885393+00:00"
     },
     "user-guide/secrets/bitwarden.md": {
       "sha": "671fb640fef781aacf418770bc94370bccd1c4b4",
@@ -1629,11 +1629,15 @@
       "last_updated": "2026-08-17T09:49:06.297104+00:00"
     },
     "user-guide/bot-mode.md": {
-      "sha": "322ff9df7df3c755f6b7cef40aa879ab2c6853c5",
-      "last_updated": "2026-08-18T03:49:11.912071+00:00"
+      "sha": "3eda420575c03e2e9c46468584ebab37c156c450",
+      "last_updated": "2026-08-18T09:38:36.308771+00:00"
+    },
+    "reference/cli-symbols.md": {
+      "sha": "6876e87af084db0ddae469c1a3ceec971958e0d3",
+      "last_updated": "2026-08-18T09:38:35.921713+00:00"
     }
   },
-  "last_updated": "2026-08-18T03:49:14.279613+00:00",
+  "last_updated": "2026-08-18T09:38:38.093863+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
