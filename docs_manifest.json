@@ -61,8 +61,8 @@
       "last_updated": "2026-08-09T09:10:01.930596+00:00"
     },
     "developer-guide/desktop-plugin-sdk.md": {
-      "sha": "3c86a073432f8e7af348e60e3a7a317d7db43199",
-      "last_updated": "2026-08-17T21:30:14.781105+00:00"
+      "sha": "bd9184b34472b1924c235e242aff30b3b40e34ec",
+      "last_updated": "2026-08-18T03:49:10.415573+00:00"
     },
     "developer-guide/egress-internals.md": {
       "sha": "f84160788a0c1f02388748fa8d470717bca850b3",
@@ -165,8 +165,8 @@
       "last_updated": "2026-08-13T13:23:31.170846+00:00"
     },
     "getting-started/termux.md": {
-      "sha": "1545ff644552290e44073902e27c7e067080e11c",
-      "last_updated": "2026-08-13T10:13:28.568187+00:00"
+      "sha": "529ed522164483781e89d43cdd201b8e3eed25b4",
+      "last_updated": "2026-08-18T03:49:10.763164+00:00"
     },
     "getting-started/updating.md": {
       "sha": "24ac9e0cc299f06e064df960b76a5f0ef9e45de4",
@@ -341,12 +341,12 @@
       "last_updated": "2026-08-09T09:10:19.218265+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "e853c1fccab3fb7bd5dcc5503add296310447e8c",
-      "last_updated": "2026-08-17T12:54:04.601325+00:00"
+      "sha": "2b87347961193ea4f428351e2fbbd59bb9d07303",
+      "last_updated": "2026-08-18T03:49:11.159100+00:00"
     },
     "reference/environment-variables.md": {
-      "sha": "8bdeb8b7369f8ba07ac2cf8ed13582ba9443ac8e",
-      "last_updated": "2026-08-14T07:39:34.131877+00:00"
+      "sha": "9e36f980124773a82aa4fcfe5a3c15d7c855c2c8",
+      "last_updated": "2026-08-18T03:49:11.568655+00:00"
     },
     "reference/faq.md": {
       "sha": "fc199a509b72af19e25ce700b8963c8db27237b1",
@@ -405,8 +405,8 @@
       "last_updated": "2026-08-17T09:49:02.614076+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "d18ab7cb1180957d0d25fe856c12fb4d2cfc7190",
-      "last_updated": "2026-08-17T01:39:41.188027+00:00"
+      "sha": "83d8d283ea8574d4a5e4b47c02b7ddaf382f3d76",
+      "last_updated": "2026-08-18T03:49:12.275438+00:00"
     },
     "user-guide/docker.md": {
       "sha": "fd0c047d4837c034dd3c7da8a440c29bdf042925",
@@ -469,8 +469,8 @@
       "last_updated": "2026-08-09T09:10:28.289872+00:00"
     },
     "user-guide/features/cron.md": {
-      "sha": "6e12e8e5e36b0dd9e37f56c10bc8529ab25480c6",
-      "last_updated": "2026-08-17T18:47:39.996921+00:00"
+      "sha": "56e31341cfcbc14e3a05ef16149f746ae7914654",
+      "last_updated": "2026-08-18T03:49:12.614775+00:00"
     },
     "user-guide/features/curator.md": {
       "sha": "e6d8617f16645fcc41bcdfddb0fc88283e27a22f",
@@ -525,8 +525,8 @@
       "last_updated": "2026-08-10T21:48:29.396493+00:00"
     },
     "user-guide/features/kanban.md": {
-      "sha": "b978f97c91221ce295843ddc39f2776a37c31492",
-      "last_updated": "2026-08-13T21:52:32.095378+00:00"
+      "sha": "ebb1c26d6590e98fb678a18563356340ceb41d7d",
+      "last_updated": "2026-08-18T03:49:12.984195+00:00"
     },
     "user-guide/features/lsp.md": {
       "sha": "8f5830f47914631f574953b3072115c3310f569a",
@@ -569,8 +569,8 @@
       "last_updated": "2026-08-09T09:10:36.531946+00:00"
     },
     "user-guide/features/skills.md": {
-      "sha": "0795e347a923395ddd0a1f92a896a2bfc20cc00f",
-      "last_updated": "2026-08-17T21:30:16.292602+00:00"
+      "sha": "ec71205d0c7d0a39568f7d02cb0be50b0049869d",
+      "last_updated": "2026-08-18T03:49:13.357642+00:00"
     },
     "user-guide/features/skins.md": {
       "sha": "75353479f12cc87c64c473cc33acf5ea4dc1fc89",
@@ -613,8 +613,8 @@
       "last_updated": "2026-08-09T09:10:39.986886+00:00"
     },
     "user-guide/features/web-dashboard.md": {
-      "sha": "b5740090e0b3b4414a427399153ab390b672e774",
-      "last_updated": "2026-08-14T07:39:35.304894+00:00"
+      "sha": "50a11f2c287514872f7820f2e66e5bba8d4619e9",
+      "last_updated": "2026-08-18T03:49:13.712797+00:00"
     },
     "user-guide/features/web-search.md": {
       "sha": "ca7f529bbcf0ba03b3657a4a9c1a1d202eea1e7b",
@@ -1617,8 +1617,8 @@
       "last_updated": "2026-08-14T21:29:42.715594+00:00"
     },
     "user-guide/multi-connection-desktop.md": {
-      "sha": "8ecab447b0201bfa1dc078a2b457ce187b1eb76f",
-      "last_updated": "2026-08-16T12:49:15.604572+00:00"
+      "sha": "45d7fd0516c79cffb1b26267300dac5ed78891bd",
+      "last_updated": "2026-08-18T03:49:14.071146+00:00"
     },
     "user-guide/skills/optional/creative/creative-draw-your-font.md": {
       "sha": "23a0596bc8ce5ee92b489c5a0e37220686441bb3",
@@ -1629,11 +1629,11 @@
       "last_updated": "2026-08-17T09:49:06.297104+00:00"
     },
     "user-guide/bot-mode.md": {
-      "sha": "173dbc4ce458675654a9994085784278b904e6ef",
-      "last_updated": "2026-08-17T21:30:15.855938+00:00"
+      "sha": "322ff9df7df3c755f6b7cef40aa879ab2c6853c5",
+      "last_updated": "2026-08-18T03:49:11.912071+00:00"
     }
   },
-  "last_updated": "2026-08-17T21:30:16.501501+00:00",
+  "last_updated": "2026-08-18T03:49:14.279613+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
