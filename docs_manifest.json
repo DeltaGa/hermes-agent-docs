@@ -149,8 +149,8 @@
       "last_updated": "2026-08-17T09:49:00.708794+00:00"
     },
     "getting-started/learning-path.md": {
-      "sha": "a643267637a00f9796cb46bd54b0f27c96cf1809",
-      "last_updated": "2026-08-09T09:10:07.639141+00:00"
+      "sha": "0f6e9d85101cafaa5d88f09e56b6ebc1b10bac70",
+      "last_updated": "2026-08-19T12:56:39.052060+00:00"
     },
     "getting-started/nix-setup.md": {
       "sha": "43c2f268bd3fc01474a500308b1f7c859b718e1d",
@@ -309,12 +309,12 @@
       "last_updated": "2026-08-09T09:10:17.239452+00:00"
     },
     "guides/xai-grok-oauth.md": {
-      "sha": "df21a21249fbcf372b3d552c2bd00f5ad001c31d",
-      "last_updated": "2026-08-14T07:39:33.761505+00:00"
+      "sha": "6645229a0c1ebf523850c611aa591a67f786df44",
+      "last_updated": "2026-08-19T12:56:39.461922+00:00"
     },
     "index.mdx": {
-      "sha": "f7a943cba9f734787c3a44202ab23b34fec0aa42",
-      "last_updated": "2026-08-09T09:10:17.735152+00:00"
+      "sha": "29c90a267f7a40ee8a6f2e14fb747a3a4394a023",
+      "last_updated": "2026-08-19T12:56:39.829237+00:00"
     },
     "integrations/buzz.md": {
       "sha": "c0514bf99e4721692207e653947214213559d2c5",
@@ -341,8 +341,8 @@
       "last_updated": "2026-08-09T09:10:19.218265+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "2b87347961193ea4f428351e2fbbd59bb9d07303",
-      "last_updated": "2026-08-18T03:49:11.159100+00:00"
+      "sha": "226e33db83ac51c82fc1f4b6ef353d8334ee84c4",
+      "last_updated": "2026-08-19T12:56:40.185179+00:00"
     },
     "reference/environment-variables.md": {
       "sha": "9e36f980124773a82aa4fcfe5a3c15d7c855c2c8",
@@ -353,8 +353,8 @@
       "last_updated": "2026-08-09T09:10:19.986808+00:00"
     },
     "reference/mcp-config-reference.md": {
-      "sha": "2a3214acbe092d4221ac98ba415bdfd689bc0e60",
-      "last_updated": "2026-08-19T03:50:43.229099+00:00"
+      "sha": "35bb31e64dc4758777fab04f94599349186df767",
+      "last_updated": "2026-08-19T12:56:40.558099+00:00"
     },
     "reference/model-catalog.md": {
       "sha": "4769a720c8f12c80d417f22f15bdb80ec8521633",
@@ -377,12 +377,12 @@
       "last_updated": "2026-08-17T09:49:01.673968+00:00"
     },
     "reference/tools-reference.md": {
-      "sha": "4851c2edada0eda8ef499411c7c770532c057e4d",
-      "last_updated": "2026-08-19T01:37:36.957297+00:00"
+      "sha": "35b4ff466e85172e213928b5b03bdcf1db32283b",
+      "last_updated": "2026-08-19T12:56:40.947455+00:00"
     },
     "reference/toolsets-reference.md": {
-      "sha": "f830261c57208c056ad3d37fb58bb922df098aa6",
-      "last_updated": "2026-08-10T21:48:28.363725+00:00"
+      "sha": "5eba1ea86c979504145706e38727044de2a1cd79",
+      "last_updated": "2026-08-19T12:56:41.333946+00:00"
     },
     "user-guide/_category_.json": {
       "sha": "7911fa56fec15dafb51ceb520070a85fadf7addc",
@@ -393,8 +393,8 @@
       "last_updated": "2026-08-17T09:49:01.982399+00:00"
     },
     "user-guide/cli.md": {
-      "sha": "1e8151597fe813cf1aec5f8cccdbf759915d99ea",
-      "last_updated": "2026-08-15T09:30:31.679658+00:00"
+      "sha": "9c4e7a6aaba1eb445cc4a146847b0426e804ad78",
+      "last_updated": "2026-08-19T12:56:42.084873+00:00"
     },
     "user-guide/configuration.md": {
       "sha": "0eccf2d5aa51903f39fdfbbe9375612a784eae8d",
@@ -405,8 +405,8 @@
       "last_updated": "2026-08-17T09:49:02.614076+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "83d8d283ea8574d4a5e4b47c02b7ddaf382f3d76",
-      "last_updated": "2026-08-18T03:49:12.275438+00:00"
+      "sha": "a381a4b568bbfe7fe8a9aff5db3e0539142c06da",
+      "last_updated": "2026-08-19T12:56:42.407999+00:00"
     },
     "user-guide/docker.md": {
       "sha": "fd0c047d4837c034dd3c7da8a440c29bdf042925",
@@ -1617,8 +1617,8 @@
       "last_updated": "2026-08-14T21:29:42.715594+00:00"
     },
     "user-guide/multi-connection-desktop.md": {
-      "sha": "66d116a942cee6644f6efe9cad53e649d3c595d1",
-      "last_updated": "2026-08-18T18:45:03.689077+00:00"
+      "sha": "4fa043211d9ce20b2747f6bc693fbe30d283d017",
+      "last_updated": "2026-08-19T12:56:42.784274+00:00"
     },
     "user-guide/skills/optional/creative/creative-draw-your-font.md": {
       "sha": "23a0596bc8ce5ee92b489c5a0e37220686441bb3",
@@ -1629,15 +1629,15 @@
       "last_updated": "2026-08-17T09:49:06.297104+00:00"
     },
     "user-guide/bot-mode.md": {
-      "sha": "c1204dfeadb87272989e9599e61f4067f76a307b",
-      "last_updated": "2026-08-19T01:37:38.367841+00:00"
+      "sha": "9b7395c65d5ade069ff50a7c4e7ba454739d0406",
+      "last_updated": "2026-08-19T12:56:41.716806+00:00"
     },
     "reference/cli-symbols.md": {
       "sha": "6876e87af084db0ddae469c1a3ceec971958e0d3",
       "last_updated": "2026-08-18T09:38:35.921713+00:00"
     }
   },
-  "last_updated": "2026-08-19T03:50:43.728757+00:00",
+  "last_updated": "2026-08-19T12:56:42.992846+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
