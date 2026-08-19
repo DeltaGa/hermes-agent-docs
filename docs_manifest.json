@@ -61,8 +61,8 @@
       "last_updated": "2026-08-09T09:10:01.930596+00:00"
     },
     "developer-guide/desktop-plugin-sdk.md": {
-      "sha": "a111e7e8003c20bd0f33b825bf404c7092f459d9",
-      "last_updated": "2026-08-19T01:37:36.044908+00:00"
+      "sha": "5a4c0dc4ed2a9a82739cf30b8325cc793c459d35",
+      "last_updated": "2026-08-19T03:50:42.936976+00:00"
     },
     "developer-guide/egress-internals.md": {
       "sha": "f84160788a0c1f02388748fa8d470717bca850b3",
@@ -353,8 +353,8 @@
       "last_updated": "2026-08-09T09:10:19.986808+00:00"
     },
     "reference/mcp-config-reference.md": {
-      "sha": "494a66b397b67fc1d5a2cbca282726f28923c173",
-      "last_updated": "2026-08-17T12:54:04.920036+00:00"
+      "sha": "2a3214acbe092d4221ac98ba415bdfd689bc0e60",
+      "last_updated": "2026-08-19T03:50:43.229099+00:00"
     },
     "reference/model-catalog.md": {
       "sha": "4769a720c8f12c80d417f22f15bdb80ec8521633",
@@ -533,8 +533,8 @@
       "last_updated": "2026-08-09T09:10:33.729614+00:00"
     },
     "user-guide/features/mcp.md": {
-      "sha": "41dce482390b54f4388a0af85736fcc4e9f7e247",
-      "last_updated": "2026-08-17T09:49:03.824099+00:00"
+      "sha": "755941407aa7aa8cd41e813e7ba1829a29d644ed",
+      "last_updated": "2026-08-19T03:50:43.519849+00:00"
     },
     "user-guide/features/memory-providers.md": {
       "sha": "099d73b3ebeb0dcd87bd3eda3b0eba95a0d3dff2",
@@ -1637,7 +1637,7 @@
       "last_updated": "2026-08-18T09:38:35.921713+00:00"
     }
   },
-  "last_updated": "2026-08-19T01:37:39.122436+00:00",
+  "last_updated": "2026-08-19T03:50:43.728757+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
