@@ -61,8 +61,8 @@
       "last_updated": "2026-08-09T09:10:01.930596+00:00"
     },
     "developer-guide/desktop-plugin-sdk.md": {
-      "sha": "83d4a35971a85db575621f8f2eaa7b8f2ffddd31",
-      "last_updated": "2026-08-18T21:29:29.607979+00:00"
+      "sha": "a111e7e8003c20bd0f33b825bf404c7092f459d9",
+      "last_updated": "2026-08-19T01:37:36.044908+00:00"
     },
     "developer-guide/egress-internals.md": {
       "sha": "f84160788a0c1f02388748fa8d470717bca850b3",
@@ -153,8 +153,8 @@
       "last_updated": "2026-08-09T09:10:07.639141+00:00"
     },
     "getting-started/nix-setup.md": {
-      "sha": "2919d14acfb86e2225f0740f3125950aa04d32fc",
-      "last_updated": "2026-08-09T09:10:07.891021+00:00"
+      "sha": "43c2f268bd3fc01474a500308b1f7c859b718e1d",
+      "last_updated": "2026-08-19T01:37:36.519471+00:00"
     },
     "getting-started/platform-support.md": {
       "sha": "1791716717c92e07f449eed99eace2fec2fe5a03",
@@ -377,8 +377,8 @@
       "last_updated": "2026-08-17T09:49:01.673968+00:00"
     },
     "reference/tools-reference.md": {
-      "sha": "d63ad0f14f42f22bb8d9a5d3b88975a3a193678d",
-      "last_updated": "2026-08-13T07:41:46.227105+00:00"
+      "sha": "4851c2edada0eda8ef499411c7c770532c057e4d",
+      "last_updated": "2026-08-19T01:37:36.957297+00:00"
     },
     "reference/toolsets-reference.md": {
       "sha": "f830261c57208c056ad3d37fb58bb922df098aa6",
@@ -561,8 +561,8 @@
       "last_updated": "2026-08-09T09:10:35.898321+00:00"
     },
     "user-guide/features/plugins.md": {
-      "sha": "7c1979482c3429d42360885db19df6f421031fa9",
-      "last_updated": "2026-08-17T09:49:04.141647+00:00"
+      "sha": "14c162f12370deb71967ceab9f488b0dce4d24d9",
+      "last_updated": "2026-08-19T01:37:38.913438+00:00"
     },
     "user-guide/features/provider-routing.md": {
       "sha": "ff8a9ef56ccc23709cbf4ff900e82560332b350d",
@@ -1629,15 +1629,15 @@
       "last_updated": "2026-08-17T09:49:06.297104+00:00"
     },
     "user-guide/bot-mode.md": {
-      "sha": "3fcdd03019ae2c95de72f95d9c289d677848ed8a",
-      "last_updated": "2026-08-18T18:45:03.370671+00:00"
+      "sha": "c1204dfeadb87272989e9599e61f4067f76a307b",
+      "last_updated": "2026-08-19T01:37:38.367841+00:00"
     },
     "reference/cli-symbols.md": {
       "sha": "6876e87af084db0ddae469c1a3ceec971958e0d3",
       "last_updated": "2026-08-18T09:38:35.921713+00:00"
     }
   },
-  "last_updated": "2026-08-18T21:29:30.593090+00:00",
+  "last_updated": "2026-08-19T01:37:39.122436+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
