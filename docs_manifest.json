@@ -397,8 +397,8 @@
       "last_updated": "2026-08-19T12:56:42.084873+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "0eccf2d5aa51903f39fdfbbe9375612a784eae8d",
-      "last_updated": "2026-08-18T09:38:36.698379+00:00"
+      "sha": "e937e2d59d5b2309507caa73b461397fda1cd6ce",
+      "last_updated": "2026-08-20T01:35:48.298704+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "422cdc57a3ba2a5acef53717a654d294f2c8c624",
@@ -513,8 +513,8 @@
       "last_updated": "2026-08-16T06:48:49.356687+00:00"
     },
     "user-guide/features/image-generation.md": {
-      "sha": "ff2f5e4c96966b53b62656ba19c08dfee917dc00",
-      "last_updated": "2026-08-16T18:35:41.816501+00:00"
+      "sha": "51528d81c6133028b71bf1b85ce1f2e620d0153f",
+      "last_updated": "2026-08-20T01:35:48.706424+00:00"
     },
     "user-guide/features/kanban-tutorial.md": {
       "sha": "3e76e94da6a052627c446537462424ee3c4da1d9",
@@ -1637,7 +1637,7 @@
       "last_updated": "2026-08-18T09:38:35.921713+00:00"
     }
   },
-  "last_updated": "2026-08-19T21:29:57.134167+00:00",
+  "last_updated": "2026-08-20T01:35:48.912980+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
