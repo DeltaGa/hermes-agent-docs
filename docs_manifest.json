@@ -321,8 +321,8 @@
       "last_updated": "2026-08-09T09:10:17.980973+00:00"
     },
     "integrations/index.md": {
-      "sha": "9780de27a4d570da6fd5a0b80be9462f2c2f1992",
-      "last_updated": "2026-08-09T09:10:18.227858+00:00"
+      "sha": "eef508952a55b984b0719ba85b38d8b433a6b2b0",
+      "last_updated": "2026-08-20T09:39:47.421513+00:00"
     },
     "integrations/nous-portal.md": {
       "sha": "ffcbe49409bda3d58d89734ea58371842f6681e5",
@@ -345,8 +345,8 @@
       "last_updated": "2026-08-19T12:56:40.185179+00:00"
     },
     "reference/environment-variables.md": {
-      "sha": "87efeef579947dfeac57c242a9e2b6e4dd441c14",
-      "last_updated": "2026-08-20T03:51:05.107939+00:00"
+      "sha": "e35fbcaf0a2f8b69f9812cc3e4f2d5fde7c5563c",
+      "last_updated": "2026-08-20T09:39:47.698190+00:00"
     },
     "reference/faq.md": {
       "sha": "fc199a509b72af19e25ce700b8963c8db27237b1",
@@ -393,20 +393,20 @@
       "last_updated": "2026-08-17T09:49:01.982399+00:00"
     },
     "user-guide/cli.md": {
-      "sha": "9c4e7a6aaba1eb445cc4a146847b0426e804ad78",
-      "last_updated": "2026-08-19T12:56:42.084873+00:00"
+      "sha": "08a9401468a4cfba8f1d88a6bb6a8f6dc300d96c",
+      "last_updated": "2026-08-20T09:39:48.284442+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "28d58bd9119c2be558af513b184de590cf4cb60d",
-      "last_updated": "2026-08-20T03:51:05.424435+00:00"
+      "sha": "d7e0d63601a5d944557e379719ba8e54c7b8d717",
+      "last_updated": "2026-08-20T09:39:48.568986+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "422cdc57a3ba2a5acef53717a654d294f2c8c624",
       "last_updated": "2026-08-17T09:49:02.614076+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "a381a4b568bbfe7fe8a9aff5db3e0539142c06da",
-      "last_updated": "2026-08-19T12:56:42.407999+00:00"
+      "sha": "bb3d561474d20a4e709727103fa1417e1bda4985",
+      "last_updated": "2026-08-20T09:39:48.857248+00:00"
     },
     "user-guide/docker.md": {
       "sha": "fd0c047d4837c034dd3c7da8a440c29bdf042925",
@@ -453,8 +453,8 @@
       "last_updated": "2026-08-09T09:10:26.981639+00:00"
     },
     "user-guide/features/computer-use.md": {
-      "sha": "7215899c66c219f5603251a5800a340dccf47911",
-      "last_updated": "2026-08-16T21:25:15.868602+00:00"
+      "sha": "54fc0f8012336c0619813b63504fef2e60caa4cc",
+      "last_updated": "2026-08-20T09:39:49.145149+00:00"
     },
     "user-guide/features/context-files.md": {
       "sha": "b5c628213d4309c32f9a51cbcd6d3d845396a6cb",
@@ -541,8 +541,8 @@
       "last_updated": "2026-08-09T09:10:34.342257+00:00"
     },
     "user-guide/features/memory.md": {
-      "sha": "624465821e38697a526d2696ff93612db5e34c66",
-      "last_updated": "2026-08-16T18:35:42.120105+00:00"
+      "sha": "11a1f2376f96e6c43fca4ec0190e80e92001add0",
+      "last_updated": "2026-08-20T09:39:49.446184+00:00"
     },
     "user-guide/features/mixture-of-agents.md": {
       "sha": "55c6d23791f0ff961c2dd5bb56a71d1cd999d01e",
@@ -617,8 +617,8 @@
       "last_updated": "2026-08-18T03:49:13.712797+00:00"
     },
     "user-guide/features/web-search.md": {
-      "sha": "57933148a2210c112c5e44453c39325aae34946c",
-      "last_updated": "2026-08-20T03:51:07.345959+00:00"
+      "sha": "7e0df647eb0fbf6617860f2a2eaf287f48b166ec",
+      "last_updated": "2026-08-20T09:39:49.769696+00:00"
     },
     "user-guide/features/x-search.md": {
       "sha": "ec06adde31ee7bb92e6c0d05d53f14f1da5be0d7",
@@ -1617,8 +1617,8 @@
       "last_updated": "2026-08-14T21:29:42.715594+00:00"
     },
     "user-guide/multi-connection-desktop.md": {
-      "sha": "4fa043211d9ce20b2747f6bc693fbe30d283d017",
-      "last_updated": "2026-08-19T12:56:42.784274+00:00"
+      "sha": "7029d7304227ead623baf3e446ff15f83341b47e",
+      "last_updated": "2026-08-20T09:39:50.074211+00:00"
     },
     "user-guide/skills/optional/creative/creative-draw-your-font.md": {
       "sha": "23a0596bc8ce5ee92b489c5a0e37220686441bb3",
@@ -1629,15 +1629,15 @@
       "last_updated": "2026-08-17T09:49:06.297104+00:00"
     },
     "user-guide/bot-mode.md": {
-      "sha": "9b7395c65d5ade069ff50a7c4e7ba454739d0406",
-      "last_updated": "2026-08-19T12:56:41.716806+00:00"
+      "sha": "032f64003ac21ed2c9e75bdb5b4c0f1d89251c31",
+      "last_updated": "2026-08-20T09:39:47.997820+00:00"
     },
     "reference/cli-symbols.md": {
       "sha": "6876e87af084db0ddae469c1a3ceec971958e0d3",
       "last_updated": "2026-08-18T09:38:35.921713+00:00"
     }
   },
-  "last_updated": "2026-08-20T03:51:07.869809+00:00",
+  "last_updated": "2026-08-20T09:39:50.283563+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
