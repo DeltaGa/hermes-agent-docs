@@ -749,8 +749,8 @@
       "last_updated": "2026-08-11T02:05:53.119749+00:00"
     },
     "user-guide/messaging/telegram.md": {
-      "sha": "4b4b58feeffe7a12b6cbb557783ad925e906f7ae",
-      "last_updated": "2026-08-17T12:54:05.794012+00:00"
+      "sha": "713f14958b5796468b4dfe68b51fdf1b7eb3d7ff",
+      "last_updated": "2026-08-21T06:55:15.651487+00:00"
     },
     "user-guide/messaging/webhooks.md": {
       "sha": "dd1148b0fac12bfd9ec26b1f37d56431f4c9a1f2",
@@ -1629,15 +1629,19 @@
       "last_updated": "2026-08-17T09:49:06.297104+00:00"
     },
     "user-guide/bot-mode.md": {
-      "sha": "8b46b208add5fa2cc81ec9c9a70584c11ad25ad5",
-      "last_updated": "2026-08-20T12:58:50.204960+00:00"
+      "sha": "4eeaeb91dfa55c94941dbbc71f69dab46c358b2c",
+      "last_updated": "2026-08-21T06:55:15.315183+00:00"
     },
     "reference/cli-symbols.md": {
       "sha": "6876e87af084db0ddae469c1a3ceec971958e0d3",
       "last_updated": "2026-08-18T09:38:35.921713+00:00"
+    },
+    "guides/manage-hermes-cloud-with-mcp.md": {
+      "sha": "e7906b19b5bfe2e72e328c190fc9c42d96039985",
+      "last_updated": "2026-08-21T06:55:14.987604+00:00"
     }
   },
-  "last_updated": "2026-08-21T03:54:01.455019+00:00",
+  "last_updated": "2026-08-21T06:55:15.859975+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
