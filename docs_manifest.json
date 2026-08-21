@@ -341,8 +341,8 @@
       "last_updated": "2026-08-09T09:10:19.218265+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "7d434df6dbfebbc1f0a0471847edf8453105d17a",
-      "last_updated": "2026-08-20T12:58:48.809882+00:00"
+      "sha": "d824e2811f0ff21ebb7fb6a8a58b72a17032441a",
+      "last_updated": "2026-08-21T03:54:00.623872+00:00"
     },
     "reference/environment-variables.md": {
       "sha": "e35fbcaf0a2f8b69f9812cc3e4f2d5fde7c5563c",
@@ -469,8 +469,8 @@
       "last_updated": "2026-08-09T09:10:28.289872+00:00"
     },
     "user-guide/features/cron.md": {
-      "sha": "56e31341cfcbc14e3a05ef16149f746ae7914654",
-      "last_updated": "2026-08-18T03:49:12.614775+00:00"
+      "sha": "fa2efc863c7702a615698fec64d86c01dcc82f75",
+      "last_updated": "2026-08-21T03:54:00.928753+00:00"
     },
     "user-guide/features/curator.md": {
       "sha": "e6d8617f16645fcc41bcdfddb0fc88283e27a22f",
@@ -541,8 +541,8 @@
       "last_updated": "2026-08-09T09:10:34.342257+00:00"
     },
     "user-guide/features/memory.md": {
-      "sha": "11a1f2376f96e6c43fca4ec0190e80e92001add0",
-      "last_updated": "2026-08-20T09:39:49.446184+00:00"
+      "sha": "205f3e493b43418e3d60f59749294da626c76b15",
+      "last_updated": "2026-08-21T03:54:01.246229+00:00"
     },
     "user-guide/features/mixture-of-agents.md": {
       "sha": "55c6d23791f0ff961c2dd5bb56a71d1cd999d01e",
@@ -1637,7 +1637,7 @@
       "last_updated": "2026-08-18T09:38:35.921713+00:00"
     }
   },
-  "last_updated": "2026-08-20T18:47:52.965364+00:00",
+  "last_updated": "2026-08-21T03:54:01.455019+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
