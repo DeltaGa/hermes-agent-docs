@@ -57,8 +57,8 @@
       "last_updated": "2026-08-09T09:10:01.682725+00:00"
     },
     "developer-guide/cron-internals.md": {
-      "sha": "13a342324cc96ea9f0845714221edc7113a5ab95",
-      "last_updated": "2026-08-09T09:10:01.930596+00:00"
+      "sha": "a18c1a9dd65f6ab55c1acd036996e2e0b86d4ec0",
+      "last_updated": "2026-08-21T12:57:46.112615+00:00"
     },
     "developer-guide/desktop-plugin-sdk.md": {
       "sha": "82f34f115bce026f8819516627bc10ff27ea53f3",
@@ -169,8 +169,8 @@
       "last_updated": "2026-08-20T12:58:48.156446+00:00"
     },
     "getting-started/updating.md": {
-      "sha": "4e1f33e9bccd7f62556340cf4206d2810791158f",
-      "last_updated": "2026-08-20T12:58:48.488054+00:00"
+      "sha": "aa8e9d9f58f2135e8dc01b1ad60c7ba51982ed66",
+      "last_updated": "2026-08-21T12:57:46.442424+00:00"
     },
     "guides/_category_.json": {
       "sha": "6d1d2f0b9ec098f749715dd4deebc4d4b753b610",
@@ -181,8 +181,8 @@
       "last_updated": "2026-08-09T09:10:09.367141+00:00"
     },
     "guides/automate-with-cron.md": {
-      "sha": "dec05e43fd466e0554aebaf819aba1cb39f1907b",
-      "last_updated": "2026-08-09T09:10:09.604969+00:00"
+      "sha": "a1a787fe889daafcf06e4fd22a4ed0a2ac7b73ff",
+      "last_updated": "2026-08-21T12:57:46.804552+00:00"
     },
     "guides/automation-blueprints.md": {
       "sha": "7bf861e8e22258438e08d3b5513bf647ae48f853",
@@ -341,8 +341,8 @@
       "last_updated": "2026-08-09T09:10:19.218265+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "890b07fe9b29ccebd910f02303e0b154bfd26060",
-      "last_updated": "2026-08-21T09:41:50.607531+00:00"
+      "sha": "37871c0eea72edaa52f290747e1c7c3e99d2616d",
+      "last_updated": "2026-08-21T12:57:47.395983+00:00"
     },
     "reference/environment-variables.md": {
       "sha": "e35fbcaf0a2f8b69f9812cc3e4f2d5fde7c5563c",
@@ -1641,7 +1641,7 @@
       "last_updated": "2026-08-21T06:55:14.987604+00:00"
     }
   },
-  "last_updated": "2026-08-21T09:41:51.581932+00:00",
+  "last_updated": "2026-08-21T12:57:47.605231+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
