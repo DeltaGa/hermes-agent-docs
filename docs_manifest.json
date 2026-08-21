@@ -329,8 +329,8 @@
       "last_updated": "2026-08-20T03:51:04.786109+00:00"
     },
     "integrations/providers.md": {
-      "sha": "0dd4911353a6cd71a54910f0cd9834521e1f326b",
-      "last_updated": "2026-08-17T21:30:15.477569+00:00"
+      "sha": "042b5411181b6cb3e4be978d96001c7feaaf6296",
+      "last_updated": "2026-08-21T09:41:50.246220+00:00"
     },
     "reference/_category_.json": {
       "sha": "8150d97ad57c8f434b72e9cc65a58abd091787c6",
@@ -341,8 +341,8 @@
       "last_updated": "2026-08-09T09:10:19.218265+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "d824e2811f0ff21ebb7fb6a8a58b72a17032441a",
-      "last_updated": "2026-08-21T03:54:00.623872+00:00"
+      "sha": "890b07fe9b29ccebd910f02303e0b154bfd26060",
+      "last_updated": "2026-08-21T09:41:50.607531+00:00"
     },
     "reference/environment-variables.md": {
       "sha": "e35fbcaf0a2f8b69f9812cc3e4f2d5fde7c5563c",
@@ -397,8 +397,8 @@
       "last_updated": "2026-08-20T09:39:48.284442+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "13430b9ad4bb97dc02bbf773e21216dfa94319e3",
-      "last_updated": "2026-08-20T12:58:50.540127+00:00"
+      "sha": "7e0f7ecbc9a241a41f81b416db404ae976c2b988",
+      "last_updated": "2026-08-21T09:41:51.012731+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "422cdc57a3ba2a5acef53717a654d294f2c8c624",
@@ -493,8 +493,8 @@
       "last_updated": "2026-08-09T09:10:30.129762+00:00"
     },
     "user-guide/features/fallback-providers.md": {
-      "sha": "2c3cdbc066d19cf2eac441e1df4a604972674491",
-      "last_updated": "2026-08-17T12:54:05.497514+00:00"
+      "sha": "6f64ee68349202427fb27502c558d219e551201f",
+      "last_updated": "2026-08-21T09:41:51.372777+00:00"
     },
     "user-guide/features/goals.md": {
       "sha": "b4a9f315858409f0432eff323fb377fbd8e95d0f",
@@ -1641,7 +1641,7 @@
       "last_updated": "2026-08-21T06:55:14.987604+00:00"
     }
   },
-  "last_updated": "2026-08-21T06:55:15.859975+00:00",
+  "last_updated": "2026-08-21T09:41:51.581932+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
