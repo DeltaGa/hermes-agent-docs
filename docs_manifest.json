@@ -97,8 +97,8 @@
       "last_updated": "2026-08-17T21:30:15.147089+00:00"
     },
     "developer-guide/programmatic-integration.md": {
-      "sha": "42a603215e0a484a1cebf3bd8f29e6f75ef49dd9",
-      "last_updated": "2026-08-13T19:08:57.125675+00:00"
+      "sha": "7e9c1f6c3bae7f41c549bd4db70c9840ab0c5315",
+      "last_updated": "2026-08-21T18:43:15.789209+00:00"
     },
     "developer-guide/prompt-assembly.md": {
       "sha": "e7d0497db3621f84723651143700af6296764a42",
@@ -429,8 +429,8 @@
       "last_updated": "2026-08-09T09:10:25.035796+00:00"
     },
     "user-guide/features/api-server.md": {
-      "sha": "ccba76e104d1c5b3e196fd901da098375b6a6e0d",
-      "last_updated": "2026-08-09T09:10:25.380559+00:00"
+      "sha": "9d0d587ca4b3e87f8ea366416e80868ff956ab74",
+      "last_updated": "2026-08-21T18:43:16.164858+00:00"
     },
     "user-guide/features/batch-processing.md": {
       "sha": "87bbf03af162883671a24d8b58b26cde684b50de",
@@ -1641,7 +1641,7 @@
       "last_updated": "2026-08-21T06:55:14.987604+00:00"
     }
   },
-  "last_updated": "2026-08-21T12:57:47.605231+00:00",
+  "last_updated": "2026-08-21T18:43:16.374071+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
