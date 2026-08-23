@@ -41,8 +41,8 @@
       "last_updated": "2026-08-09T09:10:00.684321+00:00"
     },
     "developer-guide/context-compression-and-caching.md": {
-      "sha": "31e3c9a0cb751f16a579a59c5fb0c5160e550fc3",
-      "last_updated": "2026-08-16T06:48:48.512571+00:00"
+      "sha": "08f2854c01faff9773aa722c6709aac432203a5e",
+      "last_updated": "2026-08-23T09:32:36.987290+00:00"
     },
     "developer-guide/context-engine-plugin.md": {
       "sha": "6609158e076554fcac8ef905554fc317baee0936",
@@ -1629,8 +1629,8 @@
       "last_updated": "2026-08-17T09:49:06.297104+00:00"
     },
     "user-guide/bot-mode.md": {
-      "sha": "8a9eb0c9a7858ec75b5e49d5e81d01304e4eb2b3",
-      "last_updated": "2026-08-22T03:46:32.534518+00:00"
+      "sha": "7a9e198cb53075430cb8e49b2c438eb50e3f4951",
+      "last_updated": "2026-08-23T09:32:37.361096+00:00"
     },
     "reference/cli-symbols.md": {
       "sha": "6876e87af084db0ddae469c1a3ceec971958e0d3",
@@ -1641,7 +1641,7 @@
       "last_updated": "2026-08-21T06:55:14.987604+00:00"
     }
   },
-  "last_updated": "2026-08-23T06:50:45.017636+00:00",
+  "last_updated": "2026-08-23T09:32:37.566842+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
