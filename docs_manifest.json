@@ -585,8 +585,8 @@
       "last_updated": "2026-08-09T09:10:37.754216+00:00"
     },
     "user-guide/features/tool-gateway.md": {
-      "sha": "247b4ed383b757b515c5e9020e9b259562a90224",
-      "last_updated": "2026-08-20T03:51:06.686643+00:00"
+      "sha": "ee828cbb46631b0a782bcd7701f479a3f7757b68",
+      "last_updated": "2026-08-23T06:50:19.605707+00:00"
     },
     "user-guide/features/tool-search.md": {
       "sha": "468989f787d07ed1effff5957c585f6dbc37d068",
@@ -1589,8 +1589,8 @@
       "last_updated": "2026-08-09T09:11:59.971959+00:00"
     },
     "user-guide/windows-native.md": {
-      "sha": "4e0a48c0b060995b37f6763bc6ac7d64869e9e57",
-      "last_updated": "2026-08-12T10:12:15.170184+00:00"
+      "sha": "f703dfe286a24df5816c5e302fb5d16c4544fd10",
+      "last_updated": "2026-08-23T06:50:44.798098+00:00"
     },
     "user-guide/windows-wsl-quickstart.md": {
       "sha": "2128b3be9147d810566c79c22701b8dabcb9cb5d",
@@ -1641,7 +1641,7 @@
       "last_updated": "2026-08-21T06:55:14.987604+00:00"
     }
   },
-  "last_updated": "2026-08-23T01:43:49.477601+00:00",
+  "last_updated": "2026-08-23T06:50:45.017636+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
