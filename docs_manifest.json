@@ -341,8 +341,8 @@
       "last_updated": "2026-08-09T09:10:19.218265+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "a75f2a6e91709098eed6a38e7a439296088c619f",
-      "last_updated": "2026-08-22T01:34:27.497908+00:00"
+      "sha": "fe0ca434444fb8a18dcca006e8c628aa28022ff2",
+      "last_updated": "2026-08-24T18:48:54.491795+00:00"
     },
     "reference/environment-variables.md": {
       "sha": "6d77c33a2a0521f9b724050cc9d382c4832799fe",
@@ -397,16 +397,16 @@
       "last_updated": "2026-08-20T09:39:48.284442+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "3cfa37656433834daba171e23616d846c2e11681",
-      "last_updated": "2026-08-24T03:58:10.536113+00:00"
+      "sha": "b01117b7db7ada64927729b51f877c95ad1d313b",
+      "last_updated": "2026-08-24T18:48:54.801879+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "2ede0dba3ce29f5c6c822ed080adc527856bb98f",
       "last_updated": "2026-08-24T09:54:03.624556+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "36aeb0cbac3ef087cf44bee8221f8a48026157ed",
-      "last_updated": "2026-08-24T13:00:19.753894+00:00"
+      "sha": "b3d1286c44b52218cbbe494eef2ccadb21ba4089",
+      "last_updated": "2026-08-24T18:48:55.113324+00:00"
     },
     "user-guide/docker.md": {
       "sha": "fd0c047d4837c034dd3c7da8a440c29bdf042925",
@@ -1641,7 +1641,7 @@
       "last_updated": "2026-08-21T06:55:14.987604+00:00"
     }
   },
-  "last_updated": "2026-08-24T13:00:19.963290+00:00",
+  "last_updated": "2026-08-24T18:48:55.322424+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
