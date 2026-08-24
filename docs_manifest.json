@@ -345,8 +345,8 @@
       "last_updated": "2026-08-22T01:34:27.497908+00:00"
     },
     "reference/environment-variables.md": {
-      "sha": "e35fbcaf0a2f8b69f9812cc3e4f2d5fde7c5563c",
-      "last_updated": "2026-08-20T09:39:47.698190+00:00"
+      "sha": "6d77c33a2a0521f9b724050cc9d382c4832799fe",
+      "last_updated": "2026-08-24T03:58:09.772184+00:00"
     },
     "reference/faq.md": {
       "sha": "fc199a509b72af19e25ce700b8963c8db27237b1",
@@ -397,8 +397,8 @@
       "last_updated": "2026-08-20T09:39:48.284442+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "d9126a4432b87c5da6bf591733dadf2fde97a48a",
-      "last_updated": "2026-08-24T01:41:16.394587+00:00"
+      "sha": "3cfa37656433834daba171e23616d846c2e11681",
+      "last_updated": "2026-08-24T03:58:10.536113+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "422cdc57a3ba2a5acef53717a654d294f2c8c624",
@@ -477,8 +477,8 @@
       "last_updated": "2026-08-17T09:49:03.578935+00:00"
     },
     "user-guide/features/delegation.md": {
-      "sha": "c4d548683b4cf5ef838fd6f4083bc0761d5f955b",
-      "last_updated": "2026-08-24T01:41:16.757735+00:00"
+      "sha": "b0fade2579d3cd657553f7eed95a5e86cf329300",
+      "last_updated": "2026-08-24T03:58:10.871251+00:00"
     },
     "user-guide/features/deliverable-mode.md": {
       "sha": "d01847ebb0573d9bd176ac083fc71ff70ba4e727",
@@ -613,8 +613,8 @@
       "last_updated": "2026-08-09T09:10:39.986886+00:00"
     },
     "user-guide/features/web-dashboard.md": {
-      "sha": "50a11f2c287514872f7820f2e66e5bba8d4619e9",
-      "last_updated": "2026-08-18T03:49:13.712797+00:00"
+      "sha": "9cc93d2cc82f2bfbc04442e9e13e8c756f1f84ae",
+      "last_updated": "2026-08-24T03:58:11.446166+00:00"
     },
     "user-guide/features/web-search.md": {
       "sha": "32959102b77e9913c5b568c9d79ef108e083806d",
@@ -1629,8 +1629,8 @@
       "last_updated": "2026-08-17T09:49:06.297104+00:00"
     },
     "user-guide/bot-mode.md": {
-      "sha": "7a9e198cb53075430cb8e49b2c438eb50e3f4951",
-      "last_updated": "2026-08-23T09:32:37.361096+00:00"
+      "sha": "35342ec968dd81b40b523c2a031119339545a556",
+      "last_updated": "2026-08-24T03:58:10.131345+00:00"
     },
     "reference/cli-symbols.md": {
       "sha": "6876e87af084db0ddae469c1a3ceec971958e0d3",
@@ -1641,7 +1641,7 @@
       "last_updated": "2026-08-21T06:55:14.987604+00:00"
     }
   },
-  "last_updated": "2026-08-24T01:41:17.330594+00:00",
+  "last_updated": "2026-08-24T03:58:11.654962+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
