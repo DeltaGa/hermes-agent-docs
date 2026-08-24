@@ -201,8 +201,8 @@
       "last_updated": "2026-08-09T09:10:10.599407+00:00"
     },
     "guides/cron-troubleshooting.md": {
-      "sha": "2f2cb43b34659c3226f9075201ab221a1c4c0fb4",
-      "last_updated": "2026-08-09T09:10:10.834266+00:00"
+      "sha": "b4cc65b6f0677bbadb24775727ef8fe3c1eafa17",
+      "last_updated": "2026-08-24T13:00:19.399995+00:00"
     },
     "guides/daily-briefing-bot.md": {
       "sha": "a4fda461be8feca8f3840ac77ec89719d9674408",
@@ -405,8 +405,8 @@
       "last_updated": "2026-08-24T09:54:03.624556+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "0a4cf668a0af4bb236fac5be23daf9d1489873e1",
-      "last_updated": "2026-08-22T06:48:43.676859+00:00"
+      "sha": "36aeb0cbac3ef087cf44bee8221f8a48026157ed",
+      "last_updated": "2026-08-24T13:00:19.753894+00:00"
     },
     "user-guide/docker.md": {
       "sha": "fd0c047d4837c034dd3c7da8a440c29bdf042925",
@@ -1641,7 +1641,7 @@
       "last_updated": "2026-08-21T06:55:14.987604+00:00"
     }
   },
-  "last_updated": "2026-08-24T09:54:04.362043+00:00",
+  "last_updated": "2026-08-24T13:00:19.963290+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
