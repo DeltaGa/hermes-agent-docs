@@ -401,8 +401,8 @@
       "last_updated": "2026-08-24T03:58:10.536113+00:00"
     },
     "user-guide/configuring-models.md": {
-      "sha": "422cdc57a3ba2a5acef53717a654d294f2c8c624",
-      "last_updated": "2026-08-17T09:49:02.614076+00:00"
+      "sha": "2ede0dba3ce29f5c6c822ed080adc527856bb98f",
+      "last_updated": "2026-08-24T09:54:03.624556+00:00"
     },
     "user-guide/desktop.md": {
       "sha": "0a4cf668a0af4bb236fac5be23daf9d1489873e1",
@@ -613,8 +613,8 @@
       "last_updated": "2026-08-09T09:10:39.986886+00:00"
     },
     "user-guide/features/web-dashboard.md": {
-      "sha": "9cc93d2cc82f2bfbc04442e9e13e8c756f1f84ae",
-      "last_updated": "2026-08-24T03:58:11.446166+00:00"
+      "sha": "ef13780e1a8e89136d0b9a997bbe91b20e492532",
+      "last_updated": "2026-08-24T09:54:04.155110+00:00"
     },
     "user-guide/features/web-search.md": {
       "sha": "32959102b77e9913c5b568c9d79ef108e083806d",
@@ -1641,7 +1641,7 @@
       "last_updated": "2026-08-21T06:55:14.987604+00:00"
     }
   },
-  "last_updated": "2026-08-24T03:58:11.654962+00:00",
+  "last_updated": "2026-08-24T09:54:04.362043+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
