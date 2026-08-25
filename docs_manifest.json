@@ -213,8 +213,8 @@
       "last_updated": "2026-08-09T09:10:11.329972+00:00"
     },
     "guides/desktop-native-signin.md": {
-      "sha": "186acec1540bbdc56d166ac77947e36253b9b0e2",
-      "last_updated": "2026-08-15T01:35:08.862380+00:00"
+      "sha": "f8402c8229d3c681ef6c2a6efdc1c1c9a63c353f",
+      "last_updated": "2026-08-25T21:33:30.009184+00:00"
     },
     "guides/github-pr-review-agent.md": {
       "sha": "f45684973bd45028efc2c8e2291998a024705b71",
@@ -469,8 +469,8 @@
       "last_updated": "2026-08-09T09:10:28.289872+00:00"
     },
     "user-guide/features/cron.md": {
-      "sha": "cb91709320f26b360bcb1bd623d0d9a919f23b44",
-      "last_updated": "2026-08-22T01:34:28.525239+00:00"
+      "sha": "7e8e477be5b5e7f5bb6ebe3b4ed8fe688573b0e0",
+      "last_updated": "2026-08-25T21:33:30.339427+00:00"
     },
     "user-guide/features/curator.md": {
       "sha": "e6d8617f16645fcc41bcdfddb0fc88283e27a22f",
@@ -1617,8 +1617,8 @@
       "last_updated": "2026-08-14T21:29:42.715594+00:00"
     },
     "user-guide/multi-connection-desktop.md": {
-      "sha": "7029d7304227ead623baf3e446ff15f83341b47e",
-      "last_updated": "2026-08-20T09:39:50.074211+00:00"
+      "sha": "06262129799705a02eeb2b5804392b6cc6e3e536",
+      "last_updated": "2026-08-25T21:33:30.667613+00:00"
     },
     "user-guide/skills/optional/creative/creative-draw-your-font.md": {
       "sha": "23a0596bc8ce5ee92b489c5a0e37220686441bb3",
@@ -1645,7 +1645,7 @@
       "last_updated": "2026-08-25T03:52:28.916592+00:00"
     }
   },
-  "last_updated": "2026-08-25T12:56:22.526028+00:00",
+  "last_updated": "2026-08-25T21:33:30.877651+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
