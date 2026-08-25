@@ -221,8 +221,8 @@
       "last_updated": "2026-08-09T09:10:11.822676+00:00"
     },
     "guides/google-gemini.md": {
-      "sha": "7a00eabf8dff2950d79df3a9a6fc2a8826b87be1",
-      "last_updated": "2026-08-09T09:10:12.071529+00:00"
+      "sha": "c5d57fe40df15b43885d42b778c470117515804e",
+      "last_updated": "2026-08-25T09:40:51.418294+00:00"
     },
     "guides/google-vertex.md": {
       "sha": "54923db967d5a5c1965a45badddc32ff4efc8cbb",
@@ -453,8 +453,8 @@
       "last_updated": "2026-08-09T09:10:26.981639+00:00"
     },
     "user-guide/features/computer-use.md": {
-      "sha": "54fc0f8012336c0619813b63504fef2e60caa4cc",
-      "last_updated": "2026-08-20T09:39:49.145149+00:00"
+      "sha": "51b0552c84177f18f220836a0fff77e330d163e0",
+      "last_updated": "2026-08-25T09:40:51.738493+00:00"
     },
     "user-guide/features/context-files.md": {
       "sha": "b5c628213d4309c32f9a51cbcd6d3d845396a6cb",
@@ -1645,7 +1645,7 @@
       "last_updated": "2026-08-25T03:52:28.916592+00:00"
     }
   },
-  "last_updated": "2026-08-25T06:56:23.553560+00:00",
+  "last_updated": "2026-08-25T09:40:51.947739+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
