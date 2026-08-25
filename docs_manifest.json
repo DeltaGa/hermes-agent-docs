@@ -345,8 +345,8 @@
       "last_updated": "2026-08-24T18:48:54.491795+00:00"
     },
     "reference/environment-variables.md": {
-      "sha": "6d77c33a2a0521f9b724050cc9d382c4832799fe",
-      "last_updated": "2026-08-24T03:58:09.772184+00:00"
+      "sha": "a2069f5ae8448c29ed91a8aca20c16ec6ed2cdf9",
+      "last_updated": "2026-08-25T03:52:29.562872+00:00"
     },
     "reference/faq.md": {
       "sha": "fc199a509b72af19e25ce700b8963c8db27237b1",
@@ -397,8 +397,8 @@
       "last_updated": "2026-08-20T09:39:48.284442+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "4feb4fb5cb63273ab5ea43f5d6d2e986a0865a39",
-      "last_updated": "2026-08-25T01:36:38.802277+00:00"
+      "sha": "70040621075792c5c5c52956b5e0bf2f988dd571",
+      "last_updated": "2026-08-25T03:52:29.949318+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "2ede0dba3ce29f5c6c822ed080adc527856bb98f",
@@ -409,8 +409,8 @@
       "last_updated": "2026-08-25T01:36:39.093771+00:00"
     },
     "user-guide/docker.md": {
-      "sha": "cf63f4f6ebfba714ac5f40d08082aff2331d11e8",
-      "last_updated": "2026-08-25T01:36:39.401589+00:00"
+      "sha": "747e6b40edde70a5704b53e62ce4b8d89bf36756",
+      "last_updated": "2026-08-25T03:52:30.333797+00:00"
     },
     "user-guide/egress/index.md": {
       "sha": "90ccbb8a05e663ba816b4ac1e8bef7bca32eed5b",
@@ -437,8 +437,8 @@
       "last_updated": "2026-08-09T09:10:25.679415+00:00"
     },
     "user-guide/features/browser.md": {
-      "sha": "f9687772011c83fa865a3d331411907a03907457",
-      "last_updated": "2026-08-20T03:51:05.732640+00:00"
+      "sha": "85b5a29e11357a0852226b8320e963ad8faefa2f",
+      "last_updated": "2026-08-25T03:52:30.737451+00:00"
     },
     "user-guide/features/built-in-plugins.md": {
       "sha": "ac18d4c925358a704e606ba1e8502f93c7de75fd",
@@ -493,8 +493,8 @@
       "last_updated": "2026-08-09T09:10:30.129762+00:00"
     },
     "user-guide/features/fallback-providers.md": {
-      "sha": "dbd824954dae613b5c9ad86135321e3a1be8acc3",
-      "last_updated": "2026-08-24T01:41:17.122880+00:00"
+      "sha": "cf0610d0f0b23ee19a326c27116a97f4bb5f5613",
+      "last_updated": "2026-08-25T03:52:31.107565+00:00"
     },
     "user-guide/features/goals.md": {
       "sha": "b4a9f315858409f0432eff323fb377fbd8e95d0f",
@@ -561,8 +561,8 @@
       "last_updated": "2026-08-09T09:10:35.898321+00:00"
     },
     "user-guide/features/plugins.md": {
-      "sha": "14c162f12370deb71967ceab9f488b0dce4d24d9",
-      "last_updated": "2026-08-19T01:37:38.913438+00:00"
+      "sha": "d487f2c5fa5dcd825efad12704de52470900f4d8",
+      "last_updated": "2026-08-25T03:52:31.495610+00:00"
     },
     "user-guide/features/provider-routing.md": {
       "sha": "ff8a9ef56ccc23709cbf4ff900e82560332b350d",
@@ -725,8 +725,8 @@
       "last_updated": "2026-08-12T02:23:06.672262+00:00"
     },
     "user-guide/messaging/signal.md": {
-      "sha": "597a7fa30be28962cd909f7deff3b5bf2305393e",
-      "last_updated": "2026-08-09T09:10:49.370294+00:00"
+      "sha": "a435ed96b62b08ba5e8b87103612c5261dba18d7",
+      "last_updated": "2026-08-25T03:52:31.879412+00:00"
     },
     "user-guide/messaging/simplex.md": {
       "sha": "cffff51fe0ad10a22492cef4288b599f02bd14b5",
@@ -1639,9 +1639,13 @@
     "guides/manage-hermes-cloud-with-mcp.md": {
       "sha": "e7906b19b5bfe2e72e328c190fc9c42d96039985",
       "last_updated": "2026-08-21T06:55:14.987604+00:00"
+    },
+    "developer-guide/terminal-environment-plugin.md": {
+      "sha": "dd102de46cc1ab90d20a6262612362188b5ecf0d",
+      "last_updated": "2026-08-25T03:52:28.916592+00:00"
     }
   },
-  "last_updated": "2026-08-25T01:36:39.995517+00:00",
+  "last_updated": "2026-08-25T03:52:32.086111+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
