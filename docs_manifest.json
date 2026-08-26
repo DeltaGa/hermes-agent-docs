@@ -537,8 +537,8 @@
       "last_updated": "2026-08-25T12:56:21.923975+00:00"
     },
     "user-guide/features/memory-providers.md": {
-      "sha": "099d73b3ebeb0dcd87bd3eda3b0eba95a0d3dff2",
-      "last_updated": "2026-08-09T09:10:34.342257+00:00"
+      "sha": "61b873a9f24049a3bd6976ae09994256cca23514",
+      "last_updated": "2026-08-26T09:49:14.608863+00:00"
     },
     "user-guide/features/memory.md": {
       "sha": "205f3e493b43418e3d60f59749294da626c76b15",
@@ -1645,7 +1645,7 @@
       "last_updated": "2026-08-25T03:52:28.916592+00:00"
     }
   },
-  "last_updated": "2026-08-26T06:57:20.596822+00:00",
+  "last_updated": "2026-08-26T09:49:14.817760+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
