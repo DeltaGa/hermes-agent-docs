@@ -41,8 +41,8 @@
       "last_updated": "2026-08-09T09:10:00.684321+00:00"
     },
     "developer-guide/context-compression-and-caching.md": {
-      "sha": "18a70d97923ff0f47781efb5a04e1d3108d3f6d6",
-      "last_updated": "2026-08-23T12:50:21.412266+00:00"
+      "sha": "146b53b58a5d862ca6a832d10270cf3a88550906",
+      "last_updated": "2026-08-26T16:22:00.557777+00:00"
     },
     "developer-guide/context-engine-plugin.md": {
       "sha": "6609158e076554fcac8ef905554fc317baee0936",
@@ -169,8 +169,8 @@
       "last_updated": "2026-08-20T12:58:48.156446+00:00"
     },
     "getting-started/updating.md": {
-      "sha": "0b3917f303f643f45cae21f82e776242988deda3",
-      "last_updated": "2026-08-23T01:43:49.267707+00:00"
+      "sha": "4ee1bc4c16651a134221559f8eb32c35f6cfcf5d",
+      "last_updated": "2026-08-26T16:22:00.951124+00:00"
     },
     "guides/_category_.json": {
       "sha": "6d1d2f0b9ec098f749715dd4deebc4d4b753b610",
@@ -373,8 +373,8 @@
       "last_updated": "2026-08-14T07:39:34.493052+00:00"
     },
     "reference/slash-commands.md": {
-      "sha": "e1317c216bbcf84a80bbdc75215a656e7e63fcd7",
-      "last_updated": "2026-08-24T01:41:15.999028+00:00"
+      "sha": "6afc8f04cfd2a7cb338451f2eceb392495f5c1b6",
+      "last_updated": "2026-08-26T16:22:01.329303+00:00"
     },
     "reference/tools-reference.md": {
       "sha": "5363e351873b14ccec1dc3be6064e77b4db3198e",
@@ -397,16 +397,16 @@
       "last_updated": "2026-08-20T09:39:48.284442+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "ec1ae0bcfb19b185d48c117da1675fd5a6d996a0",
-      "last_updated": "2026-08-26T06:57:19.376566+00:00"
+      "sha": "50c84b1ac78bae569d67ea497eaaa97b8f9312fb",
+      "last_updated": "2026-08-26T16:22:01.685753+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "2ede0dba3ce29f5c6c822ed080adc527856bb98f",
       "last_updated": "2026-08-24T09:54:03.624556+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "d69b6962a7ccb9de27b73c5878ce214319aec98e",
-      "last_updated": "2026-08-26T06:57:19.738754+00:00"
+      "sha": "d86d31c0edcb2d2a53917bd6a1adf0faaaf325ba",
+      "last_updated": "2026-08-26T16:22:02.104837+00:00"
     },
     "user-guide/docker.md": {
       "sha": "747e6b40edde70a5704b53e62ce4b8d89bf36756",
@@ -1617,8 +1617,8 @@
       "last_updated": "2026-08-14T21:29:42.715594+00:00"
     },
     "user-guide/multi-connection-desktop.md": {
-      "sha": "06262129799705a02eeb2b5804392b6cc6e3e536",
-      "last_updated": "2026-08-25T21:33:30.667613+00:00"
+      "sha": "13ce2e88b61da6cdfe37884e04d80ab6131f7ef5",
+      "last_updated": "2026-08-26T16:22:02.437414+00:00"
     },
     "user-guide/skills/optional/creative/creative-draw-your-font.md": {
       "sha": "23a0596bc8ce5ee92b489c5a0e37220686441bb3",
@@ -1645,7 +1645,7 @@
       "last_updated": "2026-08-25T03:52:28.916592+00:00"
     }
   },
-  "last_updated": "2026-08-26T13:02:18.524207+00:00",
+  "last_updated": "2026-08-26T16:22:02.645785+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
