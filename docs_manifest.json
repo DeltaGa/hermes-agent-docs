@@ -321,8 +321,8 @@
       "last_updated": "2026-08-09T09:10:17.980973+00:00"
     },
     "integrations/index.md": {
-      "sha": "eef508952a55b984b0719ba85b38d8b433a6b2b0",
-      "last_updated": "2026-08-20T09:39:47.421513+00:00"
+      "sha": "8225c21d37b074f0298fe1ad1a2e65cb50cf1663",
+      "last_updated": "2026-08-26T01:41:26.412051+00:00"
     },
     "integrations/nous-portal.md": {
       "sha": "ffcbe49409bda3d58d89734ea58371842f6681e5",
@@ -405,8 +405,8 @@
       "last_updated": "2026-08-24T09:54:03.624556+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "ea59f042d718551dbdd843dc5a34dee9e2ed29c9",
-      "last_updated": "2026-08-25T01:36:39.093771+00:00"
+      "sha": "96c28eb979a1c649548270322581e737407a6899",
+      "last_updated": "2026-08-26T01:41:26.720049+00:00"
     },
     "user-guide/docker.md": {
       "sha": "747e6b40edde70a5704b53e62ce4b8d89bf36756",
@@ -437,8 +437,8 @@
       "last_updated": "2026-08-09T09:10:25.679415+00:00"
     },
     "user-guide/features/browser.md": {
-      "sha": "551537b28d99592fb8482918a93d603cc25d44ba",
-      "last_updated": "2026-08-25T06:56:23.347911+00:00"
+      "sha": "9ca1f368637f7fabfb74f361d45d0f003c97fcae",
+      "last_updated": "2026-08-26T01:41:27.193551+00:00"
     },
     "user-guide/features/built-in-plugins.md": {
       "sha": "ac18d4c925358a704e606ba1e8502f93c7de75fd",
@@ -589,8 +589,8 @@
       "last_updated": "2026-08-23T06:50:19.605707+00:00"
     },
     "user-guide/features/tool-search.md": {
-      "sha": "468989f787d07ed1effff5957c585f6dbc37d068",
-      "last_updated": "2026-08-09T09:10:38.401831+00:00"
+      "sha": "8264594632c1331fe0f5d9bd30cb6e6b2f5e4283",
+      "last_updated": "2026-08-26T01:41:27.499333+00:00"
     },
     "user-guide/features/tools.md": {
       "sha": "849e13783482ca936109915643291c42630e8a99",
@@ -1645,7 +1645,7 @@
       "last_updated": "2026-08-25T03:52:28.916592+00:00"
     }
   },
-  "last_updated": "2026-08-25T21:33:30.877651+00:00",
+  "last_updated": "2026-08-26T01:41:27.708361+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
