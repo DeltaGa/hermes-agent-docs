@@ -437,8 +437,8 @@
       "last_updated": "2026-08-09T09:10:25.679415+00:00"
     },
     "user-guide/features/browser.md": {
-      "sha": "9ca1f368637f7fabfb74f361d45d0f003c97fcae",
-      "last_updated": "2026-08-26T01:41:27.193551+00:00"
+      "sha": "16a7e3cfbe6ebb0fccb027df23f60a28ddb996ee",
+      "last_updated": "2026-08-27T13:59:45.398150+00:00"
     },
     "user-guide/features/built-in-plugins.md": {
       "sha": "ac18d4c925358a704e606ba1e8502f93c7de75fd",
@@ -509,8 +509,8 @@
       "last_updated": "2026-08-09T09:10:31.744797+00:00"
     },
     "user-guide/features/hooks.md": {
-      "sha": "ace2d2998c7418c2845c5d7130d98b8db4519e68",
-      "last_updated": "2026-08-16T06:48:49.356687+00:00"
+      "sha": "8ef9e7b180c826128f348790c138ed8ab5752a27",
+      "last_updated": "2026-08-27T13:59:46.186383+00:00"
     },
     "user-guide/features/image-generation.md": {
       "sha": "33c4abc7477c3d826b8c7baa64337d4247f51891",
@@ -561,8 +561,8 @@
       "last_updated": "2026-08-09T09:10:35.898321+00:00"
     },
     "user-guide/features/plugins.md": {
-      "sha": "d487f2c5fa5dcd825efad12704de52470900f4d8",
-      "last_updated": "2026-08-25T03:52:31.495610+00:00"
+      "sha": "417850c1c7b1c4e4f836005a7b00097aac2110ac",
+      "last_updated": "2026-08-27T13:59:47.064209+00:00"
     },
     "user-guide/features/provider-routing.md": {
       "sha": "ff8a9ef56ccc23709cbf4ff900e82560332b350d",
@@ -733,8 +733,8 @@
       "last_updated": "2026-08-09T09:10:49.680110+00:00"
     },
     "user-guide/messaging/slack.md": {
-      "sha": "544ed727e9142f90e85fe2cb703c3966b0396872",
-      "last_updated": "2026-08-13T19:08:59.448622+00:00"
+      "sha": "d8c20f36f140b42869a902b3c2496a3b3ad23a2f",
+      "last_updated": "2026-08-27T13:59:47.350406+00:00"
     },
     "user-guide/messaging/sms.md": {
       "sha": "8878cc5f0ab5bac6e5741e2954c56248bd08ccc7",
@@ -1645,7 +1645,7 @@
       "last_updated": "2026-08-25T03:52:28.916592+00:00"
     }
   },
-  "last_updated": "2026-08-27T00:35:34.758550+00:00",
+  "last_updated": "2026-08-27T13:59:47.559231+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
