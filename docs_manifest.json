@@ -93,8 +93,8 @@
       "last_updated": "2026-08-13T02:24:45.613061+00:00"
     },
     "developer-guide/plugins/index.md": {
-      "sha": "8688d181a3c2b23f489ca4fe0d6672fa828a4f63",
-      "last_updated": "2026-08-17T21:30:15.147089+00:00"
+      "sha": "0a27acadef75d72d582e94dd9a7532d47c817516",
+      "last_updated": "2026-08-28T00:19:06.223707+00:00"
     },
     "developer-guide/programmatic-integration.md": {
       "sha": "7e9c1f6c3bae7f41c549bd4db70c9840ab0c5315",
@@ -361,8 +361,8 @@
       "last_updated": "2026-08-09T09:10:20.482512+00:00"
     },
     "reference/optional-skills-catalog.md": {
-      "sha": "70f0c5897afe8bcc241fea4ef0fb12ef1e1d3031",
-      "last_updated": "2026-08-17T09:49:01.361936+00:00"
+      "sha": "d6b904533fdecfb7cf656863c3c69d84e32ee4dd",
+      "last_updated": "2026-08-28T00:19:06.600415+00:00"
     },
     "reference/profile-commands.md": {
       "sha": "1f13d8e03b2785bc68292736d87f48aee38be208",
@@ -397,8 +397,8 @@
       "last_updated": "2026-08-20T09:39:48.284442+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "50c84b1ac78bae569d67ea497eaaa97b8f9312fb",
-      "last_updated": "2026-08-26T16:22:01.685753+00:00"
+      "sha": "c9dee244d321c023b167fc030297eaf7aba451c6",
+      "last_updated": "2026-08-28T00:19:06.962836+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "2ede0dba3ce29f5c6c822ed080adc527856bb98f",
@@ -409,8 +409,8 @@
       "last_updated": "2026-08-26T16:22:02.104837+00:00"
     },
     "user-guide/docker.md": {
-      "sha": "747e6b40edde70a5704b53e62ce4b8d89bf36756",
-      "last_updated": "2026-08-25T03:52:30.333797+00:00"
+      "sha": "da737a4b17b4d37545977780d39d5dea597ae737",
+      "last_updated": "2026-08-28T00:19:07.331594+00:00"
     },
     "user-guide/egress/index.md": {
       "sha": "90ccbb8a05e663ba816b4ac1e8bef7bca32eed5b",
@@ -613,8 +613,8 @@
       "last_updated": "2026-08-09T09:10:39.986886+00:00"
     },
     "user-guide/features/web-dashboard.md": {
-      "sha": "fb60a602809a4896c1ea03f7c561abf6c9dd573a",
-      "last_updated": "2026-08-25T01:36:39.786573+00:00"
+      "sha": "be4ed441d72a334b7e544ad6cb38fe114dbe4f94",
+      "last_updated": "2026-08-28T00:19:07.799268+00:00"
     },
     "user-guide/features/web-search.md": {
       "sha": "ddacf7f4a86097718360dcb36783a4adb34c1dca",
@@ -761,8 +761,8 @@
       "last_updated": "2026-08-09T09:10:52.007725+00:00"
     },
     "user-guide/messaging/wecom.md": {
-      "sha": "2ac5bddb143568a30ca726a9a5574ca58831f8ff",
-      "last_updated": "2026-08-09T09:10:52.314541+00:00"
+      "sha": "3dec3bca94d2d1494d63a34a4772ebc7e4c10c02",
+      "last_updated": "2026-08-28T00:19:08.179070+00:00"
     },
     "user-guide/messaging/weixin.md": {
       "sha": "b38ee4a472da9e589ea45e357917dd1b8d093c37",
@@ -1249,8 +1249,8 @@
       "last_updated": "2026-08-09T09:11:31.766048+00:00"
     },
     "user-guide/skills/optional/email/email-agentmail.md": {
-      "sha": "e134da466747063894ce017e2c7c7e2fd7308cb6",
-      "last_updated": "2026-08-09T09:11:32.120838+00:00"
+      "sha": "5fb31dba0feb77358061b0095dde36a34a1689b1",
+      "last_updated": "2026-08-28T00:19:08.578564+00:00"
     },
     "user-guide/skills/optional/finance/finance-3-statement-model.md": {
       "sha": "d945e58e49a3a7b289f6ad5a0430b470184d38ee",
@@ -1643,9 +1643,13 @@
     "developer-guide/terminal-environment-plugin.md": {
       "sha": "dd102de46cc1ab90d20a6262612362188b5ecf0d",
       "last_updated": "2026-08-25T03:52:28.916592+00:00"
+    },
+    "user-guide/skills/optional/web-development/web-development-publish-site.md": {
+      "sha": "c1e418f65c38e080d7bb5342f305ed2ff25f3970",
+      "last_updated": "2026-08-28T00:19:08.951756+00:00"
     }
   },
-  "last_updated": "2026-08-27T13:59:47.559231+00:00",
+  "last_updated": "2026-08-28T00:19:09.156338+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
