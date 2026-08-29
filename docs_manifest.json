@@ -145,8 +145,8 @@
       "last_updated": "2026-08-09T09:10:07.140471+00:00"
     },
     "getting-started/installation.md": {
-      "sha": "3689db72ac1b2c3faa07164e509200d8f64abdad",
-      "last_updated": "2026-08-17T09:49:00.708794+00:00"
+      "sha": "98b95c9d7f92172cdcb0b44748d38f55093a396f",
+      "last_updated": "2026-08-29T01:36:22.143894+00:00"
     },
     "getting-started/learning-path.md": {
       "sha": "0f6e9d85101cafaa5d88f09e56b6ebc1b10bac70",
@@ -1649,7 +1649,7 @@
       "last_updated": "2026-08-28T00:19:08.951756+00:00"
     }
   },
-  "last_updated": "2026-08-28T15:11:09.627017+00:00",
+  "last_updated": "2026-08-29T01:36:22.353541+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
