@@ -41,8 +41,8 @@
       "last_updated": "2026-08-09T09:10:00.684321+00:00"
     },
     "developer-guide/context-compression-and-caching.md": {
-      "sha": "146b53b58a5d862ca6a832d10270cf3a88550906",
-      "last_updated": "2026-08-26T16:22:00.557777+00:00"
+      "sha": "2234289af44127404d060cb357c1f43efbcd6f6b",
+      "last_updated": "2026-08-30T16:26:22.456870+00:00"
     },
     "developer-guide/context-engine-plugin.md": {
       "sha": "6609158e076554fcac8ef905554fc317baee0936",
@@ -361,16 +361,16 @@
       "last_updated": "2026-08-09T09:10:20.482512+00:00"
     },
     "reference/optional-skills-catalog.md": {
-      "sha": "4ab09825e9396e531834a66b65aa8fa979abfa9f",
-      "last_updated": "2026-08-30T04:49:36.442595+00:00"
+      "sha": "48c8959d4cfba9fe27f5b08333d22007840a49a7",
+      "last_updated": "2026-08-30T16:26:22.756621+00:00"
     },
     "reference/profile-commands.md": {
       "sha": "1f13d8e03b2785bc68292736d87f48aee38be208",
       "last_updated": "2026-08-12T19:08:19.991995+00:00"
     },
     "reference/skills-catalog.md": {
-      "sha": "a5bf58c88ba1be6a009ddb9395e373b0d7ecb8f8",
-      "last_updated": "2026-08-30T04:49:36.963378+00:00"
+      "sha": "b6ab7f5c21a95a8cfe67eb3b5c443d99aa620146",
+      "last_updated": "2026-08-30T16:26:23.059523+00:00"
     },
     "reference/slash-commands.md": {
       "sha": "1dcc916782449a097070c3b4ff533ee508eee15f",
@@ -397,12 +397,12 @@
       "last_updated": "2026-08-29T16:32:04.162132+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "8fe27bd3970f94f8623ca61f1ff68b4968bf9d4e",
-      "last_updated": "2026-08-30T04:49:37.919894+00:00"
+      "sha": "9c3cdb3bd8896b1953025d6b0cf7b6c5f6139132",
+      "last_updated": "2026-08-30T16:26:23.352908+00:00"
     },
     "user-guide/configuring-models.md": {
-      "sha": "2ede0dba3ce29f5c6c822ed080adc527856bb98f",
-      "last_updated": "2026-08-24T09:54:03.624556+00:00"
+      "sha": "3e8db68c3121802a519d3e989643e88747fea9aa",
+      "last_updated": "2026-08-30T16:26:23.640155+00:00"
     },
     "user-guide/desktop.md": {
       "sha": "d86d31c0edcb2d2a53917bd6a1adf0faaaf325ba",
@@ -525,8 +525,8 @@
       "last_updated": "2026-08-10T21:48:29.396493+00:00"
     },
     "user-guide/features/kanban.md": {
-      "sha": "eacc539e1656a016768d556959acdc44f567851b",
-      "last_updated": "2026-08-26T19:51:19.131482+00:00"
+      "sha": "fccda51c1b0dce4a6ee2093db39b02fe5565c64e",
+      "last_updated": "2026-08-30T16:26:23.932885+00:00"
     },
     "user-guide/features/lsp.md": {
       "sha": "8f5830f47914631f574953b3072115c3310f569a",
@@ -809,96 +809,96 @@
       "last_updated": "2026-08-09T09:10:56.224210+00:00"
     },
     "user-guide/security.md": {
-      "sha": "e63199af0b5fc34d99dc4e83a3def242cf23453f",
-      "last_updated": "2026-08-16T09:32:05.222167+00:00"
+      "sha": "4397fcac6bb62cf22f1be690019d750fff5e7531",
+      "last_updated": "2026-08-30T16:26:24.217059+00:00"
     },
     "user-guide/sessions.md": {
       "sha": "af18e5c5ba40d53e5dfb3e87e4fd592d99e1d822",
       "last_updated": "2026-08-30T04:49:42.413692+00:00"
     },
     "user-guide/skills/bundled/apple/apple-apple-notes.md": {
-      "sha": "ac3ecdfff6a1d58df78ef3c4a71b804bf2053f68",
-      "last_updated": "2026-08-09T09:10:57.191638+00:00"
+      "sha": "31587b5e9fb3a56733f17d94880ab28e2d7b8d38",
+      "last_updated": "2026-08-30T16:26:24.507231+00:00"
     },
     "user-guide/skills/bundled/apple/apple-apple-reminders.md": {
-      "sha": "9ab15d6b54785575a74314c816d585475cae2a3f",
-      "last_updated": "2026-08-09T09:10:57.496453+00:00"
+      "sha": "d3aa2e1e8bb54396f4b513e5bdb2a0cacc75e077",
+      "last_updated": "2026-08-30T16:26:24.809337+00:00"
     },
     "user-guide/skills/bundled/apple/apple-findmy.md": {
-      "sha": "0d4647e4474214bd6eb1fc257eb81fb0a2def715",
-      "last_updated": "2026-08-09T09:10:57.802270+00:00"
+      "sha": "6637f08a9dd276177bd701344bc187c9253b9d37",
+      "last_updated": "2026-08-30T16:26:25.104902+00:00"
     },
     "user-guide/skills/bundled/apple/apple-imessage.md": {
-      "sha": "d29fab6ebc73a3802a0c68a41845699e1c024af3",
-      "last_updated": "2026-08-09T09:10:58.155062+00:00"
+      "sha": "0b84453616c61df4461ea64df5aed46f4d3ae65d",
+      "last_updated": "2026-08-30T16:26:25.433109+00:00"
     },
     "user-guide/skills/bundled/autonomous-ai-agents/autonomous-ai-agents-claude-code.md": {
-      "sha": "4310d1b074cffee28e43e04e77d86c8199acb543",
-      "last_updated": "2026-08-09T09:10:58.463878+00:00"
+      "sha": "a46b7045def4678b993c3cb725874c47f20fe058",
+      "last_updated": "2026-08-30T16:26:25.732552+00:00"
     },
     "user-guide/skills/bundled/autonomous-ai-agents/autonomous-ai-agents-codex.md": {
-      "sha": "503774e55387d4d0db02749dc118426e1b39fcfb",
-      "last_updated": "2026-08-09T09:10:58.767697+00:00"
+      "sha": "359743a65e53e3956f44cae84bca6f608b73deb6",
+      "last_updated": "2026-08-30T16:26:26.024730+00:00"
     },
     "user-guide/skills/bundled/autonomous-ai-agents/autonomous-ai-agents-computer-use.md": {
-      "sha": "0e5f22a117a5573c9c1bafe14bc9428fa42db868",
-      "last_updated": "2026-08-30T04:49:42.803869+00:00"
+      "sha": "e907255c2bbd22378a08dd7842f46081f56844f2",
+      "last_updated": "2026-08-30T16:26:26.322164+00:00"
     },
     "user-guide/skills/bundled/autonomous-ai-agents/autonomous-ai-agents-hermes-agent.md": {
-      "sha": "ed894fba0bf5a913729381c4e7080eec1424f1f8",
-      "last_updated": "2026-08-09T09:10:59.412279+00:00"
+      "sha": "6e31b32dc99c0d93bdab14328544415ff8bac26d",
+      "last_updated": "2026-08-30T16:26:26.612475+00:00"
     },
     "user-guide/skills/bundled/autonomous-ai-agents/autonomous-ai-agents-opencode.md": {
-      "sha": "37c6c1d15dcb04ac2d995121eadec778ff6d7093",
-      "last_updated": "2026-08-09T09:10:59.737119+00:00"
+      "sha": "e8a027d382ac4d40c6d520763873ac074e7aed68",
+      "last_updated": "2026-08-30T16:26:27.202221+00:00"
     },
     "user-guide/skills/bundled/creative/creative-architecture-diagram.md": {
-      "sha": "ad816a370ad640226a08ac722b59c927fb2b669b",
-      "last_updated": "2026-08-09T09:11:00.079923+00:00"
+      "sha": "a4bf8cfc18299d05c8e3d6930bd59b3541c3629a",
+      "last_updated": "2026-08-30T16:26:27.506059+00:00"
     },
     "user-guide/skills/bundled/creative/creative-ascii-art.md": {
       "sha": "ba08d77c05947be5790b8b7e46fc776d6950a6c6",
       "last_updated": "2026-08-09T09:11:00.436701+00:00"
     },
     "user-guide/skills/bundled/creative/creative-ascii-video.md": {
-      "sha": "73eb134110af274c92f1c86bea7c6e012a0c4dcd",
-      "last_updated": "2026-08-09T09:11:00.741523+00:00"
+      "sha": "0a4214bdb8da28da9b42fb4a932399471e1fd8b6",
+      "last_updated": "2026-08-30T16:26:27.790737+00:00"
     },
     "user-guide/skills/bundled/creative/creative-baoyu-infographic.md": {
-      "sha": "e915f2ce63bd8ebd31e6bddd525a9fae8761ae0b",
-      "last_updated": "2026-08-09T09:11:01.065330+00:00"
+      "sha": "fc09379e3eec6249de1b628ebb5f4c75706bb0a9",
+      "last_updated": "2026-08-30T16:26:28.082599+00:00"
     },
     "user-guide/skills/bundled/creative/creative-claude-design.md": {
-      "sha": "c20dd7dceb7c13ac5922b358040c6903bd22bb0e",
-      "last_updated": "2026-08-09T09:11:01.393134+00:00"
+      "sha": "95fdaac6e7c3ea6ca3451e5376b5833d5e438bb4",
+      "last_updated": "2026-08-30T16:26:28.395156+00:00"
     },
     "user-guide/skills/bundled/creative/creative-comfyui.md": {
       "sha": "5276ffaa0d03566e4b9bf8d30d158f6ecfc6bf40",
       "last_updated": "2026-08-09T09:11:01.708945+00:00"
     },
     "user-guide/skills/bundled/creative/creative-design-md.md": {
-      "sha": "2e83398a2c311e8f2cb639f0c7596c05f48dfb3e",
-      "last_updated": "2026-08-09T09:11:02.018760+00:00"
+      "sha": "d85492d8fd5163787d0cc8ac8456ca6e27bd4b7d",
+      "last_updated": "2026-08-30T16:26:28.703542+00:00"
     },
     "user-guide/skills/bundled/creative/creative-excalidraw.md": {
       "sha": "682c75d2cf186e48c2907e11a96a3341bbbdc1ed",
       "last_updated": "2026-08-09T09:11:02.328576+00:00"
     },
     "user-guide/skills/bundled/creative/creative-humanizer.md": {
-      "sha": "4474c11114ebabfdda63138555c625f83c4e8990",
-      "last_updated": "2026-08-09T09:11:02.642389+00:00"
+      "sha": "e36d984c0d8f34fb2cdd2fb4b4ca1cc7e8d9b458",
+      "last_updated": "2026-08-30T16:26:28.997289+00:00"
     },
     "user-guide/skills/bundled/creative/creative-manim-video.md": {
-      "sha": "f22a7005d822b5d3be22fa74a882fbce5073e364",
-      "last_updated": "2026-08-09T09:11:02.996148+00:00"
+      "sha": "272a08fed71fd494c3d5c50cb87486e7ddc4a5f9",
+      "last_updated": "2026-08-30T16:26:29.293289+00:00"
     },
     "user-guide/skills/bundled/creative/creative-p5js.md": {
-      "sha": "46ecfa9299f33589725a8bd1b6e33529ec705cc4",
-      "last_updated": "2026-08-09T09:11:03.308991+00:00"
+      "sha": "f819e3c69ef1cb97d50f637aea71c34b9b4bfd49",
+      "last_updated": "2026-08-30T16:26:29.589344+00:00"
     },
     "user-guide/skills/bundled/creative/creative-popular-web-designs.md": {
-      "sha": "5352e475029381e10a0c0768f5ff294994b37304",
-      "last_updated": "2026-08-09T09:11:03.613809+00:00"
+      "sha": "f4c1e1256a1b8fdfc863ef9c5d211f8ae3aaa581",
+      "last_updated": "2026-08-30T16:26:29.886980+00:00"
     },
     "user-guide/skills/bundled/creative/creative-pretext.md": {
       "sha": "59cdfc8773469c36dfde187bc5ba9c82ee14958c",
@@ -909,20 +909,20 @@
       "last_updated": "2026-08-09T09:11:04.231441+00:00"
     },
     "user-guide/skills/bundled/creative/creative-songwriting-and-ai-music.md": {
-      "sha": "db3781f7e6fe8231a7ec40e07600d67cc524482e",
-      "last_updated": "2026-08-09T09:11:04.538259+00:00"
+      "sha": "f2270be8e25d11e7d8ca6d0d9f18630f4ca10947",
+      "last_updated": "2026-08-30T16:26:30.183321+00:00"
     },
     "user-guide/skills/bundled/creative/creative-touchdesigner-mcp.md": {
       "sha": "8fff080b38368a8dfc7835ad3aba1cbe53899a9f",
       "last_updated": "2026-08-09T09:11:04.854072+00:00"
     },
     "user-guide/skills/bundled/email/email-email-inbox-triage.md": {
-      "sha": "a19dfed71f7712bbd097b48b70ea464535c0749a",
-      "last_updated": "2026-08-09T09:11:05.166885+00:00"
+      "sha": "3c68833eec6408db2c447fb2cda2921eab9e989d",
+      "last_updated": "2026-08-30T16:26:30.789640+00:00"
     },
     "user-guide/skills/bundled/email/email-himalaya.md": {
-      "sha": "38768284682fc3f05188508ca21d6ca610091e37",
-      "last_updated": "2026-08-09T09:11:05.472702+00:00"
+      "sha": "4289ccfd18fc6fedf801e7b4b047d5135b997704",
+      "last_updated": "2026-08-30T16:26:31.087971+00:00"
     },
     "user-guide/skills/bundled/github/github-codebase-inspection.md": {
       "sha": "f727c1cd311dc597047d9365924821fecd214684",
@@ -953,16 +953,16 @@
       "last_updated": "2026-08-09T09:11:07.643411+00:00"
     },
     "user-guide/skills/bundled/media/media-gif-search.md": {
-      "sha": "31d0e03eb88298fe59401d3959079befc56b75e0",
-      "last_updated": "2026-08-09T09:11:07.965218+00:00"
+      "sha": "8d71c12184c5c1c1d3d4d26eaf08abd81bd0505f",
+      "last_updated": "2026-08-30T16:26:31.397072+00:00"
     },
     "user-guide/skills/bundled/media/media-songsee.md": {
-      "sha": "dd1e1d3d5eec34513c887adcc96e3cd123ea57ed",
-      "last_updated": "2026-08-09T09:11:08.263010+00:00"
+      "sha": "b0d86f2ab6089b6b5082ae4978e2c92b9b6a813f",
+      "last_updated": "2026-08-30T16:26:31.701158+00:00"
     },
     "user-guide/skills/bundled/media/media-youtube-content.md": {
-      "sha": "47cc4acc46baa131c5ce1b181fcacf6151aa67b5",
-      "last_updated": "2026-08-09T09:11:08.565863+00:00"
+      "sha": "6324aca0419150294365acbd8a7f23d68d4fce26",
+      "last_updated": "2026-08-30T16:26:32.012062+00:00"
     },
     "user-guide/skills/bundled/mlops/mlops-evaluation-evaluating-llms-harness.md": {
       "sha": "96a5423450e279ea34c9a31dc277e349fff5d930",
@@ -985,88 +985,88 @@
       "last_updated": "2026-08-09T09:11:10.161909+00:00"
     },
     "user-guide/skills/bundled/note-taking/note-taking-obsidian.md": {
-      "sha": "22e5178a68abd4800d103c7efd0d62a385d32cbb",
-      "last_updated": "2026-08-09T09:11:10.473725+00:00"
+      "sha": "34d311f2062cac912e3be794fdf9d520131e3401",
+      "last_updated": "2026-08-30T16:26:32.311558+00:00"
     },
     "user-guide/skills/bundled/productivity/productivity-airtable.md": {
-      "sha": "05a3e13fba069c1e9bf3b78086031bee876db0ed",
-      "last_updated": "2026-08-09T09:11:10.774545+00:00"
+      "sha": "f0363db1fb694610b370e908d56ab1d56eed2cb6",
+      "last_updated": "2026-08-30T16:26:32.615710+00:00"
     },
     "user-guide/skills/bundled/productivity/productivity-document-to-action-items.md": {
-      "sha": "5ba166e1d78df4f2c028a7f538e579e109011489",
-      "last_updated": "2026-08-09T09:11:11.083363+00:00"
+      "sha": "f0a886f02e117a2ad567ab4f62f11f47ad7276f7",
+      "last_updated": "2026-08-30T16:26:33.213353+00:00"
     },
     "user-guide/skills/bundled/productivity/productivity-docx.md": {
-      "sha": "c00e2fc02329eb49ccbf02a17725bfc8b45a6e6e",
-      "last_updated": "2026-08-09T09:11:11.442147+00:00"
+      "sha": "5b27f0f0b4bd5f184b64ef04bdd4f5df6a35bcee",
+      "last_updated": "2026-08-30T16:26:33.542694+00:00"
     },
     "user-guide/skills/bundled/productivity/productivity-google-workspace.md": {
-      "sha": "23c1245764e998de2b19ed554e4cc38abb3a3e23",
-      "last_updated": "2026-08-09T09:11:11.751964+00:00"
+      "sha": "9e8c327674b13178149dd86b2413ef68b0d9573e",
+      "last_updated": "2026-08-30T16:26:33.839511+00:00"
     },
     "user-guide/skills/bundled/productivity/productivity-maps.md": {
-      "sha": "7fdc002cc3001324b3570338eaa13ecb37ec2e70",
-      "last_updated": "2026-08-09T09:11:12.057750+00:00"
+      "sha": "d6ff985af39f671e3366c5cd9e0d273f18c06d26",
+      "last_updated": "2026-08-30T16:26:34.144610+00:00"
     },
     "user-guide/skills/bundled/productivity/productivity-meeting-action-items.md": {
-      "sha": "ce07cee2bc516970096920166e39822a7362d024",
-      "last_updated": "2026-08-09T09:11:12.360604+00:00"
+      "sha": "1a595783f4275a40944b3dd9257d315ea9536f89",
+      "last_updated": "2026-08-30T16:26:34.442038+00:00"
     },
     "user-guide/skills/bundled/productivity/productivity-nano-pdf.md": {
       "sha": "acd3b12ba9de7316755356ae245352fbc3088b3c",
       "last_updated": "2026-08-09T09:11:12.673416+00:00"
     },
     "user-guide/skills/bundled/productivity/productivity-notion.md": {
-      "sha": "985240ca41f5e2f30327d491f791f4b8116910e0",
-      "last_updated": "2026-08-09T09:11:12.989226+00:00"
+      "sha": "1bfcdec70011c52eccaa809f9e6a14fcdcd10341",
+      "last_updated": "2026-08-30T16:26:34.733429+00:00"
     },
     "user-guide/skills/bundled/productivity/productivity-ocr-and-documents.md": {
       "sha": "9aed152a6f504bbe8e74e1aa3dc97e7f71d67413",
       "last_updated": "2026-08-09T09:11:13.296044+00:00"
     },
     "user-guide/skills/bundled/productivity/productivity-pdf.md": {
-      "sha": "20950d56e418afa716df8d3ece17eeb59b9bf2fb",
-      "last_updated": "2026-08-09T09:11:13.629844+00:00"
+      "sha": "a375340613a50f26788733f49862fc0ccdb61358",
+      "last_updated": "2026-08-30T16:26:35.038295+00:00"
     },
     "user-guide/skills/bundled/productivity/productivity-powerpoint.md": {
-      "sha": "fad7d26eaf086240ae1b1fd05b5f818c4acb8d1f",
-      "last_updated": "2026-08-09T09:11:13.928666+00:00"
+      "sha": "72e4dc8e754f6b023c9250c8292cdf6bb18d609e",
+      "last_updated": "2026-08-30T16:26:35.332503+00:00"
     },
     "user-guide/skills/bundled/productivity/productivity-product-price-monitor.md": {
-      "sha": "f0349effb980abe2321989dafd054cc298f092b8",
-      "last_updated": "2026-08-09T09:11:14.241481+00:00"
+      "sha": "d757afe4eb2a60613e91cf25afb79d175350c691",
+      "last_updated": "2026-08-30T16:26:35.643657+00:00"
     },
     "user-guide/skills/bundled/productivity/productivity-teams-meeting-pipeline.md": {
-      "sha": "60eb2d6a3cdc14e8fdaa567f3e285969c47a49f1",
-      "last_updated": "2026-08-18T21:29:30.384967+00:00"
+      "sha": "ff5476a0536866b9cd13dab810baeb6f594c1e57",
+      "last_updated": "2026-08-30T16:26:35.957039+00:00"
     },
     "user-guide/skills/bundled/productivity/productivity-weekly-review-planning.md": {
-      "sha": "1d932c05e2a5a0a20f3b8958994ddbb012be1213",
-      "last_updated": "2026-08-09T09:11:14.849120+00:00"
+      "sha": "353389b4ae23b5a6b265ec41b35035a9ef3082e2",
+      "last_updated": "2026-08-30T16:26:36.250956+00:00"
     },
     "user-guide/skills/bundled/productivity/productivity-xlsx.md": {
-      "sha": "7315c346ec252b23a5fe3428407d0b9cfbbc31a3",
-      "last_updated": "2026-08-09T09:11:15.159934+00:00"
+      "sha": "e0d51ec0b99e41f8204ce6b49436798571102116",
+      "last_updated": "2026-08-30T16:26:36.544958+00:00"
     },
     "user-guide/skills/bundled/research/research-arxiv.md": {
-      "sha": "4425858d7472f473e8f76ce322becb077684247b",
-      "last_updated": "2026-08-09T09:11:15.471748+00:00"
+      "sha": "f41cfcbfc9556f596f107a0ecbe930b87bbf0996",
+      "last_updated": "2026-08-30T16:26:36.869174+00:00"
     },
     "user-guide/skills/bundled/research/research-blogwatcher.md": {
       "sha": "f0fcad76f76447b3235e898b780c81ce9e27247e",
       "last_updated": "2026-08-09T09:11:15.776570+00:00"
     },
     "user-guide/skills/bundled/research/research-competitor-news-monitor.md": {
-      "sha": "bc31b958ed9389bd763c4ec7d41e733f8a2cebb3",
-      "last_updated": "2026-08-09T09:11:16.125361+00:00"
+      "sha": "dd756be8a93cf67fdd2c3644162485b03fd5bfb4",
+      "last_updated": "2026-08-30T16:26:37.166018+00:00"
     },
     "user-guide/skills/bundled/research/research-grounded-citations.md": {
-      "sha": "487e06a6b6c61410a7e4cd106c412c802a99be66",
-      "last_updated": "2026-08-09T09:11:16.492142+00:00"
+      "sha": "938e223a68a7c876b4f8a0870f360879a297761e",
+      "last_updated": "2026-08-30T16:26:37.463247+00:00"
     },
     "user-guide/skills/bundled/research/research-llm-wiki.md": {
-      "sha": "566c7378b9e859ff1767e73511041c86737bb7f8",
-      "last_updated": "2026-08-09T09:11:16.800959+00:00"
+      "sha": "6d97ac289371363624f4054a2d43b2d3ba70c35c",
+      "last_updated": "2026-08-30T16:26:37.764285+00:00"
     },
     "user-guide/skills/bundled/research/research-research-paper-writing.md": {
       "sha": "3514a6d73f28a23dc7ecaecaf5af63e944864d4a",
@@ -1077,500 +1077,500 @@
       "last_updated": "2026-08-09T09:11:17.441577+00:00"
     },
     "user-guide/skills/bundled/social-media/social-media-xurl.md": {
-      "sha": "c88091157f48c3238374db6d1fefaa047c66d783",
-      "last_updated": "2026-08-09T09:11:17.749359+00:00"
+      "sha": "7e42b4f9e76a2e2ddde946e3c23a779dce151e3e",
+      "last_updated": "2026-08-30T16:26:38.084767+00:00"
     },
     "user-guide/skills/bundled/software-development/software-development-dogfood.md": {
-      "sha": "953add5b009d89dd030d8db8d9f22a265f52e6e0",
-      "last_updated": "2026-08-09T09:11:18.089157+00:00"
+      "sha": "ea01fcc03b7669c1f76cc6f945d545556c9ec8f0",
+      "last_updated": "2026-08-30T16:26:38.690547+00:00"
     },
     "user-guide/skills/bundled/software-development/software-development-hermes-agent-skill-authoring.md": {
-      "sha": "8a3eceb19dbf3cfc374bfe3d125985633add65aa",
-      "last_updated": "2026-08-30T04:49:43.606487+00:00"
+      "sha": "c1d6299dfaf929d19d55a79bb7650ebfabb1e947",
+      "last_updated": "2026-08-30T16:26:39.302824+00:00"
     },
     "user-guide/skills/bundled/software-development/software-development-inspecting-hermes-desktop-dom.md": {
-      "sha": "7779328dbe1504e216024ec8f9ab5459da31df0a",
-      "last_updated": "2026-08-09T09:11:18.694796+00:00"
+      "sha": "d3f5e423cda7a9110ae74be6991a00793c725652",
+      "last_updated": "2026-08-30T16:26:39.602638+00:00"
     },
     "user-guide/skills/bundled/software-development/software-development-node-inspect-debugger.md": {
-      "sha": "57f26162d806dcfc8bdf6f277ed16c57e072921d",
-      "last_updated": "2026-08-09T09:11:19.002639+00:00"
+      "sha": "18580751bc58581f0e894caa7d2a4e2e8407b2fc",
+      "last_updated": "2026-08-30T16:26:39.919587+00:00"
     },
     "user-guide/skills/bundled/software-development/software-development-python-debugpy.md": {
-      "sha": "4f7c4c37e3d83dd0e181b88fccfd6725c596ccaf",
-      "last_updated": "2026-08-09T09:11:19.656258+00:00"
+      "sha": "e6f1120e0835cac46386cb7033401d7f01a00dd4",
+      "last_updated": "2026-08-30T16:26:40.215892+00:00"
     },
     "user-guide/skills/bundled/software-development/software-development-requesting-code-review.md": {
-      "sha": "bf6f13b70d865aba0d4bb131075521a254f8ae89",
-      "last_updated": "2026-08-30T04:49:43.994877+00:00"
+      "sha": "dfdfb42622ad852213b576d63300982062e34ed4",
+      "last_updated": "2026-08-30T16:26:40.518005+00:00"
     },
     "user-guide/skills/bundled/software-development/software-development-simplify-code.md": {
-      "sha": "57a15346922cc22a69a8e508273ed3587a3b236e",
-      "last_updated": "2026-08-30T04:49:44.357194+00:00"
+      "sha": "59e22aa1f6a200394a20eb291103625945d0c680",
+      "last_updated": "2026-08-30T16:26:40.816085+00:00"
     },
     "user-guide/skills/bundled/software-development/software-development-spike.md": {
-      "sha": "470e984504e694c5b188188df77acca894d3ca5f",
-      "last_updated": "2026-08-30T04:49:44.728006+00:00"
+      "sha": "b2d6342723f781d6270d2159b11348f6caad0415",
+      "last_updated": "2026-08-30T16:26:41.112476+00:00"
     },
     "user-guide/skills/bundled/software-development/software-development-systematic-debugging.md": {
-      "sha": "a3f9f288aa1e312fd3ba9d7ee0f86380aa4276d6",
-      "last_updated": "2026-08-30T04:49:45.092811+00:00"
+      "sha": "684cbdb5bf91855d44b5412ecb08b08dd69e74f3",
+      "last_updated": "2026-08-30T16:26:41.412664+00:00"
     },
     "user-guide/skills/bundled/software-development/software-development-test-driven-development.md": {
-      "sha": "4ef912ec904081b33479003bf2b5bf936b23889a",
-      "last_updated": "2026-08-30T04:49:45.491549+00:00"
+      "sha": "805782c463766bd7614ee59caf65b13b64b2eb4a",
+      "last_updated": "2026-08-30T16:26:41.710900+00:00"
     },
     "user-guide/skills/google-workspace.md": {
       "sha": "7248612c6bf3d6fa403b4302fba2b4ef66341b93",
       "last_updated": "2026-08-09T09:11:21.650069+00:00"
     },
     "user-guide/skills/optional/autonomous-ai-agents/autonomous-ai-agents-antigravity-cli.md": {
-      "sha": "bb6e19904fde4a50b0fd0825a1083aa144d66138",
-      "last_updated": "2026-08-09T09:11:21.959886+00:00"
+      "sha": "d4e2f48b971a0b05fe8e49c31f754bd46a50dad0",
+      "last_updated": "2026-08-30T16:26:42.306239+00:00"
     },
     "user-guide/skills/optional/autonomous-ai-agents/autonomous-ai-agents-blackbox.md": {
-      "sha": "822bb73de67848c602bf7c36f1e433eeacbb4f2a",
-      "last_updated": "2026-08-09T09:11:22.291688+00:00"
+      "sha": "a56d767bd6f95856404f78d221eabf15a7ce9d44",
+      "last_updated": "2026-08-30T16:26:42.597478+00:00"
     },
     "user-guide/skills/optional/autonomous-ai-agents/autonomous-ai-agents-grok.md": {
-      "sha": "a51590f761ad635dcf30cfd0ee1cb2d1be19e023",
-      "last_updated": "2026-08-09T09:11:22.603504+00:00"
+      "sha": "e57f08318b0adb04023ce5364aadc9174ac561ec",
+      "last_updated": "2026-08-30T16:26:42.878259+00:00"
     },
     "user-guide/skills/optional/autonomous-ai-agents/autonomous-ai-agents-honcho.md": {
-      "sha": "4d3c1c1a452757767f84e290df9c2d09589bf833",
-      "last_updated": "2026-08-09T09:11:22.918315+00:00"
+      "sha": "2bffbcdb4c0a1ee93cbd83652676c875f5e6dc34",
+      "last_updated": "2026-08-30T16:26:43.169891+00:00"
     },
     "user-guide/skills/optional/autonomous-ai-agents/autonomous-ai-agents-openhands.md": {
-      "sha": "9774fe25b0279e1ddda5b76dc87689310ad49d90",
-      "last_updated": "2026-08-09T09:11:23.236127+00:00"
+      "sha": "b222bdecf7a1f57e9dc78bbbaa54281ce897d8b0",
+      "last_updated": "2026-08-30T16:26:43.465188+00:00"
     },
     "user-guide/skills/optional/blockchain/blockchain-evm.md": {
-      "sha": "01006870ee420b2496269d1c330f0b62be9fc054",
-      "last_updated": "2026-08-09T09:11:23.547908+00:00"
+      "sha": "a065f01a8b0fe3f0636d1251ebdd45f72b78a0bc",
+      "last_updated": "2026-08-30T16:26:43.757770+00:00"
     },
     "user-guide/skills/optional/blockchain/blockchain-hyperliquid.md": {
-      "sha": "177dfe36a10bf8bfe5b7b71517662dd22550fe09",
-      "last_updated": "2026-08-09T09:11:23.860756+00:00"
+      "sha": "2dba79dc9a492c754d7f782d0f4f3ec2892a09e4",
+      "last_updated": "2026-08-30T16:26:44.050165+00:00"
     },
     "user-guide/skills/optional/blockchain/blockchain-solana.md": {
-      "sha": "f2c293ef7c32294bbd7dd66dde38f407eaa0815c",
-      "last_updated": "2026-08-09T09:11:24.205548+00:00"
+      "sha": "a9b4c55b7ed12a6ddf4664119bae092bfbd0ab5f",
+      "last_updated": "2026-08-30T16:26:44.364424+00:00"
     },
     "user-guide/skills/optional/communication/communication-one-three-one-rule.md": {
-      "sha": "c0471b16ee73a4056d98f7b8d1935368e1f7338f",
-      "last_updated": "2026-08-09T09:11:24.528331+00:00"
+      "sha": "ff2a994e8616addbf4c1ce029cc02e197c716dc9",
+      "last_updated": "2026-08-30T16:26:44.663768+00:00"
     },
     "user-guide/skills/optional/creative/creative-audiocraft-audio-generation.md": {
-      "sha": "418ab5e652cff8083640007f9030515439d3bb7c",
-      "last_updated": "2026-08-09T09:11:24.842173+00:00"
+      "sha": "3a8c99319fe34be0c9344ee895016d3c5b67ae52",
+      "last_updated": "2026-08-30T16:26:45.289186+00:00"
     },
     "user-guide/skills/optional/creative/creative-baoyu-article-illustrator.md": {
-      "sha": "2fbe498b784c20e8cd678742051d6fa730d83b21",
-      "last_updated": "2026-08-09T09:11:25.202955+00:00"
+      "sha": "f6a7395b28b3fbf81defdda9a7838eed9d83b640",
+      "last_updated": "2026-08-30T16:26:45.584653+00:00"
     },
     "user-guide/skills/optional/creative/creative-baoyu-comic.md": {
-      "sha": "88fdc93af6a3f9927cd5139319d1c79a0c24a9e8",
-      "last_updated": "2026-08-09T09:11:25.551748+00:00"
+      "sha": "6a41cf8589fbdb26c9f970feff3db8153a587788",
+      "last_updated": "2026-08-30T16:26:45.882748+00:00"
     },
     "user-guide/skills/optional/creative/creative-concept-diagrams.md": {
-      "sha": "09ac135f4ae369651cbf3d2eedcf223e215ba629",
-      "last_updated": "2026-08-09T09:11:26.218350+00:00"
+      "sha": "cc0bc64a8b847fc74b7b1a3a63e7b8154448ac3d",
+      "last_updated": "2026-08-30T16:26:46.458782+00:00"
     },
     "user-guide/skills/optional/creative/creative-creative-ideation.md": {
-      "sha": "698b105eaab0e39278d04b33ff3d18d53f73646d",
-      "last_updated": "2026-08-09T09:11:26.523177+00:00"
+      "sha": "2c023074c2b554894a0aaab59061512180a39cc6",
+      "last_updated": "2026-08-30T16:26:46.760920+00:00"
     },
     "user-guide/skills/optional/creative/creative-heartmula.md": {
-      "sha": "052970f3bb63ed25218d550d4644c44ee2cd90db",
-      "last_updated": "2026-08-09T09:11:26.843979+00:00"
+      "sha": "ed2182277042bb08f6cd780de80e996504c924a3",
+      "last_updated": "2026-08-30T16:26:47.654762+00:00"
     },
     "user-guide/skills/optional/creative/creative-hyperframes.md": {
-      "sha": "3f453acd8db8989ff97889785e40d00f670b6098",
-      "last_updated": "2026-08-09T09:11:27.158792+00:00"
+      "sha": "1a8afaa9e1d7c9201f6f80f0e0d49066ab095275",
+      "last_updated": "2026-08-30T16:26:47.944902+00:00"
     },
     "user-guide/skills/optional/creative/creative-kanban-video-orchestrator.md": {
-      "sha": "6d3185eb80295faf8186f2ae9130d1cacf37a489",
-      "last_updated": "2026-08-10T21:48:30.165560+00:00"
+      "sha": "ecb36c41a9a50038bfb10d60dcb6c80c200f3ffc",
+      "last_updated": "2026-08-30T16:26:48.536052+00:00"
     },
     "user-guide/skills/optional/creative/creative-meme-generation.md": {
-      "sha": "605fe7ddc0b5abe672a244854ec1c972c0a4b04c",
-      "last_updated": "2026-08-09T09:11:27.775424+00:00"
+      "sha": "f7b61f10f981bb95cdbb29911c5447c5585b2ff3",
+      "last_updated": "2026-08-30T16:26:48.854417+00:00"
     },
     "user-guide/skills/optional/creative/creative-pixel-art.md": {
-      "sha": "c2f3d20b24e9eff466b3691d981b9a38fed2f439",
-      "last_updated": "2026-08-09T09:11:28.096203+00:00"
+      "sha": "065496394c6b64893ee71a708060e5fc8e54131c",
+      "last_updated": "2026-08-30T16:26:49.143717+00:00"
     },
     "user-guide/skills/optional/creative/creative-social-media-content-calendar.md": {
-      "sha": "fd57bca15047167f15966c0a64d5ac25cf898e60",
-      "last_updated": "2026-08-09T09:11:28.479007+00:00"
+      "sha": "eaf72464eb7c95e4e0b927d0b3ae37a3731fe215",
+      "last_updated": "2026-08-30T16:26:50.343859+00:00"
     },
     "user-guide/skills/optional/creative/creative-tldraw-offline.md": {
-      "sha": "59cc602b93e685e32658790a1ff5d9a3c0b8e8cd",
-      "last_updated": "2026-08-09T09:11:28.798818+00:00"
+      "sha": "737d51391205f927c60c0089c72b923c3a3f1258",
+      "last_updated": "2026-08-30T16:26:50.641973+00:00"
     },
     "user-guide/skills/optional/creative/creative-unreal-mcp.md": {
-      "sha": "65aa94e9e1815c746be6c37b433fd360ba172c34",
-      "last_updated": "2026-08-10T21:48:30.532767+00:00"
+      "sha": "6e8ccc000e8f0f8ed21bf9d6a29ffde978e39f9d",
+      "last_updated": "2026-08-30T16:26:51.237007+00:00"
     },
     "user-guide/skills/optional/data-science/data-science-jupyter-notebook.md": {
-      "sha": "a869a968d218f28b9f31dcb8768cdd78cf949863",
-      "last_updated": "2026-08-09T09:11:29.463419+00:00"
+      "sha": "3d5f5780ff75f0414daad20c5e4160c791fabea5",
+      "last_updated": "2026-08-30T16:26:51.534227+00:00"
     },
     "user-guide/skills/optional/devops/devops-actual-setup.md": {
-      "sha": "d7fa4bd756a3b7ce300029dfeb3856b04ea84535",
-      "last_updated": "2026-08-09T09:11:29.794222+00:00"
+      "sha": "450eb93bc9125da47a16fe0aeec1a171a72d34bc",
+      "last_updated": "2026-08-30T16:26:51.829780+00:00"
     },
     "user-guide/skills/optional/devops/devops-docker-management.md": {
-      "sha": "bc9c60c9c698b68aa592ac92b163eabf65d5eac1",
-      "last_updated": "2026-08-09T09:11:30.110034+00:00"
+      "sha": "d2cff31536e0067f624b7d8562088bf2d38ecb97",
+      "last_updated": "2026-08-30T16:26:52.128892+00:00"
     },
     "user-guide/skills/optional/devops/devops-hermes-s6-container-supervision.md": {
-      "sha": "6bcadfa0acb9365f594b7913b308fc9e9b5d6b70",
-      "last_updated": "2026-08-09T09:11:30.463823+00:00"
+      "sha": "76b34e9c3e7a4d13c073c51eefc5ec0ff0196157",
+      "last_updated": "2026-08-30T16:26:52.428221+00:00"
     },
     "user-guide/skills/optional/devops/devops-inference-sh-cli.md": {
-      "sha": "0fe5f1dfa702c8bae9347f5f21582c5a840946a5",
-      "last_updated": "2026-08-09T09:11:30.771642+00:00"
+      "sha": "295c14b0cc8926b23e7a64578f82dada6a8b196e",
+      "last_updated": "2026-08-30T16:26:52.730808+00:00"
     },
     "user-guide/skills/optional/devops/devops-pinggy-tunnel.md": {
-      "sha": "ff7ec24d22917f3d5951c95784b9c87feb852711",
-      "last_updated": "2026-08-09T09:11:31.089450+00:00"
+      "sha": "de59598e06c27f96f9c7d5e0baae059c580d383a",
+      "last_updated": "2026-08-30T16:26:53.043420+00:00"
     },
     "user-guide/skills/optional/devops/devops-watchers.md": {
-      "sha": "9d2fc7f7523baaad78fc64fd2c957fe43ce194db",
-      "last_updated": "2026-08-09T09:11:31.438245+00:00"
+      "sha": "b1860772f7b217648a161850b8a2ddf47f4e6823",
+      "last_updated": "2026-08-30T16:26:53.647960+00:00"
     },
     "user-guide/skills/optional/dogfood/dogfood-adversarial-ux-test.md": {
-      "sha": "2a552a58464e36992789e533873aacc1574cbe5b",
-      "last_updated": "2026-08-09T09:11:31.766048+00:00"
+      "sha": "4bef37dab10befa5c6108a6a31084ccef5b2eaf0",
+      "last_updated": "2026-08-30T16:26:53.948962+00:00"
     },
     "user-guide/skills/optional/email/email-agentmail.md": {
-      "sha": "5fb31dba0feb77358061b0095dde36a34a1689b1",
-      "last_updated": "2026-08-28T00:19:08.578564+00:00"
+      "sha": "26c682c3817386ecc46852b73ff87a3d011dac23",
+      "last_updated": "2026-08-30T16:26:54.253363+00:00"
     },
     "user-guide/skills/optional/finance/finance-3-statement-model.md": {
-      "sha": "d945e58e49a3a7b289f6ad5a0430b470184d38ee",
-      "last_updated": "2026-08-09T09:11:32.480623+00:00"
+      "sha": "250d7fadf49b5ddd047afd304b6d7277cac2d293",
+      "last_updated": "2026-08-30T16:26:54.548313+00:00"
     },
     "user-guide/skills/optional/finance/finance-comps-analysis.md": {
-      "sha": "192f0f98e5e3e56c37041a209a247a1e5a7c6cec",
-      "last_updated": "2026-08-09T09:11:32.808434+00:00"
+      "sha": "de8d1aa2e43ae9775e93699b70fc5b49207bd13d",
+      "last_updated": "2026-08-30T16:26:54.839011+00:00"
     },
     "user-guide/skills/optional/finance/finance-dcf-model.md": {
-      "sha": "34a847d2db7da9773657f194b08bd54de9ecd090",
-      "last_updated": "2026-08-09T09:11:33.149227+00:00"
+      "sha": "689df50dd321847dba2d0956e60519e207a80663",
+      "last_updated": "2026-08-30T16:26:55.158189+00:00"
     },
     "user-guide/skills/optional/finance/finance-excel-author.md": {
-      "sha": "732080ee06dd39cb5216279acfef204cda6b7ab5",
-      "last_updated": "2026-08-09T09:11:33.463038+00:00"
+      "sha": "50e1e36f80d44d0584bbd3b551694505c10c39c5",
+      "last_updated": "2026-08-30T16:26:55.462771+00:00"
     },
     "user-guide/skills/optional/finance/finance-lbo-model.md": {
-      "sha": "052cf588096d904e839d550e1fdbab678e218d4c",
-      "last_updated": "2026-08-09T09:11:33.833817+00:00"
+      "sha": "27460107291d674f219fda21049b88971122f7b0",
+      "last_updated": "2026-08-30T16:26:55.767470+00:00"
     },
     "user-guide/skills/optional/finance/finance-merger-model.md": {
-      "sha": "c7876caac8449ad51a1f9b3c14347bf37cefa890",
-      "last_updated": "2026-08-09T09:11:34.168620+00:00"
+      "sha": "89c34a2cf1da4f4a2d6408f109dbb692bebc17b5",
+      "last_updated": "2026-08-30T16:26:56.066965+00:00"
     },
     "user-guide/skills/optional/finance/finance-polymarket.md": {
-      "sha": "78f370685af25cb7a83c5a0ee5612e5a3db003ee",
-      "last_updated": "2026-08-09T09:11:34.510384+00:00"
+      "sha": "f320f55dfa7b9d4686cd51cdfe3243b094b12cca",
+      "last_updated": "2026-08-30T16:26:56.363566+00:00"
     },
     "user-guide/skills/optional/finance/finance-pptx-author.md": {
-      "sha": "ae7d711c39674b95de4ed2300102c0f0d966f1a4",
-      "last_updated": "2026-08-09T09:11:34.813236+00:00"
+      "sha": "4f5b5f28c34b6e7f562c313a435d544157c55323",
+      "last_updated": "2026-08-30T16:26:56.663316+00:00"
     },
     "user-guide/skills/optional/finance/finance-stocks.md": {
-      "sha": "7c43dea3065e2de4a97a8af42b6cb9c27892fbcf",
-      "last_updated": "2026-08-09T09:11:35.132048+00:00"
+      "sha": "b855ca4ac35ee7148e07dd9c5d67b36c22202718",
+      "last_updated": "2026-08-30T16:26:56.957626+00:00"
     },
     "user-guide/skills/optional/gaming/gaming-minecraft-modpack-server.md": {
-      "sha": "4b8f0ec356c9f1fcb9fb26d9ca52f40ff9703df9",
-      "last_updated": "2026-08-09T09:11:35.466857+00:00"
+      "sha": "2f0e925f2305cb6df7711a5cbe51afa458bef712",
+      "last_updated": "2026-08-30T16:26:57.243803+00:00"
     },
     "user-guide/skills/optional/gaming/gaming-pokemon-player.md": {
-      "sha": "3a98d97a751da22200b75499416753a3e505d587",
-      "last_updated": "2026-08-09T09:11:35.790654+00:00"
+      "sha": "c7cde4080a2c6db44262a20eb0e9797c332fd25b",
+      "last_updated": "2026-08-30T16:26:57.544243+00:00"
     },
     "user-guide/skills/optional/health/health-fitness-nutrition.md": {
-      "sha": "feb2a450498fb15a0d6f7cf61cc2aa37dcd457b8",
-      "last_updated": "2026-08-09T09:11:36.098439+00:00"
+      "sha": "1ff5827959027f87731bc131dd7491453ed2e22a",
+      "last_updated": "2026-08-30T16:26:57.838604+00:00"
     },
     "user-guide/skills/optional/health/health-neuroskill-bci.md": {
-      "sha": "d011ca445536944c2b69bcb7ef0fa1b28b43ca97",
-      "last_updated": "2026-08-09T09:11:36.409285+00:00"
+      "sha": "1f381393d93c6c8bdf4a79f779cada757fedfe8d",
+      "last_updated": "2026-08-30T16:26:58.126609+00:00"
     },
     "user-guide/skills/optional/mcp/mcp-fastmcp.md": {
-      "sha": "8012434d42d1316285fa2786a132232f9182097c",
-      "last_updated": "2026-08-09T09:11:36.728097+00:00"
+      "sha": "2665417067edfce0b55c73946e50a63c7a6fc975",
+      "last_updated": "2026-08-30T16:26:58.426494+00:00"
     },
     "user-guide/skills/optional/mcp/mcp-mcp-oauth-remote-gateway.md": {
-      "sha": "935382b96fc70858a3e54ac203efc4dfee307950",
-      "last_updated": "2026-08-09T09:11:37.048905+00:00"
+      "sha": "6e43ce44d116e057f2ee6d44c88cde25dcb8d436",
+      "last_updated": "2026-08-30T16:26:58.720087+00:00"
     },
     "user-guide/skills/optional/mcp/mcp-mcporter.md": {
-      "sha": "0bc09c9a4f1dd96fde4821c24c1a9df153a05226",
-      "last_updated": "2026-08-09T09:11:37.364716+00:00"
+      "sha": "cf48fc4297c5b198a3768ba7720804cf831a854f",
+      "last_updated": "2026-08-30T16:26:59.050088+00:00"
     },
     "user-guide/skills/optional/migration/migration-openclaw-migration.md": {
-      "sha": "f2e9fba4e7c640bfde428b6cfcc8fc4cddfb3312",
-      "last_updated": "2026-08-09T09:11:37.673533+00:00"
+      "sha": "43519fcac5f638bff7e8464037a003e825e35a28",
+      "last_updated": "2026-08-30T16:26:59.345307+00:00"
     },
     "user-guide/skills/optional/mlops/mlops-accelerate.md": {
-      "sha": "ef74ff473a946d106cdb74242c666e2e36cfac0c",
-      "last_updated": "2026-08-09T09:11:37.981350+00:00"
+      "sha": "13745edf3e0c5e05c307aa416986638ef45316c2",
+      "last_updated": "2026-08-30T16:26:59.639150+00:00"
     },
     "user-guide/skills/optional/mlops/mlops-chroma.md": {
-      "sha": "1dafc4cc54bcb635f8ed5757b0b031b649a26e01",
-      "last_updated": "2026-08-09T09:11:38.309147+00:00"
+      "sha": "0feb394e007fd05779bc9607cd74a35de5bc8795",
+      "last_updated": "2026-08-30T16:26:59.931907+00:00"
     },
     "user-guide/skills/optional/mlops/mlops-clip.md": {
-      "sha": "e9266e443b29d3f229ce6d1fa26bac387efa465e",
-      "last_updated": "2026-08-09T09:11:38.633931+00:00"
+      "sha": "d0fded797ef763af98631b9c90bea83b270b866f",
+      "last_updated": "2026-08-30T16:27:00.227274+00:00"
     },
     "user-guide/skills/optional/mlops/mlops-faiss.md": {
-      "sha": "e83bc5a59be3fbee511f771d7b657232b0ae024c",
-      "last_updated": "2026-08-09T09:11:38.933783+00:00"
+      "sha": "a082372372100e3449ecd2090cfea7a3163f510c",
+      "last_updated": "2026-08-30T16:27:01.139018+00:00"
     },
     "user-guide/skills/optional/mlops/mlops-flash-attention.md": {
-      "sha": "5269e41af2c77ea3b81bb417250638f01fc6b30e",
-      "last_updated": "2026-08-09T09:11:39.242601+00:00"
+      "sha": "52b717fee5023c18494c9d78ba50b8f6b1443dce",
+      "last_updated": "2026-08-30T16:27:01.444051+00:00"
     },
     "user-guide/skills/optional/mlops/mlops-guidance.md": {
-      "sha": "d8f7de7512a1f21224c9067aed93f14d32bd62f9",
-      "last_updated": "2026-08-09T09:11:39.556379+00:00"
+      "sha": "56556cbce89863112f504e8d3d25e91b32c345cc",
+      "last_updated": "2026-08-30T16:27:01.746132+00:00"
     },
     "user-guide/skills/optional/mlops/mlops-huggingface-tokenizers.md": {
-      "sha": "723cf707a7f70671d76eb38c5fcc8314366560c0",
-      "last_updated": "2026-08-09T09:11:39.867237+00:00"
+      "sha": "b627c762ecc75ad71b46dc4e32f1b3013f4ec95e",
+      "last_updated": "2026-08-30T16:27:02.046815+00:00"
     },
     "user-guide/skills/optional/mlops/mlops-inference-outlines.md": {
-      "sha": "6e247586b9e242ef3d39826401fc99cc3d81bf46",
-      "last_updated": "2026-08-09T09:11:40.186007+00:00"
+      "sha": "2e0e076e9195babd009e68d24e479d323b6e8f52",
+      "last_updated": "2026-08-30T16:27:02.637316+00:00"
     },
     "user-guide/skills/optional/mlops/mlops-instructor.md": {
-      "sha": "323b03847d9124ef34ba84d23654738cb3cea38b",
-      "last_updated": "2026-08-09T09:11:40.498912+00:00"
+      "sha": "aa1331168925c87042bb3f4036e3188526873521",
+      "last_updated": "2026-08-30T16:27:03.249528+00:00"
     },
     "user-guide/skills/optional/mlops/mlops-lambda-labs.md": {
-      "sha": "1dfee1330448c0c2689cea387ef48fe5966f6fa0",
-      "last_updated": "2026-08-09T09:11:40.818669+00:00"
+      "sha": "416a9962727d19569f1b13d8511a32296e6e0a39",
+      "last_updated": "2026-08-30T16:27:03.546175+00:00"
     },
     "user-guide/skills/optional/mlops/mlops-llava.md": {
-      "sha": "bd50b50ab43dbd45d4d925df23b1f1b4ec6feac4",
-      "last_updated": "2026-08-09T09:11:41.163471+00:00"
+      "sha": "e70a25f4a4a06f93d4d2db6f9064ef88c1b2572a",
+      "last_updated": "2026-08-30T16:27:03.845293+00:00"
     },
     "user-guide/skills/optional/mlops/mlops-modal.md": {
-      "sha": "4fce9a4c9da36c00f3f34913303c6af02df5103d",
-      "last_updated": "2026-08-09T09:11:41.488264+00:00"
+      "sha": "9b744da7c55c649eaeea3224c1a1fd283d13d78a",
+      "last_updated": "2026-08-30T16:27:04.148247+00:00"
     },
     "user-guide/skills/optional/mlops/mlops-models-segment-anything-model.md": {
-      "sha": "f18118c370e0f72a35e89b3947d3aee7d6dc4e31",
-      "last_updated": "2026-08-09T09:11:41.796085+00:00"
+      "sha": "21405cb5a48c0efe5339dafe603080062da162ec",
+      "last_updated": "2026-08-30T16:27:04.749300+00:00"
     },
     "user-guide/skills/optional/mlops/mlops-nemo-curator.md": {
-      "sha": "84eeca4bb6f54aedabbde2d49249df62faa76826",
-      "last_updated": "2026-08-09T09:11:42.102900+00:00"
+      "sha": "40f9c2b7acb44b3240310f55c72d0dcff7b12f82",
+      "last_updated": "2026-08-30T16:27:05.034511+00:00"
     },
     "user-guide/skills/optional/mlops/mlops-obliteratus.md": {
-      "sha": "48cb3ce976fd0864bdc3c62a3becaa2ccd5ec6c7",
-      "last_updated": "2026-08-09T09:11:42.443695+00:00"
+      "sha": "0562055dad283b197baef72f74f7855bb4c61903",
+      "last_updated": "2026-08-30T16:27:05.327565+00:00"
     },
     "user-guide/skills/optional/mlops/mlops-peft.md": {
-      "sha": "f5ed6889a9865843e5ad62b512db43c8eb889b80",
-      "last_updated": "2026-08-09T09:11:42.760511+00:00"
+      "sha": "edf9294fc7c04a4fec5d606a651b0c65f2c7e8b5",
+      "last_updated": "2026-08-30T16:27:05.627172+00:00"
     },
     "user-guide/skills/optional/mlops/mlops-pinecone.md": {
-      "sha": "d9e57578dde69f352442c4a7a2ee908e8123f547",
-      "last_updated": "2026-08-09T09:11:43.071324+00:00"
+      "sha": "c6cf88b25d4d9cad94b2ed1db11601e610262688",
+      "last_updated": "2026-08-30T16:27:05.924323+00:00"
     },
     "user-guide/skills/optional/mlops/mlops-pytorch-fsdp.md": {
-      "sha": "48fb4118a15b9dd6b54ce53f8547aac94db789fc",
-      "last_updated": "2026-08-09T09:11:43.444086+00:00"
+      "sha": "023d06742f9067b8594e738c563b952ba47ad2ba",
+      "last_updated": "2026-08-30T16:27:06.223089+00:00"
     },
     "user-guide/skills/optional/mlops/mlops-pytorch-lightning.md": {
-      "sha": "dac2b7e6132cbb2b25f8f221c3b8296746dbd950",
-      "last_updated": "2026-08-09T09:11:43.796891+00:00"
+      "sha": "dbf67607574dd4b94a31de349b2fa536764f46f5",
+      "last_updated": "2026-08-30T16:27:06.514432+00:00"
     },
     "user-guide/skills/optional/mlops/mlops-qdrant.md": {
-      "sha": "c167093093087e04da877eb1cba431e1a30e3b45",
-      "last_updated": "2026-08-09T09:11:44.143682+00:00"
+      "sha": "80c171381c8a8b771af2cf25992e0714395e2db4",
+      "last_updated": "2026-08-30T16:27:06.828837+00:00"
     },
     "user-guide/skills/optional/mlops/mlops-research-dspy.md": {
-      "sha": "a7f4ca9d8cba7d99c7466100d262660dcb46b301",
-      "last_updated": "2026-08-09T09:11:44.486478+00:00"
+      "sha": "07abb63dcd4681896c4f2e83c693093695b38f6e",
+      "last_updated": "2026-08-30T16:27:07.129767+00:00"
     },
     "user-guide/skills/optional/mlops/mlops-saelens.md": {
-      "sha": "ce0def00c52e55e1ca265901b61f39d15f8b6cb2",
-      "last_updated": "2026-08-09T09:11:44.833273+00:00"
+      "sha": "f58ccda19a45f5c0128cbeb610cf6e33882ab523",
+      "last_updated": "2026-08-30T16:27:07.432240+00:00"
     },
     "user-guide/skills/optional/mlops/mlops-simpo.md": {
-      "sha": "5897175df0843f4ec2663d066301adb1e891109f",
-      "last_updated": "2026-08-09T09:11:45.187032+00:00"
+      "sha": "a7736fd510761e3fb4d463f6f3da9796b230ba37",
+      "last_updated": "2026-08-30T16:27:07.735226+00:00"
     },
     "user-guide/skills/optional/mlops/mlops-slime.md": {
-      "sha": "27df63be800f3dc69a8d7e1b2384775127e0f937",
-      "last_updated": "2026-08-09T09:11:45.501875+00:00"
+      "sha": "3b5f5592df61183fbc58e15db4f158a8c76f672e",
+      "last_updated": "2026-08-30T16:27:08.038462+00:00"
     },
     "user-guide/skills/optional/mlops/mlops-stable-diffusion.md": {
-      "sha": "8bc55a8d88c5c0b138a5a1ebe24525a4fe07f76e",
-      "last_updated": "2026-08-09T09:11:45.816690+00:00"
+      "sha": "3a91f19f2a0f1d0370f56db11ddd7fdca3d0e88d",
+      "last_updated": "2026-08-30T16:27:08.339421+00:00"
     },
     "user-guide/skills/optional/mlops/mlops-tensorrt-llm.md": {
-      "sha": "9ef46ce0fbaa37b65dbe0bac2864f059f4f21db5",
-      "last_updated": "2026-08-09T09:11:46.130471+00:00"
+      "sha": "727812c1c8d7fa0526979788ec47601086c77053",
+      "last_updated": "2026-08-30T16:27:08.628015+00:00"
     },
     "user-guide/skills/optional/mlops/mlops-torchtitan.md": {
-      "sha": "40a7b94a8750f5c94f057feec782d19c2d4c1065",
-      "last_updated": "2026-08-09T09:11:46.449311+00:00"
+      "sha": "9a814bf816b29d50f920370e4a566728febf0eca",
+      "last_updated": "2026-08-30T16:27:08.955154+00:00"
     },
     "user-guide/skills/optional/mlops/mlops-training-axolotl.md": {
-      "sha": "a23fb70816dc3c09f28293b14f92db20170ade03",
-      "last_updated": "2026-08-09T09:11:46.801103+00:00"
+      "sha": "040caac478a895885a63ea88d6b593ee6d863583",
+      "last_updated": "2026-08-30T16:27:09.248299+00:00"
     },
     "user-guide/skills/optional/mlops/mlops-training-trl-fine-tuning.md": {
-      "sha": "d46746137ad327c1289134659272e02c0482f576",
-      "last_updated": "2026-08-09T09:11:47.117914+00:00"
+      "sha": "57072aab119a771aa768ba7bf113ab39ad6d1686",
+      "last_updated": "2026-08-30T16:27:09.647334+00:00"
     },
     "user-guide/skills/optional/mlops/mlops-training-unsloth.md": {
-      "sha": "28b70227971ef81d50345281da1ddee763f7e309",
-      "last_updated": "2026-08-09T09:11:47.418734+00:00"
+      "sha": "9ca4ae0800aa9c840356713cd5085626d6a18054",
+      "last_updated": "2026-08-30T16:27:09.966101+00:00"
     },
     "user-guide/skills/optional/mlops/mlops-whisper.md": {
-      "sha": "458316b67c1a106dea1d93020c31c421dd185ff3",
-      "last_updated": "2026-08-09T09:11:47.729550+00:00"
+      "sha": "d4a279bad13d8da28510cf07a55664ccfaa5a833",
+      "last_updated": "2026-08-30T16:27:10.269012+00:00"
     },
     "user-guide/skills/optional/payments/payments-mpp-agent.md": {
-      "sha": "ee2ff286e2566eb537ef1ad155b20a505a058fbe",
-      "last_updated": "2026-08-09T09:11:48.075345+00:00"
+      "sha": "c20c9d84e556a2ee1bb648f7c21a7d87337bd8c2",
+      "last_updated": "2026-08-30T16:27:10.561843+00:00"
     },
     "user-guide/skills/optional/payments/payments-stripe-link-cli.md": {
-      "sha": "fdabbab6cb146e10fc242cff6555d2ec8fc33263",
-      "last_updated": "2026-08-09T09:11:48.381161+00:00"
+      "sha": "569ad6f420af06025b8fd1449180b9cf9dcee2dc",
+      "last_updated": "2026-08-30T16:27:10.857607+00:00"
     },
     "user-guide/skills/optional/payments/payments-stripe-projects.md": {
-      "sha": "fcd20673edd6aaa2f6c51e2076bebf400145a919",
-      "last_updated": "2026-08-09T09:11:48.723539+00:00"
+      "sha": "7f2b60032cca601c74299666d5499f3b53c6fab7",
+      "last_updated": "2026-08-30T16:27:11.172471+00:00"
     },
     "user-guide/skills/optional/productivity/productivity-canvas.md": {
-      "sha": "90f44f1a61895e171d45d07300e7d6f8e2144106",
-      "last_updated": "2026-08-09T09:11:49.068336+00:00"
+      "sha": "33a09987dc0266a45291485fb4b29e50411fc3bf",
+      "last_updated": "2026-08-30T16:27:11.481352+00:00"
     },
     "user-guide/skills/optional/productivity/productivity-here-now.md": {
-      "sha": "7240ecac1da4971c029408b353eb4719ff7df169",
-      "last_updated": "2026-08-09T09:11:49.372155+00:00"
+      "sha": "4e41830d18f68159c03cb1804672210120d86c9f",
+      "last_updated": "2026-08-30T16:27:12.073593+00:00"
     },
     "user-guide/skills/optional/productivity/productivity-memento-flashcards.md": {
-      "sha": "71caeb2607b9c15c793dc93c826d0d8470e3656f",
-      "last_updated": "2026-08-09T09:11:49.734940+00:00"
+      "sha": "f2d0df28d33a4178b9f06327039be19705511bf7",
+      "last_updated": "2026-08-30T16:27:12.367979+00:00"
     },
     "user-guide/skills/optional/productivity/productivity-shop.md": {
-      "sha": "d2dfa08bd9b9b3d116b14648bc53e5573e3ecc6a",
-      "last_updated": "2026-08-09T09:11:50.046721+00:00"
+      "sha": "9fde16b2d4d6ca4f721ab63fc2cb1f91c7c973fd",
+      "last_updated": "2026-08-30T16:27:12.663226+00:00"
     },
     "user-guide/skills/optional/productivity/productivity-shopify.md": {
-      "sha": "a552bc5bfdbd9e979ca7d1a90e0abd3d2c303ea4",
-      "last_updated": "2026-08-09T09:11:50.394688+00:00"
+      "sha": "622860fe727179e76fa5ae98adc62b56b93a06a0",
+      "last_updated": "2026-08-30T16:27:12.951354+00:00"
     },
     "user-guide/skills/optional/productivity/productivity-siyuan.md": {
-      "sha": "6747083b07d1e061d29cac7d4f1393a438c2618d",
-      "last_updated": "2026-08-09T09:11:50.698476+00:00"
+      "sha": "d14d3cc2bb0ea4d833d164893c2cebbfcd1910de",
+      "last_updated": "2026-08-30T16:27:13.266985+00:00"
     },
     "user-guide/skills/optional/productivity/productivity-telephony.md": {
-      "sha": "d3f6b81adaf806f5d3896fb7ebb51ae101dc7170",
-      "last_updated": "2026-08-09T09:11:51.012321+00:00"
+      "sha": "db27beb31c88d79219223fc312b52bdf129a27dc",
+      "last_updated": "2026-08-30T16:27:13.570832+00:00"
     },
     "user-guide/skills/optional/research/research-bioinformatics.md": {
-      "sha": "084d596c7d43d464f4fd1a5e14d2a1d64a770628",
-      "last_updated": "2026-08-09T09:11:51.506025+00:00"
+      "sha": "dae339a0490b268e0424afd16068ed5e1b5cbfde",
+      "last_updated": "2026-08-30T16:27:13.863112+00:00"
     },
     "user-guide/skills/optional/research/research-darwinian-evolver.md": {
-      "sha": "6975bf22190208bd4ceaf9f6cd49122d4291b66b",
-      "last_updated": "2026-08-09T09:11:51.815843+00:00"
+      "sha": "edaa29f447eac41329d812e190aaef7ce0f27408",
+      "last_updated": "2026-08-30T16:27:14.463987+00:00"
     },
     "user-guide/skills/optional/research/research-domain-intel.md": {
-      "sha": "62fdd42b4b6919d79b332370ff6dbedcf0cee267",
-      "last_updated": "2026-08-09T09:11:52.136620+00:00"
+      "sha": "f1d27f6fe505d2a76e2f824e72ef5e0e91bfe817",
+      "last_updated": "2026-08-30T16:27:14.759726+00:00"
     },
     "user-guide/skills/optional/research/research-drug-discovery.md": {
-      "sha": "d636ac8b8d4492d79853d9b69f516a3d28245dd2",
-      "last_updated": "2026-08-09T09:11:52.492408+00:00"
+      "sha": "39225e21f2919c0a0efd6630e20e42854bb612a5",
+      "last_updated": "2026-08-30T16:27:15.049975+00:00"
     },
     "user-guide/skills/optional/research/research-duckduckgo-search.md": {
-      "sha": "466b8cc9aa5997059ea4638cf9c9b1aa2bf3a96d",
-      "last_updated": "2026-08-09T09:11:52.846230+00:00"
+      "sha": "a299c474520d5064470374df24cfc5b9643e75e0",
+      "last_updated": "2026-08-30T16:27:15.336598+00:00"
     },
     "user-guide/skills/optional/research/research-gitnexus-explorer.md": {
-      "sha": "c5d3feed896336177d82d8416b95b4cb5472951b",
-      "last_updated": "2026-08-09T09:11:53.192023+00:00"
+      "sha": "7829a4432744ac0588d4f602517a80d2a0d19ffd",
+      "last_updated": "2026-08-30T16:27:15.630310+00:00"
     },
     "user-guide/skills/optional/research/research-osint-investigation.md": {
-      "sha": "b118a2468e4c3c83c273c2e7361c00fbbf0b3275",
-      "last_updated": "2026-08-09T09:11:53.535819+00:00"
+      "sha": "983315afefa28446e96f4a8f8b85ffc564b06acb",
+      "last_updated": "2026-08-30T16:27:15.931738+00:00"
     },
     "user-guide/skills/optional/research/research-parallel-cli.md": {
-      "sha": "07e55f9b80347718d80d79de50753f3ae121063c",
-      "last_updated": "2026-08-09T09:11:53.850633+00:00"
+      "sha": "844c62a2136ef74a80611019bd01a2bbcd00c6c0",
+      "last_updated": "2026-08-30T16:27:16.237881+00:00"
     },
     "user-guide/skills/optional/research/research-pinecone-research.md": {
-      "sha": "dd6a9eb0796dbb9745d557f7f991b3dbcce50c4a",
-      "last_updated": "2026-08-09T09:11:54.142459+00:00"
+      "sha": "75f57717ced72553cdebf343eaf91d37413ca964",
+      "last_updated": "2026-08-30T16:27:16.540279+00:00"
     },
     "user-guide/skills/optional/research/research-qmd.md": {
-      "sha": "503455865cafb5a8e26bbb49576dc5705e011d13",
-      "last_updated": "2026-08-09T09:11:54.468232+00:00"
+      "sha": "4b0dc1373cbd849cb4071a834b17704bc4621eae",
+      "last_updated": "2026-08-30T16:27:16.847754+00:00"
     },
     "user-guide/skills/optional/research/research-scrapling.md": {
-      "sha": "7d916178d962b8d1cae7c196857ebb7f407e7680",
-      "last_updated": "2026-08-09T09:11:54.782079+00:00"
+      "sha": "778906aa9468b43aa3052c8c56c1cc0e3d5c54ba",
+      "last_updated": "2026-08-30T16:27:17.454263+00:00"
     },
     "user-guide/skills/optional/research/research-searxng-search.md": {
-      "sha": "b8e829324d13950a503d3b496d92932cd4418712",
-      "last_updated": "2026-08-09T09:11:55.095859+00:00"
+      "sha": "29dbe8f80b8281aeaf65f4bdcd74cfeeffd9b6de",
+      "last_updated": "2026-08-30T16:27:17.750213+00:00"
     },
     "user-guide/skills/optional/security/security-1password.md": {
-      "sha": "4b9697bacf6a384df9697285c7a3f7d5c8b099de",
-      "last_updated": "2026-08-09T09:11:55.461676+00:00"
+      "sha": "17556d33e07fbda903d68e0dd053a49c7ce0edc4",
+      "last_updated": "2026-08-30T16:27:18.060549+00:00"
     },
     "user-guide/skills/optional/security/security-godmode.md": {
-      "sha": "f41975a49669a404b0edea3f987b0104beaf0d8c",
-      "last_updated": "2026-08-09T09:11:55.816463+00:00"
+      "sha": "07eb995afbdd31fe259e279c0013b74e0d913ee9",
+      "last_updated": "2026-08-30T16:27:18.361566+00:00"
     },
     "user-guide/skills/optional/security/security-oss-forensics.md": {
-      "sha": "8c331a4ddcfb2070402642c545b1971f850562aa",
-      "last_updated": "2026-08-09T09:11:56.165258+00:00"
+      "sha": "5b70a7f1641e22ba0357cecf44a19abc0781fa3e",
+      "last_updated": "2026-08-30T16:27:18.652318+00:00"
     },
     "user-guide/skills/optional/security/security-sherlock.md": {
-      "sha": "ad50f1a6eb73ea4ead70bfbf37de4da7ee4593c1",
-      "last_updated": "2026-08-09T09:11:56.472074+00:00"
+      "sha": "53caae367ffc3a10fded889cf70314c7112e09e0",
+      "last_updated": "2026-08-30T16:27:18.944470+00:00"
     },
     "user-guide/skills/optional/security/security-unbroker.md": {
-      "sha": "4125826689ad8c35fc4d8981388665793ee87492",
-      "last_updated": "2026-08-09T09:11:56.774887+00:00"
+      "sha": "3e8ea8d8fadd51edded627a965fc539d187e7047",
+      "last_updated": "2026-08-30T16:27:19.255632+00:00"
     },
     "user-guide/skills/optional/security/security-web-pentest.md": {
-      "sha": "64ea3c35f5beaf7bc9d50d3c92d55e63ea5b9f6d",
-      "last_updated": "2026-08-09T09:11:57.081710+00:00"
+      "sha": "42a917f280dd533b61dc649451efe682450d64c8",
+      "last_updated": "2026-08-30T16:27:19.552019+00:00"
     },
     "user-guide/skills/optional/software-development/software-development-code-wiki.md": {
-      "sha": "89033235d1f71e6998028302a47a05f420686026",
-      "last_updated": "2026-08-09T09:11:57.717332+00:00"
+      "sha": "1ee750b2a700b4f3b5687a3d17454de053505070",
+      "last_updated": "2026-08-30T16:27:20.456882+00:00"
     },
     "user-guide/skills/optional/software-development/software-development-rest-graphql-debug.md": {
-      "sha": "367149a4a43ae5136c8362cbe909c6c6c9639786",
-      "last_updated": "2026-08-09T09:11:58.023149+00:00"
+      "sha": "616274754c6df575b91f145827c488b258ec7f39",
+      "last_updated": "2026-08-30T16:27:21.037194+00:00"
     },
     "user-guide/skills/optional/software-development/software-development-subagent-driven-development.md": {
-      "sha": "5d884d63e701717cab8a2f6f85e1e7058e785311",
-      "last_updated": "2026-08-30T04:49:46.625977+00:00"
+      "sha": "5e42f93712faf4aebf07e22df6e93b1cb11e6289",
+      "last_updated": "2026-08-30T16:27:21.325407+00:00"
     },
     "user-guide/skills/optional/web-development/web-development-cloudflare-temporary-deploy.md": {
-      "sha": "835e5e0bd687fd17c06b36afbe9456c45aac7f40",
-      "last_updated": "2026-08-09T09:11:58.692751+00:00"
+      "sha": "3650a0bda8405a12ea0bdeb3c52ba4b4123d0e70",
+      "last_updated": "2026-08-30T16:27:21.640070+00:00"
     },
     "user-guide/skills/optional/web-development/web-development-page-agent.md": {
-      "sha": "f8332ab3dd5a9e110460e4f30d90eeeab06abdff",
-      "last_updated": "2026-08-09T09:11:59.005566+00:00"
+      "sha": "ea48d0a2b6f631f842b8e668fc3eb8fdcd033633",
+      "last_updated": "2026-08-30T16:27:22.235046+00:00"
     },
     "user-guide/skills/optional/yuanbao/yuanbao-yuanbao.md": {
       "sha": "2457757f8cd245e70e3a8c3034c4012b71942577",
@@ -1605,8 +1605,8 @@
       "last_updated": "2026-08-13T04:56:24.447270+00:00"
     },
     "user-guide/skills/bundled/productivity/productivity-box.md": {
-      "sha": "ed5f012031e5499b7ef67dd8b1f914702505c4d8",
-      "last_updated": "2026-08-14T07:39:36.070424+00:00"
+      "sha": "770fdc958f4fcd5a3eeff3338afa7d6ae4631270",
+      "last_updated": "2026-08-30T16:26:32.922332+00:00"
     },
     "user-guide/features/loops.md": {
       "sha": "dfd0acb58952c2776c41408e2fdfc5a43722fbb9",
@@ -1617,12 +1617,12 @@
       "last_updated": "2026-08-26T16:22:02.437414+00:00"
     },
     "user-guide/skills/optional/creative/creative-draw-your-font.md": {
-      "sha": "23a0596bc8ce5ee92b489c5a0e37220686441bb3",
-      "last_updated": "2026-08-17T09:49:05.986095+00:00"
+      "sha": "e5fcdda279f1ffc8f8f73a3d04b0c479e62cea64",
+      "last_updated": "2026-08-30T16:26:47.054523+00:00"
     },
     "user-guide/skills/optional/creative/creative-simple-english.md": {
-      "sha": "9c35b2de880c4b79d008bda3de421f172959a52b",
-      "last_updated": "2026-08-17T09:49:06.297104+00:00"
+      "sha": "a00e0623c8811a9e3f42a871023b375c764ab34e",
+      "last_updated": "2026-08-30T16:26:49.752494+00:00"
     },
     "user-guide/bot-mode.md": {
       "sha": "35342ec968dd81b40b523c2a031119339545a556",
@@ -1641,27 +1641,111 @@
       "last_updated": "2026-08-25T03:52:28.916592+00:00"
     },
     "user-guide/skills/optional/web-development/web-development-publish-site.md": {
-      "sha": "c1e418f65c38e080d7bb5342f305ed2ff25f3970",
-      "last_updated": "2026-08-28T00:19:08.951756+00:00"
+      "sha": "731dc0c9e4ed6c829742cb28be0b404479b955de",
+      "last_updated": "2026-08-30T16:27:22.534014+00:00"
     },
     "user-guide/skills/optional/devops/devops-setup-wizard-generator.md": {
-      "sha": "ec89593a37fea72f2a05b0cf8204f30b607ee12e",
-      "last_updated": "2026-08-29T16:32:07.133065+00:00"
+      "sha": "077235163e6685f1a572dd728ca493b70a8947f1",
+      "last_updated": "2026-08-30T16:26:53.336625+00:00"
     },
     "user-guide/skills/optional/productivity/productivity-decision-questionnaire.md": {
-      "sha": "1a40e5e80d376c7d62fe45b6141d373d2a0d2994",
-      "last_updated": "2026-08-29T16:32:07.484819+00:00"
+      "sha": "73669a692052e81426bbe50ac1ab69737fa4e3d4",
+      "last_updated": "2026-08-30T16:27:11.771314+00:00"
     },
     "user-guide/skills/optional/software-development/software-development-grill-me.md": {
-      "sha": "8adeabcea0ccf8aa118db9c0ab942d758d8d7ce5",
-      "last_updated": "2026-08-30T04:49:46.238434+00:00"
+      "sha": "1890f819a5570d38c6b036aff42b7c81f38deb4e",
+      "last_updated": "2026-08-30T16:27:20.749858+00:00"
     },
     "user-guide/skills/optional/creative/creative-impeccable.md": {
-      "sha": "55e475d1cd6d2c96e2ff391ae57cc53a3f800a32",
-      "last_updated": "2026-08-30T04:49:45.874439+00:00"
+      "sha": "a94647e8f7d4a7d61a4ffbb5b9ee56c4c4c4152c",
+      "last_updated": "2026-08-30T16:26:48.242317+00:00"
+    },
+    "user-guide/skills/bundled/autonomous-ai-agents/autonomous-ai-agents-merge-reconciler.md": {
+      "sha": "4cb8e1fea8035b390daf38b97597395d2a11854a",
+      "last_updated": "2026-08-30T16:26:26.906153+00:00"
+    },
+    "user-guide/skills/bundled/devops/devops-sdlc-review.md": {
+      "sha": "4ef2403ac12fbdc0b9560da4fe1b3f8c0d1f8466",
+      "last_updated": "2026-08-30T16:26:30.497164+00:00"
+    },
+    "user-guide/skills/bundled/software-development/software-development-codebase-inspection.md": {
+      "sha": "e4d49e9d14fb4b14781d3cbdb62ea8457391e1b4",
+      "last_updated": "2026-08-30T16:26:38.400022+00:00"
+    },
+    "user-guide/skills/bundled/software-development/software-development-github.md": {
+      "sha": "6a70dc807c44188fee69ea922728a822f71e53c9",
+      "last_updated": "2026-08-30T16:26:38.995416+00:00"
+    },
+    "user-guide/skills/bundled/web/web-blocked-page-recovery.md": {
+      "sha": "a32d2150444e9ff0543a8dd8b7d05f5c42cd7dbe",
+      "last_updated": "2026-08-30T16:26:42.005394+00:00"
+    },
+    "user-guide/skills/optional/creative/creative-ascii-art.md": {
+      "sha": "7a04bb125d0b2e8c379414a54278eb040a04db14",
+      "last_updated": "2026-08-30T16:26:44.977643+00:00"
+    },
+    "user-guide/skills/optional/creative/creative-comfyui.md": {
+      "sha": "418bf365c5b449e7fdf45e5490ba002a046fcb92",
+      "last_updated": "2026-08-30T16:26:46.170108+00:00"
+    },
+    "user-guide/skills/optional/creative/creative-excalidraw.md": {
+      "sha": "15da2dbebc4ac31ecfc5c9bd6e45da5672f8d790",
+      "last_updated": "2026-08-30T16:26:47.361833+00:00"
+    },
+    "user-guide/skills/optional/creative/creative-pretext.md": {
+      "sha": "7688aadcbc6c83a7178f79ba8d5b421920f1d8b2",
+      "last_updated": "2026-08-30T16:26:49.457492+00:00"
+    },
+    "user-guide/skills/optional/creative/creative-sketch.md": {
+      "sha": "88f2fcfacd0a5295e67695e3b9f7147607de100f",
+      "last_updated": "2026-08-30T16:26:50.050614+00:00"
+    },
+    "user-guide/skills/optional/creative/creative-touchdesigner-mcp.md": {
+      "sha": "befee1c288a4b26c57d50be596047871f2a2cbe9",
+      "last_updated": "2026-08-30T16:26:50.932974+00:00"
+    },
+    "user-guide/skills/optional/mlops/mlops-evaluation-evaluating-llms-harness.md": {
+      "sha": "8d449ee126a49a78d7183845dda06a9742d4158c",
+      "last_updated": "2026-08-30T16:27:00.541702+00:00"
+    },
+    "user-guide/skills/optional/mlops/mlops-evaluation-weights-and-biases.md": {
+      "sha": "25b9a23eade842e096e33acc3bd5d62de1adc6ac",
+      "last_updated": "2026-08-30T16:27:00.840239+00:00"
+    },
+    "user-guide/skills/optional/mlops/mlops-inference-llama-cpp.md": {
+      "sha": "beb9091df0132254f44c20624fd14c2961497f01",
+      "last_updated": "2026-08-30T16:27:02.340414+00:00"
+    },
+    "user-guide/skills/optional/mlops/mlops-inference-serving-llms-vllm.md": {
+      "sha": "e375a1c832aa8b8d86686adcc2fd9aa10a156b9f",
+      "last_updated": "2026-08-30T16:27:02.958620+00:00"
+    },
+    "user-guide/skills/optional/mlops/mlops-models-huggingface-hub.md": {
+      "sha": "8f504535f764aacbae4b8ba2b48b61e6daea2b0a",
+      "last_updated": "2026-08-30T16:27:04.444447+00:00"
+    },
+    "user-guide/skills/optional/research/research-blogwatcher.md": {
+      "sha": "84d9ac28aa0f74d83a1e3f8d89921c1c984f83df",
+      "last_updated": "2026-08-30T16:27:14.169050+00:00"
+    },
+    "user-guide/skills/optional/research/research-research-paper-writing.md": {
+      "sha": "f6fd04e6badf3da84ca9925b1c5f17db3325ec45",
+      "last_updated": "2026-08-30T16:27:17.155287+00:00"
+    },
+    "user-guide/skills/optional/smart-home/smart-home-openhue.md": {
+      "sha": "ba4826f2ae2cabf585ca5558d01d79cfc74a88cd",
+      "last_updated": "2026-08-30T16:27:19.846553+00:00"
+    },
+    "user-guide/skills/optional/software-development/software-development-ast-grep.md": {
+      "sha": "5d02d37d11e57e7dce593a16b8f1c641772cb250",
+      "last_updated": "2026-08-30T16:27:20.156396+00:00"
+    },
+    "user-guide/skills/optional/web-development/web-development-har-derived-api-client.md": {
+      "sha": "01024b762ec0fcda410dbb129a90f1ef32a4eb40",
+      "last_updated": "2026-08-30T16:27:21.932518+00:00"
     }
   },
-  "last_updated": "2026-08-30T04:49:46.832897+00:00",
+  "last_updated": "2026-08-30T16:27:22.741321+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
