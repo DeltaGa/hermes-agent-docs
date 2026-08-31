@@ -81,8 +81,8 @@
       "last_updated": "2026-08-09T09:10:03.176833+00:00"
     },
     "developer-guide/memory-provider-plugin.md": {
-      "sha": "26a54b7fcb866273ec297936bb9cb71b7ff55650",
-      "last_updated": "2026-08-25T12:56:21.152833+00:00"
+      "sha": "d73327da69f296bb8b2be42f2b2d982a67ab1cc8",
+      "last_updated": "2026-08-31T20:43:57.917748+00:00"
     },
     "developer-guide/model-provider-plugin.md": {
       "sha": "5127107fa3122304d55a856308491d78d72b5eac",
@@ -341,12 +341,12 @@
       "last_updated": "2026-08-09T09:10:19.218265+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "6a005c425ab1da96b528a421d5149d2a27ec3d1c",
-      "last_updated": "2026-08-31T13:16:04.572056+00:00"
+      "sha": "0d107524e73760fe36763fc1fbcf7a4f7ed242a2",
+      "last_updated": "2026-08-31T20:43:58.369788+00:00"
     },
     "reference/environment-variables.md": {
-      "sha": "aaf226d8970fc2634cc24b7392eeb3bc9f2c4d34",
-      "last_updated": "2026-08-31T13:16:05.382263+00:00"
+      "sha": "8fb15ecadcd9625396da887999ef15a2f0a9f8a8",
+      "last_updated": "2026-08-31T20:43:58.767528+00:00"
     },
     "reference/faq.md": {
       "sha": "fc199a509b72af19e25ce700b8963c8db27237b1",
@@ -373,8 +373,8 @@
       "last_updated": "2026-08-30T16:26:23.059523+00:00"
     },
     "reference/slash-commands.md": {
-      "sha": "1dcc916782449a097070c3b4ff533ee508eee15f",
-      "last_updated": "2026-08-30T04:49:37.405236+00:00"
+      "sha": "3f17e773e752a150ae83f87b7df261e6cee4e8b7",
+      "last_updated": "2026-08-31T20:43:59.214024+00:00"
     },
     "reference/tools-reference.md": {
       "sha": "a0775b8f61f1a448ab2f68990ae51a6b94b8192b",
@@ -393,16 +393,16 @@
       "last_updated": "2026-08-17T09:49:01.982399+00:00"
     },
     "user-guide/cli.md": {
-      "sha": "36a6cedf3f8baeff2a2daf7be5b7ef4c20604f68",
-      "last_updated": "2026-08-29T16:32:04.162132+00:00"
+      "sha": "756038b8baefd48e36a5d91c5c04b4648b926d62",
+      "last_updated": "2026-08-31T20:43:59.642489+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "89f6e78e8faa7c2d6fafd863a4bb1a55d1fc9084",
-      "last_updated": "2026-08-31T13:16:10.361455+00:00"
+      "sha": "3989fc20f98a08eb783a8708c09cf41f8345c96a",
+      "last_updated": "2026-08-31T20:44:00.105726+00:00"
     },
     "user-guide/configuring-models.md": {
-      "sha": "3e8db68c3121802a519d3e989643e88747fea9aa",
-      "last_updated": "2026-08-30T16:26:23.640155+00:00"
+      "sha": "4c5b750291deda81c9367fc4585244178d50a141",
+      "last_updated": "2026-08-31T20:44:00.481591+00:00"
     },
     "user-guide/desktop.md": {
       "sha": "d86d31c0edcb2d2a53917bd6a1adf0faaaf325ba",
@@ -437,8 +437,8 @@
       "last_updated": "2026-08-09T09:10:25.679415+00:00"
     },
     "user-guide/features/browser.md": {
-      "sha": "43ed89309228b21a39ed58f714b2de44923c2199",
-      "last_updated": "2026-08-30T04:49:38.299867+00:00"
+      "sha": "1b2df2a39acae4a1c63cfa378e66134886232276",
+      "last_updated": "2026-08-31T20:44:00.894946+00:00"
     },
     "user-guide/features/built-in-plugins.md": {
       "sha": "ac18d4c925358a704e606ba1e8502f93c7de75fd",
@@ -469,8 +469,8 @@
       "last_updated": "2026-08-09T09:10:28.289872+00:00"
     },
     "user-guide/features/cron.md": {
-      "sha": "b82353d3f30fe54dd25188e4500696358e050a37",
-      "last_updated": "2026-08-30T04:49:39.002246+00:00"
+      "sha": "410237b6f5e297798df67cdaa3371116d251044d",
+      "last_updated": "2026-08-31T20:44:01.279791+00:00"
     },
     "user-guide/features/curator.md": {
       "sha": "66dd545cc7e611c06095690b9d36404ffc35047e",
@@ -649,8 +649,8 @@
       "last_updated": "2026-08-09T09:10:43.102029+00:00"
     },
     "user-guide/messaging/buzz.md": {
-      "sha": "848e21c0532e61b2b0ae68db25e06b25bbbc8452",
-      "last_updated": "2026-08-09T09:10:43.437830+00:00"
+      "sha": "44c0cf732d416579c55bde3629fe340b4ef20e49",
+      "last_updated": "2026-08-31T20:44:01.675651+00:00"
     },
     "user-guide/messaging/dingtalk.md": {
       "sha": "72ec3f2eadc0a5c50b30fce8fc341157cda28df4",
@@ -809,8 +809,8 @@
       "last_updated": "2026-08-09T09:10:56.224210+00:00"
     },
     "user-guide/security.md": {
-      "sha": "4397fcac6bb62cf22f1be690019d750fff5e7531",
-      "last_updated": "2026-08-30T16:26:24.217059+00:00"
+      "sha": "97b1d7cf435d5e0585a178f963575290f24f66a0",
+      "last_updated": "2026-08-31T20:44:02.059408+00:00"
     },
     "user-guide/sessions.md": {
       "sha": "af18e5c5ba40d53e5dfb3e87e4fd592d99e1d822",
@@ -1745,7 +1745,7 @@
       "last_updated": "2026-08-30T16:27:21.932518+00:00"
     }
   },
-  "last_updated": "2026-08-31T13:16:12.412089+00:00",
+  "last_updated": "2026-08-31T20:44:02.268282+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
