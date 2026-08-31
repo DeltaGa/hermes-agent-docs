@@ -209,8 +209,8 @@
       "last_updated": "2026-08-09T09:10:11.081119+00:00"
     },
     "guides/delegation-patterns.md": {
-      "sha": "9f16bb34999f2dbf04b83721be0c85a16bec7301",
-      "last_updated": "2026-08-09T09:10:11.329972+00:00"
+      "sha": "d0f5bffb27d0f884820a419ce7659cbaa1b0c6da",
+      "last_updated": "2026-08-31T04:53:11.160849+00:00"
     },
     "guides/desktop-native-signin.md": {
       "sha": "f8402c8229d3c681ef6c2a6efdc1c1c9a63c353f",
@@ -345,8 +345,8 @@
       "last_updated": "2026-08-30T04:49:35.556750+00:00"
     },
     "reference/environment-variables.md": {
-      "sha": "11eaa30a15527d70623e7e5a60479651666b5fc7",
-      "last_updated": "2026-08-30T04:49:35.933088+00:00"
+      "sha": "dd8ef3bffbc4b9032fc85d8af178e45c1088b010",
+      "last_updated": "2026-08-31T04:53:11.496392+00:00"
     },
     "reference/faq.md": {
       "sha": "fc199a509b72af19e25ce700b8963c8db27237b1",
@@ -477,8 +477,8 @@
       "last_updated": "2026-08-30T04:49:39.358270+00:00"
     },
     "user-guide/features/delegation.md": {
-      "sha": "52db42d89501042edd83683296b1fce65af61a74",
-      "last_updated": "2026-08-30T04:49:39.728618+00:00"
+      "sha": "95c7f94985425cad1c6bf84cefa43712b0843bb8",
+      "last_updated": "2026-08-31T04:53:11.902609+00:00"
     },
     "user-guide/features/deliverable-mode.md": {
       "sha": "d01847ebb0573d9bd176ac083fc71ff70ba4e727",
@@ -709,8 +709,8 @@
       "last_updated": "2026-08-09T09:10:47.810223+00:00"
     },
     "user-guide/messaging/photon.md": {
-      "sha": "ee85f313e14d8532718d9c84411b1b60511234bc",
-      "last_updated": "2026-08-09T09:10:48.115042+00:00"
+      "sha": "04e79d5d4447267f4f34f3be80abd8dc9fee48a6",
+      "last_updated": "2026-08-31T04:53:12.210827+00:00"
     },
     "user-guide/messaging/qqbot.md": {
       "sha": "e5050b304fc6d5b20acbf2ab9c793a5eba675cdf",
@@ -1745,7 +1745,7 @@
       "last_updated": "2026-08-30T16:27:21.932518+00:00"
     }
   },
-  "last_updated": "2026-08-30T16:27:22.741321+00:00",
+  "last_updated": "2026-08-31T04:53:12.420069+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
