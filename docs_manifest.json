@@ -133,8 +133,8 @@
       "last_updated": "2026-08-09T09:10:06.396914+00:00"
     },
     "developer-guide/web-search-provider-plugin.md": {
-      "sha": "98bd98f17427c3db566f386150117c32c75efd1f",
-      "last_updated": "2026-08-31T13:16:03.451974+00:00"
+      "sha": "257df89548d2e1503f2747ebd5ec36253ef429fc",
+      "last_updated": "2026-09-01T18:16:58.497322+00:00"
     },
     "developer-guide/worktree-ui-dev.md": {
       "sha": "4f3ab1f847b4afd69b362d7009d99db3af398ba6",
@@ -321,8 +321,8 @@
       "last_updated": "2026-08-09T09:10:17.980973+00:00"
     },
     "integrations/index.md": {
-      "sha": "51555976eebab8b68d30f42068f824f9e822284a",
-      "last_updated": "2026-08-31T13:16:04.102153+00:00"
+      "sha": "37bac9d8bfcc7766118fc62982f88d56ecc4d320",
+      "last_updated": "2026-09-01T18:16:59.014419+00:00"
     },
     "integrations/nous-portal.md": {
       "sha": "ffcbe49409bda3d58d89734ea58371842f6681e5",
@@ -345,8 +345,8 @@
       "last_updated": "2026-08-31T20:43:58.369788+00:00"
     },
     "reference/environment-variables.md": {
-      "sha": "8fb15ecadcd9625396da887999ef15a2f0a9f8a8",
-      "last_updated": "2026-08-31T20:43:58.767528+00:00"
+      "sha": "d79bda48927b59773f3168c528c9df22deeba5ed",
+      "last_updated": "2026-09-01T18:16:59.299920+00:00"
     },
     "reference/faq.md": {
       "sha": "fc199a509b72af19e25ce700b8963c8db27237b1",
@@ -377,8 +377,8 @@
       "last_updated": "2026-09-01T00:29:31.548646+00:00"
     },
     "reference/tools-reference.md": {
-      "sha": "3a3c725c688b716c372d9e12be00ab1e2b6a091f",
-      "last_updated": "2026-09-01T14:03:07.935040+00:00"
+      "sha": "17750665533eaff0e8bec1c819d149db19f8a9ef",
+      "last_updated": "2026-09-01T18:16:59.989269+00:00"
     },
     "reference/toolsets-reference.md": {
       "sha": "5904f1a9f71890202c5f06562fc94f9917fdef79",
@@ -397,16 +397,16 @@
       "last_updated": "2026-08-31T20:43:59.642489+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "7e087add374bf11a956a3227b9fc188e9101b9b9",
-      "last_updated": "2026-09-01T00:29:32.126566+00:00"
+      "sha": "b6654defeac2321b05e3647abd43ad4243301128",
+      "last_updated": "2026-09-01T18:17:00.440327+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "4c5b750291deda81c9367fc4585244178d50a141",
       "last_updated": "2026-08-31T20:44:00.481591+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "d77e93d57ef33eb6d603a5c3cb275dfc2666598e",
-      "last_updated": "2026-09-01T14:03:08.287753+00:00"
+      "sha": "1cfeb02ac6774a3a50005e9d05703ec00af4b339",
+      "last_updated": "2026-09-01T18:17:00.735042+00:00"
     },
     "user-guide/docker.md": {
       "sha": "da737a4b17b4d37545977780d39d5dea597ae737",
@@ -569,8 +569,8 @@
       "last_updated": "2026-08-09T09:10:36.531946+00:00"
     },
     "user-guide/features/skills.md": {
-      "sha": "105c7da7a27e92b58635275f4e601ce058a1c8fc",
-      "last_updated": "2026-08-30T04:49:41.612477+00:00"
+      "sha": "b751f30487f1a24c6ba53a932021cf53df3a5596",
+      "last_updated": "2026-09-01T18:17:01.046359+00:00"
     },
     "user-guide/features/skins.md": {
       "sha": "75353479f12cc87c64c473cc33acf5ea4dc1fc89",
@@ -613,12 +613,12 @@
       "last_updated": "2026-08-09T09:10:39.986886+00:00"
     },
     "user-guide/features/web-dashboard.md": {
-      "sha": "17eb492b49238326602b3cec30b94e196591a57d",
-      "last_updated": "2026-08-31T13:16:11.483159+00:00"
+      "sha": "e3a8bbff75c2889a1d7b9beb5d9af394896903ac",
+      "last_updated": "2026-09-01T18:17:01.336758+00:00"
     },
     "user-guide/features/web-search.md": {
-      "sha": "44911dc5ab0689898251e633164c6d29fa4c5938",
-      "last_updated": "2026-08-31T13:16:12.205215+00:00"
+      "sha": "100c6e50e87d2920710e00fc69c4d5a0b51ed20b",
+      "last_updated": "2026-09-01T18:17:01.623259+00:00"
     },
     "user-guide/features/x-search.md": {
       "sha": "ec06adde31ee7bb92e6c0d05d53f14f1da5be0d7",
@@ -1745,7 +1745,7 @@
       "last_updated": "2026-08-30T16:27:21.932518+00:00"
     }
   },
-  "last_updated": "2026-09-01T14:03:08.880600+00:00",
+  "last_updated": "2026-09-01T18:17:01.832613+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
