@@ -165,8 +165,8 @@
       "last_updated": "2026-08-29T16:32:00.939104+00:00"
     },
     "getting-started/termux.md": {
-      "sha": "6b31efb30c47f843ea32a668b8790855cb528907",
-      "last_updated": "2026-08-20T12:58:48.156446+00:00"
+      "sha": "df94ba957089ea08cf12a17125ae29e31469e77c",
+      "last_updated": "2026-09-01T23:11:29.143041+00:00"
     },
     "getting-started/updating.md": {
       "sha": "5ae1f14787f0221de19b060d8fd66374918e7912",
@@ -229,12 +229,12 @@
       "last_updated": "2026-08-09T09:10:12.309387+00:00"
     },
     "guides/local-llm-on-mac.md": {
-      "sha": "a0a3a200bd9e2ff77dfbd3308f71af15929566be",
-      "last_updated": "2026-08-09T09:10:12.559239+00:00"
+      "sha": "f35e8ef2cf1ed1bea912746071815501697e9082",
+      "last_updated": "2026-09-01T23:11:34.678141+00:00"
     },
     "guides/local-ollama-setup.md": {
-      "sha": "5136cf5f71f81edc5e1d06baba7caa188215bd4a",
-      "last_updated": "2026-08-09T09:10:12.797096+00:00"
+      "sha": "2bb4b7cc31155c865f528087c44f82879700d9b5",
+      "last_updated": "2026-09-01T23:11:35.089103+00:00"
     },
     "guides/microsoft-graph-app-registration.md": {
       "sha": "70de0498cfedc9f9687eb0dc5961c80842f5304a",
@@ -373,8 +373,8 @@
       "last_updated": "2026-08-30T16:26:23.059523+00:00"
     },
     "reference/slash-commands.md": {
-      "sha": "5405230994df1b3014d213fd4ed060731a2ae8c7",
-      "last_updated": "2026-09-01T00:29:31.548646+00:00"
+      "sha": "41dd223b7f3b90cb1728a8ecbc298645e6442dfa",
+      "last_updated": "2026-09-01T23:11:37.593745+00:00"
     },
     "reference/tools-reference.md": {
       "sha": "17750665533eaff0e8bec1c819d149db19f8a9ef",
@@ -401,12 +401,12 @@
       "last_updated": "2026-09-01T18:17:00.440327+00:00"
     },
     "user-guide/configuring-models.md": {
-      "sha": "4c5b750291deda81c9367fc4585244178d50a141",
-      "last_updated": "2026-08-31T20:44:00.481591+00:00"
+      "sha": "e67e85d5c3d3e06a5b90554c123e63e1cc5dbd6a",
+      "last_updated": "2026-09-01T23:11:45.187180+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "1cfeb02ac6774a3a50005e9d05703ec00af4b339",
-      "last_updated": "2026-09-01T18:17:00.735042+00:00"
+      "sha": "b1b81df9c4116181cc379a3e9c42155012549cce",
+      "last_updated": "2026-09-01T23:11:45.604209+00:00"
     },
     "user-guide/docker.md": {
       "sha": "da737a4b17b4d37545977780d39d5dea597ae737",
@@ -541,8 +541,8 @@
       "last_updated": "2026-08-31T13:16:11.083968+00:00"
     },
     "user-guide/features/memory.md": {
-      "sha": "b8c79dbc77d538edc46592a85523463c86b2f45e",
-      "last_updated": "2026-08-30T04:49:40.838008+00:00"
+      "sha": "0c03f4e8cb897bbfd0af29375d7a245fa5751499",
+      "last_updated": "2026-09-01T23:11:46.294610+00:00"
     },
     "user-guide/features/mixture-of-agents.md": {
       "sha": "55c6d23791f0ff961c2dd5bb56a71d1cd999d01e",
@@ -1743,9 +1743,13 @@
     "user-guide/skills/optional/web-development/web-development-har-derived-api-client.md": {
       "sha": "01024b762ec0fcda410dbb129a90f1ef32a4eb40",
       "last_updated": "2026-08-30T16:27:21.932518+00:00"
+    },
+    "user-guide/local-models.md": {
+      "sha": "8919bd875ec6cd211f7a3bcbb817a5e5525235a1",
+      "last_updated": "2026-09-01T23:11:47.199093+00:00"
     }
   },
-  "last_updated": "2026-09-01T18:17:01.832613+00:00",
+  "last_updated": "2026-09-01T23:11:47.420058+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
