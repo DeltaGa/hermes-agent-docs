@@ -377,8 +377,8 @@
       "last_updated": "2026-09-01T00:29:31.548646+00:00"
     },
     "reference/tools-reference.md": {
-      "sha": "a0775b8f61f1a448ab2f68990ae51a6b94b8192b",
-      "last_updated": "2026-08-31T13:16:05.838490+00:00"
+      "sha": "3a3c725c688b716c372d9e12be00ab1e2b6a091f",
+      "last_updated": "2026-09-01T14:03:07.935040+00:00"
     },
     "reference/toolsets-reference.md": {
       "sha": "5904f1a9f71890202c5f06562fc94f9917fdef79",
@@ -405,8 +405,8 @@
       "last_updated": "2026-08-31T20:44:00.481591+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "d86d31c0edcb2d2a53917bd6a1adf0faaaf325ba",
-      "last_updated": "2026-08-26T16:22:02.104837+00:00"
+      "sha": "d77e93d57ef33eb6d603a5c3cb275dfc2666598e",
+      "last_updated": "2026-09-01T14:03:08.287753+00:00"
     },
     "user-guide/docker.md": {
       "sha": "da737a4b17b4d37545977780d39d5dea597ae737",
@@ -785,8 +785,8 @@
       "last_updated": "2026-08-15T12:47:24.538989+00:00"
     },
     "user-guide/profile-distributions.md": {
-      "sha": "46f0660210962cb7a48b106a2336344557e7526f",
-      "last_updated": "2026-08-12T19:08:20.857302+00:00"
+      "sha": "14bbba02f75c94188185b5d2b194b2359df976bf",
+      "last_updated": "2026-09-01T14:03:08.671414+00:00"
     },
     "user-guide/profiles.md": {
       "sha": "ae4ad7055f308f8434b30566fe3c0cda984f9de7",
@@ -1745,7 +1745,7 @@
       "last_updated": "2026-08-30T16:27:21.932518+00:00"
     }
   },
-  "last_updated": "2026-09-01T00:29:32.823791+00:00",
+  "last_updated": "2026-09-01T14:03:08.880600+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
