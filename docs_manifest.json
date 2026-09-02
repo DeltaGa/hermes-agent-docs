@@ -85,8 +85,8 @@
       "last_updated": "2026-08-31T20:43:57.917748+00:00"
     },
     "developer-guide/model-provider-plugin.md": {
-      "sha": "5127107fa3122304d55a856308491d78d72b5eac",
-      "last_updated": "2026-08-13T19:08:56.750814+00:00"
+      "sha": "df11914f3fee66aaabcc737ebd005ec30540dd05",
+      "last_updated": "2026-09-02T20:51:11.445735+00:00"
     },
     "developer-guide/plugin-llm-access.md": {
       "sha": "f6eeee09cdf25333823b87287697bea528ae079a",
@@ -325,8 +325,8 @@
       "last_updated": "2026-09-01T18:16:59.014419+00:00"
     },
     "integrations/nous-portal.md": {
-      "sha": "ffcbe49409bda3d58d89734ea58371842f6681e5",
-      "last_updated": "2026-08-20T03:51:04.786109+00:00"
+      "sha": "b574213352c020c52a86212a9b52942d16f8ecf1",
+      "last_updated": "2026-09-02T20:51:12.010358+00:00"
     },
     "integrations/providers.md": {
       "sha": "5ede871815d174d7631805ec06bb45a171f4e822",
@@ -405,8 +405,8 @@
       "last_updated": "2026-09-01T23:11:45.187180+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "87a4e6f419fb97ec1c7fccff7002f16f161b1505",
-      "last_updated": "2026-09-02T16:20:45.574948+00:00"
+      "sha": "01f55d3cb9afb55fcf788f3958b1f71b86d27907",
+      "last_updated": "2026-09-02T20:51:12.399533+00:00"
     },
     "user-guide/docker.md": {
       "sha": "dbdb77cb215cee4668b532e26b117e8f9b966a9b",
@@ -465,8 +465,8 @@
       "last_updated": "2026-08-09T09:10:27.953058+00:00"
     },
     "user-guide/features/credential-pools.md": {
-      "sha": "f66f2a624a9165b31f084da837c3b2ba5577d023",
-      "last_updated": "2026-08-09T09:10:28.289872+00:00"
+      "sha": "05c0e988b6195cd5887f4d9f79ee48661f9e009b",
+      "last_updated": "2026-09-02T20:51:12.695054+00:00"
     },
     "user-guide/features/cron.md": {
       "sha": "e9a24600c1febb89d6b420e1f2bc92832c221c6c",
@@ -1749,7 +1749,7 @@
       "last_updated": "2026-09-01T23:11:47.199093+00:00"
     }
   },
-  "last_updated": "2026-09-02T16:20:53.122671+00:00",
+  "last_updated": "2026-09-02T20:51:12.904805+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
