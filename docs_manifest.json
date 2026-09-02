@@ -397,8 +397,8 @@
       "last_updated": "2026-08-31T20:43:59.642489+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "154f21f03bbbd6d55474ea7ae10ec65292b722cb",
-      "last_updated": "2026-09-02T16:20:45.178889+00:00"
+      "sha": "e1f0942447c40da087b8ec97c6b0fb7202acb646",
+      "last_updated": "2026-09-02T23:11:13.982614+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "e67e85d5c3d3e06a5b90554c123e63e1cc5dbd6a",
@@ -437,8 +437,8 @@
       "last_updated": "2026-08-09T09:10:25.679415+00:00"
     },
     "user-guide/features/browser.md": {
-      "sha": "1b2df2a39acae4a1c63cfa378e66134886232276",
-      "last_updated": "2026-08-31T20:44:00.894946+00:00"
+      "sha": "97b5e4ca4a60d0693b246fa0da544235b8d29fef",
+      "last_updated": "2026-09-02T23:11:14.372843+00:00"
     },
     "user-guide/features/built-in-plugins.md": {
       "sha": "ac18d4c925358a704e606ba1e8502f93c7de75fd",
@@ -457,8 +457,8 @@
       "last_updated": "2026-08-30T04:49:38.672308+00:00"
     },
     "user-guide/features/context-files.md": {
-      "sha": "b5c628213d4309c32f9a51cbcd6d3d845396a6cb",
-      "last_updated": "2026-08-17T09:49:02.941906+00:00"
+      "sha": "2906c4f780bbcc2920a691bb9e6d1a73756cf5ec",
+      "last_updated": "2026-09-02T23:11:14.777239+00:00"
     },
     "user-guide/features/context-references.md": {
       "sha": "b43c3e3b1cafb952482d51c9b3103cdf858a2d40",
@@ -1749,7 +1749,7 @@
       "last_updated": "2026-09-01T23:11:47.199093+00:00"
     }
   },
-  "last_updated": "2026-09-02T20:51:12.904805+00:00",
+  "last_updated": "2026-09-02T23:11:14.983176+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
