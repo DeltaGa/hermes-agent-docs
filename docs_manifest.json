@@ -113,8 +113,8 @@
       "last_updated": "2026-08-13T02:24:46.396580+00:00"
     },
     "developer-guide/session-storage.md": {
-      "sha": "0f80accfde87d3ddb92fc913ecc8c62f4b47b59b",
-      "last_updated": "2026-09-02T10:59:53.095283+00:00"
+      "sha": "4627b0ffa640f07d32b9a82963bd1f46cc6ee096",
+      "last_updated": "2026-09-03T10:58:46.531466+00:00"
     },
     "developer-guide/subagent-lifecycle-api.md": {
       "sha": "7054afcdb7356a8da9966c1b1243085a26957a43",
@@ -329,8 +329,8 @@
       "last_updated": "2026-09-02T20:51:12.010358+00:00"
     },
     "integrations/providers.md": {
-      "sha": "5ede871815d174d7631805ec06bb45a171f4e822",
-      "last_updated": "2026-09-02T16:20:42.834453+00:00"
+      "sha": "d9de727acd6995064ced22b1fc604ae37769af87",
+      "last_updated": "2026-09-03T10:58:46.925847+00:00"
     },
     "reference/_category_.json": {
       "sha": "8150d97ad57c8f434b72e9cc65a58abd091787c6",
@@ -341,8 +341,8 @@
       "last_updated": "2026-08-09T09:10:19.218265+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "0d107524e73760fe36763fc1fbcf7a4f7ed242a2",
-      "last_updated": "2026-08-31T20:43:58.369788+00:00"
+      "sha": "63734a2d6a3b8ec77c3a84d948611f2855a7dbbc",
+      "last_updated": "2026-09-03T10:58:47.569223+00:00"
     },
     "reference/environment-variables.md": {
       "sha": "82f7983f9664361be420ad765e63dd6db34a5449",
@@ -397,12 +397,12 @@
       "last_updated": "2026-08-31T20:43:59.642489+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "e1f0942447c40da087b8ec97c6b0fb7202acb646",
-      "last_updated": "2026-09-02T23:11:13.982614+00:00"
+      "sha": "95668e8f15423ff6e32420a27526b476bba95374",
+      "last_updated": "2026-09-03T10:58:48.036838+00:00"
     },
     "user-guide/configuring-models.md": {
-      "sha": "e67e85d5c3d3e06a5b90554c123e63e1cc5dbd6a",
-      "last_updated": "2026-09-01T23:11:45.187180+00:00"
+      "sha": "0456c391e4ab837d3c795fb2057b00ee6998cafe",
+      "last_updated": "2026-09-03T10:58:48.425826+00:00"
     },
     "user-guide/desktop.md": {
       "sha": "01f55d3cb9afb55fcf788f3958b1f71b86d27907",
@@ -453,8 +453,8 @@
       "last_updated": "2026-08-09T09:10:26.981639+00:00"
     },
     "user-guide/features/computer-use.md": {
-      "sha": "d1d2983c3fe5c7e0bc4556bc9ac21117d7b2397d",
-      "last_updated": "2026-08-30T04:49:38.672308+00:00"
+      "sha": "1148e2949a008d16f4d673408b3ce10fb0dc6c09",
+      "last_updated": "2026-09-03T10:58:48.820085+00:00"
     },
     "user-guide/features/context-files.md": {
       "sha": "2906c4f780bbcc2920a691bb9e6d1a73756cf5ec",
@@ -529,8 +529,8 @@
       "last_updated": "2026-09-02T16:20:47.281081+00:00"
     },
     "user-guide/features/lsp.md": {
-      "sha": "8f5830f47914631f574953b3072115c3310f569a",
-      "last_updated": "2026-08-09T09:10:33.729614+00:00"
+      "sha": "c34ac0e9c01db906d473971dac08e32790bb9667",
+      "last_updated": "2026-09-03T10:58:49.216123+00:00"
     },
     "user-guide/features/mcp.md": {
       "sha": "a3fe5f0802bba5bad55dc222257ae891d9ce6664",
@@ -1749,7 +1749,7 @@
       "last_updated": "2026-09-01T23:11:47.199093+00:00"
     }
   },
-  "last_updated": "2026-09-02T23:11:14.983176+00:00",
+  "last_updated": "2026-09-03T10:58:49.425663+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
