@@ -369,8 +369,8 @@
       "last_updated": "2026-08-12T19:08:19.991995+00:00"
     },
     "reference/skills-catalog.md": {
-      "sha": "b6ab7f5c21a95a8cfe67eb3b5c443d99aa620146",
-      "last_updated": "2026-08-30T16:26:23.059523+00:00"
+      "sha": "d56a104fa95147e2931ff5a90156ea9da8205163",
+      "last_updated": "2026-09-05T22:43:41.514218+00:00"
     },
     "reference/slash-commands.md": {
       "sha": "0bcdcb52cb446a16b4b45eda53d84d381e4293ad",
@@ -393,8 +393,8 @@
       "last_updated": "2026-08-17T09:49:01.982399+00:00"
     },
     "user-guide/cli.md": {
-      "sha": "756038b8baefd48e36a5d91c5c04b4648b926d62",
-      "last_updated": "2026-08-31T20:43:59.642489+00:00"
+      "sha": "a0176b8ec92c70a0825a19491193c8d8088a52af",
+      "last_updated": "2026-09-05T22:43:41.808283+00:00"
     },
     "user-guide/configuration.md": {
       "sha": "4d21bc3df8d71c420e9f744b8814123a43ad6660",
@@ -677,8 +677,8 @@
       "last_updated": "2026-08-09T09:10:45.350689+00:00"
     },
     "user-guide/messaging/index.md": {
-      "sha": "72fc4288eb15b27f8c35566540424ae4c3f17e96",
-      "last_updated": "2026-09-02T16:20:50.746306+00:00"
+      "sha": "a4cfe2592d3282ebeeab0d15f46e973abebf5584",
+      "last_updated": "2026-09-05T22:43:42.093742+00:00"
     },
     "user-guide/messaging/irc.md": {
       "sha": "f9fa9d94ceef9cdd502c535bf5185a341ea8ffd3",
@@ -1057,12 +1057,12 @@
       "last_updated": "2026-08-09T09:11:15.776570+00:00"
     },
     "user-guide/skills/bundled/research/research-competitor-news-monitor.md": {
-      "sha": "dd756be8a93cf67fdd2c3644162485b03fd5bfb4",
-      "last_updated": "2026-08-30T16:26:37.166018+00:00"
+      "sha": "5ac27e64d40ffffd17b63bea92690f4d9ab02bc2",
+      "last_updated": "2026-09-05T22:43:42.388104+00:00"
     },
     "user-guide/skills/bundled/research/research-grounded-citations.md": {
-      "sha": "938e223a68a7c876b4f8a0870f360879a297761e",
-      "last_updated": "2026-08-30T16:26:37.463247+00:00"
+      "sha": "8166801512bdc8093a8b14fa355d1b35217b1196",
+      "last_updated": "2026-09-05T22:43:42.676406+00:00"
     },
     "user-guide/skills/bundled/research/research-llm-wiki.md": {
       "sha": "6d97ac289371363624f4054a2d43b2d3ba70c35c",
@@ -1725,8 +1725,8 @@
       "last_updated": "2026-08-30T16:27:04.444447+00:00"
     },
     "user-guide/skills/optional/research/research-blogwatcher.md": {
-      "sha": "84d9ac28aa0f74d83a1e3f8d89921c1c984f83df",
-      "last_updated": "2026-08-30T16:27:14.169050+00:00"
+      "sha": "e929ea0863ca182e0136b7757d5dff412dfa8d80",
+      "last_updated": "2026-09-05T22:43:43.549041+00:00"
     },
     "user-guide/skills/optional/research/research-research-paper-writing.md": {
       "sha": "f6fd04e6badf3da84ca9925b1c5f17db3325ec45",
@@ -1751,9 +1751,17 @@
     "developer-guide/cli-internals.md": {
       "sha": "8742ad36230b9b47e9da44baff40e2aedd3b14b0",
       "last_updated": "2026-09-04T16:06:00.815460+00:00"
+    },
+    "user-guide/skills/bundled/research/research-rss-feeds.md": {
+      "sha": "4946eaa94b5f1eadfbe614677feb55639c26be5c",
+      "last_updated": "2026-09-05T22:43:42.974420+00:00"
+    },
+    "user-guide/skills/bundled/social-media/social-media-reddit-reading.md": {
+      "sha": "812e9d89b994a7a531ff7fad90cc352c778c2ed1",
+      "last_updated": "2026-09-05T22:43:43.261253+00:00"
     }
   },
-  "last_updated": "2026-09-05T17:14:15.243234+00:00",
+  "last_updated": "2026-09-05T22:43:43.756441+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
