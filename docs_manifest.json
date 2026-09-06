@@ -397,12 +397,12 @@
       "last_updated": "2026-09-05T22:43:41.808283+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "4d21bc3df8d71c420e9f744b8814123a43ad6660",
-      "last_updated": "2026-09-05T17:14:15.033473+00:00"
+      "sha": "cccec83cfb00ce2d4f2aa862777fa09bbaa13f26",
+      "last_updated": "2026-09-06T20:14:46.826909+00:00"
     },
     "user-guide/configuring-models.md": {
-      "sha": "b9683f2826274970d1e32fe2cf71ed86c721900d",
-      "last_updated": "2026-09-06T15:15:49.538843+00:00"
+      "sha": "2378ea231a392ba1a7183f18a416d2b783b167c0",
+      "last_updated": "2026-09-06T20:14:47.121003+00:00"
     },
     "user-guide/desktop.md": {
       "sha": "01f55d3cb9afb55fcf788f3958b1f71b86d27907",
@@ -477,8 +477,8 @@
       "last_updated": "2026-08-30T04:49:39.358270+00:00"
     },
     "user-guide/features/delegation.md": {
-      "sha": "e417e55fbe1a9034f1348707f03219ee994a6691",
-      "last_updated": "2026-09-06T15:15:49.910889+00:00"
+      "sha": "90c5b9fe162d75057a8767147afdfed3bb088c4b",
+      "last_updated": "2026-09-06T20:14:47.423548+00:00"
     },
     "user-guide/features/deliverable-mode.md": {
       "sha": "d01847ebb0573d9bd176ac083fc71ff70ba4e727",
@@ -497,8 +497,8 @@
       "last_updated": "2026-08-29T16:32:04.465875+00:00"
     },
     "user-guide/features/goals.md": {
-      "sha": "d187dd9befcd9a6c654853c77b9fccc8782c71f0",
-      "last_updated": "2026-09-02T16:20:46.445473+00:00"
+      "sha": "40949e6493d376180cc483821ebdcbc4abc5c1f5",
+      "last_updated": "2026-09-06T20:14:47.727305+00:00"
     },
     "user-guide/features/heartbeat.md": {
       "sha": "87c49e25f8a72dc55fbf7ab26e36bde463a8fb2d",
@@ -813,8 +813,8 @@
       "last_updated": "2026-09-05T14:55:30.040169+00:00"
     },
     "user-guide/sessions.md": {
-      "sha": "67fa40e0939f7ce9505ad6ea008301a8359fc5bb",
-      "last_updated": "2026-09-02T16:20:52.914048+00:00"
+      "sha": "f90ea00f015bc787af63d6b6755fb18805b4546c",
+      "last_updated": "2026-09-06T20:14:48.027748+00:00"
     },
     "user-guide/skills/bundled/apple/apple-apple-notes.md": {
       "sha": "31587b5e9fb3a56733f17d94880ab28e2d7b8d38",
@@ -1761,7 +1761,7 @@
       "last_updated": "2026-09-05T22:43:43.261253+00:00"
     }
   },
-  "last_updated": "2026-09-06T15:15:51.598019+00:00",
+  "last_updated": "2026-09-06T20:14:48.236937+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
