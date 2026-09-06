@@ -329,8 +329,8 @@
       "last_updated": "2026-09-02T20:51:12.010358+00:00"
     },
     "integrations/providers.md": {
-      "sha": "d9de727acd6995064ced22b1fc604ae37769af87",
-      "last_updated": "2026-09-03T10:58:46.925847+00:00"
+      "sha": "006b04c50322c14d44282dbcb2be2d74741ad16f",
+      "last_updated": "2026-09-06T10:39:36.887558+00:00"
     },
     "reference/_category_.json": {
       "sha": "8150d97ad57c8f434b72e9cc65a58abd091787c6",
@@ -565,8 +565,8 @@
       "last_updated": "2026-08-27T13:59:47.064209+00:00"
     },
     "user-guide/features/provider-routing.md": {
-      "sha": "ff8a9ef56ccc23709cbf4ff900e82560332b350d",
-      "last_updated": "2026-08-09T09:10:36.531946+00:00"
+      "sha": "3cd2c5c75c9a172705eb2fa46a1672fb0fd74ce9",
+      "last_updated": "2026-09-06T10:39:37.237123+00:00"
     },
     "user-guide/features/skills.md": {
       "sha": "6246190fc2c901072df8c3a02d76546b23315d65",
@@ -1761,7 +1761,7 @@
       "last_updated": "2026-09-05T22:43:43.261253+00:00"
     }
   },
-  "last_updated": "2026-09-06T03:58:22.064148+00:00",
+  "last_updated": "2026-09-06T10:39:37.442178+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
