@@ -41,8 +41,8 @@
       "last_updated": "2026-09-04T16:06:01.194698+00:00"
     },
     "developer-guide/context-compression-and-caching.md": {
-      "sha": "a38a9cb5eb5c9d2875bbae38e1260cd87f0c89e0",
-      "last_updated": "2026-09-04T16:06:02.181478+00:00"
+      "sha": "63aa3fff2e6856bcc252ffd952451bb13c293174",
+      "last_updated": "2026-09-06T22:49:23.244630+00:00"
     },
     "developer-guide/context-engine-plugin.md": {
       "sha": "6609158e076554fcac8ef905554fc317baee0936",
@@ -81,8 +81,8 @@
       "last_updated": "2026-09-02T10:59:52.702564+00:00"
     },
     "developer-guide/memory-provider-plugin.md": {
-      "sha": "d73327da69f296bb8b2be42f2b2d982a67ab1cc8",
-      "last_updated": "2026-08-31T20:43:57.917748+00:00"
+      "sha": "bda90a9decd3a37e89e912c6ee66c0753ddf1b95",
+      "last_updated": "2026-09-06T22:49:23.541343+00:00"
     },
     "developer-guide/model-provider-plugin.md": {
       "sha": "df11914f3fee66aaabcc737ebd005ec30540dd05",
@@ -93,8 +93,8 @@
       "last_updated": "2026-08-13T02:24:45.613061+00:00"
     },
     "developer-guide/plugins/index.md": {
-      "sha": "e18239fd6d2fa083d590d7e100515e63e925acb8",
-      "last_updated": "2026-09-04T16:06:06.708098+00:00"
+      "sha": "850070ad1d18788c7a91742193761b222dd7515c",
+      "last_updated": "2026-09-06T22:49:23.887802+00:00"
     },
     "developer-guide/programmatic-integration.md": {
       "sha": "7e9c1f6c3bae7f41c549bd4db70c9840ab0c5315",
@@ -1761,7 +1761,7 @@
       "last_updated": "2026-09-05T22:43:43.261253+00:00"
     }
   },
-  "last_updated": "2026-09-06T20:14:48.236937+00:00",
+  "last_updated": "2026-09-06T22:49:24.099814+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
