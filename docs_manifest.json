@@ -221,12 +221,12 @@
       "last_updated": "2026-08-09T09:10:11.822676+00:00"
     },
     "guides/google-gemini.md": {
-      "sha": "c5d57fe40df15b43885d42b778c470117515804e",
-      "last_updated": "2026-08-25T09:40:51.418294+00:00"
+      "sha": "001c3cb7101744d3e7bb1fca66c46837bb97b4af",
+      "last_updated": "2026-09-06T15:15:48.817011+00:00"
     },
     "guides/google-vertex.md": {
-      "sha": "54923db967d5a5c1965a45badddc32ff4efc8cbb",
-      "last_updated": "2026-08-09T09:10:12.309387+00:00"
+      "sha": "33bde3653b91bfb9975b805fa2d2162d15c4281e",
+      "last_updated": "2026-09-06T15:15:49.180047+00:00"
     },
     "guides/local-llm-on-mac.md": {
       "sha": "f35e8ef2cf1ed1bea912746071815501697e9082",
@@ -401,8 +401,8 @@
       "last_updated": "2026-09-05T17:14:15.033473+00:00"
     },
     "user-guide/configuring-models.md": {
-      "sha": "0456c391e4ab837d3c795fb2057b00ee6998cafe",
-      "last_updated": "2026-09-03T10:58:48.425826+00:00"
+      "sha": "b9683f2826274970d1e32fe2cf71ed86c721900d",
+      "last_updated": "2026-09-06T15:15:49.538843+00:00"
     },
     "user-guide/desktop.md": {
       "sha": "01f55d3cb9afb55fcf788f3958b1f71b86d27907",
@@ -477,8 +477,8 @@
       "last_updated": "2026-08-30T04:49:39.358270+00:00"
     },
     "user-guide/features/delegation.md": {
-      "sha": "a4ce8aba3b32e268ab5b97de36a533d0dc2a2a5f",
-      "last_updated": "2026-09-04T16:07:01.599727+00:00"
+      "sha": "e417e55fbe1a9034f1348707f03219ee994a6691",
+      "last_updated": "2026-09-06T15:15:49.910889+00:00"
     },
     "user-guide/features/deliverable-mode.md": {
       "sha": "d01847ebb0573d9bd176ac083fc71ff70ba4e727",
@@ -501,8 +501,8 @@
       "last_updated": "2026-09-02T16:20:46.445473+00:00"
     },
     "user-guide/features/heartbeat.md": {
-      "sha": "69984a3d7fae5eeda2ff647efbb4435cd38bf03b",
-      "last_updated": "2026-08-09T09:10:31.259088+00:00"
+      "sha": "87c49e25f8a72dc55fbf7ab26e36bde463a8fb2d",
+      "last_updated": "2026-09-06T15:15:50.255340+00:00"
     },
     "user-guide/features/honcho.md": {
       "sha": "31d8391383072c9f98161fbbb1b5720b30fbb543",
@@ -569,8 +569,8 @@
       "last_updated": "2026-09-06T10:39:37.237123+00:00"
     },
     "user-guide/features/skills.md": {
-      "sha": "6246190fc2c901072df8c3a02d76546b23315d65",
-      "last_updated": "2026-09-04T16:07:02.418465+00:00"
+      "sha": "cf856f44956cefbcab0e9a33c419fbcb2bce5d27",
+      "last_updated": "2026-09-06T15:15:50.626672+00:00"
     },
     "user-guide/features/skins.md": {
       "sha": "75353479f12cc87c64c473cc33acf5ea4dc1fc89",
@@ -749,12 +749,12 @@
       "last_updated": "2026-08-11T02:05:53.119749+00:00"
     },
     "user-guide/messaging/telegram.md": {
-      "sha": "2becfab4caae3e6c5ddaaa131fa6d48326dc430c",
-      "last_updated": "2026-09-02T16:20:52.050443+00:00"
+      "sha": "deb60b4e727348f53da2a6ee2cf1efc4fb43451b",
+      "last_updated": "2026-09-06T15:15:51.008192+00:00"
     },
     "user-guide/messaging/webhooks.md": {
-      "sha": "dd1148b0fac12bfd9ec26b1f37d56431f4c9a1f2",
-      "last_updated": "2026-08-13T10:13:29.708806+00:00"
+      "sha": "d9acdb8918fd1e742f5a5bcc9f0770ef2306f801",
+      "last_updated": "2026-09-06T15:15:51.388956+00:00"
     },
     "user-guide/messaging/wecom-callback.md": {
       "sha": "f6cf5ed4a473f9555e0b40169fcc5bd57e33ab09",
@@ -1761,7 +1761,7 @@
       "last_updated": "2026-09-05T22:43:43.261253+00:00"
     }
   },
-  "last_updated": "2026-09-06T10:39:37.442178+00:00",
+  "last_updated": "2026-09-06T15:15:51.598019+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
