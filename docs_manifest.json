@@ -41,8 +41,8 @@
       "last_updated": "2026-09-04T16:06:01.194698+00:00"
     },
     "developer-guide/context-compression-and-caching.md": {
-      "sha": "63aa3fff2e6856bcc252ffd952451bb13c293174",
-      "last_updated": "2026-09-06T22:49:23.244630+00:00"
+      "sha": "f64c3bc6743586076ace979d0deb9d8e4ebcc958",
+      "last_updated": "2026-09-07T12:06:10.672043+00:00"
     },
     "developer-guide/context-engine-plugin.md": {
       "sha": "6609158e076554fcac8ef905554fc317baee0936",
@@ -101,8 +101,8 @@
       "last_updated": "2026-08-21T18:43:15.789209+00:00"
     },
     "developer-guide/prompt-assembly.md": {
-      "sha": "209c4c3e1908c49775754d7e5165a38d1400f950",
-      "last_updated": "2026-08-30T04:49:34.803026+00:00"
+      "sha": "aeae73d6a028709b51521c7eb34710665b72ccc1",
+      "last_updated": "2026-09-07T12:06:13.311696+00:00"
     },
     "developer-guide/provider-runtime.md": {
       "sha": "3e2c723a6b96f35e088a6b2b8775fcbed83ee4bc",
@@ -113,8 +113,8 @@
       "last_updated": "2026-08-13T02:24:46.396580+00:00"
     },
     "developer-guide/session-storage.md": {
-      "sha": "332cc4b618b2553050274e08d531a0729a8a0d67",
-      "last_updated": "2026-09-04T16:06:48.285817+00:00"
+      "sha": "36f4ed2fe26fc32e717c24a3b3465990a58f50ac",
+      "last_updated": "2026-09-07T12:06:13.707265+00:00"
     },
     "developer-guide/subagent-lifecycle-api.md": {
       "sha": "7054afcdb7356a8da9966c1b1243085a26957a43",
@@ -145,8 +145,8 @@
       "last_updated": "2026-08-09T09:10:07.140471+00:00"
     },
     "getting-started/installation.md": {
-      "sha": "98b95c9d7f92172cdcb0b44748d38f55093a396f",
-      "last_updated": "2026-08-29T01:36:22.143894+00:00"
+      "sha": "352f88aa2c80d9bf06acdd077f349572aee5ff23",
+      "last_updated": "2026-09-07T12:06:14.078814+00:00"
     },
     "getting-started/learning-path.md": {
       "sha": "0f6e9d85101cafaa5d88f09e56b6ebc1b10bac70",
@@ -393,20 +393,20 @@
       "last_updated": "2026-08-17T09:49:01.982399+00:00"
     },
     "user-guide/cli.md": {
-      "sha": "a0176b8ec92c70a0825a19491193c8d8088a52af",
-      "last_updated": "2026-09-05T22:43:41.808283+00:00"
+      "sha": "da7ea37bb052ae7d660e9abd1c7eada00afef0b1",
+      "last_updated": "2026-09-07T12:06:14.489412+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "cccec83cfb00ce2d4f2aa862777fa09bbaa13f26",
-      "last_updated": "2026-09-06T20:14:46.826909+00:00"
+      "sha": "673b7ad1fc5b7d4936817f34dda9e40234feffa9",
+      "last_updated": "2026-09-07T12:06:15.010724+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "2378ea231a392ba1a7183f18a416d2b783b167c0",
       "last_updated": "2026-09-06T20:14:47.121003+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "01f55d3cb9afb55fcf788f3958b1f71b86d27907",
-      "last_updated": "2026-09-02T20:51:12.399533+00:00"
+      "sha": "ce9e3bab2030f10aa7aba44c2e70b367efa6c5c6",
+      "last_updated": "2026-09-07T12:06:15.434100+00:00"
     },
     "user-guide/docker.md": {
       "sha": "dbdb77cb215cee4668b532e26b117e8f9b966a9b",
@@ -425,8 +425,8 @@
       "last_updated": "2026-08-09T09:10:24.733947+00:00"
     },
     "user-guide/features/acp.md": {
-      "sha": "1424c427f0418d6f0b6c109367a42c367bb79647",
-      "last_updated": "2026-08-09T09:10:25.035796+00:00"
+      "sha": "aff86e2a32b1778ff5de4e46319f9ce1e9fda942",
+      "last_updated": "2026-09-07T12:06:15.990803+00:00"
     },
     "user-guide/features/api-server.md": {
       "sha": "36b6e1c7c039fb3adfb01fbe5d664b6e63c73113",
@@ -473,12 +473,12 @@
       "last_updated": "2026-09-02T10:59:55.806675+00:00"
     },
     "user-guide/features/curator.md": {
-      "sha": "66dd545cc7e611c06095690b9d36404ffc35047e",
-      "last_updated": "2026-08-30T04:49:39.358270+00:00"
+      "sha": "94b610d6e8aafffb10e516b0b233f5ab223a17a1",
+      "last_updated": "2026-09-07T12:06:16.358367+00:00"
     },
     "user-guide/features/delegation.md": {
-      "sha": "90c5b9fe162d75057a8767147afdfed3bb088c4b",
-      "last_updated": "2026-09-06T20:14:47.423548+00:00"
+      "sha": "c4cca38970ede8e2ac2e2124dd8a56cf001e8429",
+      "last_updated": "2026-09-07T12:06:17.023961+00:00"
     },
     "user-guide/features/deliverable-mode.md": {
       "sha": "d01847ebb0573d9bd176ac083fc71ff70ba4e727",
@@ -497,20 +497,20 @@
       "last_updated": "2026-08-29T16:32:04.465875+00:00"
     },
     "user-guide/features/goals.md": {
-      "sha": "40949e6493d376180cc483821ebdcbc4abc5c1f5",
-      "last_updated": "2026-09-06T20:14:47.727305+00:00"
+      "sha": "4c4ab772185795c4af86dbe8f2bfc2565c101ad1",
+      "last_updated": "2026-09-07T12:06:17.730700+00:00"
     },
     "user-guide/features/heartbeat.md": {
-      "sha": "87c49e25f8a72dc55fbf7ab26e36bde463a8fb2d",
-      "last_updated": "2026-09-06T15:15:50.255340+00:00"
+      "sha": "56895fb1f945be15c8e5d69866f4eff7fe96dd79",
+      "last_updated": "2026-09-07T12:06:18.434568+00:00"
     },
     "user-guide/features/honcho.md": {
       "sha": "31d8391383072c9f98161fbbb1b5720b30fbb543",
       "last_updated": "2026-08-09T09:10:31.744797+00:00"
     },
     "user-guide/features/hooks.md": {
-      "sha": "75c28a6407a3b0eaf019c2ad52938046bfbe83df",
-      "last_updated": "2026-09-04T16:07:02.021830+00:00"
+      "sha": "8c6c773b25d00a554c2099ba21591b9007fb3e96",
+      "last_updated": "2026-09-07T12:06:19.223372+00:00"
     },
     "user-guide/features/image-generation.md": {
       "sha": "f9ad545524938f9b56bea4a1acd2f7ef25f44ecf",
@@ -525,8 +525,8 @@
       "last_updated": "2026-08-10T21:48:29.396493+00:00"
     },
     "user-guide/features/kanban.md": {
-      "sha": "084a36f3f8435c4341d149f6736d7403fd89ed70",
-      "last_updated": "2026-09-02T16:20:47.281081+00:00"
+      "sha": "f337128dabc28266f156c0a277c3ccfb1ce1d0fb",
+      "last_updated": "2026-09-07T12:06:20.315941+00:00"
     },
     "user-guide/features/lsp.md": {
       "sha": "c34ac0e9c01db906d473971dac08e32790bb9667",
@@ -597,8 +597,8 @@
       "last_updated": "2026-08-17T09:49:04.771185+00:00"
     },
     "user-guide/features/tts.md": {
-      "sha": "e2ae021a81a391c20f1face118f5e062e7dcc3cd",
-      "last_updated": "2026-09-02T16:20:49.084611+00:00"
+      "sha": "8cabbb842f85905d16e74c63c37f907d4c40eb71",
+      "last_updated": "2026-09-07T12:06:20.707861+00:00"
     },
     "user-guide/features/vision.md": {
       "sha": "44352af392d9a6851cdecf39d6323876ae90137b",
@@ -677,8 +677,8 @@
       "last_updated": "2026-08-09T09:10:45.350689+00:00"
     },
     "user-guide/messaging/index.md": {
-      "sha": "a4cfe2592d3282ebeeab0d15f46e973abebf5584",
-      "last_updated": "2026-09-05T22:43:42.093742+00:00"
+      "sha": "dcbb981f3c4fe6718cb3855dbbbb1757c5c43d34",
+      "last_updated": "2026-09-07T12:06:21.474698+00:00"
     },
     "user-guide/messaging/irc.md": {
       "sha": "f9fa9d94ceef9cdd502c535bf5185a341ea8ffd3",
@@ -1761,7 +1761,7 @@
       "last_updated": "2026-09-05T22:43:43.261253+00:00"
     }
   },
-  "last_updated": "2026-09-06T22:49:24.099814+00:00",
+  "last_updated": "2026-09-07T12:06:21.681052+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
