@@ -97,8 +97,8 @@
       "last_updated": "2026-09-06T22:49:23.887802+00:00"
     },
     "developer-guide/programmatic-integration.md": {
-      "sha": "7e9c1f6c3bae7f41c549bd4db70c9840ab0c5315",
-      "last_updated": "2026-08-21T18:43:15.789209+00:00"
+      "sha": "050ae6ff4a9c35f1fbbf3668d033c8fd63eaf6f4",
+      "last_updated": "2026-09-08T10:58:18.216930+00:00"
     },
     "developer-guide/prompt-assembly.md": {
       "sha": "aeae73d6a028709b51521c7eb34710665b72ccc1",
@@ -221,8 +221,8 @@
       "last_updated": "2026-08-09T09:10:11.822676+00:00"
     },
     "guides/google-gemini.md": {
-      "sha": "001c3cb7101744d3e7bb1fca66c46837bb97b4af",
-      "last_updated": "2026-09-06T15:15:48.817011+00:00"
+      "sha": "d047916b7d354ff76165ee73fe376b807a415724",
+      "last_updated": "2026-09-08T10:58:18.583840+00:00"
     },
     "guides/google-vertex.md": {
       "sha": "33bde3653b91bfb9975b805fa2d2162d15c4281e",
@@ -329,8 +329,8 @@
       "last_updated": "2026-09-02T20:51:12.010358+00:00"
     },
     "integrations/providers.md": {
-      "sha": "dfeeda226f00f9a72d6e7d902146cff326ea12a6",
-      "last_updated": "2026-09-07T19:03:38.524233+00:00"
+      "sha": "58b4bc39b13287fc2bd079eaede35784bdb5f070",
+      "last_updated": "2026-09-08T10:58:18.883296+00:00"
     },
     "reference/_category_.json": {
       "sha": "8150d97ad57c8f434b72e9cc65a58abd091787c6",
@@ -393,8 +393,8 @@
       "last_updated": "2026-08-17T09:49:01.982399+00:00"
     },
     "user-guide/cli.md": {
-      "sha": "cd7355a12e36432fe35dbf057a38aba935a19f01",
-      "last_updated": "2026-09-07T19:03:40.492267+00:00"
+      "sha": "61ad61687e6f314b1c1510c5dc196a53d1af7ef7",
+      "last_updated": "2026-09-08T10:58:19.580859+00:00"
     },
     "user-guide/configuration.md": {
       "sha": "a61127455383cab11a988f55bd50b1aaf403c3b6",
@@ -405,8 +405,8 @@
       "last_updated": "2026-09-06T20:14:47.121003+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "6200403c434d68ab44395b535f348caae4b79715",
-      "last_updated": "2026-09-07T19:03:41.331382+00:00"
+      "sha": "364a8396be4aab59f02a723439d69b609ff0bfc5",
+      "last_updated": "2026-09-08T10:58:19.920959+00:00"
     },
     "user-guide/docker.md": {
       "sha": "dbdb77cb215cee4668b532e26b117e8f9b966a9b",
@@ -477,8 +477,8 @@
       "last_updated": "2026-09-07T12:06:16.358367+00:00"
     },
     "user-guide/features/delegation.md": {
-      "sha": "dbe5e21c08979465b16eeaaf8a00f353fdf80cb0",
-      "last_updated": "2026-09-07T23:21:57.575953+00:00"
+      "sha": "3e0e19eb534c513a462074cd8b5010f671ceec16",
+      "last_updated": "2026-09-08T10:58:20.219343+00:00"
     },
     "user-guide/features/deliverable-mode.md": {
       "sha": "d01847ebb0573d9bd176ac083fc71ff70ba4e727",
@@ -1577,8 +1577,8 @@
       "last_updated": "2026-08-09T09:11:59.350359+00:00"
     },
     "user-guide/tui.md": {
-      "sha": "04724657f4bb8f4beb301bf53830dbe5164b2774",
-      "last_updated": "2026-08-29T16:32:08.212615+00:00"
+      "sha": "87bed9a239c24773a1468280a5e4aab653a90f70",
+      "last_updated": "2026-09-08T10:58:20.559649+00:00"
     },
     "user-guide/which-file-does-what.md": {
       "sha": "153e2648db594190a59ff5f94d08b14c151a5ce1",
@@ -1625,8 +1625,8 @@
       "last_updated": "2026-08-30T16:26:49.752494+00:00"
     },
     "user-guide/bot-mode.md": {
-      "sha": "519818c9897eacdde21701c16632990fc03998e5",
-      "last_updated": "2026-09-08T03:59:36.683519+00:00"
+      "sha": "dfe67f61bded961cb5bb598f90fc138e6b61f6e5",
+      "last_updated": "2026-09-08T10:58:19.197060+00:00"
     },
     "reference/cli-symbols.md": {
       "sha": "c3487f8e393eab74c96e9349900dddbe58542c50",
@@ -1765,7 +1765,7 @@
       "last_updated": "2026-09-07T19:03:34.347936+00:00"
     }
   },
-  "last_updated": "2026-09-08T03:59:37.250426+00:00",
+  "last_updated": "2026-09-08T10:58:20.766803+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
