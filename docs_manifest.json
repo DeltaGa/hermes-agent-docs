@@ -441,8 +441,8 @@
       "last_updated": "2026-09-08T20:58:10.575965+00:00"
     },
     "user-guide/features/built-in-plugins.md": {
-      "sha": "ac18d4c925358a704e606ba1e8502f93c7de75fd",
-      "last_updated": "2026-08-20T03:51:06.058594+00:00"
+      "sha": "21149634027772146f8f542e1f3693ed6c61a8ea",
+      "last_updated": "2026-09-08T23:19:04.099855+00:00"
     },
     "user-guide/features/code-execution.md": {
       "sha": "9cf28e5f48495c356735c8e23b533fd3437596ec",
@@ -513,8 +513,8 @@
       "last_updated": "2026-09-07T19:03:44.134556+00:00"
     },
     "user-guide/features/image-generation.md": {
-      "sha": "f9ad545524938f9b56bea4a1acd2f7ef25f44ecf",
-      "last_updated": "2026-09-02T10:59:56.180103+00:00"
+      "sha": "862ee885d19f831ee240261eee53ec7867ba78e3",
+      "last_updated": "2026-09-08T23:19:04.454101+00:00"
     },
     "user-guide/features/kanban-tutorial.md": {
       "sha": "3e76e94da6a052627c446537462424ee3c4da1d9",
@@ -1625,8 +1625,8 @@
       "last_updated": "2026-08-30T16:26:49.752494+00:00"
     },
     "user-guide/bot-mode.md": {
-      "sha": "4ed32b7672eab6170048d36b02bd304b42645057",
-      "last_updated": "2026-09-08T20:58:09.822082+00:00"
+      "sha": "7c086535b03509c7ef5ad886f1e4b681dac52ca7",
+      "last_updated": "2026-09-08T23:19:03.691554+00:00"
     },
     "reference/cli-symbols.md": {
       "sha": "c3487f8e393eab74c96e9349900dddbe58542c50",
@@ -1769,7 +1769,7 @@
       "last_updated": "2026-09-08T20:58:16.312140+00:00"
     }
   },
-  "last_updated": "2026-09-08T20:58:16.916920+00:00",
+  "last_updated": "2026-09-08T23:19:04.663839+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
