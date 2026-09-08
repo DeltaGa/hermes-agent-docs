@@ -57,8 +57,8 @@
       "last_updated": "2026-08-09T09:10:01.682725+00:00"
     },
     "developer-guide/cron-internals.md": {
-      "sha": "d68f676ed92c00dee2f5ef67397eae0f67d7b770",
-      "last_updated": "2026-09-07T19:03:35.162383+00:00"
+      "sha": "29b2b42e6c92c58b13211c59199fca122b8ba00c",
+      "last_updated": "2026-09-08T03:59:36.338983+00:00"
     },
     "developer-guide/desktop-plugin-sdk.md": {
       "sha": "82f34f115bce026f8819516627bc10ff27ea53f3",
@@ -469,8 +469,8 @@
       "last_updated": "2026-09-07T19:03:42.537261+00:00"
     },
     "user-guide/features/cron.md": {
-      "sha": "0db4cf022b9ea9a4f1ced152bdae0f6ecee98a9c",
-      "last_updated": "2026-09-07T19:03:43.002174+00:00"
+      "sha": "36a3aadb1a10d7f2844cddbae88d41aa0c9a5b97",
+      "last_updated": "2026-09-08T03:59:37.040559+00:00"
     },
     "user-guide/features/curator.md": {
       "sha": "94b610d6e8aafffb10e516b0b233f5ab223a17a1",
@@ -1625,8 +1625,8 @@
       "last_updated": "2026-08-30T16:26:49.752494+00:00"
     },
     "user-guide/bot-mode.md": {
-      "sha": "f3d9ffab789760ec9777a34c4ef4f4102ac36442",
-      "last_updated": "2026-09-07T19:03:40.128709+00:00"
+      "sha": "519818c9897eacdde21701c16632990fc03998e5",
+      "last_updated": "2026-09-08T03:59:36.683519+00:00"
     },
     "reference/cli-symbols.md": {
       "sha": "c3487f8e393eab74c96e9349900dddbe58542c50",
@@ -1765,7 +1765,7 @@
       "last_updated": "2026-09-07T19:03:34.347936+00:00"
     }
   },
-  "last_updated": "2026-09-07T23:21:58.959045+00:00",
+  "last_updated": "2026-09-08T03:59:37.250426+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
