@@ -365,8 +365,8 @@
       "last_updated": "2026-09-08T20:58:08.698071+00:00"
     },
     "reference/profile-commands.md": {
-      "sha": "1f13d8e03b2785bc68292736d87f48aee38be208",
-      "last_updated": "2026-08-12T19:08:19.991995+00:00"
+      "sha": "47e6bda4480498fe84b81858ab44d569361c8047",
+      "last_updated": "2026-09-09T16:19:17.263045+00:00"
     },
     "reference/skills-catalog.md": {
       "sha": "b6ab7f5c21a95a8cfe67eb3b5c443d99aa620146",
@@ -469,8 +469,8 @@
       "last_updated": "2026-09-07T19:03:42.537261+00:00"
     },
     "user-guide/features/cron.md": {
-      "sha": "36a3aadb1a10d7f2844cddbae88d41aa0c9a5b97",
-      "last_updated": "2026-09-08T03:59:37.040559+00:00"
+      "sha": "bd929fc094590d81c0c3e9c34c57ae14cf24eda3",
+      "last_updated": "2026-09-09T16:19:17.571358+00:00"
     },
     "user-guide/features/curator.md": {
       "sha": "94b610d6e8aafffb10e516b0b233f5ab223a17a1",
@@ -789,8 +789,8 @@
       "last_updated": "2026-09-01T14:03:08.671414+00:00"
     },
     "user-guide/profiles.md": {
-      "sha": "ca3349defd7f224cc66fb52445d783300ceb76e2",
-      "last_updated": "2026-09-02T10:59:58.382765+00:00"
+      "sha": "6eda1f11e9c10c125ddde253c5452c955a6555f0",
+      "last_updated": "2026-09-09T16:19:18.067064+00:00"
     },
     "user-guide/secrets/bitwarden.md": {
       "sha": "671fb640fef781aacf418770bc94370bccd1c4b4",
@@ -1769,7 +1769,7 @@
       "last_updated": "2026-09-08T20:58:16.312140+00:00"
     }
   },
-  "last_updated": "2026-09-09T11:03:09.515649+00:00",
+  "last_updated": "2026-09-09T16:19:18.276420+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
