@@ -585,12 +585,12 @@
       "last_updated": "2026-08-09T09:10:37.754216+00:00"
     },
     "user-guide/features/tool-gateway.md": {
-      "sha": "ee828cbb46631b0a782bcd7701f479a3f7757b68",
-      "last_updated": "2026-08-23T06:50:19.605707+00:00"
+      "sha": "4dbbc6874399ceb47779e03fa6fe1430bceab860",
+      "last_updated": "2026-09-09T23:06:08.170975+00:00"
     },
     "user-guide/features/tool-search.md": {
-      "sha": "f64e59caf1bc415644c338ba58643cc7a3f0aa47",
-      "last_updated": "2026-09-02T10:59:56.565205+00:00"
+      "sha": "ead7b6c5a764e9f32eaf11ee2ac809ad93b840aa",
+      "last_updated": "2026-09-09T23:06:08.571794+00:00"
     },
     "user-guide/features/tools.md": {
       "sha": "94963855d89f18d1bba0233b5f13d9e6daaf0f69",
@@ -1773,7 +1773,7 @@
       "last_updated": "2026-09-09T20:45:51.192236+00:00"
     }
   },
-  "last_updated": "2026-09-09T20:45:53.386740+00:00",
+  "last_updated": "2026-09-09T23:06:08.777636+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
