@@ -329,8 +329,8 @@
       "last_updated": "2026-09-02T20:51:12.010358+00:00"
     },
     "integrations/providers.md": {
-      "sha": "f4d38cd012f454765d020482eb1146508d3ba8ed",
-      "last_updated": "2026-09-09T11:03:08.465439+00:00"
+      "sha": "1038f33bae46fcc0c9152be39dc7764b94845bec",
+      "last_updated": "2026-09-09T20:45:48.257215+00:00"
     },
     "reference/_category_.json": {
       "sha": "8150d97ad57c8f434b72e9cc65a58abd091787c6",
@@ -341,12 +341,12 @@
       "last_updated": "2026-08-09T09:10:19.218265+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "d5a4bf320a17f334219ff8d1e771ef704afd6c72",
-      "last_updated": "2026-09-09T11:03:08.984661+00:00"
+      "sha": "c70aa7bc2d6a2e7c06d0782e5ea183715c5e2b0d",
+      "last_updated": "2026-09-09T20:45:48.926758+00:00"
     },
     "reference/environment-variables.md": {
-      "sha": "0849306b17ae706a167ef57d57e407f619091a56",
-      "last_updated": "2026-09-07T19:03:39.298186+00:00"
+      "sha": "b78efdd7e96780c454ff2e8afcaaca216f5d5210",
+      "last_updated": "2026-09-09T20:45:49.333596+00:00"
     },
     "reference/faq.md": {
       "sha": "2e7d31b5a6455a8ca3143dbd5f329704ec52782a",
@@ -405,8 +405,8 @@
       "last_updated": "2026-09-06T20:14:47.121003+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "0a987eedf8a21250701cb5d224b2f231e5522e49",
-      "last_updated": "2026-09-09T04:06:36.056054+00:00"
+      "sha": "dc594334cf523f67ff130ae5ebaf7aee1e5dc985",
+      "last_updated": "2026-09-09T20:45:49.830780+00:00"
     },
     "user-guide/docker.md": {
       "sha": "dbdb77cb215cee4668b532e26b117e8f9b966a9b",
@@ -429,8 +429,8 @@
       "last_updated": "2026-09-07T12:06:15.990803+00:00"
     },
     "user-guide/features/api-server.md": {
-      "sha": "6b9acf6dcd69caa24d6dc3454fb71bc42f8ecb5e",
-      "last_updated": "2026-09-07T19:03:41.811895+00:00"
+      "sha": "c4ea2bddbe787a18430bc1293e56904a8c885d5a",
+      "last_updated": "2026-09-09T20:45:50.224988+00:00"
     },
     "user-guide/features/batch-processing.md": {
       "sha": "5a0cbacb908a9cfa5c770a6d83c846d977220562",
@@ -537,8 +537,8 @@
       "last_updated": "2026-09-08T20:58:11.707499+00:00"
     },
     "user-guide/features/memory-providers.md": {
-      "sha": "1c35b07589c673e26ec28963986606cc25187999",
-      "last_updated": "2026-08-31T13:16:11.083968+00:00"
+      "sha": "bbd5451519affab17bbd4d3499f89be7ba360849",
+      "last_updated": "2026-09-09T20:45:50.772412+00:00"
     },
     "user-guide/features/memory.md": {
       "sha": "0a5a4445c0c58a9db7686675d5622fd6612b57e9",
@@ -561,8 +561,8 @@
       "last_updated": "2026-08-09T09:10:35.898321+00:00"
     },
     "user-guide/features/plugins.md": {
-      "sha": "78b450f262efff3d0c0f4dfddb1e40599edb5124",
-      "last_updated": "2026-09-08T20:58:12.092064+00:00"
+      "sha": "c208f76bb76f82d6ba842a6f2c71a679bb102cf8",
+      "last_updated": "2026-09-09T20:45:51.695068+00:00"
     },
     "user-guide/features/provider-routing.md": {
       "sha": "3cd2c5c75c9a172705eb2fa46a1672fb0fd74ce9",
@@ -685,12 +685,12 @@
       "last_updated": "2026-09-08T20:58:12.975459+00:00"
     },
     "user-guide/messaging/line.md": {
-      "sha": "abed60427b38a534ad68fd9ef269755e02dfba2b",
-      "last_updated": "2026-08-09T09:10:46.222170+00:00"
+      "sha": "a5ad8e146bd5d534aa6d2136e52ca5d1b29310b2",
+      "last_updated": "2026-09-09T20:45:52.176527+00:00"
     },
     "user-guide/messaging/matrix.md": {
-      "sha": "39124393ed3681e9b438b809f43efa9bd93017e9",
-      "last_updated": "2026-08-29T16:32:05.632792+00:00"
+      "sha": "f8505fac6d45094fe779c5723dfdc94632a5e13b",
+      "last_updated": "2026-09-09T20:45:52.628992+00:00"
     },
     "user-guide/messaging/mattermost.md": {
       "sha": "5d86dc71c49abc3437dab1e8e40067dd306b0000",
@@ -749,8 +749,8 @@
       "last_updated": "2026-08-11T02:05:53.119749+00:00"
     },
     "user-guide/messaging/telegram.md": {
-      "sha": "79afe3d1d46c489916428144bac484eb3a23d850",
-      "last_updated": "2026-09-08T20:58:13.350406+00:00"
+      "sha": "d638d4c1f7afd5f11caae275826be3d3da10d2f5",
+      "last_updated": "2026-09-09T20:45:53.177603+00:00"
     },
     "user-guide/messaging/webhooks.md": {
       "sha": "d9acdb8918fd1e742f5a5bcc9f0770ef2306f801",
@@ -1767,9 +1767,13 @@
     "user-guide/skills/optional/social-media/social-media-reddit-reading.md": {
       "sha": "3d299ff23506b024a957676da135df4f35659500",
       "last_updated": "2026-09-08T20:58:16.312140+00:00"
+    },
+    "user-guide/features/plugin-catalog.md": {
+      "sha": "1f5c66fab8c1b437c03e25b69e698eaf9ab2fbb1",
+      "last_updated": "2026-09-09T20:45:51.192236+00:00"
     }
   },
-  "last_updated": "2026-09-09T16:19:18.276420+00:00",
+  "last_updated": "2026-09-09T20:45:53.386740+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
