@@ -61,8 +61,8 @@
       "last_updated": "2026-09-08T03:59:36.338983+00:00"
     },
     "developer-guide/desktop-plugin-sdk.md": {
-      "sha": "82f34f115bce026f8819516627bc10ff27ea53f3",
-      "last_updated": "2026-08-20T18:47:52.755610+00:00"
+      "sha": "6873e2d1d8536d7689d413e579d9e1951118b28a",
+      "last_updated": "2026-09-10T04:04:07.107523+00:00"
     },
     "developer-guide/egress-internals.md": {
       "sha": "50852a8a36d8274b0a62f769e4f88b0fbcf789a7",
@@ -1773,7 +1773,7 @@
       "last_updated": "2026-09-09T20:45:51.192236+00:00"
     }
   },
-  "last_updated": "2026-09-09T23:06:08.777636+00:00",
+  "last_updated": "2026-09-10T04:04:07.314240+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
