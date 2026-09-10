@@ -329,8 +329,8 @@
       "last_updated": "2026-09-02T20:51:12.010358+00:00"
     },
     "integrations/providers.md": {
-      "sha": "1038f33bae46fcc0c9152be39dc7764b94845bec",
-      "last_updated": "2026-09-09T20:45:48.257215+00:00"
+      "sha": "286abcee2a2eb4b3e3af65d75e8ab33227874a01",
+      "last_updated": "2026-09-10T23:01:52.445115+00:00"
     },
     "reference/_category_.json": {
       "sha": "8150d97ad57c8f434b72e9cc65a58abd091787c6",
@@ -345,8 +345,8 @@
       "last_updated": "2026-09-10T20:41:12.352380+00:00"
     },
     "reference/environment-variables.md": {
-      "sha": "b78efdd7e96780c454ff2e8afcaaca216f5d5210",
-      "last_updated": "2026-09-09T20:45:49.333596+00:00"
+      "sha": "1296aa2c03061049c8f023feb42d7eef494a7685",
+      "last_updated": "2026-09-10T23:01:52.744063+00:00"
     },
     "reference/faq.md": {
       "sha": "2e7d31b5a6455a8ca3143dbd5f329704ec52782a",
@@ -373,8 +373,8 @@
       "last_updated": "2026-09-08T20:58:09.046015+00:00"
     },
     "reference/slash-commands.md": {
-      "sha": "005be52a9a4a02ea09113eec397a7c0cbbda825a",
-      "last_updated": "2026-09-08T20:58:09.432621+00:00"
+      "sha": "8e92c56f334954136ce5b0f5c1644cec921e30a6",
+      "last_updated": "2026-09-10T23:01:53.054623+00:00"
     },
     "reference/tools-reference.md": {
       "sha": "94f8518c5ce20cb81a96278f280218bbe9f1c3b9",
@@ -1779,9 +1779,13 @@
     "user-guide/skills/optional/creative/creative-archify.md": {
       "sha": "fca04006e468a0155c27400ee4f753aaa8902cae",
       "last_updated": "2026-09-10T20:41:16.797282+00:00"
+    },
+    "user-guide/free-tier.md": {
+      "sha": "c03e502406b34d7e0a09fa2c9915aa4eb6494f99",
+      "last_updated": "2026-09-10T23:01:53.387038+00:00"
     }
   },
-  "last_updated": "2026-09-10T20:41:17.005560+00:00",
+  "last_updated": "2026-09-10T23:01:53.596044+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
