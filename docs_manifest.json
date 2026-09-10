@@ -61,8 +61,8 @@
       "last_updated": "2026-09-08T03:59:36.338983+00:00"
     },
     "developer-guide/desktop-plugin-sdk.md": {
-      "sha": "ea889e7f98f56f29e152cd093ec91970afe2f5a0",
-      "last_updated": "2026-09-10T10:59:24.990087+00:00"
+      "sha": "619923bc177b6f62914d4447c0f2c6812c2813bd",
+      "last_updated": "2026-09-10T20:41:11.976966+00:00"
     },
     "developer-guide/egress-internals.md": {
       "sha": "50852a8a36d8274b0a62f769e4f88b0fbcf789a7",
@@ -341,8 +341,8 @@
       "last_updated": "2026-08-09T09:10:19.218265+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "c70aa7bc2d6a2e7c06d0782e5ea183715c5e2b0d",
-      "last_updated": "2026-09-09T20:45:48.926758+00:00"
+      "sha": "4fbeef440afe8c4b9b4dab71fc742e545b19861a",
+      "last_updated": "2026-09-10T20:41:12.352380+00:00"
     },
     "reference/environment-variables.md": {
       "sha": "b78efdd7e96780c454ff2e8afcaaca216f5d5210",
@@ -361,8 +361,8 @@
       "last_updated": "2026-09-02T16:20:44.163471+00:00"
     },
     "reference/optional-skills-catalog.md": {
-      "sha": "ea74ac0976d56ba90ff2498c582611e85904b3c4",
-      "last_updated": "2026-09-08T20:58:08.698071+00:00"
+      "sha": "cb7034f20396d3fe0fa02776916f77cbaa6717d5",
+      "last_updated": "2026-09-10T20:41:12.686135+00:00"
     },
     "reference/profile-commands.md": {
       "sha": "47e6bda4480498fe84b81858ab44d569361c8047",
@@ -377,8 +377,8 @@
       "last_updated": "2026-09-08T20:58:09.432621+00:00"
     },
     "reference/tools-reference.md": {
-      "sha": "44db9c8993ec000e370a990a574e91e38cbf1ead",
-      "last_updated": "2026-09-04T16:06:56.804931+00:00"
+      "sha": "94f8518c5ce20cb81a96278f280218bbe9f1c3b9",
+      "last_updated": "2026-09-10T20:41:13.021956+00:00"
     },
     "reference/toolsets-reference.md": {
       "sha": "c6925facb009835a4bcc466c2e8e1cb6c1dd5319",
@@ -401,12 +401,12 @@
       "last_updated": "2026-09-09T11:03:09.305154+00:00"
     },
     "user-guide/configuring-models.md": {
-      "sha": "2378ea231a392ba1a7183f18a416d2b783b167c0",
-      "last_updated": "2026-09-06T20:14:47.121003+00:00"
+      "sha": "c200d46b813b97dfb333ac858af61344be8cb260",
+      "last_updated": "2026-09-10T20:41:13.776094+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "df7e13d5b5063b00c644f2859ccce0be2db6f099",
-      "last_updated": "2026-09-10T10:59:25.534208+00:00"
+      "sha": "14e7c7f456e5e24f4aaa23da054b60a33e0567f2",
+      "last_updated": "2026-09-10T20:41:14.146740+00:00"
     },
     "user-guide/docker.md": {
       "sha": "dbdb77cb215cee4668b532e26b117e8f9b966a9b",
@@ -493,8 +493,8 @@
       "last_updated": "2026-08-09T09:10:30.129762+00:00"
     },
     "user-guide/features/fallback-providers.md": {
-      "sha": "82dc096324fb471ac4ce85e54bf6b17448acb9d9",
-      "last_updated": "2026-09-07T23:21:57.876803+00:00"
+      "sha": "50d465f65543941bae96da7622a133a7fe25f293",
+      "last_updated": "2026-09-10T20:41:14.937352+00:00"
     },
     "user-guide/features/goals.md": {
       "sha": "4c4ab772185795c4af86dbe8f2bfc2565c101ad1",
@@ -505,8 +505,8 @@
       "last_updated": "2026-09-07T23:21:58.178049+00:00"
     },
     "user-guide/features/honcho.md": {
-      "sha": "31d8391383072c9f98161fbbb1b5720b30fbb543",
-      "last_updated": "2026-08-09T09:10:31.744797+00:00"
+      "sha": "eeaa2e99e9e58278a628f23ef41f188514a42ec7",
+      "last_updated": "2026-09-10T20:41:15.311006+00:00"
     },
     "user-guide/features/hooks.md": {
       "sha": "cecfd57856a8e637c461f4f6bf34cbe1b93df822",
@@ -561,8 +561,8 @@
       "last_updated": "2026-08-09T09:10:35.898321+00:00"
     },
     "user-guide/features/plugins.md": {
-      "sha": "39e4f94a09efa4347b26beaa3ee4fd7896b09a33",
-      "last_updated": "2026-09-10T10:59:26.125806+00:00"
+      "sha": "7e82894346745333afdee2a7dbe4f01f64ef47e8",
+      "last_updated": "2026-09-10T20:41:15.673363+00:00"
     },
     "user-guide/features/provider-routing.md": {
       "sha": "3cd2c5c75c9a172705eb2fa46a1672fb0fd74ce9",
@@ -657,8 +657,8 @@
       "last_updated": "2026-08-09T09:10:43.784624+00:00"
     },
     "user-guide/messaging/discord.md": {
-      "sha": "609ab4391875888750ee0c334356efd9bb517a06",
-      "last_updated": "2026-08-29T16:32:04.911777+00:00"
+      "sha": "dfad0cc25b560dc75c902d8c1e304ed89602e03e",
+      "last_updated": "2026-09-10T20:41:16.012231+00:00"
     },
     "user-guide/messaging/email.md": {
       "sha": "71f932d6e927131e66887698730c1e61f6440ecb",
@@ -749,8 +749,8 @@
       "last_updated": "2026-08-11T02:05:53.119749+00:00"
     },
     "user-guide/messaging/telegram.md": {
-      "sha": "9b04a06a80fbe4c20272118337ce3a6d99132e6a",
-      "last_updated": "2026-09-10T10:59:26.353205+00:00"
+      "sha": "d9d7b26bc12af930661ef1275362d3aaa20edd4b",
+      "last_updated": "2026-09-10T20:41:16.374040+00:00"
     },
     "user-guide/messaging/webhooks.md": {
       "sha": "d9acdb8918fd1e742f5a5bcc9f0770ef2306f801",
@@ -1625,8 +1625,8 @@
       "last_updated": "2026-08-30T16:26:49.752494+00:00"
     },
     "user-guide/bot-mode.md": {
-      "sha": "aec2c3b2207ea4fae11a90d78397ca80cf5d5dd5",
-      "last_updated": "2026-09-10T10:59:25.220355+00:00"
+      "sha": "c5a5a15a6cfc1ed5bad0dc40265a4f9a15a08180",
+      "last_updated": "2026-09-10T20:41:13.438082+00:00"
     },
     "reference/cli-symbols.md": {
       "sha": "c3487f8e393eab74c96e9349900dddbe58542c50",
@@ -1771,9 +1771,17 @@
     "user-guide/features/plugin-catalog.md": {
       "sha": "1f5c66fab8c1b437c03e25b69e698eaf9ab2fbb1",
       "last_updated": "2026-09-09T20:45:51.192236+00:00"
+    },
+    "user-guide/features/credential-vault.md": {
+      "sha": "d003990d1bc2bd552c2abdb6d8e670985b79d77b",
+      "last_updated": "2026-09-10T20:41:14.512284+00:00"
+    },
+    "user-guide/skills/optional/creative/creative-archify.md": {
+      "sha": "fca04006e468a0155c27400ee4f753aaa8902cae",
+      "last_updated": "2026-09-10T20:41:16.797282+00:00"
     }
   },
-  "last_updated": "2026-09-10T10:59:26.562337+00:00",
+  "last_updated": "2026-09-10T20:41:17.005560+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
