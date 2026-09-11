@@ -369,8 +369,8 @@
       "last_updated": "2026-09-09T16:19:17.263045+00:00"
     },
     "reference/skills-catalog.md": {
-      "sha": "2dcdf874ac55e0f78daeb1bbac1aeb62e5111322",
-      "last_updated": "2026-09-11T10:57:50.828534+00:00"
+      "sha": "b6ab7f5c21a95a8cfe67eb3b5c443d99aa620146",
+      "last_updated": "2026-09-11T20:46:56.959716+00:00"
     },
     "reference/slash-commands.md": {
       "sha": "8e92c56f334954136ce5b0f5c1644cec921e30a6",
@@ -601,8 +601,8 @@
       "last_updated": "2026-09-07T12:06:20.707861+00:00"
     },
     "user-guide/features/vision.md": {
-      "sha": "44352af392d9a6851cdecf39d6323876ae90137b",
-      "last_updated": "2026-08-09T09:10:39.382215+00:00"
+      "sha": "628c7ab69e93ac8932034f005a60c18c09a0aff9",
+      "last_updated": "2026-09-11T20:46:57.339248+00:00"
     },
     "user-guide/features/voice-mode.md": {
       "sha": "349b8936d2eda0f5aa421cf4a9523219340ce28f",
@@ -733,8 +733,8 @@
       "last_updated": "2026-08-09T09:10:49.680110+00:00"
     },
     "user-guide/messaging/slack.md": {
-      "sha": "4eb283c7a8dc35ca4367b3bf3b4627970c7bde9e",
-      "last_updated": "2026-09-11T10:57:52.300875+00:00"
+      "sha": "85f1f817ff401ea1b6ab412f261e8de9008618b6",
+      "last_updated": "2026-09-11T20:46:57.794455+00:00"
     },
     "user-guide/messaging/sms.md": {
       "sha": "8878cc5f0ab5bac6e5741e2954c56248bd08ccc7",
@@ -1783,17 +1783,9 @@
     "user-guide/free-tier.md": {
       "sha": "c03e502406b34d7e0a09fa2c9915aa4eb6494f99",
       "last_updated": "2026-09-10T23:01:53.387038+00:00"
-    },
-    "user-guide/collective-wisdom-advice.md": {
-      "sha": "fc5c3bd77f60fdf4a87a3adbfd4c937c1bff5a19",
-      "last_updated": "2026-09-11T10:57:51.414009+00:00"
-    },
-    "user-guide/skills/bundled/productivity/productivity-collective-wisdom-install.md": {
-      "sha": "2b25eaa7d460a6054d2630996207e01f5683f922",
-      "last_updated": "2026-09-11T10:57:52.885718+00:00"
     }
   },
-  "last_updated": "2026-09-11T10:57:53.094351+00:00",
+  "last_updated": "2026-09-11T20:46:58.003864+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
