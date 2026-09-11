@@ -41,8 +41,8 @@
       "last_updated": "2026-09-04T16:06:01.194698+00:00"
     },
     "developer-guide/context-compression-and-caching.md": {
-      "sha": "9221b2ccfffff3641a52cf0186dec3dd363f2882",
-      "last_updated": "2026-09-08T20:58:06.416932+00:00"
+      "sha": "64110224150bf67d343344d819b64aa9dc675cb5",
+      "last_updated": "2026-09-11T10:57:50.124503+00:00"
     },
     "developer-guide/context-engine-plugin.md": {
       "sha": "6d33638ddbe0dbab2ec3c443b5bdc5c6e40a3c15",
@@ -189,8 +189,8 @@
       "last_updated": "2026-08-09T09:10:09.852852+00:00"
     },
     "guides/aws-bedrock.md": {
-      "sha": "4aed045cef8eef23f2b8d331f01aa81e7f64bc9d",
-      "last_updated": "2026-08-22T01:34:27.170455+00:00"
+      "sha": "348dd17306b5d0f071e4217a39a46cc0129cbc0b",
+      "last_updated": "2026-09-11T10:57:50.530572+00:00"
     },
     "guides/azure-foundry.md": {
       "sha": "76412937b0da0a1b2f5e091ec38145055df5b917",
@@ -369,8 +369,8 @@
       "last_updated": "2026-09-09T16:19:17.263045+00:00"
     },
     "reference/skills-catalog.md": {
-      "sha": "b6ab7f5c21a95a8cfe67eb3b5c443d99aa620146",
-      "last_updated": "2026-09-08T20:58:09.046015+00:00"
+      "sha": "2dcdf874ac55e0f78daeb1bbac1aeb62e5111322",
+      "last_updated": "2026-09-11T10:57:50.828534+00:00"
     },
     "reference/slash-commands.md": {
       "sha": "8e92c56f334954136ce5b0f5c1644cec921e30a6",
@@ -721,8 +721,8 @@
       "last_updated": "2026-08-09T09:10:48.721682+00:00"
     },
     "user-guide/messaging/relay.md": {
-      "sha": "d12ae3edc5669f9d4a3461979620a7d2b461162f",
-      "last_updated": "2026-08-12T02:23:06.672262+00:00"
+      "sha": "4ef23c6f609fe17b2b268fec639788395c0dcf46",
+      "last_updated": "2026-09-11T10:57:52.000245+00:00"
     },
     "user-guide/messaging/signal.md": {
       "sha": "a435ed96b62b08ba5e8b87103612c5261dba18d7",
@@ -733,8 +733,8 @@
       "last_updated": "2026-08-09T09:10:49.680110+00:00"
     },
     "user-guide/messaging/slack.md": {
-      "sha": "85f1f817ff401ea1b6ab412f261e8de9008618b6",
-      "last_updated": "2026-09-07T19:03:47.513726+00:00"
+      "sha": "4eb283c7a8dc35ca4367b3bf3b4627970c7bde9e",
+      "last_updated": "2026-09-11T10:57:52.300875+00:00"
     },
     "user-guide/messaging/sms.md": {
       "sha": "8878cc5f0ab5bac6e5741e2954c56248bd08ccc7",
@@ -781,8 +781,8 @@
       "last_updated": "2026-08-29T16:32:06.777597+00:00"
     },
     "user-guide/multi-profile-gateways.md": {
-      "sha": "4eb5adc9755b7b823fa09ef357cc8bfb1e74c92c",
-      "last_updated": "2026-09-11T04:01:39.682824+00:00"
+      "sha": "979a4ed99d3ce70197fbb021b62159ad41a80086",
+      "last_updated": "2026-09-11T10:57:52.593167+00:00"
     },
     "user-guide/profile-distributions.md": {
       "sha": "14bbba02f75c94188185b5d2b194b2359df976bf",
@@ -1625,8 +1625,8 @@
       "last_updated": "2026-08-30T16:26:49.752494+00:00"
     },
     "user-guide/bot-mode.md": {
-      "sha": "c5a5a15a6cfc1ed5bad0dc40265a4f9a15a08180",
-      "last_updated": "2026-09-10T20:41:13.438082+00:00"
+      "sha": "007d2da2f223fcf5ef31244e1675897ee4727108",
+      "last_updated": "2026-09-11T10:57:51.112992+00:00"
     },
     "reference/cli-symbols.md": {
       "sha": "c3487f8e393eab74c96e9349900dddbe58542c50",
@@ -1745,8 +1745,8 @@
       "last_updated": "2026-08-30T16:27:21.932518+00:00"
     },
     "user-guide/local-models.md": {
-      "sha": "8919bd875ec6cd211f7a3bcbb817a5e5525235a1",
-      "last_updated": "2026-09-01T23:11:47.199093+00:00"
+      "sha": "a224b883ff6235f4ad3bed9eabd2c692f9b5312f",
+      "last_updated": "2026-09-11T10:57:51.717339+00:00"
     },
     "developer-guide/cli-internals.md": {
       "sha": "58792e4e51dd51773c8701b1ab4edbe700ccb810",
@@ -1783,9 +1783,17 @@
     "user-guide/free-tier.md": {
       "sha": "c03e502406b34d7e0a09fa2c9915aa4eb6494f99",
       "last_updated": "2026-09-10T23:01:53.387038+00:00"
+    },
+    "user-guide/collective-wisdom-advice.md": {
+      "sha": "fc5c3bd77f60fdf4a87a3adbfd4c937c1bff5a19",
+      "last_updated": "2026-09-11T10:57:51.414009+00:00"
+    },
+    "user-guide/skills/bundled/productivity/productivity-collective-wisdom-install.md": {
+      "sha": "2b25eaa7d460a6054d2630996207e01f5683f922",
+      "last_updated": "2026-09-11T10:57:52.885718+00:00"
     }
   },
-  "last_updated": "2026-09-11T04:01:39.891867+00:00",
+  "last_updated": "2026-09-11T10:57:53.094351+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
