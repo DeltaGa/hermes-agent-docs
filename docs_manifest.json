@@ -361,8 +361,8 @@
       "last_updated": "2026-09-12T10:25:41.711959+00:00"
     },
     "reference/optional-skills-catalog.md": {
-      "sha": "9bd0f303b3b8bac6a10b69342a79b509488ccaec",
-      "last_updated": "2026-09-12T10:25:42.079354+00:00"
+      "sha": "6d348df87c8fce9283eebe9b5e7ed16cb7cd45df",
+      "last_updated": "2026-09-12T15:20:47.924840+00:00"
     },
     "reference/profile-commands.md": {
       "sha": "47e6bda4480498fe84b81858ab44d569361c8047",
@@ -473,8 +473,8 @@
       "last_updated": "2026-09-12T10:25:42.826409+00:00"
     },
     "user-guide/features/curator.md": {
-      "sha": "94b610d6e8aafffb10e516b0b233f5ab223a17a1",
-      "last_updated": "2026-09-07T12:06:16.358367+00:00"
+      "sha": "1827bc7ad65d346ddee10b7372a7b232769b2cb2",
+      "last_updated": "2026-09-12T15:20:48.322464+00:00"
     },
     "user-guide/features/delegation.md": {
       "sha": "3d2c49bd66ae46bf3dde1611d3ba50c7c1fe8a14",
@@ -569,8 +569,8 @@
       "last_updated": "2026-09-06T10:39:37.237123+00:00"
     },
     "user-guide/features/skills.md": {
-      "sha": "a380826956fba34b3eb695b74b049f542a0c58fe",
-      "last_updated": "2026-09-07T19:03:46.169725+00:00"
+      "sha": "34a6d7c47b192e738ffbfa6ee84ee5c07cb0b03f",
+      "last_updated": "2026-09-12T15:20:49.584787+00:00"
     },
     "user-guide/features/skins.md": {
       "sha": "75353479f12cc87c64c473cc33acf5ea4dc1fc89",
@@ -912,10 +912,6 @@
       "sha": "f2270be8e25d11e7d8ca6d0d9f18630f4ca10947",
       "last_updated": "2026-08-30T16:26:30.183321+00:00"
     },
-    "user-guide/skills/bundled/creative/creative-touchdesigner-mcp.md": {
-      "sha": "8fff080b38368a8dfc7835ad3aba1cbe53899a9f",
-      "last_updated": "2026-08-09T09:11:04.854072+00:00"
-    },
     "user-guide/skills/bundled/email/email-email-inbox-triage.md": {
       "sha": "3c68833eec6408db2c447fb2cda2921eab9e989d",
       "last_updated": "2026-08-30T16:26:30.789640+00:00"
@@ -1189,8 +1185,8 @@
       "last_updated": "2026-08-30T16:26:47.944902+00:00"
     },
     "user-guide/skills/optional/creative/creative-kanban-video-orchestrator.md": {
-      "sha": "ecb36c41a9a50038bfb10d60dcb6c80c200f3ffc",
-      "last_updated": "2026-08-30T16:26:48.536052+00:00"
+      "sha": "32c7341a2ddf01dcf0131a43f13642407d2bd3a3",
+      "last_updated": "2026-09-12T15:20:49.955206+00:00"
     },
     "user-guide/skills/optional/creative/creative-meme-generation.md": {
       "sha": "f7b61f10f981bb95cdbb29911c5447c5585b2ff3",
@@ -1700,10 +1696,6 @@
       "sha": "88f2fcfacd0a5295e67695e3b9f7147607de100f",
       "last_updated": "2026-08-30T16:26:50.050614+00:00"
     },
-    "user-guide/skills/optional/creative/creative-touchdesigner-mcp.md": {
-      "sha": "befee1c288a4b26c57d50be596047871f2a2cbe9",
-      "last_updated": "2026-08-30T16:26:50.932974+00:00"
-    },
     "user-guide/skills/optional/mlops/mlops-evaluation-evaluating-llms-harness.md": {
       "sha": "8d449ee126a49a78d7183845dda06a9742d4158c",
       "last_updated": "2026-08-30T16:27:00.541702+00:00"
@@ -1769,8 +1761,8 @@
       "last_updated": "2026-09-08T20:58:16.312140+00:00"
     },
     "user-guide/features/plugin-catalog.md": {
-      "sha": "1f5c66fab8c1b437c03e25b69e698eaf9ab2fbb1",
-      "last_updated": "2026-09-09T20:45:51.192236+00:00"
+      "sha": "bf6fd831e2c6741b970c0ed370b1c99314a22158",
+      "last_updated": "2026-09-12T15:20:48.677990+00:00"
     },
     "user-guide/features/credential-vault.md": {
       "sha": "d003990d1bc2bd552c2abdb6d8e670985b79d77b",
@@ -1785,7 +1777,7 @@
       "last_updated": "2026-09-12T10:25:43.933210+00:00"
     }
   },
-  "last_updated": "2026-09-12T10:25:44.141729+00:00",
+  "last_updated": "2026-09-12T15:20:50.161906+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
