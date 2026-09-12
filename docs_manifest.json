@@ -509,8 +509,8 @@
       "last_updated": "2026-09-10T20:41:15.311006+00:00"
     },
     "user-guide/features/hooks.md": {
-      "sha": "182b045920a3f3cdcc6589c4d867bbdcfc9cd76b",
-      "last_updated": "2026-09-11T23:07:03.315056+00:00"
+      "sha": "e5562398080d7093a8089e852ad977ab22be666e",
+      "last_updated": "2026-09-12T04:03:24.261529+00:00"
     },
     "user-guide/features/image-generation.md": {
       "sha": "862ee885d19f831ee240261eee53ec7867ba78e3",
@@ -605,8 +605,8 @@
       "last_updated": "2026-09-11T20:46:57.339248+00:00"
     },
     "user-guide/features/voice-mode.md": {
-      "sha": "349b8936d2eda0f5aa421cf4a9523219340ce28f",
-      "last_updated": "2026-08-23T12:50:21.712428+00:00"
+      "sha": "8750029e2bd0c9f401ac8d0a6b8db57f816bd110",
+      "last_updated": "2026-09-12T04:03:24.580628+00:00"
     },
     "user-guide/features/wake-word.md": {
       "sha": "622532cd5f6885a4b0a6b6a548edf01ea92e2ccf",
@@ -769,20 +769,20 @@
       "last_updated": "2026-08-09T09:10:52.810216+00:00"
     },
     "user-guide/messaging/whatsapp-cloud.md": {
-      "sha": "dc07114df44f1882af12dbe3030277125db1b1de",
-      "last_updated": "2026-08-20T03:51:07.661374+00:00"
+      "sha": "06c3df1888ffcd21f1f9eac8bf70b85cbbbfd1a4",
+      "last_updated": "2026-09-12T04:03:24.876457+00:00"
     },
     "user-guide/messaging/whatsapp.md": {
-      "sha": "17d89e968d41eadc0761c967d5613821c3fa56ca",
-      "last_updated": "2026-08-09T09:10:53.625728+00:00"
+      "sha": "b307747a0930d18b6956a5b3ab9a6d6c5d0105d3",
+      "last_updated": "2026-09-12T04:03:25.180493+00:00"
     },
     "user-guide/messaging/yuanbao.md": {
       "sha": "5ba3b56a700ce3eb4a2c54ed377be7280729e824",
       "last_updated": "2026-08-29T16:32:06.777597+00:00"
     },
     "user-guide/multi-profile-gateways.md": {
-      "sha": "41b7d5c94e80a31115caac2662ea0f2cfecf3fbb",
-      "last_updated": "2026-09-11T23:07:03.664323+00:00"
+      "sha": "251fdebba4afc90ce96c788373f5232eaf6d1019",
+      "last_updated": "2026-09-12T04:03:25.465446+00:00"
     },
     "user-guide/profile-distributions.md": {
       "sha": "14bbba02f75c94188185b5d2b194b2359df976bf",
@@ -1625,8 +1625,8 @@
       "last_updated": "2026-08-30T16:26:49.752494+00:00"
     },
     "user-guide/bot-mode.md": {
-      "sha": "007d2da2f223fcf5ef31244e1675897ee4727108",
-      "last_updated": "2026-09-11T10:57:51.112992+00:00"
+      "sha": "8db271d9d7ab8b5b4ae8756a3785ececc5ccca56",
+      "last_updated": "2026-09-12T04:03:23.577985+00:00"
     },
     "reference/cli-symbols.md": {
       "sha": "c3487f8e393eab74c96e9349900dddbe58542c50",
@@ -1785,7 +1785,7 @@
       "last_updated": "2026-09-10T23:01:53.387038+00:00"
     }
   },
-  "last_updated": "2026-09-11T23:07:03.870415+00:00",
+  "last_updated": "2026-09-12T04:03:25.674924+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
