@@ -129,8 +129,8 @@
       "last_updated": "2026-09-04T16:06:49.371051+00:00"
     },
     "developer-guide/video-gen-provider-plugin.md": {
-      "sha": "4301b6bd261ea5ed17734e48e6ce88f58216cf0b",
-      "last_updated": "2026-08-09T09:10:06.396914+00:00"
+      "sha": "ddb4a8aa31e54c4ab835fc832ac39bb7ad5d3950",
+      "last_updated": "2026-09-12T22:54:40.908812+00:00"
     },
     "developer-guide/web-search-provider-plugin.md": {
       "sha": "2cce42ac6c3ab1f391f0049c2e35999de7750ff0",
@@ -377,8 +377,8 @@
       "last_updated": "2026-09-12T10:25:42.454736+00:00"
     },
     "reference/tools-reference.md": {
-      "sha": "94f8518c5ce20cb81a96278f280218bbe9f1c3b9",
-      "last_updated": "2026-09-10T20:41:13.021956+00:00"
+      "sha": "58296c96402c7877fb7f2e21dc85da4aebbadb88",
+      "last_updated": "2026-09-12T22:54:41.208967+00:00"
     },
     "reference/toolsets-reference.md": {
       "sha": "eb6476e4f732418176cfdf84b7558d50ef9e7709",
@@ -1777,7 +1777,7 @@
       "last_updated": "2026-09-12T10:25:43.933210+00:00"
     }
   },
-  "last_updated": "2026-09-12T20:23:51.406013+00:00",
+  "last_updated": "2026-09-12T22:54:41.418820+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
