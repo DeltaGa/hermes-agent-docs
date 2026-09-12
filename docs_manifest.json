@@ -57,8 +57,8 @@
       "last_updated": "2026-08-09T09:10:01.682725+00:00"
     },
     "developer-guide/cron-internals.md": {
-      "sha": "29b2b42e6c92c58b13211c59199fca122b8ba00c",
-      "last_updated": "2026-09-08T03:59:36.338983+00:00"
+      "sha": "a8bab0a297fdc050cdb4ca938dffb9102812c862",
+      "last_updated": "2026-09-12T10:25:40.595063+00:00"
     },
     "developer-guide/desktop-plugin-sdk.md": {
       "sha": "619923bc177b6f62914d4447c0f2c6812c2813bd",
@@ -169,8 +169,8 @@
       "last_updated": "2026-09-01T23:11:29.143041+00:00"
     },
     "getting-started/updating.md": {
-      "sha": "24c9efde0efc599261e905123c0d21bff2e6f433",
-      "last_updated": "2026-09-07T19:03:37.149429+00:00"
+      "sha": "c843f8491706cac9c98a7d1b979fa66e9acf2d50",
+      "last_updated": "2026-09-12T10:25:40.961592+00:00"
     },
     "guides/_category_.json": {
       "sha": "6d1d2f0b9ec098f749715dd4deebc4d4b753b610",
@@ -341,8 +341,8 @@
       "last_updated": "2026-08-09T09:10:19.218265+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "4fbeef440afe8c4b9b4dab71fc742e545b19861a",
-      "last_updated": "2026-09-10T20:41:12.352380+00:00"
+      "sha": "2fee9daf02b0a167baac52388316bdce1d9b216a",
+      "last_updated": "2026-09-12T10:25:41.349068+00:00"
     },
     "reference/environment-variables.md": {
       "sha": "1296aa2c03061049c8f023feb42d7eef494a7685",
@@ -357,12 +357,12 @@
       "last_updated": "2026-09-07T19:03:39.656778+00:00"
     },
     "reference/model-catalog.md": {
-      "sha": "b26a1399f0c8688c82c5464a72be1efdbfb80b4c",
-      "last_updated": "2026-09-02T16:20:44.163471+00:00"
+      "sha": "740404a5a174c3c39c2897130be18cf1a4fe0fb7",
+      "last_updated": "2026-09-12T10:25:41.711959+00:00"
     },
     "reference/optional-skills-catalog.md": {
-      "sha": "cb7034f20396d3fe0fa02776916f77cbaa6717d5",
-      "last_updated": "2026-09-10T20:41:12.686135+00:00"
+      "sha": "9bd0f303b3b8bac6a10b69342a79b509488ccaec",
+      "last_updated": "2026-09-12T10:25:42.079354+00:00"
     },
     "reference/profile-commands.md": {
       "sha": "47e6bda4480498fe84b81858ab44d569361c8047",
@@ -373,8 +373,8 @@
       "last_updated": "2026-09-11T20:46:56.959716+00:00"
     },
     "reference/slash-commands.md": {
-      "sha": "8e92c56f334954136ce5b0f5c1644cec921e30a6",
-      "last_updated": "2026-09-10T23:01:53.054623+00:00"
+      "sha": "61d5c3af2b9636f6aaba49161610c26fb482489b",
+      "last_updated": "2026-09-12T10:25:42.454736+00:00"
     },
     "reference/tools-reference.md": {
       "sha": "94f8518c5ce20cb81a96278f280218bbe9f1c3b9",
@@ -469,8 +469,8 @@
       "last_updated": "2026-09-07T19:03:42.537261+00:00"
     },
     "user-guide/features/cron.md": {
-      "sha": "c20852630d9ae97e9a6d40f6893b26fba878cf57",
-      "last_updated": "2026-09-10T10:59:25.764912+00:00"
+      "sha": "4ad4bc282751485ad95faa69f2b187f694a7a782",
+      "last_updated": "2026-09-12T10:25:42.826409+00:00"
     },
     "user-guide/features/curator.md": {
       "sha": "94b610d6e8aafffb10e516b0b233f5ab223a17a1",
@@ -585,8 +585,8 @@
       "last_updated": "2026-08-09T09:10:37.754216+00:00"
     },
     "user-guide/features/tool-gateway.md": {
-      "sha": "4dbbc6874399ceb47779e03fa6fe1430bceab860",
-      "last_updated": "2026-09-09T23:06:08.170975+00:00"
+      "sha": "5c5024806ca47afab2293984611a7c90c74ddd1f",
+      "last_updated": "2026-09-12T10:25:43.188478+00:00"
     },
     "user-guide/features/tool-search.md": {
       "sha": "ead7b6c5a764e9f32eaf11ee2ac809ad93b840aa",
@@ -781,8 +781,8 @@
       "last_updated": "2026-08-29T16:32:06.777597+00:00"
     },
     "user-guide/multi-profile-gateways.md": {
-      "sha": "251fdebba4afc90ce96c788373f5232eaf6d1019",
-      "last_updated": "2026-09-12T04:03:25.465446+00:00"
+      "sha": "8856396087dad16dd92912d6a55bdfc52ebef61f",
+      "last_updated": "2026-09-12T10:25:43.564404+00:00"
     },
     "user-guide/profile-distributions.md": {
       "sha": "14bbba02f75c94188185b5d2b194b2359df976bf",
@@ -1780,12 +1780,12 @@
       "sha": "fca04006e468a0155c27400ee4f753aaa8902cae",
       "last_updated": "2026-09-10T20:41:16.797282+00:00"
     },
-    "user-guide/free-tier.md": {
-      "sha": "c03e502406b34d7e0a09fa2c9915aa4eb6494f99",
-      "last_updated": "2026-09-10T23:01:53.387038+00:00"
+    "user-guide/skills/optional/autonomous-ai-agents/autonomous-ai-agents-dynamic-workflow.md": {
+      "sha": "e3584c329289a0d1c553982fc9ab4e8ba6f69c03",
+      "last_updated": "2026-09-12T10:25:43.933210+00:00"
     }
   },
-  "last_updated": "2026-09-12T04:03:25.674924+00:00",
+  "last_updated": "2026-09-12T10:25:44.141729+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
