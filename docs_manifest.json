@@ -361,8 +361,8 @@
       "last_updated": "2026-09-12T10:25:41.711959+00:00"
     },
     "reference/optional-skills-catalog.md": {
-      "sha": "6d348df87c8fce9283eebe9b5e7ed16cb7cd45df",
-      "last_updated": "2026-09-12T15:20:47.924840+00:00"
+      "sha": "eb659ff542c601ab0c094cd5729c81ba56a8abcf",
+      "last_updated": "2026-09-13T04:14:21.557138+00:00"
     },
     "reference/profile-commands.md": {
       "sha": "efa13bf9f209e15f7193c3c7f4e5ecdabbb0c6a3",
@@ -397,8 +397,8 @@
       "last_updated": "2026-09-12T20:23:47.344224+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "003e76d1fa00599e1e979501deb998b9d3aebbbf",
-      "last_updated": "2026-09-11T23:07:02.824802+00:00"
+      "sha": "99367001f45e34e780c1fafbd391e05cb9f91e4a",
+      "last_updated": "2026-09-13T04:14:21.799614+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "c200d46b813b97dfb333ac858af61344be8cb260",
@@ -469,8 +469,8 @@
       "last_updated": "2026-09-07T19:03:42.537261+00:00"
     },
     "user-guide/features/cron.md": {
-      "sha": "a49dc7ec03345552572d90110da0f9d66efeda79",
-      "last_updated": "2026-09-12T20:23:48.464972+00:00"
+      "sha": "84927502b0084311764cb81c35d8c63288f88ebd",
+      "last_updated": "2026-09-13T04:14:22.042034+00:00"
     },
     "user-guide/features/curator.md": {
       "sha": "1827bc7ad65d346ddee10b7372a7b232769b2cb2",
@@ -541,8 +541,8 @@
       "last_updated": "2026-09-09T20:45:50.772412+00:00"
     },
     "user-guide/features/memory.md": {
-      "sha": "0a5a4445c0c58a9db7686675d5622fd6612b57e9",
-      "last_updated": "2026-09-07T19:03:45.529011+00:00"
+      "sha": "bb916ac822d2616571b5f3dce0a10e30bc13a5b4",
+      "last_updated": "2026-09-13T04:14:22.346084+00:00"
     },
     "user-guide/features/mixture-of-agents.md": {
       "sha": "be1de9f70d2a7b1d7db82399521e59c6fbb5f46a",
@@ -781,16 +781,16 @@
       "last_updated": "2026-08-29T16:32:06.777597+00:00"
     },
     "user-guide/multi-profile-gateways.md": {
-      "sha": "b3045093bdcb467f84ad316b8a248f85054ff037",
-      "last_updated": "2026-09-12T20:23:50.886024+00:00"
+      "sha": "855abc38794dd30b781cbd18807b922f3404cb31",
+      "last_updated": "2026-09-13T04:14:22.636256+00:00"
     },
     "user-guide/profile-distributions.md": {
       "sha": "14bbba02f75c94188185b5d2b194b2359df976bf",
       "last_updated": "2026-09-01T14:03:08.671414+00:00"
     },
     "user-guide/profiles.md": {
-      "sha": "e5e084f7a13a8f61ea4adba8df7332ad4b09ce9f",
-      "last_updated": "2026-09-12T20:23:51.196576+00:00"
+      "sha": "e2d5da0d1644eb938ee4476f6ae8e9e64ffd769a",
+      "last_updated": "2026-09-13T04:14:22.916055+00:00"
     },
     "user-guide/secrets/bitwarden.md": {
       "sha": "671fb640fef781aacf418770bc94370bccd1c4b4",
@@ -1775,9 +1775,17 @@
     "user-guide/skills/optional/autonomous-ai-agents/autonomous-ai-agents-dynamic-workflow.md": {
       "sha": "e3584c329289a0d1c553982fc9ab4e8ba6f69c03",
       "last_updated": "2026-09-12T10:25:43.933210+00:00"
+    },
+    "user-guide/skills/optional/creative/creative-mono-color.md": {
+      "sha": "9c7f0c782c720657d456dca017ea7b69c928f9ff",
+      "last_updated": "2026-09-13T04:14:23.198099+00:00"
+    },
+    "user-guide/skills/optional/software-development/software-development-pr-lens.md": {
+      "sha": "a1dffef3bc1d3925015de7d29f8aed716da2b667",
+      "last_updated": "2026-09-13T04:14:23.485135+00:00"
     }
   },
-  "last_updated": "2026-09-12T22:54:41.418820+00:00",
+  "last_updated": "2026-09-13T04:14:23.691174+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
