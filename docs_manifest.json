@@ -9,8 +9,8 @@
       "last_updated": "2026-09-13T20:34:32.447451+00:00"
     },
     "developer-guide/adding-platform-adapters.md": {
-      "sha": "dd7c0a0aa22254617751eecdad0531850d8d25a6",
-      "last_updated": "2026-09-13T15:57:35.239516+00:00"
+      "sha": "fab10a5811fdd1cec8acc9f8c1112d3384f9f4e8",
+      "last_updated": "2026-09-13T23:02:29.038082+00:00"
     },
     "developer-guide/adding-providers.md": {
       "sha": "ba8e276bd5e521e5d46ec9bf8c692c595aa6c17d",
@@ -341,8 +341,8 @@
       "last_updated": "2026-08-09T09:10:19.218265+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "0d80ca7be7b6dd215a478dd3f11f6f876ad53876",
-      "last_updated": "2026-09-13T15:57:43.277472+00:00"
+      "sha": "1eca44ed404ee78aef4a632ec757b2edff4d514f",
+      "last_updated": "2026-09-13T23:02:29.487527+00:00"
     },
     "reference/environment-variables.md": {
       "sha": "4844ab579cc15bd169093228693a148db1a5a126",
@@ -353,8 +353,8 @@
       "last_updated": "2026-09-08T20:58:08.290339+00:00"
     },
     "reference/mcp-config-reference.md": {
-      "sha": "f1e4fbdba8d12ab364f4a0d691bd27c1be6048a3",
-      "last_updated": "2026-09-07T19:03:39.656778+00:00"
+      "sha": "103fcbc2f50b4d220ef80bee9c6a474cb3eebf9a",
+      "last_updated": "2026-09-13T23:02:29.839681+00:00"
     },
     "reference/model-catalog.md": {
       "sha": "740404a5a174c3c39c2897130be18cf1a4fe0fb7",
@@ -525,8 +525,8 @@
       "last_updated": "2026-09-07T19:03:44.642414+00:00"
     },
     "user-guide/features/kanban.md": {
-      "sha": "85913e3bc1c792e9d663b648e802973d21d0a445",
-      "last_updated": "2026-09-13T15:57:45.069653+00:00"
+      "sha": "0cd901f1292949cafb04639474097b7fd95f9735",
+      "last_updated": "2026-09-13T23:02:30.198032+00:00"
     },
     "user-guide/features/lsp.md": {
       "sha": "c34ac0e9c01db906d473971dac08e32790bb9667",
@@ -561,8 +561,8 @@
       "last_updated": "2026-08-09T09:10:35.898321+00:00"
     },
     "user-guide/features/plugins.md": {
-      "sha": "01006ccb765c4c243a6ab73012537f5a70866ff5",
-      "last_updated": "2026-09-13T11:29:16.418564+00:00"
+      "sha": "e0785ccaaac0877a5bb5b7ab9d9ec3bb9a8acc7c",
+      "last_updated": "2026-09-13T23:02:30.553655+00:00"
     },
     "user-guide/features/provider-routing.md": {
       "sha": "3cd2c5c75c9a172705eb2fa46a1672fb0fd74ce9",
@@ -641,8 +641,8 @@
       "last_updated": "2026-08-09T09:10:42.461411+00:00"
     },
     "user-guide/messaging/a2a.md": {
-      "sha": "92d98d19d94086a0d772e07bf6ac2def31a4012d",
-      "last_updated": "2026-08-15T06:47:33.444944+00:00"
+      "sha": "24b716fa56d7d94f77d1ef8c2ad3a4507609a709",
+      "last_updated": "2026-09-13T23:02:30.914454+00:00"
     },
     "user-guide/messaging/bluebubbles.md": {
       "sha": "12efd3823bcde90ad642c0deb565d7314d9eb642",
@@ -677,8 +677,8 @@
       "last_updated": "2026-08-09T09:10:45.350689+00:00"
     },
     "user-guide/messaging/index.md": {
-      "sha": "96446f46e042fdd32ac941453603b357841de9e6",
-      "last_updated": "2026-09-08T20:58:12.474239+00:00"
+      "sha": "ea9a505e80a77de790bf6067873b02368fb94ee2",
+      "last_updated": "2026-09-13T23:02:31.264114+00:00"
     },
     "user-guide/messaging/irc.md": {
       "sha": "4fd21061621fc5e44a64222b7813561b41b28dd9",
@@ -733,8 +733,8 @@
       "last_updated": "2026-08-09T09:10:49.680110+00:00"
     },
     "user-guide/messaging/slack.md": {
-      "sha": "23f026ef772ef5560aeeab56b11376791bc0fff7",
-      "last_updated": "2026-09-13T11:29:17.481856+00:00"
+      "sha": "37f98e8c9c89b11d1a5c5680cf063b2c7925bf47",
+      "last_updated": "2026-09-13T23:02:31.641606+00:00"
     },
     "user-guide/messaging/sms.md": {
       "sha": "8878cc5f0ab5bac6e5741e2954c56248bd08ccc7",
@@ -753,8 +753,8 @@
       "last_updated": "2026-09-10T20:41:16.374040+00:00"
     },
     "user-guide/messaging/webhooks.md": {
-      "sha": "3a2b3aafb5efa8fcc7105a07c41bd95a72a49433",
-      "last_updated": "2026-09-12T20:23:50.178351+00:00"
+      "sha": "71c5774a9e4156f414b31b9a315e875098fdc025",
+      "last_updated": "2026-09-13T23:02:32.012352+00:00"
     },
     "user-guide/messaging/wecom-callback.md": {
       "sha": "f6cf5ed4a473f9555e0b40169fcc5bd57e33ab09",
@@ -781,16 +781,16 @@
       "last_updated": "2026-08-29T16:32:06.777597+00:00"
     },
     "user-guide/multi-profile-gateways.md": {
-      "sha": "855abc38794dd30b781cbd18807b922f3404cb31",
-      "last_updated": "2026-09-13T04:14:22.636256+00:00"
+      "sha": "a3b45cb85de0975fb2473b802414aee43bf08dea",
+      "last_updated": "2026-09-13T23:02:32.375984+00:00"
     },
     "user-guide/profile-distributions.md": {
       "sha": "14bbba02f75c94188185b5d2b194b2359df976bf",
       "last_updated": "2026-09-01T14:03:08.671414+00:00"
     },
     "user-guide/profiles.md": {
-      "sha": "e2d5da0d1644eb938ee4476f6ae8e9e64ffd769a",
-      "last_updated": "2026-09-13T04:14:22.916055+00:00"
+      "sha": "251de3a771f9c00daa07b22f2a96cc09de5409e9",
+      "last_updated": "2026-09-13T23:02:32.729096+00:00"
     },
     "user-guide/secrets/bitwarden.md": {
       "sha": "671fb640fef781aacf418770bc94370bccd1c4b4",
@@ -813,8 +813,8 @@
       "last_updated": "2026-09-13T11:29:17.841224+00:00"
     },
     "user-guide/sessions.md": {
-      "sha": "e17fc4964e6de91704b0c7022780cbfccd84f3f0",
-      "last_updated": "2026-09-13T11:29:18.234251+00:00"
+      "sha": "5b8d70245cb7325c47c98c8982e6e6b90163bc32",
+      "last_updated": "2026-09-13T23:02:33.075356+00:00"
     },
     "user-guide/skills/bundled/apple/apple-apple-notes.md": {
       "sha": "31587b5e9fb3a56733f17d94880ab28e2d7b8d38",
@@ -1849,7 +1849,7 @@
       "last_updated": "2026-09-13T15:57:44.714062+00:00"
     }
   },
-  "last_updated": "2026-09-13T20:34:34.451820+00:00",
+  "last_updated": "2026-09-13T23:02:33.285220+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
