@@ -5,16 +5,16 @@
       "last_updated": "2026-08-09T09:09:58.475640+00:00"
     },
     "developer-guide/acp-internals.md": {
-      "sha": "e739d808711894e590d3c1fce02ff1472050611e",
-      "last_updated": "2026-08-09T09:09:58.722493+00:00"
+      "sha": "a9cd83b748b4cdfd71dc5a0ca6d5d701b5108dbc",
+      "last_updated": "2026-09-13T20:34:32.447451+00:00"
     },
     "developer-guide/adding-platform-adapters.md": {
       "sha": "dd7c0a0aa22254617751eecdad0531850d8d25a6",
       "last_updated": "2026-09-13T15:57:35.239516+00:00"
     },
     "developer-guide/adding-providers.md": {
-      "sha": "5d11383b698f4d8fa2546fec77ada463ffaa147d",
-      "last_updated": "2026-09-04T16:05:58.227565+00:00"
+      "sha": "ba8e276bd5e521e5d46ec9bf8c692c595aa6c17d",
+      "last_updated": "2026-09-13T20:34:32.782058+00:00"
     },
     "developer-guide/adding-tools.md": {
       "sha": "2219d738010c02e2aff9771643e753056bfd79cf",
@@ -65,8 +65,8 @@
       "last_updated": "2026-09-13T15:57:36.886488+00:00"
     },
     "developer-guide/egress-internals.md": {
-      "sha": "50852a8a36d8274b0a62f769e4f88b0fbcf789a7",
-      "last_updated": "2026-09-04T16:06:02.585278+00:00"
+      "sha": "4b0e5eaea6e0631bc687a90cc599a62103d93405",
+      "last_updated": "2026-09-13T20:34:33.171965+00:00"
     },
     "developer-guide/extending-the-cli.md": {
       "sha": "c1a2cafd3039cf5bf189665c07b8ec231951c9a7",
@@ -81,8 +81,8 @@
       "last_updated": "2026-09-02T10:59:52.702564+00:00"
     },
     "developer-guide/memory-provider-plugin.md": {
-      "sha": "00f8fc948e2ad26b86c87189a790b69e52218041",
-      "last_updated": "2026-09-13T15:57:38.958232+00:00"
+      "sha": "86b1f60de534c944bd86e58a78a3cffa2e9da036",
+      "last_updated": "2026-09-13T20:34:33.552012+00:00"
     },
     "developer-guide/model-provider-plugin.md": {
       "sha": "df11914f3fee66aaabcc737ebd005ec30540dd05",
@@ -105,8 +105,8 @@
       "last_updated": "2026-09-09T11:03:08.093085+00:00"
     },
     "developer-guide/provider-runtime.md": {
-      "sha": "5cb620a6d1eb4964f737b2007dcc66305d81ac62",
-      "last_updated": "2026-09-07T19:03:35.945623+00:00"
+      "sha": "203965c83326cc6b6440e2a549e5d3288172ec0a",
+      "last_updated": "2026-09-13T20:34:33.898164+00:00"
     },
     "developer-guide/secret-source-plugin.md": {
       "sha": "b6e5f93da769dae43e00781fde100b3a1ca3f489",
@@ -393,8 +393,8 @@
       "last_updated": "2026-08-17T09:49:01.982399+00:00"
     },
     "user-guide/cli.md": {
-      "sha": "6c4ed6526a1447ac3445b04dc549a3c7ffbd0a46",
-      "last_updated": "2026-09-12T20:23:47.344224+00:00"
+      "sha": "2ca8cf6a700d005c6cd18b08d69b10308189a90c",
+      "last_updated": "2026-09-13T20:34:34.245443+00:00"
     },
     "user-guide/configuration.md": {
       "sha": "52cfa284031887955ecb8ab134084c473864a408",
@@ -1849,7 +1849,7 @@
       "last_updated": "2026-09-13T15:57:44.714062+00:00"
     }
   },
-  "last_updated": "2026-09-13T15:57:46.086937+00:00",
+  "last_updated": "2026-09-13T20:34:34.451820+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
