@@ -9,8 +9,8 @@
       "last_updated": "2026-08-09T09:09:58.722493+00:00"
     },
     "developer-guide/adding-platform-adapters.md": {
-      "sha": "7ae1f1567d94be3f06784c8f0029919052586803",
-      "last_updated": "2026-09-07T19:03:33.622847+00:00"
+      "sha": "dd7c0a0aa22254617751eecdad0531850d8d25a6",
+      "last_updated": "2026-09-13T15:57:35.239516+00:00"
     },
     "developer-guide/adding-providers.md": {
       "sha": "5d11383b698f4d8fa2546fec77ada463ffaa147d",
@@ -57,12 +57,12 @@
       "last_updated": "2026-08-09T09:10:01.682725+00:00"
     },
     "developer-guide/cron-internals.md": {
-      "sha": "a8bab0a297fdc050cdb4ca938dffb9102812c862",
-      "last_updated": "2026-09-12T10:25:40.595063+00:00"
+      "sha": "ca39feb6bc71172f9a68360df34deba6dbb19507",
+      "last_updated": "2026-09-13T15:57:36.539038+00:00"
     },
     "developer-guide/desktop-plugin-sdk.md": {
-      "sha": "619923bc177b6f62914d4447c0f2c6812c2813bd",
-      "last_updated": "2026-09-10T20:41:11.976966+00:00"
+      "sha": "3cf661d3298e7f0dbf11d808387e7c937a524e64",
+      "last_updated": "2026-09-13T15:57:36.886488+00:00"
     },
     "developer-guide/egress-internals.md": {
       "sha": "50852a8a36d8274b0a62f769e4f88b0fbcf789a7",
@@ -73,16 +73,16 @@
       "last_updated": "2026-09-04T16:06:03.058364+00:00"
     },
     "developer-guide/gateway-internals.md": {
-      "sha": "5b92103db34bddb00aa632b5a2b67bea5062cdfd",
-      "last_updated": "2026-09-07T23:21:56.656069+00:00"
+      "sha": "2e5361b1fbd319b03f846e0332b0c4e830c77edd",
+      "last_updated": "2026-09-13T15:57:37.440872+00:00"
     },
     "developer-guide/image-gen-provider-plugin.md": {
       "sha": "a42aa3c97459ba07d622d9659faab085f854ca70",
       "last_updated": "2026-09-02T10:59:52.702564+00:00"
     },
     "developer-guide/memory-provider-plugin.md": {
-      "sha": "bda90a9decd3a37e89e912c6ee66c0753ddf1b95",
-      "last_updated": "2026-09-06T22:49:23.541343+00:00"
+      "sha": "00f8fc948e2ad26b86c87189a790b69e52218041",
+      "last_updated": "2026-09-13T15:57:38.958232+00:00"
     },
     "developer-guide/model-provider-plugin.md": {
       "sha": "df11914f3fee66aaabcc737ebd005ec30540dd05",
@@ -97,8 +97,8 @@
       "last_updated": "2026-09-06T22:49:23.887802+00:00"
     },
     "developer-guide/programmatic-integration.md": {
-      "sha": "050ae6ff4a9c35f1fbbf3668d033c8fd63eaf6f4",
-      "last_updated": "2026-09-08T10:58:18.216930+00:00"
+      "sha": "449c009d79aad6b5cc9101b6f50f4f9d9d16bffc",
+      "last_updated": "2026-09-13T15:57:41.047392+00:00"
     },
     "developer-guide/prompt-assembly.md": {
       "sha": "4ab98f582c95ea3839b8bb3f8a00ca57f413ab68",
@@ -169,8 +169,8 @@
       "last_updated": "2026-09-01T23:11:29.143041+00:00"
     },
     "getting-started/updating.md": {
-      "sha": "c843f8491706cac9c98a7d1b979fa66e9acf2d50",
-      "last_updated": "2026-09-12T10:25:40.961592+00:00"
+      "sha": "85ef1a7de48d0278ec6b8ca2790b6c929c65b6a9",
+      "last_updated": "2026-09-13T15:57:42.897769+00:00"
     },
     "guides/_category_.json": {
       "sha": "6d1d2f0b9ec098f749715dd4deebc4d4b753b610",
@@ -341,8 +341,8 @@
       "last_updated": "2026-08-09T09:10:19.218265+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "dbef435e63c4d21c1c316dd740e729d5f1d7d2ce",
-      "last_updated": "2026-09-13T11:29:13.427001+00:00"
+      "sha": "0d80ca7be7b6dd215a478dd3f11f6f876ad53876",
+      "last_updated": "2026-09-13T15:57:43.277472+00:00"
     },
     "reference/environment-variables.md": {
       "sha": "4844ab579cc15bd169093228693a148db1a5a126",
@@ -405,8 +405,8 @@
       "last_updated": "2026-09-10T20:41:13.776094+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "14e7c7f456e5e24f4aaa23da054b60a33e0567f2",
-      "last_updated": "2026-09-10T20:41:14.146740+00:00"
+      "sha": "bee47e4c6e20e93ef7e292ffb7b3efd65c8f9f66",
+      "last_updated": "2026-09-13T15:57:43.630093+00:00"
     },
     "user-guide/docker.md": {
       "sha": "11ad58a2371e60ab23ff75ac3fffa579d7efb83e",
@@ -453,8 +453,8 @@
       "last_updated": "2026-08-09T09:10:26.981639+00:00"
     },
     "user-guide/features/computer-use.md": {
-      "sha": "1148e2949a008d16f4d673408b3ce10fb0dc6c09",
-      "last_updated": "2026-09-03T10:58:48.820085+00:00"
+      "sha": "514f5b3aee45c18ef041d88bb945b64dfeab58b8",
+      "last_updated": "2026-09-13T15:57:44.340102+00:00"
     },
     "user-guide/features/context-files.md": {
       "sha": "2906c4f780bbcc2920a691bb9e6d1a73756cf5ec",
@@ -525,16 +525,16 @@
       "last_updated": "2026-09-07T19:03:44.642414+00:00"
     },
     "user-guide/features/kanban.md": {
-      "sha": "f6bc009e4585d5db134050542f4a4167a83b4621",
-      "last_updated": "2026-09-12T20:23:48.758575+00:00"
+      "sha": "85913e3bc1c792e9d663b648e802973d21d0a445",
+      "last_updated": "2026-09-13T15:57:45.069653+00:00"
     },
     "user-guide/features/lsp.md": {
       "sha": "c34ac0e9c01db906d473971dac08e32790bb9667",
       "last_updated": "2026-09-03T10:58:49.216123+00:00"
     },
     "user-guide/features/mcp.md": {
-      "sha": "150753f1fa520e490bbb9f42be00a1199a543f1e",
-      "last_updated": "2026-09-08T20:58:11.707499+00:00"
+      "sha": "e33d42b98bf81dabf995d14675dfed60b7aac3d4",
+      "last_updated": "2026-09-13T15:57:45.478539+00:00"
     },
     "user-guide/features/memory-providers.md": {
       "sha": "bbd5451519affab17bbd4d3499f89be7ba360849",
@@ -657,8 +657,8 @@
       "last_updated": "2026-08-09T09:10:43.784624+00:00"
     },
     "user-guide/messaging/discord.md": {
-      "sha": "dfad0cc25b560dc75c902d8c1e304ed89602e03e",
-      "last_updated": "2026-09-10T20:41:16.012231+00:00"
+      "sha": "bcf8de0faf3d63563acfb37002d1a9a62b898399",
+      "last_updated": "2026-09-13T15:57:45.879285+00:00"
     },
     "user-guide/messaging/email.md": {
       "sha": "71f932d6e927131e66887698730c1e61f6440ecb",
@@ -1791,9 +1791,65 @@
     "user-guide/skills/optional/creative/creative-system-atlas.md": {
       "sha": "27f08b0f2b99e867a7ceedb4fc1d089da82e9e6b",
       "last_updated": "2026-09-13T11:29:18.949680+00:00"
+    },
+    "developer-guide/billing-lifecycle.md": {
+      "sha": "4ac7e406fe986e69632e9c073a3e2da52df2c7ee",
+      "last_updated": "2026-09-13T15:57:35.597819+00:00"
+    },
+    "developer-guide/chronos-managed-cron-contract.md": {
+      "sha": "fe331fea11da5886f8bc853a22203e18e348dbca",
+      "last_updated": "2026-09-13T15:57:35.960842+00:00"
+    },
+    "developer-guide/gateway-monitoring.md": {
+      "sha": "dbea45a939c2bbca81057fa80e4eb2fb2428e276",
+      "last_updated": "2026-09-13T15:57:37.987555+00:00"
+    },
+    "developer-guide/gateway-session-lifecycle.md": {
+      "sha": "69cefef54427368ba4d1e94ddee5f583e8f40b99",
+      "last_updated": "2026-09-13T15:57:38.601215+00:00"
+    },
+    "developer-guide/micro-compaction.md": {
+      "sha": "27a332b687b99975a6258c1b7fb284afd0b387ff",
+      "last_updated": "2026-09-13T15:57:39.314415+00:00"
+    },
+    "developer-guide/middleware.md": {
+      "sha": "ad1764f904c30289900e3224164272bf8bfea64e",
+      "last_updated": "2026-09-13T15:57:39.711588+00:00"
+    },
+    "developer-guide/multiplexing-gateway.md": {
+      "sha": "7f9ac7db946b0f3fac3762335286ab36fd14120b",
+      "last_updated": "2026-09-13T15:57:40.073876+00:00"
+    },
+    "developer-guide/observer-hooks.md": {
+      "sha": "30b912dda139623f0568121ef2485721ec191632",
+      "last_updated": "2026-09-13T15:57:40.454833+00:00"
+    },
+    "developer-guide/relay-connector-contract.md": {
+      "sha": "5f8a3f6d75e3fe721a6716d1e4c4a9a99e50a7b5",
+      "last_updated": "2026-09-13T15:57:41.414619+00:00"
+    },
+    "developer-guide/relay-shared-metrics.md": {
+      "sha": "2a8b7de2a847a6b4fd18701696d60644b78fa52d",
+      "last_updated": "2026-09-13T15:57:41.784998+00:00"
+    },
+    "developer-guide/state-db-recovery.md": {
+      "sha": "7a7af15bd6c39fe06f060bf91a68a7fecf4236cf",
+      "last_updated": "2026-09-13T15:57:42.142983+00:00"
+    },
+    "developer-guide/streaming-tts.md": {
+      "sha": "72981dff2771eb103c4c82bc8026b847e9361cd0",
+      "last_updated": "2026-09-13T15:57:42.487089+00:00"
+    },
+    "user-guide/egress/network-isolation.md": {
+      "sha": "0c0049974b87caf9a19a6aef1e3c25235b124b3c",
+      "last_updated": "2026-09-13T15:57:44.009065+00:00"
+    },
+    "user-guide/features/kanban-multi-gateway.md": {
+      "sha": "8ff65d82220fc27ac074b8365b232efdf9a78fff",
+      "last_updated": "2026-09-13T15:57:44.714062+00:00"
     }
   },
-  "last_updated": "2026-09-13T11:29:19.157798+00:00",
+  "last_updated": "2026-09-13T15:57:46.086937+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
