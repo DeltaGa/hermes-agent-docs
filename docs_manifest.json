@@ -469,8 +469,8 @@
       "last_updated": "2026-09-13T11:29:15.292977+00:00"
     },
     "user-guide/features/cron.md": {
-      "sha": "f53001f17e04c5fc5d9dcc045776ceda2f3b4769",
-      "last_updated": "2026-09-13T11:29:15.663571+00:00"
+      "sha": "b9634de6583f9a20b53f15d9dc527556adb9a5c9",
+      "last_updated": "2026-09-14T12:21:58.538477+00:00"
     },
     "user-guide/features/curator.md": {
       "sha": "1827bc7ad65d346ddee10b7372a7b232769b2cb2",
@@ -753,8 +753,8 @@
       "last_updated": "2026-09-10T20:41:16.374040+00:00"
     },
     "user-guide/messaging/webhooks.md": {
-      "sha": "71c5774a9e4156f414b31b9a315e875098fdc025",
-      "last_updated": "2026-09-13T23:02:32.012352+00:00"
+      "sha": "ca258573edb8b276adf66f69022cc571dc6499bf",
+      "last_updated": "2026-09-14T12:21:58.912756+00:00"
     },
     "user-guide/messaging/wecom-callback.md": {
       "sha": "f6cf5ed4a473f9555e0b40169fcc5bd57e33ab09",
@@ -1857,7 +1857,7 @@
       "last_updated": "2026-09-14T04:21:00.573455+00:00"
     }
   },
-  "last_updated": "2026-09-14T04:21:00.777896+00:00",
+  "last_updated": "2026-09-14T12:21:59.122362+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
