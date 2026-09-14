@@ -145,8 +145,8 @@
       "last_updated": "2026-08-09T09:10:07.140471+00:00"
     },
     "getting-started/installation.md": {
-      "sha": "352f88aa2c80d9bf06acdd077f349572aee5ff23",
-      "last_updated": "2026-09-07T12:06:14.078814+00:00"
+      "sha": "91e6205623a6fb75ff540a98867ae5fc7186f595",
+      "last_updated": "2026-09-14T23:46:33.761688+00:00"
     },
     "getting-started/learning-path.md": {
       "sha": "0f6e9d85101cafaa5d88f09e56b6ebc1b10bac70",
@@ -377,8 +377,8 @@
       "last_updated": "2026-09-14T04:20:56.525749+00:00"
     },
     "reference/tools-reference.md": {
-      "sha": "02eb7ccc6f1ff739e27d8a76f6dedec31158736b",
-      "last_updated": "2026-09-14T19:46:54.334391+00:00"
+      "sha": "49cff5f2a0b392eaa8a9f5e068e9ede3c61233cc",
+      "last_updated": "2026-09-14T23:46:34.142398+00:00"
     },
     "reference/toolsets-reference.md": {
       "sha": "ba3051dac417f51fa1c09026541a1fd93c217370",
@@ -397,16 +397,16 @@
       "last_updated": "2026-09-14T04:20:57.660394+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "b73afaadd510acca15b31da4ad13e2eb03655b95",
-      "last_updated": "2026-09-14T19:46:55.161475+00:00"
+      "sha": "fc70c52a3d8018feed0847d79a421a62b8346528",
+      "last_updated": "2026-09-14T23:46:34.578209+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "e2f501c8f0d5202cd203d64fae101162a630dc04",
       "last_updated": "2026-09-14T04:20:58.015047+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "920ebed25e9c142b390424afb7c1af0ecc2398a6",
-      "last_updated": "2026-09-14T04:20:58.331830+00:00"
+      "sha": "d360173c6698c791728fef9e75e6b4b70fef6e2a",
+      "last_updated": "2026-09-14T23:46:34.991412+00:00"
     },
     "user-guide/docker.md": {
       "sha": "11ad58a2371e60ab23ff75ac3fffa579d7efb83e",
@@ -525,8 +525,8 @@
       "last_updated": "2026-09-07T19:03:44.642414+00:00"
     },
     "user-guide/features/kanban.md": {
-      "sha": "0cd901f1292949cafb04639474097b7fd95f9735",
-      "last_updated": "2026-09-13T23:02:30.198032+00:00"
+      "sha": "7ac47ba25fcec240fa4ca16bb06b30bd4d9d9f7c",
+      "last_updated": "2026-09-14T23:46:35.393318+00:00"
     },
     "user-guide/features/lsp.md": {
       "sha": "c34ac0e9c01db906d473971dac08e32790bb9667",
@@ -781,8 +781,8 @@
       "last_updated": "2026-08-29T16:32:06.777597+00:00"
     },
     "user-guide/multi-profile-gateways.md": {
-      "sha": "a3b45cb85de0975fb2473b802414aee43bf08dea",
-      "last_updated": "2026-09-13T23:02:32.375984+00:00"
+      "sha": "07bf441f53e4ea94f46b5245d79b0f3f750ec199",
+      "last_updated": "2026-09-14T23:46:35.810219+00:00"
     },
     "user-guide/profile-distributions.md": {
       "sha": "14bbba02f75c94188185b5d2b194b2359df976bf",
@@ -1857,7 +1857,7 @@
       "last_updated": "2026-09-14T04:21:00.573455+00:00"
     }
   },
-  "last_updated": "2026-09-14T19:46:58.059741+00:00",
+  "last_updated": "2026-09-14T23:46:36.019627+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
