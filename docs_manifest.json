@@ -73,8 +73,8 @@
       "last_updated": "2026-09-04T16:06:03.058364+00:00"
     },
     "developer-guide/gateway-internals.md": {
-      "sha": "066d86a4dc5867fc3630fe7d3b0cc36c9162338a",
-      "last_updated": "2026-09-15T21:05:11.308722+00:00"
+      "sha": "11d98af4e6f6787c0eae358c0f5f90c321f304d9",
+      "last_updated": "2026-09-16T21:07:08.830285+00:00"
     },
     "developer-guide/image-gen-provider-plugin.md": {
       "sha": "ea4dc7051607aab902e54f3805c6ee507aad75ad",
@@ -405,8 +405,8 @@
       "last_updated": "2026-09-14T04:20:58.015047+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "7dbac9e84a7b3db0cc22edfd5af34a2a76ddce24",
-      "last_updated": "2026-09-16T16:34:05.219057+00:00"
+      "sha": "2da396f7b2c40b6f21655551d0afc3f5afb71733",
+      "last_updated": "2026-09-16T21:07:09.593733+00:00"
     },
     "user-guide/docker.md": {
       "sha": "773e985c01eaafb83d29d62bd5556c64661d8eec",
@@ -561,16 +561,16 @@
       "last_updated": "2026-08-09T09:10:35.898321+00:00"
     },
     "user-guide/features/plugins.md": {
-      "sha": "e0785ccaaac0877a5bb5b7ab9d9ec3bb9a8acc7c",
-      "last_updated": "2026-09-16T16:34:05.760721+00:00"
+      "sha": "f78eb980486cec03c6105b91416e8dabe76baefd",
+      "last_updated": "2026-09-16T21:07:10.354524+00:00"
     },
     "user-guide/features/provider-routing.md": {
       "sha": "3cd2c5c75c9a172705eb2fa46a1672fb0fd74ce9",
       "last_updated": "2026-09-06T10:39:37.237123+00:00"
     },
     "user-guide/features/skills.md": {
-      "sha": "34a6d7c47b192e738ffbfa6ee84ee5c07cb0b03f",
-      "last_updated": "2026-09-16T16:34:06.080623+00:00"
+      "sha": "ec07b8ec24d5698ed63367bf7112554eb33460a7",
+      "last_updated": "2026-09-16T21:07:10.709588+00:00"
     },
     "user-guide/features/skins.md": {
       "sha": "d4841eb699de24be079d97b49df5cde9db26b723",
@@ -1761,8 +1761,8 @@
       "last_updated": "2026-09-08T20:58:16.312140+00:00"
     },
     "user-guide/features/plugin-catalog.md": {
-      "sha": "ddff54c4320c30a05db2f1ec5bd3ced747021b3e",
-      "last_updated": "2026-09-16T16:34:05.525799+00:00"
+      "sha": "4322886bce2a57fb60bfa3e2a9d862eb97d58d99",
+      "last_updated": "2026-09-16T21:07:09.985720+00:00"
     },
     "user-guide/features/credential-vault.md": {
       "sha": "dc3abb33ea7cf77667cf6e739004b09a07aad7db",
@@ -1867,9 +1867,13 @@
     "user-guide/skills/optional/productivity/productivity-live-dashboard.md": {
       "sha": "978f70e5c5e5ea3694b6439f83b1cedf407dd429",
       "last_updated": "2026-09-15T11:29:02.486828+00:00"
+    },
+    "developer-guide/onboarding-recommendations.md": {
+      "sha": "a1942c69a56a10cf36931e50ee7442f028b934e4",
+      "last_updated": "2026-09-16T21:07:09.212251+00:00"
     }
   },
-  "last_updated": "2026-09-16T16:34:06.636256+00:00",
+  "last_updated": "2026-09-16T21:07:10.915074+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
