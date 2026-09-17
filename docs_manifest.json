@@ -397,16 +397,16 @@
       "last_updated": "2026-09-17T04:23:44.460221+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "5eeabdfc3329331ac783808308950f1b3aaeac03",
-      "last_updated": "2026-09-17T16:39:39.197087+00:00"
+      "sha": "1469ee645dedcc2a233f1f5503c8f9660a1aa2be",
+      "last_updated": "2026-09-17T21:09:32.903142+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "e2f501c8f0d5202cd203d64fae101162a630dc04",
       "last_updated": "2026-09-14T04:20:58.015047+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "9b479db32575b1278845001a0a0f65d64f3b6b38",
-      "last_updated": "2026-09-17T16:39:39.550605+00:00"
+      "sha": "f02f792ba43a3ced3198d45958c026ab7b0b1814",
+      "last_updated": "2026-09-17T21:09:33.211924+00:00"
     },
     "user-guide/docker.md": {
       "sha": "773e985c01eaafb83d29d62bd5556c64661d8eec",
@@ -657,8 +657,8 @@
       "last_updated": "2026-08-09T09:10:43.784624+00:00"
     },
     "user-guide/messaging/discord.md": {
-      "sha": "a62e2a7a1bfe30344d1e0e56d0d378db52bf5c9a",
-      "last_updated": "2026-09-15T11:28:52.125081+00:00"
+      "sha": "0376d9b34ca05e67c0d2ef15e0b7ac254e5714c3",
+      "last_updated": "2026-09-17T21:09:33.520036+00:00"
     },
     "user-guide/messaging/email.md": {
       "sha": "71f932d6e927131e66887698730c1e61f6440ecb",
@@ -677,8 +677,8 @@
       "last_updated": "2026-08-09T09:10:45.350689+00:00"
     },
     "user-guide/messaging/index.md": {
-      "sha": "d65eae3ae7aecc922a35311242bb83e2a930fb91",
-      "last_updated": "2026-09-17T04:23:52.312813+00:00"
+      "sha": "a9b3594c3ba74c682a10cf0b76dcf6bb0e6bf991",
+      "last_updated": "2026-09-17T21:09:33.877998+00:00"
     },
     "user-guide/messaging/irc.md": {
       "sha": "4fd21061621fc5e44a64222b7813561b41b28dd9",
@@ -1873,7 +1873,7 @@
       "last_updated": "2026-09-16T21:07:09.212251+00:00"
     }
   },
-  "last_updated": "2026-09-17T16:39:42.843981+00:00",
+  "last_updated": "2026-09-17T21:09:34.086016+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
