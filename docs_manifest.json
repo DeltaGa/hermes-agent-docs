@@ -41,8 +41,8 @@
       "last_updated": "2026-09-04T16:06:01.194698+00:00"
     },
     "developer-guide/context-compression-and-caching.md": {
-      "sha": "1d006bf4b8913c35d41f4bd9dbfed1bdd9725575",
-      "last_updated": "2026-09-17T04:23:39.876704+00:00"
+      "sha": "6150d5e5227a02fdea3cd658a9ae8d88fb543e7b",
+      "last_updated": "2026-09-17T16:39:35.057881+00:00"
     },
     "developer-guide/context-engine-plugin.md": {
       "sha": "6d33638ddbe0dbab2ec3c443b5bdc5c6e40a3c15",
@@ -85,8 +85,8 @@
       "last_updated": "2026-09-16T11:14:11.636455+00:00"
     },
     "developer-guide/model-provider-plugin.md": {
-      "sha": "df11914f3fee66aaabcc737ebd005ec30540dd05",
-      "last_updated": "2026-09-02T20:51:11.445735+00:00"
+      "sha": "3b97c05798b4935d22c244af12a9b41390d9fe82",
+      "last_updated": "2026-09-17T16:39:35.768502+00:00"
     },
     "developer-guide/plugin-llm-access.md": {
       "sha": "f6eeee09cdf25333823b87287697bea528ae079a",
@@ -97,8 +97,8 @@
       "last_updated": "2026-09-17T11:22:14.712944+00:00"
     },
     "developer-guide/programmatic-integration.md": {
-      "sha": "1444270e205d47f84e6d02801c3b61365c645998",
-      "last_updated": "2026-09-17T04:23:40.483306+00:00"
+      "sha": "505cf5accc8cb628d3f9620dae03ce645e2c867c",
+      "last_updated": "2026-09-17T16:39:36.137913+00:00"
     },
     "developer-guide/prompt-assembly.md": {
       "sha": "a7482ad24e6658ef9d89cf3012e7c1f2fc554b27",
@@ -169,8 +169,8 @@
       "last_updated": "2026-09-01T23:11:29.143041+00:00"
     },
     "getting-started/updating.md": {
-      "sha": "82ee38d05cb2b6d955ce29d76e2ae235b326b053",
-      "last_updated": "2026-09-17T11:22:15.292679+00:00"
+      "sha": "98dd3db5c71f95000f57a3437cf7e828c4a112c8",
+      "last_updated": "2026-09-17T16:39:36.489316+00:00"
     },
     "guides/_category_.json": {
       "sha": "6d1d2f0b9ec098f749715dd4deebc4d4b753b610",
@@ -329,8 +329,8 @@
       "last_updated": "2026-09-02T20:51:12.010358+00:00"
     },
     "integrations/providers.md": {
-      "sha": "18d7fdca43fa561c610e5cbf81c1199b7bf2b763",
-      "last_updated": "2026-09-17T04:23:42.031131+00:00"
+      "sha": "0fc23c8a9292329cc20803f0add9262ca4b7fcc7",
+      "last_updated": "2026-09-17T16:39:36.893247+00:00"
     },
     "reference/_category_.json": {
       "sha": "8150d97ad57c8f434b72e9cc65a58abd091787c6",
@@ -341,20 +341,20 @@
       "last_updated": "2026-08-09T09:10:19.218265+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "acd67424ded9cd76caac798283b28cc4c0412a9d",
-      "last_updated": "2026-09-17T04:23:42.327408+00:00"
+      "sha": "381bf81fd8b1dc6cdc3261224c768c5e402b4338",
+      "last_updated": "2026-09-17T16:39:37.262914+00:00"
     },
     "reference/environment-variables.md": {
-      "sha": "8d2977f42bb34ec4625c85be281cb1d31566ed8e",
-      "last_updated": "2026-09-17T04:23:42.660960+00:00"
+      "sha": "b616f3fdd39b1eb670fc3cd02ad530f92d90721c",
+      "last_updated": "2026-09-17T16:39:37.695558+00:00"
     },
     "reference/faq.md": {
       "sha": "b8f3caf82acc4e19de068f34aac2cdb9c2b9c663",
       "last_updated": "2026-09-17T04:23:42.956812+00:00"
     },
     "reference/mcp-config-reference.md": {
-      "sha": "5b9e2e5bfa86a6a8dee3a6fa26f3b07675584753",
-      "last_updated": "2026-09-16T04:17:13.722540+00:00"
+      "sha": "ad3339e3d248c352791933af45d13fdb5586b217",
+      "last_updated": "2026-09-17T16:39:38.056467+00:00"
     },
     "reference/model-catalog.md": {
       "sha": "740404a5a174c3c39c2897130be18cf1a4fe0fb7",
@@ -377,8 +377,8 @@
       "last_updated": "2026-09-17T04:23:43.552109+00:00"
     },
     "reference/tools-reference.md": {
-      "sha": "079d51902e283d19b3f8880a8c45a6e69fa0815a",
-      "last_updated": "2026-09-17T04:23:43.867243+00:00"
+      "sha": "96a6cc2a43995e8e12599e48e4cdb31fa5f1ca28",
+      "last_updated": "2026-09-17T16:39:38.428280+00:00"
     },
     "reference/toolsets-reference.md": {
       "sha": "ba3051dac417f51fa1c09026541a1fd93c217370",
@@ -397,16 +397,16 @@
       "last_updated": "2026-09-17T04:23:44.460221+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "1a25dc3129b98217513d3a691359dd9607b2c926",
-      "last_updated": "2026-09-17T04:23:44.793167+00:00"
+      "sha": "5eeabdfc3329331ac783808308950f1b3aaeac03",
+      "last_updated": "2026-09-17T16:39:39.197087+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "e2f501c8f0d5202cd203d64fae101162a630dc04",
       "last_updated": "2026-09-14T04:20:58.015047+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "e65c2772a1b8d477970d13804257e56fb55cd3be",
-      "last_updated": "2026-09-17T04:23:45.101005+00:00"
+      "sha": "9b479db32575b1278845001a0a0f65d64f3b6b38",
+      "last_updated": "2026-09-17T16:39:39.550605+00:00"
     },
     "user-guide/docker.md": {
       "sha": "773e985c01eaafb83d29d62bd5556c64661d8eec",
@@ -465,12 +465,12 @@
       "last_updated": "2026-08-09T09:10:27.953058+00:00"
     },
     "user-guide/features/credential-pools.md": {
-      "sha": "f8999acc0b01733cdba72d80dc57f7d34b41d62a",
-      "last_updated": "2026-09-17T04:23:46.790201+00:00"
+      "sha": "c454e120bee420cc3cb71f755850adfcc6cdf67a",
+      "last_updated": "2026-09-17T16:39:39.907803+00:00"
     },
     "user-guide/features/cron.md": {
-      "sha": "b6639dc7a694a58a9b56364090632c97ed219319",
-      "last_updated": "2026-09-17T04:23:47.109082+00:00"
+      "sha": "b5fc4af89bf6317dfbcf21640776fcb22da62a8d",
+      "last_updated": "2026-09-17T16:39:40.313070+00:00"
     },
     "user-guide/features/curator.md": {
       "sha": "3bc5de4d66cd0e4b422b513a2b9bffa1a5e10839",
@@ -525,8 +525,8 @@
       "last_updated": "2026-09-15T11:28:44.577116+00:00"
     },
     "user-guide/features/kanban.md": {
-      "sha": "8037c3acb04da48457a125536edb22e2e4247c19",
-      "last_updated": "2026-09-17T04:23:49.579859+00:00"
+      "sha": "203a194dda8cd55ebc53c9df5064a68d4665aa4c",
+      "last_updated": "2026-09-17T16:39:40.705110+00:00"
     },
     "user-guide/features/lsp.md": {
       "sha": "c34ac0e9c01db906d473971dac08e32790bb9667",
@@ -545,8 +545,8 @@
       "last_updated": "2026-09-15T16:40:43.518521+00:00"
     },
     "user-guide/features/mixture-of-agents.md": {
-      "sha": "25b73724a162118ad72d257c8948233775ac83b5",
-      "last_updated": "2026-09-17T04:23:50.492663+00:00"
+      "sha": "72ae9e465b0bb1caf65346a3c82c82d49cecac18",
+      "last_updated": "2026-09-17T16:39:41.097362+00:00"
     },
     "user-guide/features/overview.md": {
       "sha": "094b29622604f2c96def3f563525182c67330d1e",
@@ -569,8 +569,8 @@
       "last_updated": "2026-09-06T10:39:37.237123+00:00"
     },
     "user-guide/features/skills.md": {
-      "sha": "fd4fc32b569215cf4f18561765177d2bbc880988",
-      "last_updated": "2026-09-17T04:23:51.397944+00:00"
+      "sha": "d8f017bdb492abec85c9a8bde0562f4acdb6a15d",
+      "last_updated": "2026-09-17T16:39:41.486907+00:00"
     },
     "user-guide/features/skins.md": {
       "sha": "d4841eb699de24be079d97b49df5cde9db26b723",
@@ -601,8 +601,8 @@
       "last_updated": "2026-09-15T16:40:43.928728+00:00"
     },
     "user-guide/features/vision.md": {
-      "sha": "628c7ab69e93ac8932034f005a60c18c09a0aff9",
-      "last_updated": "2026-09-11T20:46:57.339248+00:00"
+      "sha": "f8b4c38d3a68e8edb928ea718af9bdb385234965",
+      "last_updated": "2026-09-17T16:39:41.859855+00:00"
     },
     "user-guide/features/voice-mode.md": {
       "sha": "03e7572ea583ad27e5d2d0179a1b7e768c32671d",
@@ -749,8 +749,8 @@
       "last_updated": "2026-08-11T02:05:53.119749+00:00"
     },
     "user-guide/messaging/telegram.md": {
-      "sha": "ea7744e1155871d938812aac2d857157fe50813e",
-      "last_updated": "2026-09-15T11:28:52.501469+00:00"
+      "sha": "e15fb677e3a3d7bad3206d73c896418167838957",
+      "last_updated": "2026-09-17T16:39:42.208275+00:00"
     },
     "user-guide/messaging/webhooks.md": {
       "sha": "f4bbd1affb5c75f894c9f16a2e46c530a8b51db2",
@@ -813,8 +813,8 @@
       "last_updated": "2026-09-17T04:23:53.872229+00:00"
     },
     "user-guide/sessions.md": {
-      "sha": "2da82c6ff2b179ca56712521af55c4e4f76589a4",
-      "last_updated": "2026-09-17T04:23:54.165961+00:00"
+      "sha": "44268426724055b89b6b607064726f6796a374df",
+      "last_updated": "2026-09-17T16:39:42.634503+00:00"
     },
     "user-guide/skills/bundled/apple/apple-apple-notes.md": {
       "sha": "31587b5e9fb3a56733f17d94880ab28e2d7b8d38",
@@ -1621,8 +1621,8 @@
       "last_updated": "2026-08-30T16:26:49.752494+00:00"
     },
     "user-guide/bot-mode.md": {
-      "sha": "add334f953a1143de89465488b672c2a1b4f5dc7",
-      "last_updated": "2026-09-17T11:22:15.576146+00:00"
+      "sha": "ac6b8d2ef40925ed9620f70daf020b80591c9532",
+      "last_updated": "2026-09-17T16:39:38.801881+00:00"
     },
     "reference/cli-symbols.md": {
       "sha": "76d0fcd513551ad62992ffc06f63494b1ad2bed9",
@@ -1813,8 +1813,8 @@
       "last_updated": "2026-09-13T15:57:39.314415+00:00"
     },
     "developer-guide/middleware.md": {
-      "sha": "ad1764f904c30289900e3224164272bf8bfea64e",
-      "last_updated": "2026-09-13T15:57:39.711588+00:00"
+      "sha": "5469af351cf969e91decac0b377e3cdf142d4804",
+      "last_updated": "2026-09-17T16:39:35.413431+00:00"
     },
     "developer-guide/multiplexing-gateway.md": {
       "sha": "613f4891f9aa7810ffe9e075206718534fc9c9f6",
@@ -1873,7 +1873,7 @@
       "last_updated": "2026-09-16T21:07:09.212251+00:00"
     }
   },
-  "last_updated": "2026-09-17T11:22:16.085499+00:00",
+  "last_updated": "2026-09-17T16:39:42.843981+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
