@@ -329,8 +329,8 @@
       "last_updated": "2026-09-02T20:51:12.010358+00:00"
     },
     "integrations/providers.md": {
-      "sha": "0fc23c8a9292329cc20803f0add9262ca4b7fcc7",
-      "last_updated": "2026-09-17T16:39:36.893247+00:00"
+      "sha": "4a406a501874fdd30432fca66b377d3b242e9879",
+      "last_updated": "2026-09-18T10:56:12.437407+00:00"
     },
     "reference/_category_.json": {
       "sha": "8150d97ad57c8f434b72e9cc65a58abd091787c6",
@@ -341,8 +341,8 @@
       "last_updated": "2026-08-09T09:10:19.218265+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "381bf81fd8b1dc6cdc3261224c768c5e402b4338",
-      "last_updated": "2026-09-17T16:39:37.262914+00:00"
+      "sha": "19a6456bfb89a00d0a1b8564fe45ab0a6b9717d7",
+      "last_updated": "2026-09-18T10:56:12.856112+00:00"
     },
     "reference/environment-variables.md": {
       "sha": "b616f3fdd39b1eb670fc3cd02ad530f92d90721c",
@@ -397,8 +397,8 @@
       "last_updated": "2026-09-17T04:23:44.460221+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "1469ee645dedcc2a233f1f5503c8f9660a1aa2be",
-      "last_updated": "2026-09-17T21:09:32.903142+00:00"
+      "sha": "2daec8ce377e27a0d4a388a91a387e2eabca8ee2",
+      "last_updated": "2026-09-18T10:56:13.251718+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "e2f501c8f0d5202cd203d64fae101162a630dc04",
@@ -493,8 +493,8 @@
       "last_updated": "2026-08-09T09:10:30.129762+00:00"
     },
     "user-guide/features/fallback-providers.md": {
-      "sha": "c313521f11a120b55228b9f4377407a4e21c0389",
-      "last_updated": "2026-09-17T04:23:48.016356+00:00"
+      "sha": "ea3e04efd8eb841b97aa0a8bf3c019012fe6a049",
+      "last_updated": "2026-09-18T10:56:13.606991+00:00"
     },
     "user-guide/features/goals.md": {
       "sha": "cefadfff0bfa8f200fff932d56ca8f29a73153b6",
@@ -509,8 +509,8 @@
       "last_updated": "2026-09-16T11:14:14.871057+00:00"
     },
     "user-guide/features/hooks.md": {
-      "sha": "a93f994705583c3bcb00798c7345781aedac6099",
-      "last_updated": "2026-09-17T04:23:48.954969+00:00"
+      "sha": "f11f292b98ce3660b5447f961c47b434604ba96e",
+      "last_updated": "2026-09-18T10:56:13.953846+00:00"
     },
     "user-guide/features/image-generation.md": {
       "sha": "f184308054d4a63638aa27080ea26ccb00d1e00c",
@@ -813,8 +813,8 @@
       "last_updated": "2026-09-17T04:23:53.872229+00:00"
     },
     "user-guide/sessions.md": {
-      "sha": "44268426724055b89b6b607064726f6796a374df",
-      "last_updated": "2026-09-17T16:39:42.634503+00:00"
+      "sha": "f64e55296649c2370d8053de8a8d7370f8429092",
+      "last_updated": "2026-09-18T10:56:14.318446+00:00"
     },
     "user-guide/skills/bundled/apple/apple-apple-notes.md": {
       "sha": "31587b5e9fb3a56733f17d94880ab28e2d7b8d38",
@@ -1873,7 +1873,7 @@
       "last_updated": "2026-09-16T21:07:09.212251+00:00"
     }
   },
-  "last_updated": "2026-09-18T04:07:34.697973+00:00",
+  "last_updated": "2026-09-18T10:56:14.523730+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
