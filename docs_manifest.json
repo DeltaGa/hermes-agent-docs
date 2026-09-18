@@ -41,8 +41,8 @@
       "last_updated": "2026-09-04T16:06:01.194698+00:00"
     },
     "developer-guide/context-compression-and-caching.md": {
-      "sha": "6150d5e5227a02fdea3cd658a9ae8d88fb543e7b",
-      "last_updated": "2026-09-17T16:39:35.057881+00:00"
+      "sha": "7f237caa4ee17bea5d26fec6ecb73c7cda95ece2",
+      "last_updated": "2026-09-18T04:07:33.169122+00:00"
     },
     "developer-guide/context-engine-plugin.md": {
       "sha": "6d33638ddbe0dbab2ec3c443b5bdc5c6e40a3c15",
@@ -81,8 +81,8 @@
       "last_updated": "2026-09-14T19:46:53.595195+00:00"
     },
     "developer-guide/memory-provider-plugin.md": {
-      "sha": "8ddfc64796fe3c79e0171c075c0957d6ffc91f03",
-      "last_updated": "2026-09-16T11:14:11.636455+00:00"
+      "sha": "ef955f28386b84b85817d6c500dc2088d1d3c56b",
+      "last_updated": "2026-09-18T04:07:33.576105+00:00"
     },
     "developer-guide/model-provider-plugin.md": {
       "sha": "3b97c05798b4935d22c244af12a9b41390d9fe82",
@@ -537,8 +537,8 @@
       "last_updated": "2026-09-17T04:23:50.186362+00:00"
     },
     "user-guide/features/memory-providers.md": {
-      "sha": "9eeaabeae829ba983ae163db4a413e7df7a3aad9",
-      "last_updated": "2026-09-15T11:28:50.930063+00:00"
+      "sha": "4bfba6587f44fa47244487ee125bcb137289350a",
+      "last_updated": "2026-09-18T04:07:33.999939+00:00"
     },
     "user-guide/features/memory.md": {
       "sha": "8eff4717599d56d71c4ab415062ca53deeb0ef85",
@@ -733,8 +733,8 @@
       "last_updated": "2026-08-09T09:10:49.680110+00:00"
     },
     "user-guide/messaging/slack.md": {
-      "sha": "d07e4ad58e61cccaf486d608cc63d2adedbd43c3",
-      "last_updated": "2026-09-15T16:40:45.454487+00:00"
+      "sha": "5c3c018acce2319d0066f87320dd38cfc8038a8b",
+      "last_updated": "2026-09-18T04:07:34.490330+00:00"
     },
     "user-guide/messaging/sms.md": {
       "sha": "8878cc5f0ab5bac6e5741e2954c56248bd08ccc7",
@@ -1873,7 +1873,7 @@
       "last_updated": "2026-09-16T21:07:09.212251+00:00"
     }
   },
-  "last_updated": "2026-09-17T21:09:34.086016+00:00",
+  "last_updated": "2026-09-18T04:07:34.697973+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
