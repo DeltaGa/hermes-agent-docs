@@ -169,8 +169,8 @@
       "last_updated": "2026-09-01T23:11:29.143041+00:00"
     },
     "getting-started/updating.md": {
-      "sha": "98dd3db5c71f95000f57a3437cf7e828c4a112c8",
-      "last_updated": "2026-09-17T16:39:36.489316+00:00"
+      "sha": "1205d7c0b2d5b7e47166e5f0ca9cf68bf38c1aaf",
+      "last_updated": "2026-09-18T16:10:37.012754+00:00"
     },
     "guides/_category_.json": {
       "sha": "6d1d2f0b9ec098f749715dd4deebc4d4b753b610",
@@ -469,8 +469,8 @@
       "last_updated": "2026-09-17T16:39:39.907803+00:00"
     },
     "user-guide/features/cron.md": {
-      "sha": "b5fc4af89bf6317dfbcf21640776fcb22da62a8d",
-      "last_updated": "2026-09-17T16:39:40.313070+00:00"
+      "sha": "7671f5f6aa06d6523241965b23a162eb426da395",
+      "last_updated": "2026-09-18T16:10:37.348922+00:00"
     },
     "user-guide/features/curator.md": {
       "sha": "3bc5de4d66cd0e4b422b513a2b9bffa1a5e10839",
@@ -781,8 +781,8 @@
       "last_updated": "2026-08-29T16:32:06.777597+00:00"
     },
     "user-guide/multi-profile-gateways.md": {
-      "sha": "caedc302a8371ebc72066385882e1eeabcd4cd08",
-      "last_updated": "2026-09-17T04:23:53.249666+00:00"
+      "sha": "38d9345eb8ea092ed8eec907e86d0134b9dd76e0",
+      "last_updated": "2026-09-18T16:10:37.730294+00:00"
     },
     "user-guide/profile-distributions.md": {
       "sha": "0ea7f46dda67d31f5e6c53a24fb67817039a1b26",
@@ -1873,7 +1873,7 @@
       "last_updated": "2026-09-16T21:07:09.212251+00:00"
     }
   },
-  "last_updated": "2026-09-18T10:56:14.523730+00:00",
+  "last_updated": "2026-09-18T16:10:37.940378+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
