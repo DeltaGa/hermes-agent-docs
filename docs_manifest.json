@@ -41,8 +41,8 @@
       "last_updated": "2026-09-04T16:06:01.194698+00:00"
     },
     "developer-guide/context-compression-and-caching.md": {
-      "sha": "193d06a9f4ba445bdeeb4fda8e30f9bf920f14fd",
-      "last_updated": "2026-09-18T23:08:29.716101+00:00"
+      "sha": "1a2c2dac630c6c533d4a433be90ca6e0035e4432",
+      "last_updated": "2026-09-19T15:42:37.949210+00:00"
     },
     "developer-guide/context-engine-plugin.md": {
       "sha": "0768f6ef455c988732efd06b396c33eddb0e570a",
@@ -341,8 +341,8 @@
       "last_updated": "2026-08-09T09:10:19.218265+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "b4f012322cbe415131a1c9b3fa517ef12fdad8ab",
-      "last_updated": "2026-09-19T10:39:22.136019+00:00"
+      "sha": "1be9075124865c3512540b305048c50032c7788c",
+      "last_updated": "2026-09-19T15:42:38.302434+00:00"
     },
     "reference/environment-variables.md": {
       "sha": "af7b87610e089446e99434b773a2f0eb880f1ad6",
@@ -397,8 +397,8 @@
       "last_updated": "2026-09-18T23:08:56.068016+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "4c8e471466a9d9385d0b0f8b0387c97d9d0386b1",
-      "last_updated": "2026-09-18T23:08:56.630933+00:00"
+      "sha": "5fa9fd2550ec2d55b751e63235fcf75bf73e9522",
+      "last_updated": "2026-09-19T15:42:39.426703+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "94345b2d619aafe103de800c3d0f6e60ff2aff8e",
@@ -477,8 +477,8 @@
       "last_updated": "2026-09-19T10:39:23.321843+00:00"
     },
     "user-guide/features/delegation.md": {
-      "sha": "fc7330a3227acdd203c09b60e1a68270aebdf6f6",
-      "last_updated": "2026-09-19T04:04:26.074654+00:00"
+      "sha": "b5795358adbcf11d9869bc0d190334abba75bd37",
+      "last_updated": "2026-09-19T15:42:39.822760+00:00"
     },
     "user-guide/features/deliverable-mode.md": {
       "sha": "d01847ebb0573d9bd176ac083fc71ff70ba4e727",
@@ -533,8 +533,8 @@
       "last_updated": "2026-09-19T10:39:24.090440+00:00"
     },
     "user-guide/features/mcp.md": {
-      "sha": "6cdca06b3ee85e4dee212eae2a2a0ecdbfe111b0",
-      "last_updated": "2026-09-18T23:09:05.042483+00:00"
+      "sha": "fa2a160d71caeb6ff9218e942f010ed1ef73c5e7",
+      "last_updated": "2026-09-19T15:42:40.229893+00:00"
     },
     "user-guide/features/memory-providers.md": {
       "sha": "6dfda6dcc1b0531ea382b637b197c06040bc1ba3",
@@ -1873,7 +1873,7 @@
       "last_updated": "2026-09-16T21:07:09.212251+00:00"
     }
   },
-  "last_updated": "2026-09-19T10:39:26.598097+00:00",
+  "last_updated": "2026-09-19T15:42:40.436251+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
