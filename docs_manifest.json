@@ -97,8 +97,8 @@
       "last_updated": "2026-09-18T23:08:33.824167+00:00"
     },
     "developer-guide/programmatic-integration.md": {
-      "sha": "45adae46043a9ac014fca758df9dd4a4ae4d4614",
-      "last_updated": "2026-09-18T20:42:17.467977+00:00"
+      "sha": "4b050ad82283697bfed2463aa84a50499bd9b5c2",
+      "last_updated": "2026-09-19T22:48:38.831777+00:00"
     },
     "developer-guide/prompt-assembly.md": {
       "sha": "a7482ad24e6658ef9d89cf3012e7c1f2fc554b27",
@@ -129,8 +129,8 @@
       "last_updated": "2026-09-04T16:06:49.371051+00:00"
     },
     "developer-guide/video-gen-provider-plugin.md": {
-      "sha": "0b564c1cedcfe69133780a709d1cf413dafed120",
-      "last_updated": "2026-09-18T23:08:35.454747+00:00"
+      "sha": "784a9107fd2e234c8f5d8e7803fa34d1617583ff",
+      "last_updated": "2026-09-19T22:48:39.381096+00:00"
     },
     "developer-guide/web-search-provider-plugin.md": {
       "sha": "2070c68740ee4cc5c35e7f8b669a7309069add88",
@@ -249,8 +249,8 @@
       "last_updated": "2026-09-18T20:42:21.184502+00:00"
     },
     "guides/oauth-over-ssh.md": {
-      "sha": "83ce2048eea75f4586b17efbd4334d3b3effd5d3",
-      "last_updated": "2026-09-13T11:29:12.825537+00:00"
+      "sha": "1e32549b94f07163cbd9969760cab0deca57a5a9",
+      "last_updated": "2026-09-19T22:48:39.729418+00:00"
     },
     "guides/operate-teams-meeting-pipeline.md": {
       "sha": "674a3c1c77bf6d0db0133c17da44d651eae0063e",
@@ -329,8 +329,8 @@
       "last_updated": "2026-09-18T23:08:51.343289+00:00"
     },
     "integrations/providers.md": {
-      "sha": "f872d61b62e904c87c54948f05bd5e6a362ac6b7",
-      "last_updated": "2026-09-19T20:22:03.981928+00:00"
+      "sha": "36b02a3ab882b2d147a320c634f9c0c68520481f",
+      "last_updated": "2026-09-19T22:48:40.034785+00:00"
     },
     "reference/_category_.json": {
       "sha": "8150d97ad57c8f434b72e9cc65a58abd091787c6",
@@ -341,16 +341,16 @@
       "last_updated": "2026-08-09T09:10:19.218265+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "42dc34484c706dab9d932efafd1656efded90333",
-      "last_updated": "2026-09-19T20:22:04.347205+00:00"
+      "sha": "869c3cde6cb70ebf8667ceb50106dc4eeaf8586f",
+      "last_updated": "2026-09-19T22:48:40.448638+00:00"
     },
     "reference/environment-variables.md": {
       "sha": "aeb58730ba6e54e2f2aed70dcb82f94813ca5441",
       "last_updated": "2026-09-19T20:22:04.697569+00:00"
     },
     "reference/faq.md": {
-      "sha": "83c9c1a555a0e77473abfcc08d45c5bc98954396",
-      "last_updated": "2026-09-19T20:22:05.047601+00:00"
+      "sha": "9d96c5474dbc61869c3a7599385af8429e815aa0",
+      "last_updated": "2026-09-19T22:48:40.847926+00:00"
     },
     "reference/mcp-config-reference.md": {
       "sha": "71828ec63d3f8b67bf5207a10461114390245b47",
@@ -377,8 +377,8 @@
       "last_updated": "2026-09-19T20:22:05.403736+00:00"
     },
     "reference/tools-reference.md": {
-      "sha": "4ebc3a670ee8003f6adf77c01a3b92f0725e703c",
-      "last_updated": "2026-09-18T23:08:55.176740+00:00"
+      "sha": "f95a419a74c31464e03632f68878ee0e82e30578",
+      "last_updated": "2026-09-19T22:48:41.288738+00:00"
     },
     "reference/toolsets-reference.md": {
       "sha": "ba3051dac417f51fa1c09026541a1fd93c217370",
@@ -397,16 +397,16 @@
       "last_updated": "2026-09-18T23:08:56.068016+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "3b0139879255339561f40ad09a5e4c2cdb74c08a",
-      "last_updated": "2026-09-19T20:22:06.154833+00:00"
+      "sha": "76795cd87b8f5d94b894adb9ce612109dad9fbea",
+      "last_updated": "2026-09-19T22:48:41.764181+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "bd06b3180249eaeef3f660160b7ac5e44ae67434",
       "last_updated": "2026-09-19T20:22:06.492112+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "c39597b06b5133167b327e47a200d9bf3457c00f",
-      "last_updated": "2026-09-19T20:22:06.860233+00:00"
+      "sha": "b32e569827f4b94ef63bb8aed3114ef4c0e6701a",
+      "last_updated": "2026-09-19T22:48:42.160368+00:00"
     },
     "user-guide/docker.md": {
       "sha": "f7c8114964c70b8a231be0ccbcd1b213c12d02ec",
@@ -429,8 +429,8 @@
       "last_updated": "2026-09-19T10:39:22.914876+00:00"
     },
     "user-guide/features/api-server.md": {
-      "sha": "4c469d6a7fc9db51044a5713d78f3f2b89dc5625",
-      "last_updated": "2026-09-19T20:22:07.593545+00:00"
+      "sha": "94d9c9daa3d2737d27931d15ae9ab659fef0e59f",
+      "last_updated": "2026-09-19T22:48:42.572162+00:00"
     },
     "user-guide/features/batch-processing.md": {
       "sha": "cb86017543bf43b584b578304a8235cd1d0fd188",
@@ -449,8 +449,8 @@
       "last_updated": "2026-09-18T23:09:00.052626+00:00"
     },
     "user-guide/features/codex-app-server-runtime.md": {
-      "sha": "be054ebaeb9b04303e75aeb4f66c39d7185b83fe",
-      "last_updated": "2026-09-19T20:22:08.347951+00:00"
+      "sha": "dbcbd3366d3c3324a3e83aa95d4d60334e5495b1",
+      "last_updated": "2026-09-19T22:48:43.108979+00:00"
     },
     "user-guide/features/computer-use.md": {
       "sha": "27efbea742cdf0ae264702146ea213b3f502bb77",
@@ -465,12 +465,12 @@
       "last_updated": "2026-08-09T09:10:27.953058+00:00"
     },
     "user-guide/features/credential-pools.md": {
-      "sha": "4ffa5e33a4f3cc01e6a943b80f1ad4002816c963",
-      "last_updated": "2026-09-19T20:22:09.091404+00:00"
+      "sha": "7eae3eab0a17db65ee88fb76bab850f0d2a64242",
+      "last_updated": "2026-09-19T22:48:43.507123+00:00"
     },
     "user-guide/features/cron.md": {
-      "sha": "006d346c16b20539951c99be750f9333f64fe107",
-      "last_updated": "2026-09-19T20:22:09.463214+00:00"
+      "sha": "bbc9e6678f4f34927bec79bdad04c5e920200e80",
+      "last_updated": "2026-09-19T22:48:44.055607+00:00"
     },
     "user-guide/features/curator.md": {
       "sha": "ad668cf2b8e51b76d5276c888bc4dbdd7dd06f0e",
@@ -1873,7 +1873,7 @@
       "last_updated": "2026-09-16T21:07:09.212251+00:00"
     }
   },
-  "last_updated": "2026-09-19T20:22:31.922224+00:00",
+  "last_updated": "2026-09-19T22:48:44.263705+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
