@@ -85,8 +85,8 @@
       "last_updated": "2026-09-18T23:08:32.355769+00:00"
     },
     "developer-guide/model-provider-plugin.md": {
-      "sha": "d61d32c9810f6b42fa67bdfa461d350bbb841ea8",
-      "last_updated": "2026-09-19T20:22:00.640925+00:00"
+      "sha": "ba9c5e18fa8bbc5702eedfa46520dd566b8ed994",
+      "last_updated": "2026-09-20T04:23:39.758195+00:00"
     },
     "developer-guide/plugin-llm-access.md": {
       "sha": "5cb0f9e08c24ab0024ec23b5bf3cbaa5fcde1eec",
@@ -349,8 +349,8 @@
       "last_updated": "2026-09-19T20:22:04.697569+00:00"
     },
     "reference/faq.md": {
-      "sha": "9d96c5474dbc61869c3a7599385af8429e815aa0",
-      "last_updated": "2026-09-19T22:48:40.847926+00:00"
+      "sha": "db9777c1dbca5ab0ae0d18f7d8d24b63646ca316",
+      "last_updated": "2026-09-20T04:23:40.114656+00:00"
     },
     "reference/mcp-config-reference.md": {
       "sha": "71828ec63d3f8b67bf5207a10461114390245b47",
@@ -449,8 +449,8 @@
       "last_updated": "2026-09-18T23:09:00.052626+00:00"
     },
     "user-guide/features/codex-app-server-runtime.md": {
-      "sha": "dbcbd3366d3c3324a3e83aa95d4d60334e5495b1",
-      "last_updated": "2026-09-19T22:48:43.108979+00:00"
+      "sha": "5bc52e73424708ebaa481ccc25a585dfbcc104f1",
+      "last_updated": "2026-09-20T04:23:40.478858+00:00"
     },
     "user-guide/features/computer-use.md": {
       "sha": "27efbea742cdf0ae264702146ea213b3f502bb77",
@@ -1873,7 +1873,7 @@
       "last_updated": "2026-09-16T21:07:09.212251+00:00"
     }
   },
-  "last_updated": "2026-09-19T22:48:44.263705+00:00",
+  "last_updated": "2026-09-20T04:23:40.687644+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
