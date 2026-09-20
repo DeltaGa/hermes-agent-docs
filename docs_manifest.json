@@ -405,8 +405,8 @@
       "last_updated": "2026-09-19T20:22:06.492112+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "b32e569827f4b94ef63bb8aed3114ef4c0e6701a",
-      "last_updated": "2026-09-19T22:48:42.160368+00:00"
+      "sha": "7ac5fc47b7afc9e48725fb6df762289acb052dfe",
+      "last_updated": "2026-09-20T15:48:24.385548+00:00"
     },
     "user-guide/docker.md": {
       "sha": "f7c8114964c70b8a231be0ccbcd1b213c12d02ec",
@@ -765,16 +765,16 @@
       "last_updated": "2026-08-28T00:19:08.179070+00:00"
     },
     "user-guide/messaging/weixin.md": {
-      "sha": "eb23c084262729e6772c797cd0e4bee8b0b1eea4",
-      "last_updated": "2026-09-18T23:09:16.814253+00:00"
+      "sha": "45d85b4246637a7e6047994d7919fbfac9aaf346",
+      "last_updated": "2026-09-20T15:48:24.676677+00:00"
     },
     "user-guide/messaging/whatsapp-cloud.md": {
       "sha": "06c3df1888ffcd21f1f9eac8bf70b85cbbbfd1a4",
       "last_updated": "2026-09-12T04:03:24.876457+00:00"
     },
     "user-guide/messaging/whatsapp.md": {
-      "sha": "60f4020e3743425712af7f3194ef7087c2921256",
-      "last_updated": "2026-09-18T23:09:17.172925+00:00"
+      "sha": "b2a85ef627946716738e76a98a4a0e0d19f6d1a0",
+      "last_updated": "2026-09-20T15:48:24.947280+00:00"
     },
     "user-guide/messaging/yuanbao.md": {
       "sha": "fe4c666b3a442e65cad8aa48db9b512ef67fd1be",
@@ -1873,7 +1873,7 @@
       "last_updated": "2026-09-16T21:07:09.212251+00:00"
     }
   },
-  "last_updated": "2026-09-20T11:02:07.496264+00:00",
+  "last_updated": "2026-09-20T15:48:25.156825+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
