@@ -41,8 +41,8 @@
       "last_updated": "2026-09-04T16:06:01.194698+00:00"
     },
     "developer-guide/context-compression-and-caching.md": {
-      "sha": "f083ee20be1445da612cd73ddfd47b43cedb2553",
-      "last_updated": "2026-09-21T12:28:58.207808+00:00"
+      "sha": "4d329d1b218b84a398827fbe9c7372b2050de8df",
+      "last_updated": "2026-09-21T23:57:57.355431+00:00"
     },
     "developer-guide/context-engine-plugin.md": {
       "sha": "0768f6ef455c988732efd06b396c33eddb0e570a",
@@ -377,8 +377,8 @@
       "last_updated": "2026-09-20T23:05:52.419435+00:00"
     },
     "reference/tools-reference.md": {
-      "sha": "d79d5f3663b6a2c143af37515c117fbffa2f840d",
-      "last_updated": "2026-09-21T12:28:59.821947+00:00"
+      "sha": "6f8213b443eb69c6449bcd30c443ff3a7b3708de",
+      "last_updated": "2026-09-21T23:57:57.720244+00:00"
     },
     "reference/toolsets-reference.md": {
       "sha": "279c6a4d6c387dc7d5dfc140841f22704dbaad10",
@@ -397,16 +397,16 @@
       "last_updated": "2026-09-20T23:05:53.016968+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "932334fa30dbcc679eecab73d4d470dc4b23d069",
-      "last_updated": "2026-09-21T12:29:00.380244+00:00"
+      "sha": "96e507eead4924ba0efd6a5d9149f9a2991faf6c",
+      "last_updated": "2026-09-21T23:57:58.121375+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "bd06b3180249eaeef3f660160b7ac5e44ae67434",
       "last_updated": "2026-09-19T20:22:06.492112+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "4e746a99560fb05539da1c88f6cf21c8e946a2be",
-      "last_updated": "2026-09-21T19:55:04.999045+00:00"
+      "sha": "8be2627e1a844d4a6c934ba84841be1066d54aee",
+      "last_updated": "2026-09-21T23:57:58.524110+00:00"
     },
     "user-guide/docker.md": {
       "sha": "f7c8114964c70b8a231be0ccbcd1b213c12d02ec",
@@ -1781,7 +1781,7 @@
       "last_updated": "2026-09-21T04:21:19.875726+00:00"
     }
   },
-  "last_updated": "2026-09-21T19:55:05.922508+00:00",
+  "last_updated": "2026-09-21T23:57:58.733920+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
