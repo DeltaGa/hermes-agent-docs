@@ -57,12 +57,12 @@
       "last_updated": "2026-09-20T20:35:50.528707+00:00"
     },
     "developer-guide/cron-internals.md": {
-      "sha": "fcaad2808e8c0b56734e057b8f1212d556d0fabb",
-      "last_updated": "2026-09-20T20:35:50.853555+00:00"
+      "sha": "2cde109ea4166ee2a4eb5ce3162b7a646ba00d12",
+      "last_updated": "2026-09-21T04:21:16.127690+00:00"
     },
     "developer-guide/desktop-plugin-sdk.md": {
-      "sha": "45b3308ce072983c7708b22588f67ef9d6c814d7",
-      "last_updated": "2026-09-18T23:08:31.090385+00:00"
+      "sha": "da30c8980de74cca789a8e895f042a756143fb4e",
+      "last_updated": "2026-09-21T04:21:16.423636+00:00"
     },
     "developer-guide/egress-internals.md": {
       "sha": "45ceb8d3ed21b7cde7f7e5c59201b8edbe72cbf6",
@@ -169,8 +169,8 @@
       "last_updated": "2026-09-20T20:35:52.946574+00:00"
     },
     "getting-started/updating.md": {
-      "sha": "e139618b18b1838baf6559d9cb87fd25ab934ceb",
-      "last_updated": "2026-09-20T20:35:53.274554+00:00"
+      "sha": "715dd6ee306f2b25bb3aac204ce6fbdbc393a16d",
+      "last_updated": "2026-09-21T04:21:16.991760+00:00"
     },
     "guides/_category_.json": {
       "sha": "6d1d2f0b9ec098f749715dd4deebc4d4b753b610",
@@ -345,8 +345,8 @@
       "last_updated": "2026-09-19T22:48:40.448638+00:00"
     },
     "reference/environment-variables.md": {
-      "sha": "33cc4aa318b0ce1298682d74262a6eef3c628a6e",
-      "last_updated": "2026-09-20T23:05:52.096982+00:00"
+      "sha": "02f934f62e2bd6231af4f5951d69d312c9eadcb9",
+      "last_updated": "2026-09-21T04:21:17.295917+00:00"
     },
     "reference/faq.md": {
       "sha": "db9777c1dbca5ab0ae0d18f7d8d24b63646ca316",
@@ -397,16 +397,16 @@
       "last_updated": "2026-09-20T23:05:53.016968+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "a83f6f48dad4043f2ca50a4ecc9c178774dbece0",
-      "last_updated": "2026-09-20T23:05:53.365667+00:00"
+      "sha": "8cf9694a665f30271a2c4b11060ff85ed03a6d40",
+      "last_updated": "2026-09-21T04:21:17.852976+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "bd06b3180249eaeef3f660160b7ac5e44ae67434",
       "last_updated": "2026-09-19T20:22:06.492112+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "4f5c884d9311b69156374944ff87f2e7465014e9",
-      "last_updated": "2026-09-20T23:05:53.662208+00:00"
+      "sha": "216a9d3f47c7bef41fa1d3fca92030b10d0a589b",
+      "last_updated": "2026-09-21T04:21:18.142870+00:00"
     },
     "user-guide/docker.md": {
       "sha": "f7c8114964c70b8a231be0ccbcd1b213c12d02ec",
@@ -493,8 +493,8 @@
       "last_updated": "2026-09-18T23:09:02.848372+00:00"
     },
     "user-guide/features/fallback-providers.md": {
-      "sha": "7dabb0b02e000dfea43d7a70129b9139cdbe8166",
-      "last_updated": "2026-09-19T20:22:10.943633+00:00"
+      "sha": "6c47a6f2d0b251ff187206204f3b7d81c183ed18",
+      "last_updated": "2026-09-21T04:21:18.444203+00:00"
     },
     "user-guide/features/goals.md": {
       "sha": "298dc45aa9d83ea1e5aae8a2ced35abb841f4127",
@@ -529,12 +529,12 @@
       "last_updated": "2026-09-20T23:05:55.110977+00:00"
     },
     "user-guide/features/lsp.md": {
-      "sha": "0a77a35e771d5ac385932456209fc5b88f89b04a",
-      "last_updated": "2026-09-19T10:39:24.090440+00:00"
+      "sha": "77847baebe611eeab9eccfe2a3d0f26c1783d68c",
+      "last_updated": "2026-09-21T04:21:18.721639+00:00"
     },
     "user-guide/features/mcp.md": {
-      "sha": "9e58f8ca3dd1bcb9a372af829df60f39e1ae53e6",
-      "last_updated": "2026-09-20T20:36:00.107009+00:00"
+      "sha": "82eae758eb9299d2c47557885905e39ea5ecf5e6",
+      "last_updated": "2026-09-21T04:21:18.998079+00:00"
     },
     "user-guide/features/memory-providers.md": {
       "sha": "6dfda6dcc1b0531ea382b637b197c06040bc1ba3",
@@ -677,8 +677,8 @@
       "last_updated": "2026-08-09T09:10:45.350689+00:00"
     },
     "user-guide/messaging/index.md": {
-      "sha": "eda38a873cb734786784d5be5243c153cd5da29e",
-      "last_updated": "2026-09-20T23:05:55.725600+00:00"
+      "sha": "c374b30a45d435bbf191efc95644da9a906902be",
+      "last_updated": "2026-09-21T04:21:19.571129+00:00"
     },
     "user-guide/messaging/irc.md": {
       "sha": "4fd21061621fc5e44a64222b7813561b41b28dd9",
@@ -813,8 +813,8 @@
       "last_updated": "2026-09-20T20:36:02.423820+00:00"
     },
     "user-guide/sessions.md": {
-      "sha": "af3b2b9cd8db0fb425a94f5fd94f65daf216ca28",
-      "last_updated": "2026-09-20T20:36:02.749783+00:00"
+      "sha": "08a7f887ea85f00eba50988bc0c7bdb83d8a946a",
+      "last_updated": "2026-09-21T04:21:20.173409+00:00"
     },
     "user-guide/skills/bundled/apple/apple-apple-notes.md": {
       "sha": "d845e5b31985bb38ddf388f816a66993f4d3f177",
@@ -1525,8 +1525,8 @@
       "last_updated": "2026-09-20T20:36:31.267388+00:00"
     },
     "user-guide/bot-mode.md": {
-      "sha": "8d1919051565b064447fe3ff224df98e45fb97fc",
-      "last_updated": "2026-09-20T23:05:52.734626+00:00"
+      "sha": "08a5b8562c835cd7789e7c671882b208552a9133",
+      "last_updated": "2026-09-21T04:21:17.562391+00:00"
     },
     "reference/cli-symbols.md": {
       "sha": "76d0fcd513551ad62992ffc06f63494b1ad2bed9",
@@ -1661,8 +1661,8 @@
       "last_updated": "2026-09-20T20:37:03.470991+00:00"
     },
     "user-guide/features/plugin-catalog.md": {
-      "sha": "003ef2185015245b3ca3fa91553bf98ac05c7ace",
-      "last_updated": "2026-09-19T10:39:24.469137+00:00"
+      "sha": "353c3619541cfa487f8bcefd83a0cc6fa0bff61f",
+      "last_updated": "2026-09-21T04:21:19.283599+00:00"
     },
     "user-guide/features/credential-vault.md": {
       "sha": "dc3abb33ea7cf77667cf6e739004b09a07aad7db",
@@ -1733,8 +1733,8 @@
       "last_updated": "2026-09-13T15:57:41.784998+00:00"
     },
     "developer-guide/state-db-recovery.md": {
-      "sha": "7a7af15bd6c39fe06f060bf91a68a7fecf4236cf",
-      "last_updated": "2026-09-13T15:57:42.142983+00:00"
+      "sha": "c33820b54605d34f661069de0484b666d6b7bf27",
+      "last_updated": "2026-09-21T04:21:16.718975+00:00"
     },
     "developer-guide/streaming-tts.md": {
       "sha": "c18df3ef8714bdb22f668850dc949f130303362b",
@@ -1775,9 +1775,13 @@
     "user-guide/skills/optional/autonomous-ai-agents/autonomous-ai-agents-agent-merge-conflict-arbiter.md": {
       "sha": "37c48f7f5a7acea149948ef2541504d3c09136ad",
       "last_updated": "2026-09-20T20:36:21.544766+00:00"
+    },
+    "user-guide/session-storage-recovery.md": {
+      "sha": "aa1e522f3f7d9cd1722e54ca4af23463f0fee04e",
+      "last_updated": "2026-09-21T04:21:19.875726+00:00"
     }
   },
-  "last_updated": "2026-09-20T23:05:56.838605+00:00",
+  "last_updated": "2026-09-21T04:21:20.380656+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
