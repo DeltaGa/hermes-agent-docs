@@ -73,8 +73,8 @@
       "last_updated": "2026-09-04T16:06:03.058364+00:00"
     },
     "developer-guide/gateway-internals.md": {
-      "sha": "a47eddf75f9052ab572f7e62d421d4cd94c4bb0e",
-      "last_updated": "2026-09-21T12:28:58.825415+00:00"
+      "sha": "543793d50764aedb588cf937b545cd7b1f59f76c",
+      "last_updated": "2026-09-21T19:55:03.222144+00:00"
     },
     "developer-guide/image-gen-provider-plugin.md": {
       "sha": "82eeaeeb6ba1b6e31e17479fc06c52dc77b94c7d",
@@ -169,8 +169,8 @@
       "last_updated": "2026-09-20T20:35:52.946574+00:00"
     },
     "getting-started/updating.md": {
-      "sha": "715dd6ee306f2b25bb3aac204ce6fbdbc393a16d",
-      "last_updated": "2026-09-21T04:21:16.991760+00:00"
+      "sha": "a5c9eaa295f1444efcfcb516728453832af6dc02",
+      "last_updated": "2026-09-21T19:55:03.883351+00:00"
     },
     "guides/_category_.json": {
       "sha": "6d1d2f0b9ec098f749715dd4deebc4d4b753b610",
@@ -325,8 +325,8 @@
       "last_updated": "2026-09-18T23:08:50.795440+00:00"
     },
     "integrations/nous-portal.md": {
-      "sha": "9cc2feb5bccdbcf8c6e235423de525f1f2b30851",
-      "last_updated": "2026-09-18T23:08:51.343289+00:00"
+      "sha": "e4170a68f426bc623451bc26754637ba9fb8e094",
+      "last_updated": "2026-09-21T19:55:04.301267+00:00"
     },
     "integrations/providers.md": {
       "sha": "63664d476cb380d1754701e3586f1931eb9730df",
@@ -341,8 +341,8 @@
       "last_updated": "2026-08-09T09:10:19.218265+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "9abb5aa28cfacc46f0367a4bc268b142c5685d8b",
-      "last_updated": "2026-09-21T12:28:59.447075+00:00"
+      "sha": "e371552a4dd798e2433da3d2b2970d83d76ce980",
+      "last_updated": "2026-09-21T19:55:04.660390+00:00"
     },
     "reference/environment-variables.md": {
       "sha": "02f934f62e2bd6231af4f5951d69d312c9eadcb9",
@@ -405,8 +405,8 @@
       "last_updated": "2026-09-19T20:22:06.492112+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "6d8bcf8b400499603f9a9e222a2bce0ced8f9ebb",
-      "last_updated": "2026-09-21T12:29:00.687692+00:00"
+      "sha": "4e746a99560fb05539da1c88f6cf21c8e946a2be",
+      "last_updated": "2026-09-21T19:55:04.999045+00:00"
     },
     "user-guide/docker.md": {
       "sha": "f7c8114964c70b8a231be0ccbcd1b213c12d02ec",
@@ -781,16 +781,16 @@
       "last_updated": "2026-09-18T23:09:17.572688+00:00"
     },
     "user-guide/multi-profile-gateways.md": {
-      "sha": "81df01e59a061687bc6b7fcfc793201c4d78722a",
-      "last_updated": "2026-09-21T12:29:02.642392+00:00"
+      "sha": "2db636025dcb7f38494b0fd0eb98fe65e2948304",
+      "last_updated": "2026-09-21T19:55:05.419099+00:00"
     },
     "user-guide/profile-distributions.md": {
       "sha": "0ea7f46dda67d31f5e6c53a24fb67817039a1b26",
       "last_updated": "2026-09-15T16:40:46.601919+00:00"
     },
     "user-guide/profiles.md": {
-      "sha": "3df26e473d6b3cd1197d63ed095fbae2c11d0206",
-      "last_updated": "2026-09-18T23:09:18.271556+00:00"
+      "sha": "006e31941b845b99bd1f4cf61e61fb344f852e78",
+      "last_updated": "2026-09-21T19:55:05.713694+00:00"
     },
     "user-guide/secrets/bitwarden.md": {
       "sha": "671fb640fef781aacf418770bc94370bccd1c4b4",
@@ -1717,8 +1717,8 @@
       "last_updated": "2026-09-19T20:22:00.240220+00:00"
     },
     "developer-guide/multiplexing-gateway.md": {
-      "sha": "ac9e205e80b0843d8b447bfb1f6f6ca6d2e3fb9b",
-      "last_updated": "2026-09-21T12:28:59.130327+00:00"
+      "sha": "a2967827dac258ff2423f3fe2b8cbeca214b8f81",
+      "last_updated": "2026-09-21T19:55:03.518304+00:00"
     },
     "developer-guide/observer-hooks.md": {
       "sha": "6a7d1389fb0fa6e8b9d651d6cc3418207551d478",
@@ -1781,7 +1781,7 @@
       "last_updated": "2026-09-21T04:21:19.875726+00:00"
     }
   },
-  "last_updated": "2026-09-21T12:29:02.851463+00:00",
+  "last_updated": "2026-09-21T19:55:05.922508+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
