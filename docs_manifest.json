@@ -93,8 +93,8 @@
       "last_updated": "2026-09-18T23:08:33.114641+00:00"
     },
     "developer-guide/plugins/index.md": {
-      "sha": "874e0666e59068be578103d2293556780cbd8468",
-      "last_updated": "2026-09-22T11:18:05.463519+00:00"
+      "sha": "812594637fd3144b165f5b693c0556962dc35cbd",
+      "last_updated": "2026-09-22T16:40:24.799047+00:00"
     },
     "developer-guide/programmatic-integration.md": {
       "sha": "4b050ad82283697bfed2463aa84a50499bd9b5c2",
@@ -1779,9 +1779,13 @@
     "user-guide/session-storage-recovery.md": {
       "sha": "aa1e522f3f7d9cd1722e54ca4af23463f0fee04e",
       "last_updated": "2026-09-21T04:21:19.875726+00:00"
+    },
+    "developer-guide/plugins/application-declarations.md": {
+      "sha": "20c465be6e3496e526a0c64446472c76fb56261a",
+      "last_updated": "2026-09-22T16:40:24.161596+00:00"
     }
   },
-  "last_updated": "2026-09-22T11:18:11.063250+00:00",
+  "last_updated": "2026-09-22T16:40:25.007168+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
