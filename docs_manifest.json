@@ -41,8 +41,8 @@
       "last_updated": "2026-09-04T16:06:01.194698+00:00"
     },
     "developer-guide/context-compression-and-caching.md": {
-      "sha": "4d329d1b218b84a398827fbe9c7372b2050de8df",
-      "last_updated": "2026-09-21T23:57:57.355431+00:00"
+      "sha": "d80b893596d87acae16ed9e1ac10adc5296d340d",
+      "last_updated": "2026-09-22T21:06:20.951258+00:00"
     },
     "developer-guide/context-engine-plugin.md": {
       "sha": "d124ce46d9b22e7f08167a8f4c021ca82d2be307",
@@ -73,8 +73,8 @@
       "last_updated": "2026-09-04T16:06:03.058364+00:00"
     },
     "developer-guide/gateway-internals.md": {
-      "sha": "543793d50764aedb588cf937b545cd7b1f59f76c",
-      "last_updated": "2026-09-21T19:55:03.222144+00:00"
+      "sha": "5333ba3576e4042fc22c88e3e9cf911b3b1be1ed",
+      "last_updated": "2026-09-22T21:06:21.524421+00:00"
     },
     "developer-guide/image-gen-provider-plugin.md": {
       "sha": "82eeaeeb6ba1b6e31e17479fc06c52dc77b94c7d",
@@ -93,8 +93,8 @@
       "last_updated": "2026-09-18T23:08:33.114641+00:00"
     },
     "developer-guide/plugins/index.md": {
-      "sha": "812594637fd3144b165f5b693c0556962dc35cbd",
-      "last_updated": "2026-09-22T16:40:24.799047+00:00"
+      "sha": "b1e6e26eee0666e62a0b3796fe376a7a87718452",
+      "last_updated": "2026-09-22T21:06:21.885049+00:00"
     },
     "developer-guide/programmatic-integration.md": {
       "sha": "4b050ad82283697bfed2463aa84a50499bd9b5c2",
@@ -381,8 +381,8 @@
       "last_updated": "2026-09-22T04:40:56.992841+00:00"
     },
     "reference/toolsets-reference.md": {
-      "sha": "279c6a4d6c387dc7d5dfc140841f22704dbaad10",
-      "last_updated": "2026-09-20T20:35:57.336265+00:00"
+      "sha": "03b34044a83d2662d4be975d1d4c2c4813812f31",
+      "last_updated": "2026-09-22T21:06:22.415197+00:00"
     },
     "user-guide/_category_.json": {
       "sha": "7911fa56fec15dafb51ceb520070a85fadf7addc",
@@ -405,8 +405,8 @@
       "last_updated": "2026-09-19T20:22:06.492112+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "075b2a1bf3529fb9d05ed8fd9cde4a340cfe4046",
-      "last_updated": "2026-09-22T11:18:06.730313+00:00"
+      "sha": "862361e64c80bec0f7673f1802ee72590d60261f",
+      "last_updated": "2026-09-22T21:06:22.794514+00:00"
     },
     "user-guide/docker.md": {
       "sha": "f7c8114964c70b8a231be0ccbcd1b213c12d02ec",
@@ -1785,7 +1785,7 @@
       "last_updated": "2026-09-22T16:40:24.161596+00:00"
     }
   },
-  "last_updated": "2026-09-22T16:40:25.007168+00:00",
+  "last_updated": "2026-09-22T21:06:23.001200+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
