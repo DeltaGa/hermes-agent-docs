@@ -377,12 +377,12 @@
       "last_updated": "2026-09-20T23:05:52.419435+00:00"
     },
     "reference/tools-reference.md": {
-      "sha": "b1e2b6ddd5a35928814bfd8492583309641672c0",
-      "last_updated": "2026-09-22T04:40:56.992841+00:00"
+      "sha": "1e07b5486ef7cb68a3ed1004b53f4d13bfd2604f",
+      "last_updated": "2026-09-23T04:14:04.642773+00:00"
     },
     "reference/toolsets-reference.md": {
-      "sha": "03b34044a83d2662d4be975d1d4c2c4813812f31",
-      "last_updated": "2026-09-22T21:06:22.415197+00:00"
+      "sha": "889b7a4d7dd2d02b348fe03906728bcb8ace8863",
+      "last_updated": "2026-09-23T04:14:04.947781+00:00"
     },
     "user-guide/_category_.json": {
       "sha": "7911fa56fec15dafb51ceb520070a85fadf7addc",
@@ -405,8 +405,8 @@
       "last_updated": "2026-09-19T20:22:06.492112+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "862361e64c80bec0f7673f1802ee72590d60261f",
-      "last_updated": "2026-09-22T21:06:22.794514+00:00"
+      "sha": "67fe84f888ae5f3cfa71848ce8087d3d13f9ccb7",
+      "last_updated": "2026-09-23T04:14:05.241897+00:00"
     },
     "user-guide/docker.md": {
       "sha": "f7c8114964c70b8a231be0ccbcd1b213c12d02ec",
@@ -781,8 +781,8 @@
       "last_updated": "2026-09-18T23:09:17.572688+00:00"
     },
     "user-guide/multi-profile-gateways.md": {
-      "sha": "2db636025dcb7f38494b0fd0eb98fe65e2948304",
-      "last_updated": "2026-09-21T19:55:05.419099+00:00"
+      "sha": "210b36d42730eefea0574be72b3c6db1413c139a",
+      "last_updated": "2026-09-23T04:14:06.110466+00:00"
     },
     "user-guide/profile-distributions.md": {
       "sha": "0ea7f46dda67d31f5e6c53a24fb67817039a1b26",
@@ -1513,8 +1513,8 @@
       "last_updated": "2026-09-17T04:23:49.872737+00:00"
     },
     "user-guide/multi-connection-desktop.md": {
-      "sha": "d1c465309f7de2107c896f5b2db859e4743f8e75",
-      "last_updated": "2026-09-17T04:23:52.935729+00:00"
+      "sha": "d636f78e6debfbfe76fc9c8da6131fa8f893a3e2",
+      "last_updated": "2026-09-23T04:14:05.802241+00:00"
     },
     "user-guide/skills/optional/creative/creative-draw-your-font.md": {
       "sha": "a55080b1a2d39f51d2cb8a0f5ab649e4071325d2",
@@ -1661,8 +1661,8 @@
       "last_updated": "2026-09-20T20:37:03.470991+00:00"
     },
     "user-guide/features/plugin-catalog.md": {
-      "sha": "7734c442692f6c7edbd89d3eefaedd97e66301af",
-      "last_updated": "2026-09-22T11:18:08.460910+00:00"
+      "sha": "dc7e0d3caa70e437f71b8f179f83476c565caf46",
+      "last_updated": "2026-09-23T04:14:05.518873+00:00"
     },
     "user-guide/features/credential-vault.md": {
       "sha": "dc3abb33ea7cf77667cf6e739004b09a07aad7db",
@@ -1785,7 +1785,7 @@
       "last_updated": "2026-09-22T16:40:24.161596+00:00"
     }
   },
-  "last_updated": "2026-09-22T21:06:23.001200+00:00",
+  "last_updated": "2026-09-23T04:14:06.319779+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
