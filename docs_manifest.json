@@ -57,16 +57,16 @@
       "last_updated": "2026-09-20T20:35:50.528707+00:00"
     },
     "developer-guide/cron-internals.md": {
-      "sha": "15c8bd5f0eeb523d3e6e21a7c228302ea4d7d933",
-      "last_updated": "2026-09-21T12:28:58.500916+00:00"
+      "sha": "d0ddd4175ef32c206eaad8d2db3fa5af4794a857",
+      "last_updated": "2026-09-23T16:33:35.180261+00:00"
     },
     "developer-guide/desktop-plugin-sdk.md": {
       "sha": "1723498d2314f6909a09cc9dd5aff3dd6000915d",
       "last_updated": "2026-09-22T11:18:04.691607+00:00"
     },
     "developer-guide/egress-internals.md": {
-      "sha": "45ceb8d3ed21b7cde7f7e5c59201b8edbe72cbf6",
-      "last_updated": "2026-09-19T20:21:59.094333+00:00"
+      "sha": "26dddb17dcde5b0af6268cf43392bdc473bd8efa",
+      "last_updated": "2026-09-23T16:33:35.588664+00:00"
     },
     "developer-guide/extending-the-cli.md": {
       "sha": "c1a2cafd3039cf5bf189665c07b8ec231951c9a7",
@@ -81,8 +81,8 @@
       "last_updated": "2026-09-19T20:21:59.852814+00:00"
     },
     "developer-guide/memory-provider-plugin.md": {
-      "sha": "d4ca52f5b9e7f89299756cce574b256be1433ff2",
-      "last_updated": "2026-09-18T23:08:32.355769+00:00"
+      "sha": "306eb646a547e86309a7f80b7f970eb1c5c5679e",
+      "last_updated": "2026-09-23T16:33:35.880853+00:00"
     },
     "developer-guide/model-provider-plugin.md": {
       "sha": "850fc5ce117f83ef64a2e8002a4675a6e597e249",
@@ -105,8 +105,8 @@
       "last_updated": "2026-09-17T11:22:14.997932+00:00"
     },
     "developer-guide/provider-runtime.md": {
-      "sha": "a1718fd3435837618b6ade7534df17026e022573",
-      "last_updated": "2026-09-20T23:05:51.480091+00:00"
+      "sha": "cae44ae79ddd3037276dd63ac678efd878006f5c",
+      "last_updated": "2026-09-23T16:33:36.179794+00:00"
     },
     "developer-guide/secret-source-plugin.md": {
       "sha": "869db2fec3cf6b8f823fce7752367325756a3420",
@@ -153,8 +153,8 @@
       "last_updated": "2026-09-18T23:08:36.921771+00:00"
     },
     "getting-started/nix-setup.md": {
-      "sha": "c93cf0283f8ae0b9300dfed1597b9f5723b192f9",
-      "last_updated": "2026-09-19T20:22:02.094229+00:00"
+      "sha": "3907462350f5bf55cb9dee19e17f3411431130ac",
+      "last_updated": "2026-09-23T16:33:39.649167+00:00"
     },
     "getting-started/platform-support.md": {
       "sha": "1791716717c92e07f449eed99eace2fec2fe5a03",
@@ -321,8 +321,8 @@
       "last_updated": "2026-09-18T23:08:50.423331+00:00"
     },
     "integrations/index.md": {
-      "sha": "67feaf70dee0dad32a74be9903a2cabcda4da0ba",
-      "last_updated": "2026-09-18T23:08:50.795440+00:00"
+      "sha": "adf8f6ae005fa58d4e885c865c4c7979534bb178",
+      "last_updated": "2026-09-23T16:33:40.091501+00:00"
     },
     "integrations/nous-portal.md": {
       "sha": "e4170a68f426bc623451bc26754637ba9fb8e094",
@@ -341,16 +341,16 @@
       "last_updated": "2026-08-09T09:10:19.218265+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "1f01c6c2173337d75131de7f61cf170eec109040",
-      "last_updated": "2026-09-22T11:18:05.868060+00:00"
+      "sha": "68050f5ed793a7b11d486d0e79354d55f27aeb58",
+      "last_updated": "2026-09-23T16:33:40.322063+00:00"
     },
     "reference/environment-variables.md": {
       "sha": "17889cbe8b7d290cce20acc80b9d11573e909b7f",
       "last_updated": "2026-09-22T11:18:06.334891+00:00"
     },
     "reference/faq.md": {
-      "sha": "db9777c1dbca5ab0ae0d18f7d8d24b63646ca316",
-      "last_updated": "2026-09-20T04:23:40.114656+00:00"
+      "sha": "4448a98484a2d3fdc1c4fce0ad29dbc67960151a",
+      "last_updated": "2026-09-23T16:33:40.615273+00:00"
     },
     "reference/mcp-config-reference.md": {
       "sha": "cdb53264cf5942e49d53724425cf823a09e85962",
@@ -365,8 +365,8 @@
       "last_updated": "2026-09-20T20:35:56.351623+00:00"
     },
     "reference/profile-commands.md": {
-      "sha": "8e34e33136b6e0d4e3fd0c86d57a51e0f791867e",
-      "last_updated": "2026-09-18T20:42:26.025103+00:00"
+      "sha": "06244e462cc697a175616e8444b76f130aa18acf",
+      "last_updated": "2026-09-23T16:33:40.905370+00:00"
     },
     "reference/skills-catalog.md": {
       "sha": "0c17cbbd927af3001b7fed43d71cb655b1bfa59b",
@@ -377,8 +377,8 @@
       "last_updated": "2026-09-20T23:05:52.419435+00:00"
     },
     "reference/tools-reference.md": {
-      "sha": "1e07b5486ef7cb68a3ed1004b53f4d13bfd2604f",
-      "last_updated": "2026-09-23T04:14:04.642773+00:00"
+      "sha": "357ab37c0500b7dc1c3826a59d3edea7fa731c4c",
+      "last_updated": "2026-09-23T16:33:41.192439+00:00"
     },
     "reference/toolsets-reference.md": {
       "sha": "889b7a4d7dd2d02b348fe03906728bcb8ace8863",
@@ -409,8 +409,8 @@
       "last_updated": "2026-09-23T04:14:05.241897+00:00"
     },
     "user-guide/docker.md": {
-      "sha": "f7c8114964c70b8a231be0ccbcd1b213c12d02ec",
-      "last_updated": "2026-09-19T20:22:07.231411+00:00"
+      "sha": "9b176a0706981e4e36451e9baf58a6f75e841c24",
+      "last_updated": "2026-09-23T16:33:41.489038+00:00"
     },
     "user-guide/egress/index.md": {
       "sha": "90ccbb8a05e663ba816b4ac1e8bef7bca32eed5b",
@@ -429,8 +429,8 @@
       "last_updated": "2026-09-19T10:39:22.914876+00:00"
     },
     "user-guide/features/api-server.md": {
-      "sha": "32d586ffb99f8595c4c4b2940556422030e2116b",
-      "last_updated": "2026-09-20T20:35:58.692888+00:00"
+      "sha": "5db0303f4fe273b510db8e11ca41ac852440f57f",
+      "last_updated": "2026-09-23T16:33:41.792061+00:00"
     },
     "user-guide/features/batch-processing.md": {
       "sha": "cb86017543bf43b584b578304a8235cd1d0fd188",
@@ -453,8 +453,8 @@
       "last_updated": "2026-09-20T04:23:40.478858+00:00"
     },
     "user-guide/features/computer-use.md": {
-      "sha": "b41c478361c4394ac9080ea0548c715b4655162e",
-      "last_updated": "2026-09-21T12:29:01.008703+00:00"
+      "sha": "0af1431dee44fa6f40b96ad43f2aecbd07126ff6",
+      "last_updated": "2026-09-23T16:33:42.389759+00:00"
     },
     "user-guide/features/context-files.md": {
       "sha": "eb461c4cfc497a94c897c67049d43b0bf7b7355d",
@@ -469,8 +469,8 @@
       "last_updated": "2026-09-19T22:48:43.507123+00:00"
     },
     "user-guide/features/cron.md": {
-      "sha": "c419c6db59baea4420bf4803ed0dbca9a2ecaef6",
-      "last_updated": "2026-09-20T23:05:54.290901+00:00"
+      "sha": "1aaf1da3de36dbae069a865260aaf014e579541c",
+      "last_updated": "2026-09-23T16:33:42.666640+00:00"
     },
     "user-guide/features/curator.md": {
       "sha": "f298933f8ec96f6356527cf0130fb4a541f66fc5",
@@ -493,8 +493,8 @@
       "last_updated": "2026-09-18T23:09:02.848372+00:00"
     },
     "user-guide/features/fallback-providers.md": {
-      "sha": "6c47a6f2d0b251ff187206204f3b7d81c183ed18",
-      "last_updated": "2026-09-21T04:21:18.444203+00:00"
+      "sha": "489f6a86beb3a3d3f4a3f8cbb283c0718e605f73",
+      "last_updated": "2026-09-23T16:33:42.957151+00:00"
     },
     "user-guide/features/goals.md": {
       "sha": "298dc45aa9d83ea1e5aae8a2ced35abb841f4127",
@@ -537,20 +537,20 @@
       "last_updated": "2026-09-21T12:29:01.379521+00:00"
     },
     "user-guide/features/memory-providers.md": {
-      "sha": "6dfda6dcc1b0531ea382b637b197c06040bc1ba3",
-      "last_updated": "2026-09-18T23:09:05.385429+00:00"
+      "sha": "4eefe17e252ec312046f71e67a475400bee2df79",
+      "last_updated": "2026-09-23T16:33:43.245866+00:00"
     },
     "user-guide/features/memory.md": {
-      "sha": "efee7737fcab3f4e4a9086ce1b173d43a1a86d22",
-      "last_updated": "2026-09-21T12:29:01.678661+00:00"
+      "sha": "afe78f83d337f17b31139a5d68cf600af94f61b3",
+      "last_updated": "2026-09-23T16:33:43.535583+00:00"
     },
     "user-guide/features/mixture-of-agents.md": {
       "sha": "18abd47e9e10e883e10e54d9755308d917af6e72",
       "last_updated": "2026-09-19T04:04:27.824994+00:00"
     },
     "user-guide/features/overview.md": {
-      "sha": "c701d8ae6b271e78bb9597ec51fee2a1f1b691c0",
-      "last_updated": "2026-09-18T23:09:06.158704+00:00"
+      "sha": "6762f2ab8e84c0f21f7824360d0ee9720be3d870",
+      "last_updated": "2026-09-23T16:33:43.764321+00:00"
     },
     "user-guide/features/personality.md": {
       "sha": "7037af11bdf630bb343411ddd7e9161a084c55c3",
@@ -613,8 +613,8 @@
       "last_updated": "2026-09-18T23:09:10.459297+00:00"
     },
     "user-guide/features/web-dashboard.md": {
-      "sha": "bd695ce1b60a3162b1d3db128707d15e715579fb",
-      "last_updated": "2026-09-18T23:09:10.848625+00:00"
+      "sha": "bed869e53731f631be57973c3c8390c1c588a39d",
+      "last_updated": "2026-09-23T16:33:44.076898+00:00"
     },
     "user-guide/features/web-search.md": {
       "sha": "caabfcb24f06b5b67d8454599ebbf0f38755ceec",
@@ -661,8 +661,8 @@
       "last_updated": "2026-09-22T11:18:10.043668+00:00"
     },
     "user-guide/messaging/email.md": {
-      "sha": "436d27caecbc94e2e84983e3a0ce42446a322d0c",
-      "last_updated": "2026-09-18T23:09:12.405001+00:00"
+      "sha": "16ac4251c04a50e833e1ea88f353818117d39280",
+      "last_updated": "2026-09-23T16:33:44.372410+00:00"
     },
     "user-guide/messaging/feishu.md": {
       "sha": "42632cc40587743a2aaa481bee9686cf1c18c86b",
@@ -677,8 +677,8 @@
       "last_updated": "2026-08-09T09:10:45.350689+00:00"
     },
     "user-guide/messaging/index.md": {
-      "sha": "4df31e927839ca8cfec8eb47adc8624d55cb7a17",
-      "last_updated": "2026-09-21T12:29:02.333436+00:00"
+      "sha": "8466f1fa5f0a08e0a5106da92e71a4b6a08d0605",
+      "last_updated": "2026-09-23T16:33:44.674633+00:00"
     },
     "user-guide/messaging/irc.md": {
       "sha": "4fd21061621fc5e44a64222b7813561b41b28dd9",
@@ -781,16 +781,16 @@
       "last_updated": "2026-09-18T23:09:17.572688+00:00"
     },
     "user-guide/multi-profile-gateways.md": {
-      "sha": "210b36d42730eefea0574be72b3c6db1413c139a",
-      "last_updated": "2026-09-23T04:14:06.110466+00:00"
+      "sha": "2010522e7a69b5ce6fb3374140832b05a7f2bc67",
+      "last_updated": "2026-09-23T16:33:44.955267+00:00"
     },
     "user-guide/profile-distributions.md": {
       "sha": "0ea7f46dda67d31f5e6c53a24fb67817039a1b26",
       "last_updated": "2026-09-15T16:40:46.601919+00:00"
     },
     "user-guide/profiles.md": {
-      "sha": "006e31941b845b99bd1f4cf61e61fb344f852e78",
-      "last_updated": "2026-09-21T19:55:05.713694+00:00"
+      "sha": "345b74f2822c15d767d39c945f3a6db55fc28bcc",
+      "last_updated": "2026-09-23T16:33:45.235318+00:00"
     },
     "user-guide/secrets/bitwarden.md": {
       "sha": "671fb640fef781aacf418770bc94370bccd1c4b4",
@@ -1783,9 +1783,13 @@
     "developer-guide/plugins/application-declarations.md": {
       "sha": "20c465be6e3496e526a0c64446472c76fb56261a",
       "last_updated": "2026-09-22T16:40:24.161596+00:00"
+    },
+    "user-guide/features/bot-screen.md": {
+      "sha": "52c7962a667bbce91f7334683e428eec92bbcceb",
+      "last_updated": "2026-09-23T16:33:42.096677+00:00"
     }
   },
-  "last_updated": "2026-09-23T04:14:06.319779+00:00",
+  "last_updated": "2026-09-23T16:33:45.455624+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
