@@ -5,8 +5,8 @@
       "last_updated": "2026-08-09T09:09:58.475640+00:00"
     },
     "developer-guide/acp-internals.md": {
-      "sha": "0445b323abc8b26cfe18b69b8971259ff1614d11",
-      "last_updated": "2026-09-18T20:42:14.262340+00:00"
+      "sha": "1c5fed2e7e22771e48a09bf2f362424eb6debd95",
+      "last_updated": "2026-09-24T04:09:50.764994+00:00"
     },
     "developer-guide/adding-platform-adapters.md": {
       "sha": "536a7f66468959046df03ca25d6a8e0220196309",
@@ -169,8 +169,8 @@
       "last_updated": "2026-09-20T20:35:52.946574+00:00"
     },
     "getting-started/updating.md": {
-      "sha": "a5c9eaa295f1444efcfcb516728453832af6dc02",
-      "last_updated": "2026-09-21T19:55:03.883351+00:00"
+      "sha": "33bd4424412ccc4172d2edc8c407eea50f690f43",
+      "last_updated": "2026-09-24T04:09:51.532417+00:00"
     },
     "guides/_category_.json": {
       "sha": "6d1d2f0b9ec098f749715dd4deebc4d4b753b610",
@@ -341,8 +341,8 @@
       "last_updated": "2026-08-09T09:10:19.218265+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "075005479ed9a11a77e2a31925c8802a1a22277d",
-      "last_updated": "2026-09-23T21:20:13.890602+00:00"
+      "sha": "b89def1a0afd814be4dca7dc71dcf571afff9a58",
+      "last_updated": "2026-09-24T04:09:51.904089+00:00"
     },
     "reference/environment-variables.md": {
       "sha": "17889cbe8b7d290cce20acc80b9d11573e909b7f",
@@ -393,12 +393,12 @@
       "last_updated": "2026-09-18T20:42:27.314418+00:00"
     },
     "user-guide/cli.md": {
-      "sha": "dcc6e756c59e11a622e4e02b5b964e42818207a5",
-      "last_updated": "2026-09-23T21:20:14.540622+00:00"
+      "sha": "5af8fc9e07f96b8a21f6bd6fc1b5851381df10f4",
+      "last_updated": "2026-09-24T04:09:52.286835+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "6ddbc5404de3155a67834176c42ab6add136ccd4",
-      "last_updated": "2026-09-23T21:20:14.833532+00:00"
+      "sha": "2dec21b039bbaaadc6520c46b4f49af63c82cb64",
+      "last_updated": "2026-09-24T04:09:52.689392+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "bd06b3180249eaeef3f660160b7ac5e44ae67434",
@@ -425,8 +425,8 @@
       "last_updated": "2026-08-09T09:10:24.733947+00:00"
     },
     "user-guide/features/acp.md": {
-      "sha": "8d7ad9dd475c0c7b866385de4baed6547830d747",
-      "last_updated": "2026-09-19T10:39:22.914876+00:00"
+      "sha": "ad4ebb37c7ac19dc746170ab5d79aa8436de2578",
+      "last_updated": "2026-09-24T04:09:53.071885+00:00"
     },
     "user-guide/features/api-server.md": {
       "sha": "5db0303f4fe273b510db8e11ca41ac852440f57f",
@@ -477,8 +477,8 @@
       "last_updated": "2026-09-22T11:18:07.110689+00:00"
     },
     "user-guide/features/delegation.md": {
-      "sha": "a53ad1ede5d6ec7d5933b86ca99261d47ca799a0",
-      "last_updated": "2026-09-20T23:05:54.808446+00:00"
+      "sha": "fa9bd16a717667bac8d80550ee22320a4ceae51d",
+      "last_updated": "2026-09-24T04:09:53.789598+00:00"
     },
     "user-guide/features/deliverable-mode.md": {
       "sha": "ea042049b33d23d91df269bdf350c9411c35ffd4",
@@ -605,8 +605,8 @@
       "last_updated": "2026-09-19T20:22:13.605854+00:00"
     },
     "user-guide/features/voice-mode.md": {
-      "sha": "a33f6dde8840a99fef5b3742525167e42054f092",
-      "last_updated": "2026-09-19T20:22:13.998437+00:00"
+      "sha": "6aab39939e5e83b09367e44b1c02a4f5e965b6f5",
+      "last_updated": "2026-09-24T04:09:54.156682+00:00"
     },
     "user-guide/features/wake-word.md": {
       "sha": "91b54cc32621010f1c252cb0260d461902e09e57",
@@ -677,8 +677,8 @@
       "last_updated": "2026-08-09T09:10:45.350689+00:00"
     },
     "user-guide/messaging/index.md": {
-      "sha": "9650818e8cd6a24fcd7383f5102b7db9fc554c10",
-      "last_updated": "2026-09-23T21:20:15.147351+00:00"
+      "sha": "1ad2373964103081767c7c581ab870e73ee75140",
+      "last_updated": "2026-09-24T04:09:54.527162+00:00"
     },
     "user-guide/messaging/irc.md": {
       "sha": "4fd21061621fc5e44a64222b7813561b41b28dd9",
@@ -753,8 +753,8 @@
       "last_updated": "2026-09-22T11:18:10.461345+00:00"
     },
     "user-guide/messaging/webhooks.md": {
-      "sha": "f4bbd1affb5c75f894c9f16a2e46c530a8b51db2",
-      "last_updated": "2026-09-15T11:28:52.937623+00:00"
+      "sha": "55c70f41a1a95693e0f09190f773a65449547f9e",
+      "last_updated": "2026-09-24T04:09:54.921482+00:00"
     },
     "user-guide/messaging/wecom-callback.md": {
       "sha": "f6cf5ed4a473f9555e0b40169fcc5bd57e33ab09",
@@ -1485,8 +1485,8 @@
       "last_updated": "2026-09-19T20:22:31.360878+00:00"
     },
     "user-guide/tui.md": {
-      "sha": "20deb9c95d668e13a00a158a4936e2b724327ef1",
-      "last_updated": "2026-09-23T21:20:16.040844+00:00"
+      "sha": "8d2679c193283b32f62d4899593e3bff2162935f",
+      "last_updated": "2026-09-24T04:09:55.292832+00:00"
     },
     "user-guide/which-file-does-what.md": {
       "sha": "fdd9f43de58c65c964ff1b954d634dab2575b13a",
@@ -1705,8 +1705,8 @@
       "last_updated": "2026-09-19T20:21:59.438828+00:00"
     },
     "developer-guide/gateway-session-lifecycle.md": {
-      "sha": "2df83f49cc57ae7f93bb927e1e322bc73b9dcf5e",
-      "last_updated": "2026-09-19T04:04:24.497527+00:00"
+      "sha": "b9edf3f9c6b8c01d2df798cfeb3f406c49df5d80",
+      "last_updated": "2026-09-24T04:09:51.159517+00:00"
     },
     "developer-guide/micro-compaction.md": {
       "sha": "3c3f3190862b4499b01868cf3ae260a307317615",
@@ -1785,11 +1785,11 @@
       "last_updated": "2026-09-22T16:40:24.161596+00:00"
     },
     "user-guide/features/bot-screen.md": {
-      "sha": "52c7962a667bbce91f7334683e428eec92bbcceb",
-      "last_updated": "2026-09-23T16:33:42.096677+00:00"
+      "sha": "67a0d8f39e3a0cfd08cc370cada2137a0ffb5e78",
+      "last_updated": "2026-09-24T04:09:53.421672+00:00"
     }
   },
-  "last_updated": "2026-09-23T21:20:16.248148+00:00",
+  "last_updated": "2026-09-24T04:09:55.497250+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
