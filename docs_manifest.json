@@ -429,8 +429,8 @@
       "last_updated": "2026-09-25T04:23:14.635468+00:00"
     },
     "user-guide/features/api-server.md": {
-      "sha": "5db0303f4fe273b510db8e11ca41ac852440f57f",
-      "last_updated": "2026-09-23T16:33:41.792061+00:00"
+      "sha": "142caf45b08c3abef7c0135906c89b9af57a30d7",
+      "last_updated": "2026-09-25T11:33:18.658550+00:00"
     },
     "user-guide/features/batch-processing.md": {
       "sha": "cb86017543bf43b584b578304a8235cd1d0fd188",
@@ -1817,7 +1817,7 @@
       "last_updated": "2026-09-25T04:23:29.058414+00:00"
     }
   },
-  "last_updated": "2026-09-25T04:23:29.875178+00:00",
+  "last_updated": "2026-09-25T11:33:18.868511+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
