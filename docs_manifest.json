@@ -405,8 +405,8 @@
       "last_updated": "2026-09-19T20:22:06.492112+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "cc745c3492f2f0a41e7b68e9e8bbcc709cc9e69b",
-      "last_updated": "2026-09-25T04:23:13.669282+00:00"
+      "sha": "7cf292f2877cdf627ffb40bf6d9df128e4aede65",
+      "last_updated": "2026-09-25T21:21:33.303548+00:00"
     },
     "user-guide/docker.md": {
       "sha": "525d3028a3d13eeaab30e7fb7b9c087894b58003",
@@ -429,8 +429,8 @@
       "last_updated": "2026-09-25T04:23:14.635468+00:00"
     },
     "user-guide/features/api-server.md": {
-      "sha": "142caf45b08c3abef7c0135906c89b9af57a30d7",
-      "last_updated": "2026-09-25T11:33:18.658550+00:00"
+      "sha": "1c940e6db4220c92a9aa6218817329d6a456aeb5",
+      "last_updated": "2026-09-25T21:21:33.621966+00:00"
     },
     "user-guide/features/batch-processing.md": {
       "sha": "cb86017543bf43b584b578304a8235cd1d0fd188",
@@ -525,8 +525,8 @@
       "last_updated": "2026-09-18T20:42:32.208157+00:00"
     },
     "user-guide/features/kanban.md": {
-      "sha": "7eb9ac85ea1fafee4b44f9eb4263cb7722bccccd",
-      "last_updated": "2026-09-22T11:18:08.084580+00:00"
+      "sha": "507fa598ce20e9184c6d6bdceab183cff0deb9e0",
+      "last_updated": "2026-09-25T21:21:33.902867+00:00"
     },
     "user-guide/features/lsp.md": {
       "sha": "77847baebe611eeab9eccfe2a3d0f26c1783d68c",
@@ -561,16 +561,16 @@
       "last_updated": "2026-09-18T23:09:07.084598+00:00"
     },
     "user-guide/features/plugins.md": {
-      "sha": "875e3fa79b0cfda056736f27db7e67ca93ff3a78",
-      "last_updated": "2026-09-25T04:23:17.713540+00:00"
+      "sha": "902b6f35b95bffd855c09ad1695676fc58ed8f8f",
+      "last_updated": "2026-09-25T21:21:34.539398+00:00"
     },
     "user-guide/features/provider-routing.md": {
       "sha": "ecd7c3259c431ace69c565bb2e31151e4007e0ae",
       "last_updated": "2026-09-18T23:09:08.217582+00:00"
     },
     "user-guide/features/skills.md": {
-      "sha": "b791c38492b18e0a136a038f2999816234e8b976",
-      "last_updated": "2026-09-25T04:23:18.010133+00:00"
+      "sha": "a8594f51897b373f690ce1c83fc9e9f4986b16ba",
+      "last_updated": "2026-09-25T21:21:34.830425+00:00"
     },
     "user-guide/features/skins.md": {
       "sha": "eb8ecf32e1617ad2d1eaca214626e7b59b85a194",
@@ -1661,8 +1661,8 @@
       "last_updated": "2026-09-20T20:37:03.470991+00:00"
     },
     "user-guide/features/plugin-catalog.md": {
-      "sha": "1b8ccca485ffe650bb0ac120e25d7875cb96db7e",
-      "last_updated": "2026-09-25T04:23:17.393744+00:00"
+      "sha": "feda75c8cf4303b2a1bb6d6f6a308012ec939f17",
+      "last_updated": "2026-09-25T21:21:34.228015+00:00"
     },
     "user-guide/features/credential-vault.md": {
       "sha": "dc3abb33ea7cf77667cf6e739004b09a07aad7db",
@@ -1805,8 +1805,8 @@
       "last_updated": "2026-09-25T04:23:05.314508+00:00"
     },
     "developer-guide/stable-releases.md": {
-      "sha": "fe57628c1ed6c7e6837db0d3496304cdd01f1096",
-      "last_updated": "2026-09-25T04:23:05.617763+00:00"
+      "sha": "5dc64abc7ac81e4a970d6c5b25e94ee6b8080620",
+      "last_updated": "2026-09-25T21:21:32.968881+00:00"
     },
     "reference/package-management.md": {
       "sha": "52f6a72adf787eaa0ad5698abf76a4411b5f0349",
@@ -1817,7 +1817,7 @@
       "last_updated": "2026-09-25T04:23:29.058414+00:00"
     }
   },
-  "last_updated": "2026-09-25T11:33:18.868511+00:00",
+  "last_updated": "2026-09-25T21:21:35.040097+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
