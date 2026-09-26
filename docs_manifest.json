@@ -41,8 +41,8 @@
       "last_updated": "2026-09-04T16:06:01.194698+00:00"
     },
     "developer-guide/context-compression-and-caching.md": {
-      "sha": "d80b893596d87acae16ed9e1ac10adc5296d340d",
-      "last_updated": "2026-09-22T21:06:20.951258+00:00"
+      "sha": "0ea61aee1210768fc0166ebb547c5e70d178dfce",
+      "last_updated": "2026-09-26T16:08:37.502928+00:00"
     },
     "developer-guide/context-engine-plugin.md": {
       "sha": "d124ce46d9b22e7f08167a8f4c021ca82d2be307",
@@ -1817,7 +1817,7 @@
       "last_updated": "2026-09-25T04:23:29.058414+00:00"
     }
   },
-  "last_updated": "2026-09-26T04:27:14.169494+00:00",
+  "last_updated": "2026-09-26T16:08:37.712866+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
