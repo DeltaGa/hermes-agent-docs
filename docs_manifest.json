@@ -41,8 +41,8 @@
       "last_updated": "2026-09-04T16:06:01.194698+00:00"
     },
     "developer-guide/context-compression-and-caching.md": {
-      "sha": "0ea61aee1210768fc0166ebb547c5e70d178dfce",
-      "last_updated": "2026-09-26T16:08:37.502928+00:00"
+      "sha": "b7b78a618db06398f16f27225d39566ceba9849c",
+      "last_updated": "2026-09-26T20:53:25.740760+00:00"
     },
     "developer-guide/context-engine-plugin.md": {
       "sha": "d124ce46d9b22e7f08167a8f4c021ca82d2be307",
@@ -341,12 +341,12 @@
       "last_updated": "2026-08-09T09:10:19.218265+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "a2f81b1724a8e4307972c21835413f24428152ec",
-      "last_updated": "2026-09-25T04:23:11.733266+00:00"
+      "sha": "a4373c18c530780ae630a9022dd9109cd69ee6b4",
+      "last_updated": "2026-09-26T20:53:26.115850+00:00"
     },
     "reference/environment-variables.md": {
-      "sha": "1e01e81322d73a5c4f93a020faf8461385e129f4",
-      "last_updated": "2026-09-25T04:23:12.045566+00:00"
+      "sha": "de81c25825782b82ccb27d3d3542798408152039",
+      "last_updated": "2026-09-26T20:53:26.536346+00:00"
     },
     "reference/faq.md": {
       "sha": "3cd01e00d6b1668c034531d9ae687e933e551845",
@@ -365,8 +365,8 @@
       "last_updated": "2026-09-20T20:35:56.351623+00:00"
     },
     "reference/profile-commands.md": {
-      "sha": "06244e462cc697a175616e8444b76f130aa18acf",
-      "last_updated": "2026-09-23T16:33:40.905370+00:00"
+      "sha": "e629a91d378c8de07ed15113f24bf3253e5567e9",
+      "last_updated": "2026-09-26T20:53:27.091704+00:00"
     },
     "reference/skills-catalog.md": {
       "sha": "0c17cbbd927af3001b7fed43d71cb655b1bfa59b",
@@ -397,8 +397,8 @@
       "last_updated": "2026-09-24T04:09:52.286835+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "1883092fe088b8fb8a1e6ff6a83e909f494ab7f3",
-      "last_updated": "2026-09-25T04:23:13.319718+00:00"
+      "sha": "73efc481bfeee0ca12d6d7760e57e2486f358700",
+      "last_updated": "2026-09-26T20:53:27.719933+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "bd06b3180249eaeef3f660160b7ac5e44ae67434",
@@ -469,8 +469,8 @@
       "last_updated": "2026-09-24T11:27:41.873164+00:00"
     },
     "user-guide/features/cron.md": {
-      "sha": "c49316ace4729fff9ef1e0be0c2398ab94e54977",
-      "last_updated": "2026-09-25T04:23:16.503532+00:00"
+      "sha": "f64cd647825b111dac756c0e5c450a8cc3c1cfb3",
+      "last_updated": "2026-09-26T20:53:28.161880+00:00"
     },
     "user-guide/features/curator.md": {
       "sha": "f298933f8ec96f6356527cf0130fb4a541f66fc5",
@@ -525,8 +525,8 @@
       "last_updated": "2026-09-18T20:42:32.208157+00:00"
     },
     "user-guide/features/kanban.md": {
-      "sha": "507fa598ce20e9184c6d6bdceab183cff0deb9e0",
-      "last_updated": "2026-09-25T21:21:33.902867+00:00"
+      "sha": "0363bbd6c8d5c2158056f14c529767f13a23d6e8",
+      "last_updated": "2026-09-26T20:53:41.843749+00:00"
     },
     "user-guide/features/lsp.md": {
       "sha": "77847baebe611eeab9eccfe2a3d0f26c1783d68c",
@@ -677,8 +677,8 @@
       "last_updated": "2026-08-09T09:10:45.350689+00:00"
     },
     "user-guide/messaging/index.md": {
-      "sha": "b343b584e1721a7a31e0a3386bf326911c1f0eb5",
-      "last_updated": "2026-09-26T04:27:13.582691+00:00"
+      "sha": "083fa5ede7ec3577fa2b1a1c7488179185324fe7",
+      "last_updated": "2026-09-26T20:53:42.814470+00:00"
     },
     "user-guide/messaging/irc.md": {
       "sha": "4fd21061621fc5e44a64222b7813561b41b28dd9",
@@ -813,8 +813,8 @@
       "last_updated": "2026-09-25T04:23:25.127310+00:00"
     },
     "user-guide/sessions.md": {
-      "sha": "6362ff984a43e9761dddbdc7f2c1a6fb4b790ecd",
-      "last_updated": "2026-09-24T16:53:32.490378+00:00"
+      "sha": "582c2b184d474179de326ef74509429bdf08459a",
+      "last_updated": "2026-09-26T20:53:43.261800+00:00"
     },
     "user-guide/skills/bundled/apple/apple-apple-notes.md": {
       "sha": "d845e5b31985bb38ddf388f816a66993f4d3f177",
@@ -1661,8 +1661,8 @@
       "last_updated": "2026-09-20T20:37:03.470991+00:00"
     },
     "user-guide/features/plugin-catalog.md": {
-      "sha": "feda75c8cf4303b2a1bb6d6f6a308012ec939f17",
-      "last_updated": "2026-09-25T21:21:34.228015+00:00"
+      "sha": "6b420aa52f5256b5e6840fbf80e6481b11273897",
+      "last_updated": "2026-09-26T20:53:42.342204+00:00"
     },
     "user-guide/features/credential-vault.md": {
       "sha": "dc3abb33ea7cf77667cf6e739004b09a07aad7db",
@@ -1817,7 +1817,7 @@
       "last_updated": "2026-09-25T04:23:29.058414+00:00"
     }
   },
-  "last_updated": "2026-09-26T16:08:37.712866+00:00",
+  "last_updated": "2026-09-26T20:53:43.474783+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
