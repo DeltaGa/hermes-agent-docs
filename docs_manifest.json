@@ -157,8 +157,8 @@
       "last_updated": "2026-09-25T04:23:07.868776+00:00"
     },
     "getting-started/platform-support.md": {
-      "sha": "895fbc29430b65d6547fd4581406199f96749882",
-      "last_updated": "2026-09-25T04:23:08.173578+00:00"
+      "sha": "973d747d9a1ae6f4b66c38be9f52f3b9affa7a42",
+      "last_updated": "2026-09-26T23:27:44.251474+00:00"
     },
     "getting-started/quickstart.md": {
       "sha": "a015bc630d8da092acb785e4a3ddaf202ac7e9ea",
@@ -345,8 +345,8 @@
       "last_updated": "2026-09-26T20:53:26.115850+00:00"
     },
     "reference/environment-variables.md": {
-      "sha": "de81c25825782b82ccb27d3d3542798408152039",
-      "last_updated": "2026-09-26T20:53:26.536346+00:00"
+      "sha": "e2ba195ca2dee978b0f986b517c3cf27832b2126",
+      "last_updated": "2026-09-26T23:27:44.667641+00:00"
     },
     "reference/faq.md": {
       "sha": "3cd01e00d6b1668c034531d9ae687e933e551845",
@@ -405,8 +405,8 @@
       "last_updated": "2026-09-19T20:22:06.492112+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "7cf292f2877cdf627ffb40bf6d9df128e4aede65",
-      "last_updated": "2026-09-25T21:21:33.303548+00:00"
+      "sha": "00caeff2b8789756245868adc0cf52bab1b9b113",
+      "last_updated": "2026-09-26T23:27:45.082481+00:00"
     },
     "user-guide/docker.md": {
       "sha": "525d3028a3d13eeaab30e7fb7b9c087894b58003",
@@ -453,8 +453,8 @@
       "last_updated": "2026-09-20T04:23:40.478858+00:00"
     },
     "user-guide/features/computer-use.md": {
-      "sha": "357a5540e2e317383515735bbafd88786ef61fb7",
-      "last_updated": "2026-09-25T04:23:16.187160+00:00"
+      "sha": "9a09d504c3105825f927ccffed319f015e9867e6",
+      "last_updated": "2026-09-26T23:27:45.476489+00:00"
     },
     "user-guide/features/context-files.md": {
       "sha": "eb461c4cfc497a94c897c67049d43b0bf7b7355d",
@@ -1817,7 +1817,7 @@
       "last_updated": "2026-09-25T04:23:29.058414+00:00"
     }
   },
-  "last_updated": "2026-09-26T20:53:43.474783+00:00",
+  "last_updated": "2026-09-26T23:27:45.686145+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
