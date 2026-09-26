@@ -573,8 +573,8 @@
       "last_updated": "2026-09-25T21:21:34.830425+00:00"
     },
     "user-guide/features/skins.md": {
-      "sha": "eb8ecf32e1617ad2d1eaca214626e7b59b85a194",
-      "last_updated": "2026-09-18T23:09:09.001853+00:00"
+      "sha": "5fb780757b413d5ab815d78778453b97d72265ac",
+      "last_updated": "2026-09-26T04:27:13.218545+00:00"
     },
     "user-guide/features/spotify.md": {
       "sha": "1a2b628293a424aa20901461b011a4778841c90f",
@@ -677,8 +677,8 @@
       "last_updated": "2026-08-09T09:10:45.350689+00:00"
     },
     "user-guide/messaging/index.md": {
-      "sha": "03098e7afe377aa18b5e21f5f1e36da021fca7e4",
-      "last_updated": "2026-09-24T16:53:32.120774+00:00"
+      "sha": "b343b584e1721a7a31e0a3386bf326911c1f0eb5",
+      "last_updated": "2026-09-26T04:27:13.582691+00:00"
     },
     "user-guide/messaging/irc.md": {
       "sha": "4fd21061621fc5e44a64222b7813561b41b28dd9",
@@ -733,8 +733,8 @@
       "last_updated": "2026-09-25T04:23:22.192757+00:00"
     },
     "user-guide/messaging/slack.md": {
-      "sha": "f8dd1ea69b737901051cf06801e87106b1661757",
-      "last_updated": "2026-09-25T04:23:22.488930+00:00"
+      "sha": "d70a3e4ead288568dbc5048028b2772071f3a81c",
+      "last_updated": "2026-09-26T04:27:13.960234+00:00"
     },
     "user-guide/messaging/sms.md": {
       "sha": "d8cc112e065ef6f3ce9890664d390525a22c0c37",
@@ -1817,7 +1817,7 @@
       "last_updated": "2026-09-25T04:23:29.058414+00:00"
     }
   },
-  "last_updated": "2026-09-25T21:21:35.040097+00:00",
+  "last_updated": "2026-09-26T04:27:14.169494+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
