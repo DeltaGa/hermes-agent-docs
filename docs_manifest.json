@@ -41,8 +41,8 @@
       "last_updated": "2026-09-04T16:06:01.194698+00:00"
     },
     "developer-guide/context-compression-and-caching.md": {
-      "sha": "b7b78a618db06398f16f27225d39566ceba9849c",
-      "last_updated": "2026-09-26T20:53:25.740760+00:00"
+      "sha": "3199d9a11b995c1372e2c5f4fa6eb43b6baca7a0",
+      "last_updated": "2026-09-27T16:44:51.151914+00:00"
     },
     "developer-guide/context-engine-plugin.md": {
       "sha": "d124ce46d9b22e7f08167a8f4c021ca82d2be307",
@@ -397,8 +397,8 @@
       "last_updated": "2026-09-24T04:09:52.286835+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "73efc481bfeee0ca12d6d7760e57e2486f358700",
-      "last_updated": "2026-09-26T20:53:27.719933+00:00"
+      "sha": "50d7570015db46fd702cace92944660490a2bb22",
+      "last_updated": "2026-09-27T16:44:51.581613+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "bd06b3180249eaeef3f660160b7ac5e44ae67434",
@@ -613,8 +613,8 @@
       "last_updated": "2026-09-25T04:23:19.154246+00:00"
     },
     "user-guide/features/web-dashboard.md": {
-      "sha": "7b164fad86146da4e29847c2e25a018d057151c7",
-      "last_updated": "2026-09-25T04:23:19.440625+00:00"
+      "sha": "4bee7a415d1b3c4c8ff50003a14d26506a97eb87",
+      "last_updated": "2026-09-27T16:44:52.076799+00:00"
     },
     "user-guide/features/web-search.md": {
       "sha": "81e515d344e963bada4b30e7ea702902d96b3a14",
@@ -729,8 +729,8 @@
       "last_updated": "2026-08-25T03:52:31.879412+00:00"
     },
     "user-guide/messaging/simplex.md": {
-      "sha": "83fb176a410e1be0fba1f63673fb0fe33d3c15fe",
-      "last_updated": "2026-09-25T04:23:22.192757+00:00"
+      "sha": "e1317f66b3e3d64741722738563e5508f17af65b",
+      "last_updated": "2026-09-27T16:44:52.468704+00:00"
     },
     "user-guide/messaging/slack.md": {
       "sha": "d70a3e4ead288568dbc5048028b2772071f3a81c",
@@ -813,8 +813,8 @@
       "last_updated": "2026-09-25T04:23:25.127310+00:00"
     },
     "user-guide/sessions.md": {
-      "sha": "582c2b184d474179de326ef74509429bdf08459a",
-      "last_updated": "2026-09-26T20:53:43.261800+00:00"
+      "sha": "4403ac6bf276d1bcd72db7c8a6818906625fdcb2",
+      "last_updated": "2026-09-27T16:44:52.810945+00:00"
     },
     "user-guide/skills/bundled/apple/apple-apple-notes.md": {
       "sha": "d845e5b31985bb38ddf388f816a66993f4d3f177",
@@ -1825,7 +1825,7 @@
       "last_updated": "2026-09-27T04:45:04.535265+00:00"
     }
   },
-  "last_updated": "2026-09-27T11:46:25.202705+00:00",
+  "last_updated": "2026-09-27T16:44:53.020236+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
