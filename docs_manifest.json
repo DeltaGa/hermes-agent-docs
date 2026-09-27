@@ -405,8 +405,8 @@
       "last_updated": "2026-09-19T20:22:06.492112+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "00caeff2b8789756245868adc0cf52bab1b9b113",
-      "last_updated": "2026-09-26T23:27:45.082481+00:00"
+      "sha": "80625c23d19ae5b54bb7fc93e601ba2ddf40a555",
+      "last_updated": "2026-09-27T11:46:24.993128+00:00"
     },
     "user-guide/docker.md": {
       "sha": "525d3028a3d13eeaab30e7fb7b9c087894b58003",
@@ -1825,7 +1825,7 @@
       "last_updated": "2026-09-27T04:45:04.535265+00:00"
     }
   },
-  "last_updated": "2026-09-27T04:45:05.090586+00:00",
+  "last_updated": "2026-09-27T11:46:25.202705+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
