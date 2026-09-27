@@ -61,8 +61,8 @@
       "last_updated": "2026-09-23T16:33:35.180261+00:00"
     },
     "developer-guide/desktop-plugin-sdk.md": {
-      "sha": "790b60d946d9fbba3e0126883836cb65023c9f19",
-      "last_updated": "2026-09-24T11:27:26.627476+00:00"
+      "sha": "c63cdb148fa36b102d827ee38e60d39c4daf7edd",
+      "last_updated": "2026-09-27T21:09:52.904551+00:00"
     },
     "developer-guide/egress-internals.md": {
       "sha": "dde37d99ace8f900d6f23431db168637c191dda4",
@@ -197,8 +197,8 @@
       "last_updated": "2026-09-25T04:23:09.894851+00:00"
     },
     "guides/cron-script-only.md": {
-      "sha": "c5d2250ab49be9e8d71fd2d92d172509e13403b8",
-      "last_updated": "2026-09-20T20:35:54.610636+00:00"
+      "sha": "8c4de0b267cf1759d5ec1d5b297233af2474486a",
+      "last_updated": "2026-09-27T21:09:53.636364+00:00"
     },
     "guides/cron-troubleshooting.md": {
       "sha": "fbb96320da26e6d4fed9f0b48519d2b27ea0c382",
@@ -469,8 +469,8 @@
       "last_updated": "2026-09-24T11:27:41.873164+00:00"
     },
     "user-guide/features/cron.md": {
-      "sha": "f64cd647825b111dac756c0e5c450a8cc3c1cfb3",
-      "last_updated": "2026-09-26T20:53:28.161880+00:00"
+      "sha": "b79c7deb2badf86970ab9c996f97bb23369a3f84",
+      "last_updated": "2026-09-27T21:09:54.690554+00:00"
     },
     "user-guide/features/curator.md": {
       "sha": "f298933f8ec96f6356527cf0130fb4a541f66fc5",
@@ -525,8 +525,8 @@
       "last_updated": "2026-09-18T20:42:32.208157+00:00"
     },
     "user-guide/features/kanban.md": {
-      "sha": "0363bbd6c8d5c2158056f14c529767f13a23d6e8",
-      "last_updated": "2026-09-26T20:53:41.843749+00:00"
+      "sha": "b682fb89176df957f1fecaf817ad6a16d52e44eb",
+      "last_updated": "2026-09-27T21:09:55.061571+00:00"
     },
     "user-guide/features/lsp.md": {
       "sha": "77847baebe611eeab9eccfe2a3d0f26c1783d68c",
@@ -1493,8 +1493,8 @@
       "last_updated": "2026-09-18T23:10:10.795284+00:00"
     },
     "user-guide/windows-native.md": {
-      "sha": "f574511babf59e5c61ab388f79bcd1d1f42f66d0",
-      "last_updated": "2026-09-27T04:45:04.886085+00:00"
+      "sha": "c9784b16d740e8b037475ac6f3abc6178d99c63a",
+      "last_updated": "2026-09-27T21:09:55.466447+00:00"
     },
     "user-guide/windows-wsl-quickstart.md": {
       "sha": "d361f3176439276070acaa78fdbbd8f066ef29dd",
@@ -1809,8 +1809,8 @@
       "last_updated": "2026-09-25T21:21:32.968881+00:00"
     },
     "reference/package-management.md": {
-      "sha": "52f6a72adf787eaa0ad5698abf76a4411b5f0349",
-      "last_updated": "2026-09-25T04:23:12.658527+00:00"
+      "sha": "c40a5d86190367a10f2d38bd2c4e692b4ec72eac",
+      "last_updated": "2026-09-27T21:09:53.949604+00:00"
     },
     "user-guide/switching-to-source.md": {
       "sha": "766782bed736ffa0bbb0ff70d3c46212547257a4",
@@ -1825,7 +1825,7 @@
       "last_updated": "2026-09-27T04:45:04.535265+00:00"
     }
   },
-  "last_updated": "2026-09-27T16:44:53.020236+00:00",
+  "last_updated": "2026-09-27T21:09:55.670811+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
