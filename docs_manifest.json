@@ -169,8 +169,8 @@
       "last_updated": "2026-09-25T04:23:08.701451+00:00"
     },
     "getting-started/updating.md": {
-      "sha": "c6be34a9ad2f1a353de1fc6eed088a4c7860b69a",
-      "last_updated": "2026-09-25T04:23:08.993819+00:00"
+      "sha": "bef23da2630743fb5ab371d311cdd4b62762c8a0",
+      "last_updated": "2026-09-27T04:45:02.747338+00:00"
     },
     "guides/_category_.json": {
       "sha": "6d1d2f0b9ec098f749715dd4deebc4d4b753b610",
@@ -361,8 +361,8 @@
       "last_updated": "2026-09-18T20:42:25.458764+00:00"
     },
     "reference/optional-skills-catalog.md": {
-      "sha": "a59ba090f0218ab39ce5bdf145118fe76d82251e",
-      "last_updated": "2026-09-20T20:35:56.351623+00:00"
+      "sha": "d6ea8e8c990289f65bf8ed7e8bbd55cd65b8e267",
+      "last_updated": "2026-09-27T04:45:03.105087+00:00"
     },
     "reference/profile-commands.md": {
       "sha": "e629a91d378c8de07ed15113f24bf3253e5567e9",
@@ -377,8 +377,8 @@
       "last_updated": "2026-09-20T23:05:52.419435+00:00"
     },
     "reference/tools-reference.md": {
-      "sha": "357ab37c0500b7dc1c3826a59d3edea7fa731c4c",
-      "last_updated": "2026-09-23T16:33:41.192439+00:00"
+      "sha": "693f6277ed8835e3756b74921cbac3c4267a64e2",
+      "last_updated": "2026-09-27T04:45:03.483824+00:00"
     },
     "reference/toolsets-reference.md": {
       "sha": "889b7a4d7dd2d02b348fe03906728bcb8ace8863",
@@ -677,8 +677,8 @@
       "last_updated": "2026-08-09T09:10:45.350689+00:00"
     },
     "user-guide/messaging/index.md": {
-      "sha": "083fa5ede7ec3577fa2b1a1c7488179185324fe7",
-      "last_updated": "2026-09-26T20:53:42.814470+00:00"
+      "sha": "047bc448104435c4e43d740a4d2e2a8ca103a297",
+      "last_updated": "2026-09-27T04:45:03.822353+00:00"
     },
     "user-guide/messaging/irc.md": {
       "sha": "4fd21061621fc5e44a64222b7813561b41b28dd9",
@@ -1493,8 +1493,8 @@
       "last_updated": "2026-09-18T23:10:10.795284+00:00"
     },
     "user-guide/windows-native.md": {
-      "sha": "89aa1fbdcc7198d19ee07d29667f6e52b26c3138",
-      "last_updated": "2026-09-25T04:23:29.371386+00:00"
+      "sha": "f574511babf59e5c61ab388f79bcd1d1f42f66d0",
+      "last_updated": "2026-09-27T04:45:04.886085+00:00"
     },
     "user-guide/windows-wsl-quickstart.md": {
       "sha": "d361f3176439276070acaa78fdbbd8f066ef29dd",
@@ -1815,9 +1815,17 @@
     "user-guide/switching-to-source.md": {
       "sha": "766782bed736ffa0bbb0ff70d3c46212547257a4",
       "last_updated": "2026-09-25T04:23:29.058414+00:00"
+    },
+    "user-guide/skills/optional/creative/creative-brag-slim.md": {
+      "sha": "38b87fcab88bc5afd68302d154b88f11518cc77c",
+      "last_updated": "2026-09-27T04:45:04.209240+00:00"
+    },
+    "user-guide/skills/optional/creative/creative-brag.md": {
+      "sha": "39321584fd1122d07db1282ecdaab683c72c5fcb",
+      "last_updated": "2026-09-27T04:45:04.535265+00:00"
     }
   },
-  "last_updated": "2026-09-26T23:27:45.686145+00:00",
+  "last_updated": "2026-09-27T04:45:05.090586+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
