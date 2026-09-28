@@ -145,8 +145,8 @@
       "last_updated": "2026-08-09T09:10:07.140471+00:00"
     },
     "getting-started/installation.md": {
-      "sha": "29f41a40e632898449a1158604ff53a646d1f6ff",
-      "last_updated": "2026-09-25T04:23:06.784413+00:00"
+      "sha": "b3013f68a27cc71dd10f9f4bdfbd8217944a9e43",
+      "last_updated": "2026-09-28T04:46:57.676107+00:00"
     },
     "getting-started/learning-path.md": {
       "sha": "6ddce59518667babf1122eb07d2f8b6836050fe0",
@@ -345,8 +345,8 @@
       "last_updated": "2026-09-26T20:53:26.115850+00:00"
     },
     "reference/environment-variables.md": {
-      "sha": "e2ba195ca2dee978b0f986b517c3cf27832b2126",
-      "last_updated": "2026-09-26T23:27:44.667641+00:00"
+      "sha": "571e4e284e8ae6cd51656a34559db81c2f781b9e",
+      "last_updated": "2026-09-28T04:46:57.977908+00:00"
     },
     "reference/faq.md": {
       "sha": "3cd01e00d6b1668c034531d9ae687e933e551845",
@@ -405,8 +405,8 @@
       "last_updated": "2026-09-19T20:22:06.492112+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "80625c23d19ae5b54bb7fc93e601ba2ddf40a555",
-      "last_updated": "2026-09-27T11:46:24.993128+00:00"
+      "sha": "7e19d4324d4c8a892e9745c031ec22f574bc04b9",
+      "last_updated": "2026-09-28T04:46:58.589239+00:00"
     },
     "user-guide/docker.md": {
       "sha": "525d3028a3d13eeaab30e7fb7b9c087894b58003",
@@ -429,16 +429,16 @@
       "last_updated": "2026-09-25T04:23:14.635468+00:00"
     },
     "user-guide/features/api-server.md": {
-      "sha": "1c940e6db4220c92a9aa6218817329d6a456aeb5",
-      "last_updated": "2026-09-25T21:21:33.621966+00:00"
+      "sha": "5752296eb3247cd7938e9213f0ed9fded3da56c4",
+      "last_updated": "2026-09-28T04:46:58.904196+00:00"
     },
     "user-guide/features/batch-processing.md": {
       "sha": "cb86017543bf43b584b578304a8235cd1d0fd188",
       "last_updated": "2026-09-18T23:08:59.344738+00:00"
     },
     "user-guide/features/browser.md": {
-      "sha": "bcd00d73b59ffa70f318e51ad989470f28b4a86c",
-      "last_updated": "2026-09-25T04:23:15.246318+00:00"
+      "sha": "adf24bb06f09ac058264a711912355b539c94393",
+      "last_updated": "2026-09-28T04:46:59.224807+00:00"
     },
     "user-guide/features/built-in-plugins.md": {
       "sha": "647b73165a250ad19e65a804783a9e62b756ab92",
@@ -453,8 +453,8 @@
       "last_updated": "2026-09-20T04:23:40.478858+00:00"
     },
     "user-guide/features/computer-use.md": {
-      "sha": "9a09d504c3105825f927ccffed319f015e9867e6",
-      "last_updated": "2026-09-26T23:27:45.476489+00:00"
+      "sha": "c5fc35126799f812c02bc0568db9d1db10681dfa",
+      "last_updated": "2026-09-28T04:46:59.529781+00:00"
     },
     "user-guide/features/context-files.md": {
       "sha": "eb461c4cfc497a94c897c67049d43b0bf7b7355d",
@@ -1513,8 +1513,8 @@
       "last_updated": "2026-09-17T04:23:49.872737+00:00"
     },
     "user-guide/multi-connection-desktop.md": {
-      "sha": "d636f78e6debfbfe76fc9c8da6131fa8f893a3e2",
-      "last_updated": "2026-09-23T04:14:05.802241+00:00"
+      "sha": "294d2ddeabc2fc6a312168ab28a59638cb4e44d6",
+      "last_updated": "2026-09-28T04:46:59.838460+00:00"
     },
     "user-guide/skills/optional/creative/creative-draw-your-font.md": {
       "sha": "a55080b1a2d39f51d2cb8a0f5ab649e4071325d2",
@@ -1809,8 +1809,8 @@
       "last_updated": "2026-09-25T21:21:32.968881+00:00"
     },
     "reference/package-management.md": {
-      "sha": "c40a5d86190367a10f2d38bd2c4e692b4ec72eac",
-      "last_updated": "2026-09-27T21:09:53.949604+00:00"
+      "sha": "fecdbddb144a5bb62fcb8574ca1806e8b9ba1483",
+      "last_updated": "2026-09-28T04:46:58.277185+00:00"
     },
     "user-guide/switching-to-source.md": {
       "sha": "766782bed736ffa0bbb0ff70d3c46212547257a4",
@@ -1825,7 +1825,7 @@
       "last_updated": "2026-09-27T04:45:04.535265+00:00"
     }
   },
-  "last_updated": "2026-09-27T21:09:55.670811+00:00",
+  "last_updated": "2026-09-28T04:47:00.047739+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
