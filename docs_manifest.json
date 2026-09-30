@@ -97,8 +97,8 @@
       "last_updated": "2026-09-29T05:12:45.199203+00:00"
     },
     "developer-guide/programmatic-integration.md": {
-      "sha": "4b050ad82283697bfed2463aa84a50499bd9b5c2",
-      "last_updated": "2026-09-19T22:48:38.831777+00:00"
+      "sha": "828b3151028a6cb23b107e359cf3a4323bc861d7",
+      "last_updated": "2026-09-30T00:14:34.114100+00:00"
     },
     "developer-guide/prompt-assembly.md": {
       "sha": "a7482ad24e6658ef9d89cf3012e7c1f2fc554b27",
@@ -345,8 +345,8 @@
       "last_updated": "2026-09-29T12:30:46.946295+00:00"
     },
     "reference/environment-variables.md": {
-      "sha": "fc1b5e313fca60cd525a706d56251e607634eabd",
-      "last_updated": "2026-09-28T13:27:27.995744+00:00"
+      "sha": "103d06b3001cf744fc38af1c22331df78e1c1813",
+      "last_updated": "2026-09-30T00:14:47.915347+00:00"
     },
     "reference/faq.md": {
       "sha": "3cd01e00d6b1668c034531d9ae687e933e551845",
@@ -377,8 +377,8 @@
       "last_updated": "2026-09-20T23:05:52.419435+00:00"
     },
     "reference/tools-reference.md": {
-      "sha": "693f6277ed8835e3756b74921cbac3c4267a64e2",
-      "last_updated": "2026-09-27T04:45:03.483824+00:00"
+      "sha": "28211a8a342568c0dc64f61d62341f904d9f941c",
+      "last_updated": "2026-09-30T00:14:48.316566+00:00"
     },
     "reference/toolsets-reference.md": {
       "sha": "889b7a4d7dd2d02b348fe03906728bcb8ace8863",
@@ -389,24 +389,24 @@
       "last_updated": "2026-08-09T09:10:22.209483+00:00"
     },
     "user-guide/checkpoints-and-rollback.md": {
-      "sha": "dd732f53aadd76aab46c62fadb4bb749c5125b41",
-      "last_updated": "2026-09-25T04:23:12.994586+00:00"
+      "sha": "d9a8ea916e138add09cef8c807e966813ac39ad5",
+      "last_updated": "2026-09-30T00:14:48.652411+00:00"
     },
     "user-guide/cli.md": {
       "sha": "5af8fc9e07f96b8a21f6bd6fc1b5851381df10f4",
       "last_updated": "2026-09-24T04:09:52.286835+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "8ff1e0b6d15c2d186bb10814befa84a3b5c88a14",
-      "last_updated": "2026-09-29T05:12:47.317165+00:00"
+      "sha": "a71c321f1196e2aca4daad8186202ca9e5748523",
+      "last_updated": "2026-09-30T00:14:49.085296+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "bd06b3180249eaeef3f660160b7ac5e44ae67434",
       "last_updated": "2026-09-19T20:22:06.492112+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "7e19d4324d4c8a892e9745c031ec22f574bc04b9",
-      "last_updated": "2026-09-28T04:46:58.589239+00:00"
+      "sha": "ca9030d2206ac7db7c2784924899d66ba9356141",
+      "last_updated": "2026-09-30T00:14:49.431016+00:00"
     },
     "user-guide/docker.md": {
       "sha": "525d3028a3d13eeaab30e7fb7b9c087894b58003",
@@ -429,8 +429,8 @@
       "last_updated": "2026-09-25T04:23:14.635468+00:00"
     },
     "user-guide/features/api-server.md": {
-      "sha": "5752296eb3247cd7938e9213f0ed9fded3da56c4",
-      "last_updated": "2026-09-28T04:46:58.904196+00:00"
+      "sha": "82bd01f0447a56ef29b74c77e15bc321d72f75f4",
+      "last_updated": "2026-09-30T00:14:49.793279+00:00"
     },
     "user-guide/features/batch-processing.md": {
       "sha": "cb86017543bf43b584b578304a8235cd1d0fd188",
@@ -441,8 +441,8 @@
       "last_updated": "2026-09-28T13:27:36.209685+00:00"
     },
     "user-guide/features/built-in-plugins.md": {
-      "sha": "647b73165a250ad19e65a804783a9e62b756ab92",
-      "last_updated": "2026-09-25T04:23:15.554390+00:00"
+      "sha": "e7d7bd39ca847e5b4e91fbc9d49c5f6d0265b70b",
+      "last_updated": "2026-09-30T00:14:50.103939+00:00"
     },
     "user-guide/features/code-execution.md": {
       "sha": "f373bb26dab932497f19780a8b6806589cb141cb",
@@ -657,8 +657,8 @@
       "last_updated": "2026-09-25T04:23:20.353108+00:00"
     },
     "user-guide/messaging/discord.md": {
-      "sha": "d639cea111b76fcc3f248c4a18e8ae53de9af0ba",
-      "last_updated": "2026-09-22T11:18:10.043668+00:00"
+      "sha": "9027d61290065238e64bfebddd9d285032dd936a",
+      "last_updated": "2026-09-30T00:14:50.469837+00:00"
     },
     "user-guide/messaging/email.md": {
       "sha": "16ac4251c04a50e833e1ea88f353818117d39280",
@@ -749,8 +749,8 @@
       "last_updated": "2026-09-25T04:23:23.100902+00:00"
     },
     "user-guide/messaging/telegram.md": {
-      "sha": "2b8cebbe6b6313847656f93e526c18c399bd4c3d",
-      "last_updated": "2026-09-22T11:18:10.461345+00:00"
+      "sha": "1c824492dbb8228ffd02a9e3f819fc73af142019",
+      "last_updated": "2026-09-30T00:14:50.815158+00:00"
     },
     "user-guide/messaging/webhooks.md": {
       "sha": "55c70f41a1a95693e0f09190f773a65449547f9e",
@@ -861,8 +861,8 @@
       "last_updated": "2026-09-20T20:36:06.549243+00:00"
     },
     "user-guide/skills/bundled/creative/creative-baoyu-infographic.md": {
-      "sha": "e915f2ce63bd8ebd31e6bddd525a9fae8761ae0b",
-      "last_updated": "2026-09-20T20:36:06.863974+00:00"
+      "sha": "f1f241770fa62b57e856c0431923024cf7995142",
+      "last_updated": "2026-09-30T00:14:51.167067+00:00"
     },
     "user-guide/skills/bundled/creative/creative-claude-design.md": {
       "sha": "050dbf1b42a1a4aa69e2f3b27cde69f6bfc1f180",
@@ -1073,12 +1073,12 @@
       "last_updated": "2026-09-20T20:36:25.796263+00:00"
     },
     "user-guide/skills/optional/creative/creative-baoyu-article-illustrator.md": {
-      "sha": "2fbe498b784c20e8cd678742051d6fa730d83b21",
-      "last_updated": "2026-09-20T20:36:26.130879+00:00"
+      "sha": "6dfdd2019f3eac270d4d54e396498f01a986f788",
+      "last_updated": "2026-09-30T00:14:51.496021+00:00"
     },
     "user-guide/skills/optional/creative/creative-baoyu-comic.md": {
-      "sha": "88fdc93af6a3f9927cd5139319d1c79a0c24a9e8",
-      "last_updated": "2026-09-20T20:36:26.459546+00:00"
+      "sha": "c4f0a68cec2662a1adf990000b0c12bbbda93e4d",
+      "last_updated": "2026-09-30T00:14:51.942717+00:00"
     },
     "user-guide/skills/optional/creative/creative-concept-diagrams.md": {
       "sha": "e2741e29196f85e248a1f3d12ee7a8fcf4b51286",
@@ -1221,8 +1221,8 @@
       "last_updated": "2026-09-20T20:36:41.541355+00:00"
     },
     "user-guide/skills/optional/migration/migration-openclaw-migration.md": {
-      "sha": "9789585e86e6730ed86d607f15268ae3555347d5",
-      "last_updated": "2026-09-25T04:23:27.261173+00:00"
+      "sha": "dd4bc26368ddcc9e363c7367d4d4b8e835ccf3e7",
+      "last_updated": "2026-09-30T00:14:52.357265+00:00"
     },
     "user-guide/skills/optional/mlops/mlops-accelerate.md": {
       "sha": "ef74ff473a946d106cdb74242c666e2e36cfac0c",
@@ -1713,24 +1713,24 @@
       "last_updated": "2026-09-23T21:20:12.986041+00:00"
     },
     "developer-guide/middleware.md": {
-      "sha": "e19f05c296f052f7dbbe19e10c9f804b8cf727ee",
-      "last_updated": "2026-09-25T04:23:02.185995+00:00"
+      "sha": "913a99e86e72e7207a7eee6a5166de7eceaef3ac",
+      "last_updated": "2026-09-30T00:14:21.798425+00:00"
     },
     "developer-guide/multiplexing-gateway.md": {
       "sha": "efea24c3a59e440d5752eec8466f0dee2049a863",
       "last_updated": "2026-09-28T13:27:25.146556+00:00"
     },
     "developer-guide/observer-hooks.md": {
-      "sha": "075f4f809e4447a94e89252bbcd3bf15904da8f5",
-      "last_updated": "2026-09-22T11:18:05.073682+00:00"
+      "sha": "3d9c636706ff28aa6a117c1c0700fa2767aa19ae",
+      "last_updated": "2026-09-30T00:14:22.228838+00:00"
     },
     "developer-guide/relay-connector-contract.md": {
       "sha": "bc8ffa9fb398794695d12e951f7760ee632ab7ce",
       "last_updated": "2026-09-19T10:39:20.973803+00:00"
     },
     "developer-guide/relay-shared-metrics.md": {
-      "sha": "176e942fd23f9b251eb40c8b8e891bed620fa5a3",
-      "last_updated": "2026-09-29T05:12:45.664942+00:00"
+      "sha": "c5bca3df9a13163dc0f0266e1a4319104fab57ea",
+      "last_updated": "2026-09-30T00:14:34.439562+00:00"
     },
     "developer-guide/state-db-recovery.md": {
       "sha": "c33820b54605d34f661069de0484b666d6b7bf27",
@@ -1829,7 +1829,7 @@
       "last_updated": "2026-09-29T05:12:47.728731+00:00"
     }
   },
-  "last_updated": "2026-09-29T12:30:47.531487+00:00",
+  "last_updated": "2026-09-30T00:14:52.567902+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
