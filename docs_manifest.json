@@ -1805,8 +1805,8 @@
       "last_updated": "2026-09-25T04:23:05.314508+00:00"
     },
     "developer-guide/stable-releases.md": {
-      "sha": "5dc64abc7ac81e4a970d6c5b25e94ee6b8080620",
-      "last_updated": "2026-09-25T21:21:32.968881+00:00"
+      "sha": "cfc33d4b23f685356a5cd2e5dfa6f7d73b12dd04",
+      "last_updated": "2026-09-30T17:51:45.545653+00:00"
     },
     "reference/package-management.md": {
       "sha": "fecdbddb144a5bb62fcb8574ca1806e8b9ba1483",
@@ -1829,7 +1829,7 @@
       "last_updated": "2026-09-29T05:12:47.728731+00:00"
     }
   },
-  "last_updated": "2026-09-30T09:30:08.252023+00:00",
+  "last_updated": "2026-09-30T17:51:45.756248+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
