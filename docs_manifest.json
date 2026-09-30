@@ -61,8 +61,8 @@
       "last_updated": "2026-09-23T16:33:35.180261+00:00"
     },
     "developer-guide/desktop-plugin-sdk.md": {
-      "sha": "c16a953331ba0b76fcf3cbca885c2d52fc7a728d",
-      "last_updated": "2026-09-29T05:12:44.178864+00:00"
+      "sha": "081bbb9c3c83a5fa894efa68f451357a8a236264",
+      "last_updated": "2026-09-30T09:30:07.313891+00:00"
     },
     "developer-guide/egress-internals.md": {
       "sha": "dde37d99ace8f900d6f23431db168637c191dda4",
@@ -341,8 +341,8 @@
       "last_updated": "2026-08-09T09:10:19.218265+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "b4a6b0d132af04f7f17a0c7f388bd2d1d6bff64e",
-      "last_updated": "2026-09-29T12:30:46.946295+00:00"
+      "sha": "e59b7e73c3655828829dd8d5ded91a50f0e4d21b",
+      "last_updated": "2026-09-30T09:30:07.679700+00:00"
     },
     "reference/environment-variables.md": {
       "sha": "103d06b3001cf744fc38af1c22331df78e1c1813",
@@ -405,8 +405,8 @@
       "last_updated": "2026-09-19T20:22:06.492112+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "ca9030d2206ac7db7c2784924899d66ba9356141",
-      "last_updated": "2026-09-30T00:14:49.431016+00:00"
+      "sha": "66d03f7659ebd600cb8a912a48eae50192056c60",
+      "last_updated": "2026-09-30T09:30:08.042155+00:00"
     },
     "user-guide/docker.md": {
       "sha": "525d3028a3d13eeaab30e7fb7b9c087894b58003",
@@ -1829,7 +1829,7 @@
       "last_updated": "2026-09-29T05:12:47.728731+00:00"
     }
   },
-  "last_updated": "2026-09-30T00:14:52.567902+00:00",
+  "last_updated": "2026-09-30T09:30:08.252023+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
