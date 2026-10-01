@@ -41,8 +41,8 @@
       "last_updated": "2026-09-04T16:06:01.194698+00:00"
     },
     "developer-guide/context-compression-and-caching.md": {
-      "sha": "b7e84c076ef74893442de1c4f96bbccaf4c28a52",
-      "last_updated": "2026-09-28T13:27:24.757062+00:00"
+      "sha": "693d164ae164c9990cfcad7f74b98fcbba4d079c",
+      "last_updated": "2026-10-01T12:50:27.123296+00:00"
     },
     "developer-guide/context-engine-plugin.md": {
       "sha": "8ffc9822a03425565e4e05c79999f75cb71aa68d",
@@ -77,8 +77,8 @@
       "last_updated": "2026-09-22T21:06:21.524421+00:00"
     },
     "developer-guide/image-gen-provider-plugin.md": {
-      "sha": "82eeaeeb6ba1b6e31e17479fc06c52dc77b94c7d",
-      "last_updated": "2026-09-19T20:21:59.852814+00:00"
+      "sha": "47684b8cbda90df472b3f93f6e16ca7d28e877c9",
+      "last_updated": "2026-10-01T12:50:40.651231+00:00"
     },
     "developer-guide/memory-provider-plugin.md": {
       "sha": "e88a61074c276157d01ea71dd55073c685a65e89",
@@ -349,8 +349,8 @@
       "last_updated": "2026-09-30T00:14:47.915347+00:00"
     },
     "reference/faq.md": {
-      "sha": "3cd01e00d6b1668c034531d9ae687e933e551845",
-      "last_updated": "2026-09-25T04:23:12.357747+00:00"
+      "sha": "a0d1d67d7a7c22808fec65f42bc4f5a3c04be6dc",
+      "last_updated": "2026-10-01T12:50:41.571530+00:00"
     },
     "reference/mcp-config-reference.md": {
       "sha": "4f8dd8d5a91751e1c73aab964195f5be22370560",
@@ -397,16 +397,16 @@
       "last_updated": "2026-09-24T04:09:52.286835+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "16eec2d448c179937f9652ff7bea252c07bf6228",
-      "last_updated": "2026-09-30T22:04:26.544926+00:00"
+      "sha": "4cb45d75d64abb153b79c45ebd6643a50f1011c5",
+      "last_updated": "2026-10-01T12:50:42.309154+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "bd06b3180249eaeef3f660160b7ac5e44ae67434",
       "last_updated": "2026-09-19T20:22:06.492112+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "66d03f7659ebd600cb8a912a48eae50192056c60",
-      "last_updated": "2026-09-30T09:30:08.042155+00:00"
+      "sha": "55bebc20115b68f15cd8bf5a71f95c3649574268",
+      "last_updated": "2026-10-01T12:50:46.414601+00:00"
     },
     "user-guide/docker.md": {
       "sha": "525d3028a3d13eeaab30e7fb7b9c087894b58003",
@@ -425,8 +425,8 @@
       "last_updated": "2026-08-09T09:10:24.733947+00:00"
     },
     "user-guide/features/acp.md": {
-      "sha": "dff4914f54b6b796c985e44400ce3933dfae8a7e",
-      "last_updated": "2026-09-25T04:23:14.635468+00:00"
+      "sha": "ababe7c8af5e2737f23799149116f395b1f8b96c",
+      "last_updated": "2026-10-01T12:50:48.767335+00:00"
     },
     "user-guide/features/api-server.md": {
       "sha": "82bd01f0447a56ef29b74c77e15bc321d72f75f4",
@@ -513,8 +513,8 @@
       "last_updated": "2026-09-22T11:18:07.627091+00:00"
     },
     "user-guide/features/image-generation.md": {
-      "sha": "2c9bd620b39d213be70c3db55141e8277bf8f60a",
-      "last_updated": "2026-09-19T20:22:12.052685+00:00"
+      "sha": "7c4f5738af0f7490bb6a4a940e9ed64d52d510de",
+      "last_updated": "2026-10-01T12:50:49.169401+00:00"
     },
     "user-guide/features/kanban-tutorial.md": {
       "sha": "5806e544c49e33fc15e784c8d2855ddcf0004b59",
@@ -585,8 +585,8 @@
       "last_updated": "2026-08-09T09:10:37.754216+00:00"
     },
     "user-guide/features/tool-gateway.md": {
-      "sha": "552135ce063987c571ef32c4f7a30abbbef1d3d4",
-      "last_updated": "2026-09-24T21:21:46.238951+00:00"
+      "sha": "bebe3c896efd120af1f1b7d5a32014aacc901c31",
+      "last_updated": "2026-10-01T12:50:49.543965+00:00"
     },
     "user-guide/features/tool-search.md": {
       "sha": "9bec47d2988c96d0e2f3540190b8855f83a5a4c0",
@@ -733,8 +733,8 @@
       "last_updated": "2026-09-27T16:44:52.468704+00:00"
     },
     "user-guide/messaging/slack.md": {
-      "sha": "d70a3e4ead288568dbc5048028b2772071f3a81c",
-      "last_updated": "2026-09-26T04:27:13.960234+00:00"
+      "sha": "c931e0940ebf04eadc96fc754f47f04a8f895204",
+      "last_updated": "2026-10-01T12:50:49.892730+00:00"
     },
     "user-guide/messaging/sms.md": {
       "sha": "d8cc112e065ef6f3ce9890664d390525a22c0c37",
@@ -809,8 +809,8 @@
       "last_updated": "2026-09-16T04:17:22.525104+00:00"
     },
     "user-guide/security.md": {
-      "sha": "f15a4cc4f306d015cc975073c0ff1b68db0812f9",
-      "last_updated": "2026-09-29T05:12:50.607350+00:00"
+      "sha": "8e736bbbafa627e319c23835f0cf6f5afa14ccf6",
+      "last_updated": "2026-10-01T12:50:50.261348+00:00"
     },
     "user-guide/sessions.md": {
       "sha": "8ad285e0003c60d5cd0a00aa56a748346e58b5a9",
@@ -1729,8 +1729,8 @@
       "last_updated": "2026-09-19T10:39:20.973803+00:00"
     },
     "developer-guide/relay-shared-metrics.md": {
-      "sha": "c5bca3df9a13163dc0f0266e1a4319104fab57ea",
-      "last_updated": "2026-09-30T00:14:34.439562+00:00"
+      "sha": "2ae7663db8101ab3ff4fc336b1a0226e739da32f",
+      "last_updated": "2026-10-01T12:50:41.062704+00:00"
     },
     "developer-guide/state-db-recovery.md": {
       "sha": "c33820b54605d34f661069de0484b666d6b7bf27",
@@ -1829,7 +1829,7 @@
       "last_updated": "2026-09-29T05:12:47.728731+00:00"
     }
   },
-  "last_updated": "2026-09-30T22:04:26.755052+00:00",
+  "last_updated": "2026-10-01T12:50:50.472926+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
