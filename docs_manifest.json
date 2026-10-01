@@ -93,8 +93,8 @@
       "last_updated": "2026-09-18T23:08:33.114641+00:00"
     },
     "developer-guide/plugins/index.md": {
-      "sha": "950969c624fbef3bcbf31ad52c73739d65f28b9e",
-      "last_updated": "2026-09-29T05:12:45.199203+00:00"
+      "sha": "9515423c2ca78891430d5967b3cd16693b885c16",
+      "last_updated": "2026-10-01T20:14:32.136009+00:00"
     },
     "developer-guide/programmatic-integration.md": {
       "sha": "828b3151028a6cb23b107e359cf3a4323bc861d7",
@@ -105,8 +105,8 @@
       "last_updated": "2026-09-17T11:22:14.997932+00:00"
     },
     "developer-guide/provider-runtime.md": {
-      "sha": "cae44ae79ddd3037276dd63ac678efd878006f5c",
-      "last_updated": "2026-09-23T16:33:36.179794+00:00"
+      "sha": "60f1638b1f931f7db52ba9c2ff6d12d99978ef64",
+      "last_updated": "2026-10-01T20:14:32.439063+00:00"
     },
     "developer-guide/secret-source-plugin.md": {
       "sha": "869db2fec3cf6b8f823fce7752367325756a3420",
@@ -301,8 +301,8 @@
       "last_updated": "2026-09-25T04:23:11.122225+00:00"
     },
     "guides/webhook-github-pr-review.md": {
-      "sha": "c875c7b9cd507a335754f9d77a176683f6273b6d",
-      "last_updated": "2026-09-18T23:08:49.175569+00:00"
+      "sha": "bff438a3c9f5ad3ba0caabf45b2f6c1ade18f03c",
+      "last_updated": "2026-10-01T20:14:32.777186+00:00"
     },
     "guides/work-with-skills.md": {
       "sha": "59b81b6321f11664eaaad264e09447e22bdd9e8c",
@@ -329,8 +329,8 @@
       "last_updated": "2026-09-24T21:21:45.915150+00:00"
     },
     "integrations/providers.md": {
-      "sha": "63664d476cb380d1754701e3586f1931eb9730df",
-      "last_updated": "2026-09-20T23:05:51.799078+00:00"
+      "sha": "17c3a2f62cf4aff51d90a0e691986f83b0351ac7",
+      "last_updated": "2026-10-01T20:14:33.074059+00:00"
     },
     "reference/_category_.json": {
       "sha": "8150d97ad57c8f434b72e9cc65a58abd091787c6",
@@ -449,8 +449,8 @@
       "last_updated": "2026-09-25T04:23:15.881873+00:00"
     },
     "user-guide/features/codex-app-server-runtime.md": {
-      "sha": "5bc52e73424708ebaa481ccc25a585dfbcc104f1",
-      "last_updated": "2026-09-20T04:23:40.478858+00:00"
+      "sha": "ca80eaec65402a9905bbcb55d5426b2717349908",
+      "last_updated": "2026-10-01T20:14:33.388140+00:00"
     },
     "user-guide/features/computer-use.md": {
       "sha": "d8649e42a434f69b0d14a0eab22cdda6c2cc87e8",
@@ -617,16 +617,16 @@
       "last_updated": "2026-09-29T05:12:49.381742+00:00"
     },
     "user-guide/features/web-search.md": {
-      "sha": "81e515d344e963bada4b30e7ea702902d96b3a14",
-      "last_updated": "2026-09-25T04:23:19.750046+00:00"
+      "sha": "ea471a8cadd21eb1c47c1fc8a43b5f333c9d94e3",
+      "last_updated": "2026-10-01T20:14:34.017932+00:00"
     },
     "user-guide/features/x-search.md": {
       "sha": "86318db7d287d2f50b44d97b85cf2f32aab4e758",
       "last_updated": "2026-09-18T23:09:11.211861+00:00"
     },
     "user-guide/git-worktrees.md": {
-      "sha": "98b65f3092ae82d4840b0fbc2cd4d40e4717955b",
-      "last_updated": "2026-08-17T09:49:05.373833+00:00"
+      "sha": "b2d130198f836fe1bf5522ad2970ec0b54b41621",
+      "last_updated": "2026-10-01T20:14:34.352646+00:00"
     },
     "user-guide/import-from-other-agents.md": {
       "sha": "2814766b9bf017523419cf7f8aa3b65a266e2e55",
@@ -753,8 +753,8 @@
       "last_updated": "2026-09-30T00:14:50.815158+00:00"
     },
     "user-guide/messaging/webhooks.md": {
-      "sha": "55c70f41a1a95693e0f09190f773a65449547f9e",
-      "last_updated": "2026-09-24T04:09:54.921482+00:00"
+      "sha": "85ed2851f8be03a72bd0b90594a3fe3c56c0b46a",
+      "last_updated": "2026-10-01T20:14:34.672683+00:00"
     },
     "user-guide/messaging/wecom-callback.md": {
       "sha": "f6cf5ed4a473f9555e0b40169fcc5bd57e33ab09",
@@ -1661,8 +1661,8 @@
       "last_updated": "2026-09-20T20:37:03.470991+00:00"
     },
     "user-guide/features/plugin-catalog.md": {
-      "sha": "6b420aa52f5256b5e6840fbf80e6481b11273897",
-      "last_updated": "2026-09-26T20:53:42.342204+00:00"
+      "sha": "8c43fac5b81160dc6a7dba2b518a9158a4baf988",
+      "last_updated": "2026-10-01T20:14:33.692055+00:00"
     },
     "user-guide/features/credential-vault.md": {
       "sha": "dc3abb33ea7cf77667cf6e739004b09a07aad7db",
@@ -1829,7 +1829,7 @@
       "last_updated": "2026-09-29T05:12:47.728731+00:00"
     }
   },
-  "last_updated": "2026-10-01T12:50:50.472926+00:00",
+  "last_updated": "2026-10-01T20:14:34.879971+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
