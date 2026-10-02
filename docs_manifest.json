@@ -81,8 +81,8 @@
       "last_updated": "2026-10-01T12:50:40.651231+00:00"
     },
     "developer-guide/memory-provider-plugin.md": {
-      "sha": "e88a61074c276157d01ea71dd55073c685a65e89",
-      "last_updated": "2026-09-25T04:23:01.308201+00:00"
+      "sha": "d1a921f08169dfaad7126c637c91ac9ef4598d11",
+      "last_updated": "2026-10-02T17:42:39.307948+00:00"
     },
     "developer-guide/model-provider-plugin.md": {
       "sha": "850fc5ce117f83ef64a2e8002a4675a6e597e249",
@@ -93,8 +93,8 @@
       "last_updated": "2026-09-18T23:08:33.114641+00:00"
     },
     "developer-guide/plugins/index.md": {
-      "sha": "9515423c2ca78891430d5967b3cd16693b885c16",
-      "last_updated": "2026-10-01T20:14:32.136009+00:00"
+      "sha": "d35c2c422e7e36cb4ec9beb176bacc69f2a149b3",
+      "last_updated": "2026-10-02T17:42:39.605984+00:00"
     },
     "developer-guide/programmatic-integration.md": {
       "sha": "828b3151028a6cb23b107e359cf3a4323bc861d7",
@@ -153,8 +153,8 @@
       "last_updated": "2026-09-18T23:08:36.921771+00:00"
     },
     "getting-started/nix-setup.md": {
-      "sha": "aee0a2c38f439ec7937dee1d2681efdcbb6e2b0c",
-      "last_updated": "2026-09-25T04:23:07.868776+00:00"
+      "sha": "1715f113397cbb4ec09e81b9cea38cfe49695993",
+      "last_updated": "2026-10-02T17:42:39.941889+00:00"
     },
     "getting-started/platform-support.md": {
       "sha": "973d747d9a1ae6f4b66c38be9f52f3b9affa7a42",
@@ -321,8 +321,8 @@
       "last_updated": "2026-09-18T23:08:50.423331+00:00"
     },
     "integrations/index.md": {
-      "sha": "adf8f6ae005fa58d4e885c865c4c7979534bb178",
-      "last_updated": "2026-09-23T16:33:40.091501+00:00"
+      "sha": "01c8bdbfe3d0fda764bb65d3a03d398571406dc7",
+      "last_updated": "2026-10-02T17:42:40.243344+00:00"
     },
     "integrations/nous-portal.md": {
       "sha": "40868778f378f02ef844d446c7bf550e82c71dc8",
@@ -341,8 +341,8 @@
       "last_updated": "2026-08-09T09:10:19.218265+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "fc1d714f88d0a5c55542e21e131b0a67fc8a0408",
-      "last_updated": "2026-10-02T09:32:58.169251+00:00"
+      "sha": "daad50e6a504881f37f4c879b54bf2a0dc249646",
+      "last_updated": "2026-10-02T17:42:40.557294+00:00"
     },
     "reference/environment-variables.md": {
       "sha": "0eb4fe936b9f241b5787186d662b84b9b5c3981a",
@@ -377,8 +377,8 @@
       "last_updated": "2026-09-20T23:05:52.419435+00:00"
     },
     "reference/tools-reference.md": {
-      "sha": "28211a8a342568c0dc64f61d62341f904d9f941c",
-      "last_updated": "2026-09-30T00:14:48.316566+00:00"
+      "sha": "04d0cf3c2d85791c01b31f1464b3477f2463d08d",
+      "last_updated": "2026-10-02T17:42:40.887320+00:00"
     },
     "reference/toolsets-reference.md": {
       "sha": "889b7a4d7dd2d02b348fe03906728bcb8ace8863",
@@ -405,8 +405,8 @@
       "last_updated": "2026-09-19T20:22:06.492112+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "55bebc20115b68f15cd8bf5a71f95c3649574268",
-      "last_updated": "2026-10-01T12:50:46.414601+00:00"
+      "sha": "2767f21482069a332129a02aeb443fc40f8409e8",
+      "last_updated": "2026-10-02T17:42:41.202995+00:00"
     },
     "user-guide/docker.md": {
       "sha": "ef9c3794281e2d57d53956e86b318a8400a9649f",
@@ -505,8 +505,8 @@
       "last_updated": "2026-09-17T04:23:48.631649+00:00"
     },
     "user-guide/features/honcho.md": {
-      "sha": "c13d87bb18433b101cddbe10b97d9483242550b2",
-      "last_updated": "2026-09-19T20:22:11.659105+00:00"
+      "sha": "1aa15a234c8d5cbec11a5bf0b8adfc6b8bff26f3",
+      "last_updated": "2026-10-02T17:42:41.503417+00:00"
     },
     "user-guide/features/hooks.md": {
       "sha": "59975d14edf93509da71e8f886c1d0f98bcef97c",
@@ -537,20 +537,20 @@
       "last_updated": "2026-09-25T04:23:16.796728+00:00"
     },
     "user-guide/features/memory-providers.md": {
-      "sha": "beae77ee8ab6de003cfb79df10c55e0d61549ef8",
-      "last_updated": "2026-09-29T05:12:48.521583+00:00"
+      "sha": "7b97e4cba8186d9b0b94e0577eae2c19fc46d98e",
+      "last_updated": "2026-10-02T17:42:41.786249+00:00"
     },
     "user-guide/features/memory.md": {
-      "sha": "dba1d42ae9aace4d77e72995ebe15eea9a348610",
-      "last_updated": "2026-09-24T16:53:31.354541+00:00"
+      "sha": "6ce818afec34c64ed3e1ec38ceb982f2b7691370",
+      "last_updated": "2026-10-02T17:42:42.082897+00:00"
     },
     "user-guide/features/mixture-of-agents.md": {
       "sha": "18abd47e9e10e883e10e54d9755308d917af6e72",
       "last_updated": "2026-09-19T04:04:27.824994+00:00"
     },
     "user-guide/features/overview.md": {
-      "sha": "6762f2ab8e84c0f21f7824360d0ee9720be3d870",
-      "last_updated": "2026-09-23T16:33:43.764321+00:00"
+      "sha": "85f39232fd2707fa1babb082377c18865d077aa9",
+      "last_updated": "2026-10-02T17:42:42.411028+00:00"
     },
     "user-guide/features/personality.md": {
       "sha": "7037af11bdf630bb343411ddd7e9161a084c55c3",
@@ -561,16 +561,16 @@
       "last_updated": "2026-09-18T23:09:07.084598+00:00"
     },
     "user-guide/features/plugins.md": {
-      "sha": "902b6f35b95bffd855c09ad1695676fc58ed8f8f",
-      "last_updated": "2026-09-25T21:21:34.539398+00:00"
+      "sha": "e8623a0c7c0712b7bf229f002706f9e5858787b2",
+      "last_updated": "2026-10-02T17:42:43.027157+00:00"
     },
     "user-guide/features/provider-routing.md": {
       "sha": "ecd7c3259c431ace69c565bb2e31151e4007e0ae",
       "last_updated": "2026-09-18T23:09:08.217582+00:00"
     },
     "user-guide/features/skills.md": {
-      "sha": "a8594f51897b373f690ce1c83fc9e9f4986b16ba",
-      "last_updated": "2026-09-25T21:21:34.830425+00:00"
+      "sha": "88e468d792b47cc787b62a7c4651d65381a5e924",
+      "last_updated": "2026-10-02T17:42:43.336286+00:00"
     },
     "user-guide/features/skins.md": {
       "sha": "dbf4b2f749294294982d93c9ed846d4e5fb9db2d",
@@ -593,8 +593,8 @@
       "last_updated": "2026-10-02T09:33:04.714315+00:00"
     },
     "user-guide/features/tools.md": {
-      "sha": "49f679149b1cc3779c256bade2956c6b9953b7a5",
-      "last_updated": "2026-09-29T05:12:48.973628+00:00"
+      "sha": "ad23c36061769851069cde25d1580d2ad2988ac7",
+      "last_updated": "2026-10-02T17:42:43.668480+00:00"
     },
     "user-guide/features/tts.md": {
       "sha": "c0b57016bc522da74f509ea5bdf1f3f3bf1e5459",
@@ -1045,8 +1045,8 @@
       "last_updated": "2026-09-20T20:36:22.567710+00:00"
     },
     "user-guide/skills/optional/autonomous-ai-agents/autonomous-ai-agents-honcho.md": {
-      "sha": "a73598ad3ebd49bfac1aea3b7997e3007db22d5c",
-      "last_updated": "2026-09-20T20:36:22.883935+00:00"
+      "sha": "fa2a6c5f6720bbcb197a6c8637802c51c610f37a",
+      "last_updated": "2026-10-02T17:42:43.996010+00:00"
     },
     "user-guide/skills/optional/autonomous-ai-agents/autonomous-ai-agents-openhands.md": {
       "sha": "e05bfa83e0bafd87f24bbe32880d679209c35f4f",
@@ -1661,8 +1661,8 @@
       "last_updated": "2026-09-20T20:37:03.470991+00:00"
     },
     "user-guide/features/plugin-catalog.md": {
-      "sha": "04fc8a853b58e7b4ab7ec950e2439bccf4a7aad2",
-      "last_updated": "2026-10-02T09:33:02.687031+00:00"
+      "sha": "8005cf156737a8a71b76a2ab42810ab99c57939d",
+      "last_updated": "2026-10-02T17:42:42.723161+00:00"
     },
     "user-guide/features/credential-vault.md": {
       "sha": "dc3abb33ea7cf77667cf6e739004b09a07aad7db",
@@ -1833,7 +1833,7 @@
       "last_updated": "2026-10-02T09:32:57.452406+00:00"
     }
   },
-  "last_updated": "2026-10-02T09:33:10.910391+00:00",
+  "last_updated": "2026-10-02T17:42:44.203643+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
