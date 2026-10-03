@@ -169,8 +169,8 @@
       "last_updated": "2026-09-25T04:23:08.701451+00:00"
     },
     "getting-started/updating.md": {
-      "sha": "7a552b46f6a0f79898a3b9dba18cdf20b8e70226",
-      "last_updated": "2026-10-02T22:01:48.921218+00:00"
+      "sha": "f5ffa0fc2419f4d9012b904ffbaf32952973f73e",
+      "last_updated": "2026-10-03T04:46:01.724017+00:00"
     },
     "guides/_category_.json": {
       "sha": "6d1d2f0b9ec098f749715dd4deebc4d4b753b610",
@@ -341,8 +341,8 @@
       "last_updated": "2026-08-09T09:10:19.218265+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "daad50e6a504881f37f4c879b54bf2a0dc249646",
-      "last_updated": "2026-10-02T17:42:40.557294+00:00"
+      "sha": "e9c28573fbc95d46471751ecbe115c4a3653a56e",
+      "last_updated": "2026-10-03T04:46:09.209791+00:00"
     },
     "reference/environment-variables.md": {
       "sha": "0eb4fe936b9f241b5787186d662b84b9b5c3981a",
@@ -397,8 +397,8 @@
       "last_updated": "2026-09-24T04:09:52.286835+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "a2061da1de1f41e0556893960ca0078ed795b747",
-      "last_updated": "2026-10-02T09:32:59.100971+00:00"
+      "sha": "49663af2983ea3d3d6aa9bc492caa025a349695b",
+      "last_updated": "2026-10-03T04:46:17.136019+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "bd06b3180249eaeef3f660160b7ac5e44ae67434",
@@ -493,8 +493,8 @@
       "last_updated": "2026-09-18T23:09:02.848372+00:00"
     },
     "user-guide/features/fallback-providers.md": {
-      "sha": "489f6a86beb3a3d3f4a3f8cbb283c0718e605f73",
-      "last_updated": "2026-09-23T16:33:42.957151+00:00"
+      "sha": "32d698c02023208ecd21edcfeddbcf2ac0adb678",
+      "last_updated": "2026-10-03T04:46:17.525076+00:00"
     },
     "user-guide/features/goals.md": {
       "sha": "298dc45aa9d83ea1e5aae8a2ced35abb841f4127",
@@ -509,8 +509,8 @@
       "last_updated": "2026-10-02T17:42:41.503417+00:00"
     },
     "user-guide/features/hooks.md": {
-      "sha": "59975d14edf93509da71e8f886c1d0f98bcef97c",
-      "last_updated": "2026-09-22T11:18:07.627091+00:00"
+      "sha": "0f48e8cb85d5b57c01a20bb4cba05f140fb70316",
+      "last_updated": "2026-10-03T04:46:19.913575+00:00"
     },
     "user-guide/features/image-generation.md": {
       "sha": "7c4f5738af0f7490bb6a4a940e9ed64d52d510de",
@@ -613,8 +613,8 @@
       "last_updated": "2026-09-25T04:23:19.154246+00:00"
     },
     "user-guide/features/web-dashboard.md": {
-      "sha": "fe693cf4009fb62ec52569a09cb3adf20ba18b6a",
-      "last_updated": "2026-09-29T05:12:49.381742+00:00"
+      "sha": "a7cd53a10072a27fee843b9a6e505c04d1ed8cd8",
+      "last_updated": "2026-10-03T04:46:22.295570+00:00"
     },
     "user-guide/features/web-search.md": {
       "sha": "ea471a8cadd21eb1c47c1fc8a43b5f333c9d94e3",
@@ -1805,12 +1805,12 @@
       "last_updated": "2026-09-25T04:23:05.314508+00:00"
     },
     "developer-guide/stable-releases.md": {
-      "sha": "2114708b392742be0b0c58b5b3520972fbe3396a",
-      "last_updated": "2026-10-02T22:01:32.813300+00:00"
+      "sha": "4d1dd8329bbf7ce3a4be0b45bdb5e42a070a75e0",
+      "last_updated": "2026-10-03T04:46:01.366404+00:00"
     },
     "reference/package-management.md": {
-      "sha": "fecdbddb144a5bb62fcb8574ca1806e8b9ba1483",
-      "last_updated": "2026-09-28T04:46:58.277185+00:00"
+      "sha": "8d245291e9277cfc24b18b3014c33a8ed02f38a6",
+      "last_updated": "2026-10-03T04:46:09.585050+00:00"
     },
     "user-guide/switching-to-source.md": {
       "sha": "766782bed736ffa0bbb0ff70d3c46212547257a4",
@@ -1833,7 +1833,7 @@
       "last_updated": "2026-10-02T09:32:57.452406+00:00"
     }
   },
-  "last_updated": "2026-10-02T22:01:49.522310+00:00",
+  "last_updated": "2026-10-03T04:46:22.517511+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
