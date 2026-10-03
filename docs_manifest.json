@@ -569,8 +569,8 @@
       "last_updated": "2026-09-18T23:09:08.217582+00:00"
     },
     "user-guide/features/skills.md": {
-      "sha": "88e468d792b47cc787b62a7c4651d65381a5e924",
-      "last_updated": "2026-10-02T17:42:43.336286+00:00"
+      "sha": "53cc593f3e1099dd819cb5a958a358a90ecdda39",
+      "last_updated": "2026-10-03T23:40:31.631246+00:00"
     },
     "user-guide/features/skins.md": {
       "sha": "dbf4b2f749294294982d93c9ed846d4e5fb9db2d",
@@ -1833,7 +1833,7 @@
       "last_updated": "2026-10-02T09:32:57.452406+00:00"
     }
   },
-  "last_updated": "2026-10-03T20:51:30.199216+00:00",
+  "last_updated": "2026-10-03T23:40:31.838824+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
