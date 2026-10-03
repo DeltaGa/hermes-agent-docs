@@ -401,8 +401,8 @@
       "last_updated": "2026-10-03T16:01:27.796262+00:00"
     },
     "user-guide/configuring-models.md": {
-      "sha": "bd06b3180249eaeef3f660160b7ac5e44ae67434",
-      "last_updated": "2026-09-19T20:22:06.492112+00:00"
+      "sha": "4cb72e94e87b1538fb8670cfd406a09e072bcd9c",
+      "last_updated": "2026-10-03T20:51:28.847241+00:00"
     },
     "user-guide/desktop.md": {
       "sha": "6b2c07b9e7c4e853f03c57b4009b0ad0b7932555",
@@ -561,8 +561,8 @@
       "last_updated": "2026-09-18T23:09:07.084598+00:00"
     },
     "user-guide/features/plugins.md": {
-      "sha": "e8623a0c7c0712b7bf229f002706f9e5858787b2",
-      "last_updated": "2026-10-02T17:42:43.027157+00:00"
+      "sha": "6782dd9976aaf1112ed2646bfb33886d65c1deea",
+      "last_updated": "2026-10-03T20:51:29.208606+00:00"
     },
     "user-guide/features/provider-routing.md": {
       "sha": "ecd7c3259c431ace69c565bb2e31151e4007e0ae",
@@ -617,8 +617,8 @@
       "last_updated": "2026-10-03T04:46:22.295570+00:00"
     },
     "user-guide/features/web-search.md": {
-      "sha": "ea471a8cadd21eb1c47c1fc8a43b5f333c9d94e3",
-      "last_updated": "2026-10-01T20:14:34.017932+00:00"
+      "sha": "719a93960822fe7f1e233697f27e06f1f6ca3d4e",
+      "last_updated": "2026-10-03T20:51:29.577228+00:00"
     },
     "user-guide/features/x-search.md": {
       "sha": "86318db7d287d2f50b44d97b85cf2f32aab4e758",
@@ -813,8 +813,8 @@
       "last_updated": "2026-10-02T00:36:54.717019+00:00"
     },
     "user-guide/sessions.md": {
-      "sha": "5f8e9fbca13406b4b0d088c466f264b8b7b826bc",
-      "last_updated": "2026-10-03T16:01:31.457604+00:00"
+      "sha": "7247c53d24ed8a4b3670c943c1cf6b380e377ca3",
+      "last_updated": "2026-10-03T20:51:29.990186+00:00"
     },
     "user-guide/skills/bundled/apple/apple-apple-notes.md": {
       "sha": "d845e5b31985bb38ddf388f816a66993f4d3f177",
@@ -1729,8 +1729,8 @@
       "last_updated": "2026-09-19T10:39:20.973803+00:00"
     },
     "developer-guide/relay-shared-metrics.md": {
-      "sha": "2ae7663db8101ab3ff4fc336b1a0226e739da32f",
-      "last_updated": "2026-10-01T12:50:41.062704+00:00"
+      "sha": "fb9be1d2925047d8043f325534695898cc6c8e00",
+      "last_updated": "2026-10-03T20:51:28.503964+00:00"
     },
     "developer-guide/state-db-recovery.md": {
       "sha": "c33820b54605d34f661069de0484b666d6b7bf27",
@@ -1781,8 +1781,8 @@
       "last_updated": "2026-09-21T04:21:19.875726+00:00"
     },
     "developer-guide/plugins/application-declarations.md": {
-      "sha": "20c465be6e3496e526a0c64446472c76fb56261a",
-      "last_updated": "2026-09-22T16:40:24.161596+00:00"
+      "sha": "93e5e147d5777e755299beba5e3ac05095600f0b",
+      "last_updated": "2026-10-03T20:51:28.139892+00:00"
     },
     "user-guide/features/bot-screen.md": {
       "sha": "1f90b8f7dcf661e7358de3b53d12c9ebcc90aa5e",
@@ -1833,7 +1833,7 @@
       "last_updated": "2026-10-02T09:32:57.452406+00:00"
     }
   },
-  "last_updated": "2026-10-03T16:01:31.664787+00:00",
+  "last_updated": "2026-10-03T20:51:30.199216+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
