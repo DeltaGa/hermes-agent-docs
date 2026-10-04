@@ -509,8 +509,8 @@
       "last_updated": "2026-10-02T17:42:41.503417+00:00"
     },
     "user-guide/features/hooks.md": {
-      "sha": "0f48e8cb85d5b57c01a20bb4cba05f140fb70316",
-      "last_updated": "2026-10-03T04:46:19.913575+00:00"
+      "sha": "d4ea6fd0d87079f7a5497daeaa01d482faccf392",
+      "last_updated": "2026-10-04T05:18:08.965005+00:00"
     },
     "user-guide/features/image-generation.md": {
       "sha": "7c4f5738af0f7490bb6a4a940e9ed64d52d510de",
@@ -561,8 +561,8 @@
       "last_updated": "2026-09-18T23:09:07.084598+00:00"
     },
     "user-guide/features/plugins.md": {
-      "sha": "6782dd9976aaf1112ed2646bfb33886d65c1deea",
-      "last_updated": "2026-10-03T20:51:29.208606+00:00"
+      "sha": "c58dd0f6d64bdabf1a484f89273aa92474083e80",
+      "last_updated": "2026-10-04T05:18:09.289021+00:00"
     },
     "user-guide/features/provider-routing.md": {
       "sha": "ecd7c3259c431ace69c565bb2e31151e4007e0ae",
@@ -773,16 +773,16 @@
       "last_updated": "2026-10-02T00:36:54.422396+00:00"
     },
     "user-guide/messaging/whatsapp.md": {
-      "sha": "b2a85ef627946716738e76a98a4a0e0d19f6d1a0",
-      "last_updated": "2026-09-20T15:48:24.947280+00:00"
+      "sha": "23b33ff06e3637d9205442a3cfefab99e58c8dcb",
+      "last_updated": "2026-10-04T05:18:10.148510+00:00"
     },
     "user-guide/messaging/yuanbao.md": {
       "sha": "e85b9da27673cdd2b662ac52ac313f9d15ac285c",
       "last_updated": "2026-09-25T04:23:24.277812+00:00"
     },
     "user-guide/multi-profile-gateways.md": {
-      "sha": "00ca1eae682e56c02b46f779f1be5abfb5618843",
-      "last_updated": "2026-10-02T09:33:07.292058+00:00"
+      "sha": "8e135593b181b598b48a8b01e36cf39be0911a35",
+      "last_updated": "2026-10-04T05:18:10.533823+00:00"
     },
     "user-guide/profile-distributions.md": {
       "sha": "dbf94f42f253ff9a7c485c6e670f52b226c02a27",
@@ -1637,8 +1637,8 @@
       "last_updated": "2026-09-25T04:23:28.758325+00:00"
     },
     "user-guide/local-models.md": {
-      "sha": "d28a66698b9a7e0b6a9d2175738c9296a1d9ea31",
-      "last_updated": "2026-10-03T16:01:29.554891+00:00"
+      "sha": "d215eaad220b0e60ae9bbc9ffbc9a87902ba43ce",
+      "last_updated": "2026-10-04T05:18:09.727220+00:00"
     },
     "developer-guide/cli-internals.md": {
       "sha": "f5145a3767df2950e41c494d3cff0c2b2dc83f68",
@@ -1833,7 +1833,7 @@
       "last_updated": "2026-10-02T09:32:57.452406+00:00"
     }
   },
-  "last_updated": "2026-10-03T23:40:31.838824+00:00",
+  "last_updated": "2026-10-04T05:18:10.740043+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
