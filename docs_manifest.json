@@ -61,8 +61,8 @@
       "last_updated": "2026-10-04T12:05:50.527260+00:00"
     },
     "developer-guide/desktop-plugin-sdk.md": {
-      "sha": "3bd8c430f698c9246f3247290c2b86457873b107",
-      "last_updated": "2026-10-05T14:10:35.418933+00:00"
+      "sha": "c853f84c0a9e9a5486e1b31f7ed895bb0296e1d2",
+      "last_updated": "2026-10-05T21:55:00.238429+00:00"
     },
     "developer-guide/egress-internals.md": {
       "sha": "dde37d99ace8f900d6f23431db168637c191dda4",
@@ -93,8 +93,8 @@
       "last_updated": "2026-09-18T23:08:33.114641+00:00"
     },
     "developer-guide/plugins/index.md": {
-      "sha": "f81f15384a0f5b44b845e9a261e6c2d44bc2d8b0",
-      "last_updated": "2026-10-05T14:10:36.784579+00:00"
+      "sha": "9447a26faf33573156f2b5f7eae23f325148752a",
+      "last_updated": "2026-10-05T21:55:00.681634+00:00"
     },
     "developer-guide/programmatic-integration.md": {
       "sha": "828b3151028a6cb23b107e359cf3a4323bc861d7",
@@ -597,8 +597,8 @@
       "last_updated": "2026-10-04T12:05:55.072957+00:00"
     },
     "user-guide/features/tts.md": {
-      "sha": "c0b57016bc522da74f509ea5bdf1f3f3bf1e5459",
-      "last_updated": "2026-09-25T04:23:18.597193+00:00"
+      "sha": "ee27f91ebb5a1a50f79aeb6e9a8925a59c4b3cdc",
+      "last_updated": "2026-10-05T21:55:01.186723+00:00"
     },
     "user-guide/features/vision.md": {
       "sha": "4e777c42e340474da91b65bb86d27e60366f0e92",
@@ -613,8 +613,8 @@
       "last_updated": "2026-09-25T04:23:19.154246+00:00"
     },
     "user-guide/features/web-dashboard.md": {
-      "sha": "a7cd53a10072a27fee843b9a6e505c04d1ed8cd8",
-      "last_updated": "2026-10-03T04:46:22.295570+00:00"
+      "sha": "99727e86e290e4e342569feb83ef9fb5115262c1",
+      "last_updated": "2026-10-05T21:55:01.590453+00:00"
     },
     "user-guide/features/web-search.md": {
       "sha": "719a93960822fe7f1e233697f27e06f1f6ca3d4e",
@@ -1833,7 +1833,7 @@
       "last_updated": "2026-10-05T14:10:36.488548+00:00"
     }
   },
-  "last_updated": "2026-10-05T14:10:38.656143+00:00",
+  "last_updated": "2026-10-05T21:55:01.797034+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
