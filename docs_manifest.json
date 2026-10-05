@@ -49,8 +49,8 @@
       "last_updated": "2026-09-29T05:12:43.759953+00:00"
     },
     "developer-guide/contributing.md": {
-      "sha": "3f75485348a5c1c0c072d49ebd47b2253c1b46ed",
-      "last_updated": "2026-09-25T04:22:59.314112+00:00"
+      "sha": "aed4c50fd6649d9b9eb0b70ba28e9e2c6f07b42d",
+      "last_updated": "2026-10-05T14:10:35.065787+00:00"
     },
     "developer-guide/creating-skills.md": {
       "sha": "51219596e479baced9d9e1e942682a6105661f2b",
@@ -61,8 +61,8 @@
       "last_updated": "2026-10-04T12:05:50.527260+00:00"
     },
     "developer-guide/desktop-plugin-sdk.md": {
-      "sha": "051c3767f0e7d3b7b49af5a086b6d5bf0f325592",
-      "last_updated": "2026-10-02T09:32:57.042744+00:00"
+      "sha": "3bd8c430f698c9246f3247290c2b86457873b107",
+      "last_updated": "2026-10-05T14:10:35.418933+00:00"
     },
     "developer-guide/egress-internals.md": {
       "sha": "dde37d99ace8f900d6f23431db168637c191dda4",
@@ -73,8 +73,8 @@
       "last_updated": "2026-09-25T04:22:59.917100+00:00"
     },
     "developer-guide/gateway-internals.md": {
-      "sha": "6c7c4980ceb75b5db95bd397e1f9250317a2a937",
-      "last_updated": "2026-10-04T12:05:50.865705+00:00"
+      "sha": "e1fdf17da555323d11007c99cb86668cf973bd5a",
+      "last_updated": "2026-10-05T14:10:35.781251+00:00"
     },
     "developer-guide/image-gen-provider-plugin.md": {
       "sha": "47684b8cbda90df472b3f93f6e16ca7d28e877c9",
@@ -93,8 +93,8 @@
       "last_updated": "2026-09-18T23:08:33.114641+00:00"
     },
     "developer-guide/plugins/index.md": {
-      "sha": "d35c2c422e7e36cb4ec9beb176bacc69f2a149b3",
-      "last_updated": "2026-10-02T17:42:39.605984+00:00"
+      "sha": "f81f15384a0f5b44b845e9a261e6c2d44bc2d8b0",
+      "last_updated": "2026-10-05T14:10:36.784579+00:00"
     },
     "developer-guide/programmatic-integration.md": {
       "sha": "828b3151028a6cb23b107e359cf3a4323bc861d7",
@@ -169,8 +169,8 @@
       "last_updated": "2026-09-25T04:23:08.701451+00:00"
     },
     "getting-started/updating.md": {
-      "sha": "ad46ff5771d3a47be73c2b6740d5ef2e44f79163",
-      "last_updated": "2026-10-05T05:02:14.221799+00:00"
+      "sha": "335fef704fa726f9c769d740ef3df16ab39a8f33",
+      "last_updated": "2026-10-05T14:10:37.122252+00:00"
     },
     "guides/_category_.json": {
       "sha": "6d1d2f0b9ec098f749715dd4deebc4d4b753b610",
@@ -509,8 +509,8 @@
       "last_updated": "2026-10-02T17:42:41.503417+00:00"
     },
     "user-guide/features/hooks.md": {
-      "sha": "d4ea6fd0d87079f7a5497daeaa01d482faccf392",
-      "last_updated": "2026-10-04T05:18:08.965005+00:00"
+      "sha": "b1c31b3339f118458516f1ae36b5bb130e3ea05a",
+      "last_updated": "2026-10-05T14:10:37.829862+00:00"
     },
     "user-guide/features/image-generation.md": {
       "sha": "7c4f5738af0f7490bb6a4a940e9ed64d52d510de",
@@ -561,8 +561,8 @@
       "last_updated": "2026-09-18T23:09:07.084598+00:00"
     },
     "user-guide/features/plugins.md": {
-      "sha": "c58dd0f6d64bdabf1a484f89273aa92474083e80",
-      "last_updated": "2026-10-04T05:18:09.289021+00:00"
+      "sha": "8777cd89e642ea72636626d168ca9457d88f857d",
+      "last_updated": "2026-10-05T14:10:38.118614+00:00"
     },
     "user-guide/features/provider-routing.md": {
       "sha": "ecd7c3259c431ace69c565bb2e31151e4007e0ae",
@@ -677,8 +677,8 @@
       "last_updated": "2026-10-04T12:05:56.210368+00:00"
     },
     "user-guide/messaging/index.md": {
-      "sha": "117c3ffae0acdd69034b1ec829c6d81dcf906bb0",
-      "last_updated": "2026-10-04T12:05:56.466474+00:00"
+      "sha": "c6584c76b6ae2b5f23f443d1d616e662fdec51d1",
+      "last_updated": "2026-10-05T14:10:38.446559+00:00"
     },
     "user-guide/messaging/irc.md": {
       "sha": "4fd21061621fc5e44a64222b7813561b41b28dd9",
@@ -1641,8 +1641,8 @@
       "last_updated": "2026-10-04T05:18:09.727220+00:00"
     },
     "developer-guide/cli-internals.md": {
-      "sha": "f5145a3767df2950e41c494d3cff0c2b2dc83f68",
-      "last_updated": "2026-09-15T21:05:10.968230+00:00"
+      "sha": "d3610e70e917a6dcd305e6213c202211eaba315f",
+      "last_updated": "2026-10-05T14:10:34.624996+00:00"
     },
     "developer-guide/completion-backlog-delivery.md": {
       "sha": "8a516ce4769b3f4a0c9dd3e89993259c7d9c75bd",
@@ -1721,8 +1721,8 @@
       "last_updated": "2026-09-28T13:27:25.146556+00:00"
     },
     "developer-guide/observer-hooks.md": {
-      "sha": "3d9c636706ff28aa6a117c1c0700fa2767aa19ae",
-      "last_updated": "2026-09-30T00:14:22.228838+00:00"
+      "sha": "5c7e95c6ae877ba48b1958faf92d6a11949babdd",
+      "last_updated": "2026-10-05T14:10:36.126778+00:00"
     },
     "developer-guide/relay-connector-contract.md": {
       "sha": "bc8ffa9fb398794695d12e951f7760ee632ab7ce",
@@ -1809,8 +1809,8 @@
       "last_updated": "2026-10-03T04:46:01.366404+00:00"
     },
     "reference/package-management.md": {
-      "sha": "8d245291e9277cfc24b18b3014c33a8ed02f38a6",
-      "last_updated": "2026-10-03T04:46:09.585050+00:00"
+      "sha": "664219778b69da17988031226ae6caa1a8fb022e",
+      "last_updated": "2026-10-05T14:10:37.440616+00:00"
     },
     "user-guide/switching-to-source.md": {
       "sha": "766782bed736ffa0bbb0ff70d3c46212547257a4",
@@ -1829,11 +1829,11 @@
       "last_updated": "2026-09-29T05:12:47.728731+00:00"
     },
     "developer-guide/plugins/catalog-submission.md": {
-      "sha": "4eb0ac6813368fdc6960e29f6f828a427c8e0456",
-      "last_updated": "2026-10-04T12:05:51.229906+00:00"
+      "sha": "f13e29b41a1ad6ec506a4f7bdeb824b1dd3f2295",
+      "last_updated": "2026-10-05T14:10:36.488548+00:00"
     }
   },
-  "last_updated": "2026-10-05T05:02:14.432311+00:00",
+  "last_updated": "2026-10-05T14:10:38.656143+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
