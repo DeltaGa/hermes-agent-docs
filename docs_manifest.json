@@ -169,8 +169,8 @@
       "last_updated": "2026-09-25T04:23:08.701451+00:00"
     },
     "getting-started/updating.md": {
-      "sha": "f5ffa0fc2419f4d9012b904ffbaf32952973f73e",
-      "last_updated": "2026-10-03T04:46:01.724017+00:00"
+      "sha": "ad46ff5771d3a47be73c2b6740d5ef2e44f79163",
+      "last_updated": "2026-10-05T05:02:14.221799+00:00"
     },
     "guides/_category_.json": {
       "sha": "6d1d2f0b9ec098f749715dd4deebc4d4b753b610",
@@ -1833,7 +1833,7 @@
       "last_updated": "2026-10-04T12:05:51.229906+00:00"
     }
   },
-  "last_updated": "2026-10-04T23:53:26.553886+00:00",
+  "last_updated": "2026-10-05T05:02:14.432311+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
