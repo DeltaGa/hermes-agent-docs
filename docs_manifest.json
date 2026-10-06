@@ -85,8 +85,8 @@
       "last_updated": "2026-10-02T17:42:39.307948+00:00"
     },
     "developer-guide/model-provider-plugin.md": {
-      "sha": "850fc5ce117f83ef64a2e8002a4675a6e597e249",
-      "last_updated": "2026-09-22T04:40:56.618198+00:00"
+      "sha": "e620d7e98a58c87dfc5e7f2cf9aabf3d958d5d9d",
+      "last_updated": "2026-10-06T13:07:04.372531+00:00"
     },
     "developer-guide/plugin-llm-access.md": {
       "sha": "e4a8063bcc3946d24b17ca3809ed393f243a4baa",
@@ -153,8 +153,8 @@
       "last_updated": "2026-09-18T23:08:36.921771+00:00"
     },
     "getting-started/nix-setup.md": {
-      "sha": "1715f113397cbb4ec09e81b9cea38cfe49695993",
-      "last_updated": "2026-10-02T17:42:39.941889+00:00"
+      "sha": "d4dd84e6f97b801ab0650846a3e3e6989c9bf86c",
+      "last_updated": "2026-10-06T13:07:05.985313+00:00"
     },
     "getting-started/platform-support.md": {
       "sha": "973d747d9a1ae6f4b66c38be9f52f3b9affa7a42",
@@ -169,8 +169,8 @@
       "last_updated": "2026-09-25T04:23:08.701451+00:00"
     },
     "getting-started/updating.md": {
-      "sha": "e7b9c2962e0f2f8ea7e4c8c22c5614fdfbfe174d",
-      "last_updated": "2026-10-06T05:49:03.675227+00:00"
+      "sha": "7fb59be1e7c552af22620e9ddeee834c43e84379",
+      "last_updated": "2026-10-06T13:07:06.394187+00:00"
     },
     "guides/_category_.json": {
       "sha": "6d1d2f0b9ec098f749715dd4deebc4d4b753b610",
@@ -189,8 +189,8 @@
       "last_updated": "2026-09-25T04:23:09.309209+00:00"
     },
     "guides/aws-bedrock.md": {
-      "sha": "1ebb312223d5bbb8807ad860cac300e1f30295b2",
-      "last_updated": "2026-09-25T04:23:09.598162+00:00"
+      "sha": "a22526d19fa7d0031e70c28ec5db45e24a964a4a",
+      "last_updated": "2026-10-06T13:07:06.782675+00:00"
     },
     "guides/azure-foundry.md": {
       "sha": "0535d9b1ba3364e901b27569f7d4b1cfbc65860d",
@@ -321,8 +321,8 @@
       "last_updated": "2026-09-18T23:08:50.423331+00:00"
     },
     "integrations/index.md": {
-      "sha": "eef29e5be73589efb43e8def3b61a08e881a616d",
-      "last_updated": "2026-10-04T12:05:52.183191+00:00"
+      "sha": "feed8d745cbf42615413afacd84d194b0dd7e6b3",
+      "last_updated": "2026-10-06T13:07:07.235232+00:00"
     },
     "integrations/nous-portal.md": {
       "sha": "40868778f378f02ef844d446c7bf550e82c71dc8",
@@ -341,8 +341,8 @@
       "last_updated": "2026-10-06T05:49:04.022980+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "e9c28573fbc95d46471751ecbe115c4a3653a56e",
-      "last_updated": "2026-10-03T04:46:09.209791+00:00"
+      "sha": "c9a07b4b697d775c6cf775a4eba462b9a21f32bc",
+      "last_updated": "2026-10-06T13:07:07.661519+00:00"
     },
     "reference/environment-variables.md": {
       "sha": "691c06571d4577c904d286478d7900239271c24c",
@@ -401,8 +401,8 @@
       "last_updated": "2026-10-06T05:49:04.469006+00:00"
     },
     "user-guide/configuring-models.md": {
-      "sha": "4cb72e94e87b1538fb8670cfd406a09e072bcd9c",
-      "last_updated": "2026-10-03T20:51:28.847241+00:00"
+      "sha": "cb36a867a7ef02217c7a5ba30400dd641ac01fec",
+      "last_updated": "2026-10-06T13:07:08.090280+00:00"
     },
     "user-guide/desktop.md": {
       "sha": "6b2c07b9e7c4e853f03c57b4009b0ad0b7932555",
@@ -537,20 +537,20 @@
       "last_updated": "2026-10-04T12:05:54.436742+00:00"
     },
     "user-guide/features/memory-providers.md": {
-      "sha": "62c198c834a329a6cc38ed252a0eb9ff90df5c45",
-      "last_updated": "2026-10-06T05:49:05.450057+00:00"
+      "sha": "dd4d6fcbaf969b624101b25048cdd8b50b96d87c",
+      "last_updated": "2026-10-06T13:07:08.526012+00:00"
     },
     "user-guide/features/memory.md": {
-      "sha": "67d529647a4eab21cde3ae883fbb835fb82dd054",
-      "last_updated": "2026-10-06T05:49:05.849996+00:00"
+      "sha": "9b249886cd672ab3361e6ed46799ccbda863a64f",
+      "last_updated": "2026-10-06T13:07:08.913719+00:00"
     },
     "user-guide/features/mixture-of-agents.md": {
       "sha": "18abd47e9e10e883e10e54d9755308d917af6e72",
       "last_updated": "2026-09-19T04:04:27.824994+00:00"
     },
     "user-guide/features/overview.md": {
-      "sha": "85f39232fd2707fa1babb082377c18865d077aa9",
-      "last_updated": "2026-10-02T17:42:42.411028+00:00"
+      "sha": "d13c71960df08faf90ffb595096dea8f6115fef6",
+      "last_updated": "2026-10-06T13:07:09.293751+00:00"
     },
     "user-guide/features/personality.md": {
       "sha": "7037af11bdf630bb343411ddd7e9161a084c55c3",
@@ -585,8 +585,8 @@
       "last_updated": "2026-10-03T16:01:29.255412+00:00"
     },
     "user-guide/features/tool-gateway.md": {
-      "sha": "05d6b45337c44f6ab8da620edb2785e684c69e32",
-      "last_updated": "2026-10-02T09:33:04.214414+00:00"
+      "sha": "08b88881e7d30e0e20d6bf9b4acafb1ceb9bb39e",
+      "last_updated": "2026-10-06T13:07:09.672682+00:00"
     },
     "user-guide/features/tool-search.md": {
       "sha": "4f32f076c35e6e18f0450bde13903338f9867c17",
@@ -597,8 +597,8 @@
       "last_updated": "2026-10-04T12:05:55.072957+00:00"
     },
     "user-guide/features/tts.md": {
-      "sha": "ee27f91ebb5a1a50f79aeb6e9a8925a59c4b3cdc",
-      "last_updated": "2026-10-05T21:55:01.186723+00:00"
+      "sha": "9536836ea946d09aa3fbb8fd5c984882ce36651f",
+      "last_updated": "2026-10-06T13:07:10.157799+00:00"
     },
     "user-guide/features/vision.md": {
       "sha": "4e777c42e340474da91b65bb86d27e60366f0e92",
@@ -617,8 +617,8 @@
       "last_updated": "2026-10-05T21:55:01.590453+00:00"
     },
     "user-guide/features/web-search.md": {
-      "sha": "719a93960822fe7f1e233697f27e06f1f6ca3d4e",
-      "last_updated": "2026-10-03T20:51:29.577228+00:00"
+      "sha": "c8125c220b933af72a0f55baa03192c2b5f44903",
+      "last_updated": "2026-10-06T13:07:10.539570+00:00"
     },
     "user-guide/features/x-search.md": {
       "sha": "86318db7d287d2f50b44d97b85cf2f32aab4e758",
@@ -1493,8 +1493,8 @@
       "last_updated": "2026-09-18T23:10:10.795284+00:00"
     },
     "user-guide/windows-native.md": {
-      "sha": "c9784b16d740e8b037475ac6f3abc6178d99c63a",
-      "last_updated": "2026-09-27T21:09:55.466447+00:00"
+      "sha": "be6fac376136cb49436fbb9205504bc685b0c66f",
+      "last_updated": "2026-10-06T13:07:10.976647+00:00"
     },
     "user-guide/windows-wsl-quickstart.md": {
       "sha": "d361f3176439276070acaa78fdbbd8f066ef29dd",
@@ -1641,8 +1641,8 @@
       "last_updated": "2026-10-04T05:18:09.727220+00:00"
     },
     "developer-guide/cli-internals.md": {
-      "sha": "d3610e70e917a6dcd305e6213c202211eaba315f",
-      "last_updated": "2026-10-05T14:10:34.624996+00:00"
+      "sha": "5728006c804cd6578163b20dc35f2958a9a574db",
+      "last_updated": "2026-10-06T13:07:03.940443+00:00"
     },
     "developer-guide/completion-backlog-delivery.md": {
       "sha": "8a516ce4769b3f4a0c9dd3e89993259c7d9c75bd",
@@ -1729,16 +1729,16 @@
       "last_updated": "2026-09-19T10:39:20.973803+00:00"
     },
     "developer-guide/relay-shared-metrics.md": {
-      "sha": "c9372ecae731e61c2071f67f4fe58118f36e503c",
-      "last_updated": "2026-10-06T05:49:03.257849+00:00"
+      "sha": "43bf44eb443477cf1ca24100ade9397c94285786",
+      "last_updated": "2026-10-06T13:07:04.754443+00:00"
     },
     "developer-guide/state-db-recovery.md": {
       "sha": "c33820b54605d34f661069de0484b666d6b7bf27",
       "last_updated": "2026-09-21T04:21:16.718975+00:00"
     },
     "developer-guide/streaming-tts.md": {
-      "sha": "c18df3ef8714bdb22f668850dc949f130303362b",
-      "last_updated": "2026-09-19T20:22:01.738830+00:00"
+      "sha": "dd8280b94a8694f6fac5328e0540e53401bf57b6",
+      "last_updated": "2026-10-06T13:07:05.486414+00:00"
     },
     "user-guide/egress/network-isolation.md": {
       "sha": "3c81ade84724d0e333a1999c33f6a1cabd297088",
@@ -1801,8 +1801,8 @@
       "last_updated": "2026-09-25T04:23:04.875784+00:00"
     },
     "developer-guide/source-update-completion.md": {
-      "sha": "87221130b7918804b10fa02fb4b3607adcc79257",
-      "last_updated": "2026-09-25T04:23:05.314508+00:00"
+      "sha": "fd0a75b22ce7c3a94146d9527a9a3bcc67f22619",
+      "last_updated": "2026-10-06T13:07:05.093262+00:00"
     },
     "developer-guide/stable-releases.md": {
       "sha": "4d1dd8329bbf7ce3a4be0b45bdb5e42a070a75e0",
@@ -1833,7 +1833,7 @@
       "last_updated": "2026-10-05T14:10:36.488548+00:00"
     }
   },
-  "last_updated": "2026-10-06T05:49:20.272665+00:00",
+  "last_updated": "2026-10-06T13:07:11.181936+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
