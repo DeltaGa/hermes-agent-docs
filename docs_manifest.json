@@ -93,8 +93,8 @@
       "last_updated": "2026-10-06T05:49:02.325270+00:00"
     },
     "developer-guide/plugins/index.md": {
-      "sha": "d85ff3e3fcd2c1d502dd3f05f283efcdd84ff3c2",
-      "last_updated": "2026-10-06T05:49:02.806950+00:00"
+      "sha": "f69cc4180f3bac3a5eed6b3e537724814f7de4f1",
+      "last_updated": "2026-10-07T18:43:30.893307+00:00"
     },
     "developer-guide/programmatic-integration.md": {
       "sha": "828b3151028a6cb23b107e359cf3a4323bc861d7",
@@ -145,8 +145,8 @@
       "last_updated": "2026-08-09T09:10:07.140471+00:00"
     },
     "getting-started/installation.md": {
-      "sha": "9409fe15420d0f82bb470d5c59600a7d4f3f1fea",
-      "last_updated": "2026-10-04T23:53:26.343476+00:00"
+      "sha": "7fa27f20d688b5de276c114fd180f18e15b74e1c",
+      "last_updated": "2026-10-07T18:43:32.141270+00:00"
     },
     "getting-started/learning-path.md": {
       "sha": "6ddce59518667babf1122eb07d2f8b6836050fe0",
@@ -169,8 +169,8 @@
       "last_updated": "2026-09-25T04:23:08.701451+00:00"
     },
     "getting-started/updating.md": {
-      "sha": "aed5a45b51c718330b13cee2b0525a6749d56864",
-      "last_updated": "2026-10-06T20:06:30.369590+00:00"
+      "sha": "c6508ab8beeba20429435529865abacadf0d282e",
+      "last_updated": "2026-10-07T18:43:32.855444+00:00"
     },
     "guides/_category_.json": {
       "sha": "6d1d2f0b9ec098f749715dd4deebc4d4b753b610",
@@ -353,8 +353,8 @@
       "last_updated": "2026-10-01T12:50:41.571530+00:00"
     },
     "reference/mcp-config-reference.md": {
-      "sha": "4f8dd8d5a91751e1c73aab964195f5be22370560",
-      "last_updated": "2026-09-28T13:27:28.850049+00:00"
+      "sha": "f2dbceddd0812b7a788b276908f34021a06ba81d",
+      "last_updated": "2026-10-07T18:43:33.454193+00:00"
     },
     "reference/model-catalog.md": {
       "sha": "e0b98a3ed705138505456a765e47c72bfccd4d1e",
@@ -405,8 +405,8 @@
       "last_updated": "2026-10-06T13:07:08.090280+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "6b2c07b9e7c4e853f03c57b4009b0ad0b7932555",
-      "last_updated": "2026-10-03T16:01:28.096787+00:00"
+      "sha": "cfb97dd15260bfac365c5daa141a3ac01a2099a6",
+      "last_updated": "2026-10-07T18:43:34.613765+00:00"
     },
     "user-guide/docker.md": {
       "sha": "ef9c3794281e2d57d53956e86b318a8400a9649f",
@@ -469,8 +469,8 @@
       "last_updated": "2026-09-24T11:27:41.873164+00:00"
     },
     "user-guide/features/cron.md": {
-      "sha": "6e5723b78c31168a62cda24bb6f25658027b875c",
-      "last_updated": "2026-10-07T10:03:07.060857+00:00"
+      "sha": "77c87df1424e08ea6904424a1d5c5c55da7feb41",
+      "last_updated": "2026-10-07T18:43:35.400547+00:00"
     },
     "user-guide/features/curator.md": {
       "sha": "70ad423547180a393fa44d4fc5b405a0d59973aa",
@@ -789,8 +789,8 @@
       "last_updated": "2026-10-04T12:05:57.393598+00:00"
     },
     "user-guide/profiles.md": {
-      "sha": "50f8e260ee6810d5eba075064dc9ab57225201c1",
-      "last_updated": "2026-10-04T12:05:57.643574+00:00"
+      "sha": "c816f6da495f40c8325614de7d7e5e9724f484ac",
+      "last_updated": "2026-10-07T18:43:36.065570+00:00"
     },
     "user-guide/secrets/bitwarden.md": {
       "sha": "00cf5059d96429be936be49aced4d91e41602131",
@@ -1729,8 +1729,8 @@
       "last_updated": "2026-09-19T10:39:20.973803+00:00"
     },
     "developer-guide/relay-shared-metrics.md": {
-      "sha": "60620e92c4429930a39024a06d2236c4639eee6d",
-      "last_updated": "2026-10-06T20:06:28.832293+00:00"
+      "sha": "1971cf08d9559b61c8c331abe238f33fb1f77067",
+      "last_updated": "2026-10-07T18:43:31.556808+00:00"
     },
     "developer-guide/state-db-recovery.md": {
       "sha": "c33820b54605d34f661069de0484b666d6b7bf27",
@@ -1809,8 +1809,8 @@
       "last_updated": "2026-10-03T04:46:01.366404+00:00"
     },
     "reference/package-management.md": {
-      "sha": "b50f6a55ec25c974377f95e91059b1a6de38c5a9",
-      "last_updated": "2026-10-07T00:30:52.617720+00:00"
+      "sha": "7f84060bb197768a4415c8b2642c78f01cd2970c",
+      "last_updated": "2026-10-07T18:43:34.072961+00:00"
     },
     "user-guide/switching-to-source.md": {
       "sha": "766782bed736ffa0bbb0ff70d3c46212547257a4",
@@ -1833,7 +1833,7 @@
       "last_updated": "2026-10-05T14:10:36.488548+00:00"
     }
   },
-  "last_updated": "2026-10-07T10:03:10.874572+00:00",
+  "last_updated": "2026-10-07T18:43:36.274697+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
