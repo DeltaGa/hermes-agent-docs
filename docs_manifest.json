@@ -397,8 +397,8 @@
       "last_updated": "2026-09-24T04:09:52.286835+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "37e407c5be6937baa7eec67768110efd0ae55acb",
-      "last_updated": "2026-10-06T20:06:32.725269+00:00"
+      "sha": "65d6c3e0b12667ffed6035ff9f55ead7532074e7",
+      "last_updated": "2026-10-07T00:30:53.083098+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "cb36a867a7ef02217c7a5ba30400dd641ac01fec",
@@ -809,8 +809,8 @@
       "last_updated": "2026-09-16T04:17:22.525104+00:00"
     },
     "user-guide/security.md": {
-      "sha": "f15a4cc4f306d015cc975073c0ff1b68db0812f9",
-      "last_updated": "2026-10-02T00:36:54.717019+00:00"
+      "sha": "bd090ab7954df9debc712ab66722f736650e2ff1",
+      "last_updated": "2026-10-07T00:30:53.585028+00:00"
     },
     "user-guide/sessions.md": {
       "sha": "0eeecea58b8964c7a467e9690a464fd564604a51",
@@ -1809,8 +1809,8 @@
       "last_updated": "2026-10-03T04:46:01.366404+00:00"
     },
     "reference/package-management.md": {
-      "sha": "664219778b69da17988031226ae6caa1a8fb022e",
-      "last_updated": "2026-10-05T14:10:37.440616+00:00"
+      "sha": "b50f6a55ec25c974377f95e91059b1a6de38c5a9",
+      "last_updated": "2026-10-07T00:30:52.617720+00:00"
     },
     "user-guide/switching-to-source.md": {
       "sha": "766782bed736ffa0bbb0ff70d3c46212547257a4",
@@ -1833,7 +1833,7 @@
       "last_updated": "2026-10-05T14:10:36.488548+00:00"
     }
   },
-  "last_updated": "2026-10-06T20:06:38.352145+00:00",
+  "last_updated": "2026-10-07T00:30:53.794063+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
