@@ -61,8 +61,8 @@
       "last_updated": "2026-10-04T12:05:50.527260+00:00"
     },
     "developer-guide/desktop-plugin-sdk.md": {
-      "sha": "c853f84c0a9e9a5486e1b31f7ed895bb0296e1d2",
-      "last_updated": "2026-10-05T21:55:00.238429+00:00"
+      "sha": "4277c1fe8e6b779c17f787d0745e51612ec52963",
+      "last_updated": "2026-10-08T18:41:56.436352+00:00"
     },
     "developer-guide/egress-internals.md": {
       "sha": "dde37d99ace8f900d6f23431db168637c191dda4",
@@ -93,8 +93,8 @@
       "last_updated": "2026-10-06T05:49:02.325270+00:00"
     },
     "developer-guide/plugins/index.md": {
-      "sha": "20cd97d25f48e1f7ca8e5749e22b3b3572fa30c5",
-      "last_updated": "2026-10-08T10:16:33.415835+00:00"
+      "sha": "aff9cf1cabc46bde9d5751f13bc38feb6b29f825",
+      "last_updated": "2026-10-08T18:41:57.075870+00:00"
     },
     "developer-guide/programmatic-integration.md": {
       "sha": "828b3151028a6cb23b107e359cf3a4323bc861d7",
@@ -509,8 +509,8 @@
       "last_updated": "2026-10-02T17:42:41.503417+00:00"
     },
     "user-guide/features/hooks.md": {
-      "sha": "b1c31b3339f118458516f1ae36b5bb130e3ea05a",
-      "last_updated": "2026-10-05T14:10:37.829862+00:00"
+      "sha": "ea15a468b9540f79cb3027e75ad8923b11c5aedc",
+      "last_updated": "2026-10-08T18:41:57.733324+00:00"
     },
     "user-guide/features/image-generation.md": {
       "sha": "7c4f5738af0f7490bb6a4a940e9ed64d52d510de",
@@ -809,8 +809,8 @@
       "last_updated": "2026-09-16T04:17:22.525104+00:00"
     },
     "user-guide/security.md": {
-      "sha": "56c4142d6657bbd5a26cf0f1f5cc5d81e36d80c3",
-      "last_updated": "2026-10-08T10:16:34.120421+00:00"
+      "sha": "3e420e58a8fe70dce9ab20cd913cde4fc301bc24",
+      "last_updated": "2026-10-08T18:41:58.645565+00:00"
     },
     "user-guide/sessions.md": {
       "sha": "0eeecea58b8964c7a467e9690a464fd564604a51",
@@ -1661,8 +1661,8 @@
       "last_updated": "2026-09-20T20:37:03.470991+00:00"
     },
     "user-guide/features/plugin-catalog.md": {
-      "sha": "88b4d847ada09146120e0a19b44ac521b387d88e",
-      "last_updated": "2026-10-04T12:05:54.813879+00:00"
+      "sha": "6f90887b004474675d6ac01546e014ecb818820a",
+      "last_updated": "2026-10-08T18:41:58.114023+00:00"
     },
     "user-guide/features/credential-vault.md": {
       "sha": "dc3abb33ea7cf77667cf6e739004b09a07aad7db",
@@ -1837,7 +1837,7 @@
       "last_updated": "2026-10-08T00:52:09.441133+00:00"
     }
   },
-  "last_updated": "2026-10-08T10:16:34.325297+00:00",
+  "last_updated": "2026-10-08T18:41:58.854996+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
