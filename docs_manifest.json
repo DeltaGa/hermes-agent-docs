@@ -93,8 +93,8 @@
       "last_updated": "2026-10-06T05:49:02.325270+00:00"
     },
     "developer-guide/plugins/index.md": {
-      "sha": "f69cc4180f3bac3a5eed6b3e537724814f7de4f1",
-      "last_updated": "2026-10-07T18:43:30.893307+00:00"
+      "sha": "20cd97d25f48e1f7ca8e5749e22b3b3572fa30c5",
+      "last_updated": "2026-10-08T10:16:33.415835+00:00"
     },
     "developer-guide/programmatic-integration.md": {
       "sha": "828b3151028a6cb23b107e359cf3a4323bc861d7",
@@ -809,8 +809,8 @@
       "last_updated": "2026-09-16T04:17:22.525104+00:00"
     },
     "user-guide/security.md": {
-      "sha": "322bc7efd6337e40c2234821e20134ea843043d9",
-      "last_updated": "2026-10-08T00:52:08.296923+00:00"
+      "sha": "56c4142d6657bbd5a26cf0f1f5cc5d81e36d80c3",
+      "last_updated": "2026-10-08T10:16:34.120421+00:00"
     },
     "user-guide/sessions.md": {
       "sha": "0eeecea58b8964c7a467e9690a464fd564604a51",
@@ -1801,8 +1801,8 @@
       "last_updated": "2026-10-06T20:06:29.732929+00:00"
     },
     "developer-guide/stable-releases.md": {
-      "sha": "4d1dd8329bbf7ce3a4be0b45bdb5e42a070a75e0",
-      "last_updated": "2026-10-03T04:46:01.366404+00:00"
+      "sha": "5fde40d8c6e448ccc436d64b0da08d8f60b02408",
+      "last_updated": "2026-10-08T10:16:33.782205+00:00"
     },
     "reference/package-management.md": {
       "sha": "7f84060bb197768a4415c8b2642c78f01cd2970c",
@@ -1837,7 +1837,7 @@
       "last_updated": "2026-10-08T00:52:09.441133+00:00"
     }
   },
-  "last_updated": "2026-10-08T00:52:09.646182+00:00",
+  "last_updated": "2026-10-08T10:16:34.325297+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
