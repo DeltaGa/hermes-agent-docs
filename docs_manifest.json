@@ -405,8 +405,8 @@
       "last_updated": "2026-10-06T13:07:08.090280+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "d6c7fdd6dc2f7f0acd19aab35274b2bafdf3bb4b",
-      "last_updated": "2026-10-08T00:52:06.610427+00:00"
+      "sha": "7f8700bd0566ef96809238bc6ac786b0487d8c24",
+      "last_updated": "2026-10-09T18:12:39.499195+00:00"
     },
     "user-guide/docker.md": {
       "sha": "ef9c3794281e2d57d53956e86b318a8400a9649f",
@@ -1509,8 +1509,8 @@
       "last_updated": "2026-09-20T20:36:12.104251+00:00"
     },
     "user-guide/features/loops.md": {
-      "sha": "0b50cc3962cfef7e07e24f7c1e233d49260a4974",
-      "last_updated": "2026-09-17T04:23:49.872737+00:00"
+      "sha": "9f47cdd1f0fd8b506eb00ed0b55be6a642426a73",
+      "last_updated": "2026-10-09T18:12:39.804604+00:00"
     },
     "user-guide/multi-connection-desktop.md": {
       "sha": "294d2ddeabc2fc6a312168ab28a59638cb4e44d6",
@@ -1637,8 +1637,8 @@
       "last_updated": "2026-09-25T04:23:28.758325+00:00"
     },
     "user-guide/local-models.md": {
-      "sha": "d215eaad220b0e60ae9bbc9ffbc9a87902ba43ce",
-      "last_updated": "2026-10-04T05:18:09.727220+00:00"
+      "sha": "5674e265d281d5fcd0fcf3f5cce48da6b757af53",
+      "last_updated": "2026-10-09T18:12:40.132204+00:00"
     },
     "developer-guide/cli-internals.md": {
       "sha": "5728006c804cd6578163b20dc35f2958a9a574db",
@@ -1801,8 +1801,8 @@
       "last_updated": "2026-10-06T20:06:29.732929+00:00"
     },
     "developer-guide/stable-releases.md": {
-      "sha": "5fde40d8c6e448ccc436d64b0da08d8f60b02408",
-      "last_updated": "2026-10-08T10:16:33.782205+00:00"
+      "sha": "a2b91581fbed5af000952148219d0bfabcb0c433",
+      "last_updated": "2026-10-09T18:12:38.933158+00:00"
     },
     "reference/package-management.md": {
       "sha": "7f84060bb197768a4415c8b2642c78f01cd2970c",
@@ -1837,7 +1837,7 @@
       "last_updated": "2026-10-08T00:52:09.441133+00:00"
     }
   },
-  "last_updated": "2026-10-09T10:17:28.910889+00:00",
+  "last_updated": "2026-10-09T18:12:40.338742+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
