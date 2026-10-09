@@ -33,8 +33,8 @@
       "last_updated": "2026-09-18T23:08:29.360024+00:00"
     },
     "developer-guide/browser-supervisor.md": {
-      "sha": "2d8adef0acf297cb6a6447b79b650f6aeefaec3c",
-      "last_updated": "2026-10-06T05:49:01.825620+00:00"
+      "sha": "8dfcee65f7f09dc8d61fe7ee70e11df09c77544f",
+      "last_updated": "2026-10-09T10:17:25.229713+00:00"
     },
     "developer-guide/codebase-ownership.md": {
       "sha": "5507aafef6ff08406f247ec3ff99d215cfa87c71",
@@ -61,8 +61,8 @@
       "last_updated": "2026-10-04T12:05:50.527260+00:00"
     },
     "developer-guide/desktop-plugin-sdk.md": {
-      "sha": "4277c1fe8e6b779c17f787d0745e51612ec52963",
-      "last_updated": "2026-10-08T18:41:56.436352+00:00"
+      "sha": "a54df00fe3fb084d08cab3c8e7cfc4d57e9fdd16",
+      "last_updated": "2026-10-09T10:17:25.556849+00:00"
     },
     "developer-guide/egress-internals.md": {
       "sha": "dde37d99ace8f900d6f23431db168637c191dda4",
@@ -81,8 +81,8 @@
       "last_updated": "2026-10-01T12:50:40.651231+00:00"
     },
     "developer-guide/memory-provider-plugin.md": {
-      "sha": "d1a921f08169dfaad7126c637c91ac9ef4598d11",
-      "last_updated": "2026-10-02T17:42:39.307948+00:00"
+      "sha": "d7f2e1f37ec943c2a124663b8de111511549ff3d",
+      "last_updated": "2026-10-09T10:17:25.901384+00:00"
     },
     "developer-guide/model-provider-plugin.md": {
       "sha": "e620d7e98a58c87dfc5e7f2cf9aabf3d958d5d9d",
@@ -249,8 +249,8 @@
       "last_updated": "2026-09-18T20:42:21.184502+00:00"
     },
     "guides/oauth-over-ssh.md": {
-      "sha": "1e32549b94f07163cbd9969760cab0deca57a5a9",
-      "last_updated": "2026-09-19T22:48:39.729418+00:00"
+      "sha": "4e8cfc9090d52a8ead1d311964df28c55995a4de",
+      "last_updated": "2026-10-09T10:17:26.231526+00:00"
     },
     "guides/operate-teams-meeting-pipeline.md": {
       "sha": "674a3c1c77bf6d0db0133c17da44d651eae0063e",
@@ -341,8 +341,8 @@
       "last_updated": "2026-10-06T05:49:04.022980+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "02fbc0a212c2488f627f8e75e17b3760a059aa9e",
-      "last_updated": "2026-10-07T10:03:06.240761+00:00"
+      "sha": "d96a269e09144f391cfd7c5b200c7b51cb4f2764",
+      "last_updated": "2026-10-09T10:17:26.561624+00:00"
     },
     "reference/environment-variables.md": {
       "sha": "691c06571d4577c904d286478d7900239271c24c",
@@ -377,12 +377,12 @@
       "last_updated": "2026-10-08T00:52:03.762166+00:00"
     },
     "reference/tools-reference.md": {
-      "sha": "6c157c753563d2cdc83dc80c27fd8fe850489f30",
-      "last_updated": "2026-10-08T00:52:04.766169+00:00"
+      "sha": "3b09094854ce0ffa0df7a24608ea3779da442b37",
+      "last_updated": "2026-10-09T10:17:26.888441+00:00"
     },
     "reference/toolsets-reference.md": {
-      "sha": "adaa21208b6b8a907a55244a00b551b15ed05cde",
-      "last_updated": "2026-10-08T00:52:05.258942+00:00"
+      "sha": "198c1d86ab423162b5a0d105d738af049083c014",
+      "last_updated": "2026-10-09T10:17:27.201592+00:00"
     },
     "user-guide/_category_.json": {
       "sha": "7911fa56fec15dafb51ceb520070a85fadf7addc",
@@ -441,8 +441,8 @@
       "last_updated": "2026-09-28T13:27:36.209685+00:00"
     },
     "user-guide/features/built-in-plugins.md": {
-      "sha": "e7d7bd39ca847e5b4e91fbc9d49c5f6d0265b70b",
-      "last_updated": "2026-09-30T00:14:50.103939+00:00"
+      "sha": "e0d0b776ac7e33c4d3ba4a8fc94efa04096ce201",
+      "last_updated": "2026-10-09T10:17:27.522709+00:00"
     },
     "user-guide/features/code-execution.md": {
       "sha": "f373bb26dab932497f19780a8b6806589cb141cb",
@@ -537,12 +537,12 @@
       "last_updated": "2026-10-08T00:52:07.444283+00:00"
     },
     "user-guide/features/memory-providers.md": {
-      "sha": "821cf09d8e8cefb1243ea3fd90bd1ae855778781",
-      "last_updated": "2026-10-07T10:03:08.640332+00:00"
+      "sha": "0fbd364a3081dd276d2adfbf0dfee128fbc54078",
+      "last_updated": "2026-10-09T10:17:27.843879+00:00"
     },
     "user-guide/features/memory.md": {
-      "sha": "3b953e17424570ce47cce9963efe0cd9216de174",
-      "last_updated": "2026-10-07T10:03:09.052704+00:00"
+      "sha": "1d37fc71c688814498b6abfbef77bdeaac605984",
+      "last_updated": "2026-10-09T10:17:28.084479+00:00"
     },
     "user-guide/features/mixture-of-agents.md": {
       "sha": "18abd47e9e10e883e10e54d9755308d917af6e72",
@@ -577,8 +577,8 @@
       "last_updated": "2026-10-02T09:33:03.586336+00:00"
     },
     "user-guide/features/spotify.md": {
-      "sha": "1a2b628293a424aa20901461b011a4778841c90f",
-      "last_updated": "2026-08-09T09:10:37.454407+00:00"
+      "sha": "a1b66e7ec688581dc7a7ba97c510c669c108ee5b",
+      "last_updated": "2026-10-09T10:17:28.394312+00:00"
     },
     "user-guide/features/subscription-proxy.md": {
       "sha": "666969772bcf671228da387d0977ab00a8e842db",
@@ -593,8 +593,8 @@
       "last_updated": "2026-10-06T20:06:33.120815+00:00"
     },
     "user-guide/features/tools.md": {
-      "sha": "67553fe7e1f4df5b6324401937d23f2b2e7f7201",
-      "last_updated": "2026-10-04T12:05:55.072957+00:00"
+      "sha": "3e1194b841c1712140b2f2fa432726d0809b6b1b",
+      "last_updated": "2026-10-09T10:17:28.701263+00:00"
     },
     "user-guide/features/tts.md": {
       "sha": "726667c83cfd0f1044da58e896fb93716e6abd32",
@@ -1837,7 +1837,7 @@
       "last_updated": "2026-10-08T00:52:09.441133+00:00"
     }
   },
-  "last_updated": "2026-10-09T01:05:16.682248+00:00",
+  "last_updated": "2026-10-09T10:17:28.910889+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
