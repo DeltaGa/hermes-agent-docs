@@ -53,8 +53,8 @@
       "last_updated": "2026-10-05T14:10:35.065787+00:00"
     },
     "developer-guide/creating-skills.md": {
-      "sha": "e03182ddf8572257f774b9b46ea6309a9e8e201f",
-      "last_updated": "2026-10-06T20:06:27.272159+00:00"
+      "sha": "2b8edca03db2e960fff45aad66e22b0eae89014e",
+      "last_updated": "2026-10-10T09:37:40.657070+00:00"
     },
     "developer-guide/cron-internals.md": {
       "sha": "1c26cba011c0ac45daccf42f0fe569a3f7b9a771",
@@ -101,8 +101,8 @@
       "last_updated": "2026-09-30T00:14:34.114100+00:00"
     },
     "developer-guide/prompt-assembly.md": {
-      "sha": "a7482ad24e6658ef9d89cf3012e7c1f2fc554b27",
-      "last_updated": "2026-09-17T11:22:14.997932+00:00"
+      "sha": "5576353ea96094d4ca9b5faf0ca052177d99013a",
+      "last_updated": "2026-10-10T09:37:41.077521+00:00"
     },
     "developer-guide/provider-runtime.md": {
       "sha": "60f1638b1f931f7db52ba9c2ff6d12d99978ef64",
@@ -169,8 +169,8 @@
       "last_updated": "2026-09-25T04:23:08.701451+00:00"
     },
     "getting-started/updating.md": {
-      "sha": "c6508ab8beeba20429435529865abacadf0d282e",
-      "last_updated": "2026-10-07T18:43:32.855444+00:00"
+      "sha": "6d49349b1a9cf13aa8fa4bf5df8e96e29fc236f9",
+      "last_updated": "2026-10-10T09:37:42.787212+00:00"
     },
     "guides/_category_.json": {
       "sha": "6d1d2f0b9ec098f749715dd4deebc4d4b753b610",
@@ -341,8 +341,8 @@
       "last_updated": "2026-10-06T05:49:04.022980+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "d96a269e09144f391cfd7c5b200c7b51cb4f2764",
-      "last_updated": "2026-10-09T10:17:26.561624+00:00"
+      "sha": "6eec70eb3181f086b9b637afcf9a23867eda92a6",
+      "last_updated": "2026-10-10T09:37:43.106327+00:00"
     },
     "reference/environment-variables.md": {
       "sha": "691c06571d4577c904d286478d7900239271c24c",
@@ -441,8 +441,8 @@
       "last_updated": "2026-09-28T13:27:36.209685+00:00"
     },
     "user-guide/features/built-in-plugins.md": {
-      "sha": "e0d0b776ac7e33c4d3ba4a8fc94efa04096ce201",
-      "last_updated": "2026-10-09T10:17:27.522709+00:00"
+      "sha": "f0f587aad4de3c870a3de200f608b0385d4b87ea",
+      "last_updated": "2026-10-10T09:37:43.473179+00:00"
     },
     "user-guide/features/code-execution.md": {
       "sha": "f373bb26dab932497f19780a8b6806589cb141cb",
@@ -569,8 +569,8 @@
       "last_updated": "2026-09-18T23:09:08.217582+00:00"
     },
     "user-guide/features/skills.md": {
-      "sha": "041e8c2007fb0a2ed2a851686bd2edebd8590036",
-      "last_updated": "2026-10-10T00:38:47.690160+00:00"
+      "sha": "7c6b06930e51886ba1729ff175870980014cf758",
+      "last_updated": "2026-10-10T09:37:43.853444+00:00"
     },
     "user-guide/features/skins.md": {
       "sha": "dbf4b2f749294294982d93c9ed846d4e5fb9db2d",
@@ -1729,8 +1729,8 @@
       "last_updated": "2026-09-19T10:39:20.973803+00:00"
     },
     "developer-guide/relay-shared-metrics.md": {
-      "sha": "240a909630cfe2aca81edce1fe18a8f367fb0f36",
-      "last_updated": "2026-10-10T00:38:47.453612+00:00"
+      "sha": "0344c7c66f09cd29f3f832d08911d13c6b26c3a5",
+      "last_updated": "2026-10-10T09:37:42.364984+00:00"
     },
     "developer-guide/state-db-recovery.md": {
       "sha": "c33820b54605d34f661069de0484b666d6b7bf27",
@@ -1837,7 +1837,7 @@
       "last_updated": "2026-10-08T00:52:09.441133+00:00"
     }
   },
-  "last_updated": "2026-10-10T00:38:48.191689+00:00",
+  "last_updated": "2026-10-10T09:37:44.060965+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
