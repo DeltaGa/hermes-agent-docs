@@ -81,8 +81,8 @@
       "last_updated": "2026-10-10T00:38:47.143002+00:00"
     },
     "developer-guide/memory-provider-plugin.md": {
-      "sha": "d7f2e1f37ec943c2a124663b8de111511549ff3d",
-      "last_updated": "2026-10-09T10:17:25.901384+00:00"
+      "sha": "e307a615a370c6b292b44cd0f492eb51b452e224",
+      "last_updated": "2026-10-10T21:25:01.043156+00:00"
     },
     "developer-guide/model-provider-plugin.md": {
       "sha": "e620d7e98a58c87dfc5e7f2cf9aabf3d958d5d9d",
@@ -93,8 +93,8 @@
       "last_updated": "2026-10-06T05:49:02.325270+00:00"
     },
     "developer-guide/plugins/index.md": {
-      "sha": "aff9cf1cabc46bde9d5751f13bc38feb6b29f825",
-      "last_updated": "2026-10-08T18:41:57.075870+00:00"
+      "sha": "2697ca94e5ab56251840ef9cdca536ea3e075e49",
+      "last_updated": "2026-10-10T21:25:02.088979+00:00"
     },
     "developer-guide/programmatic-integration.md": {
       "sha": "828b3151028a6cb23b107e359cf3a4323bc861d7",
@@ -561,8 +561,8 @@
       "last_updated": "2026-09-18T23:09:07.084598+00:00"
     },
     "user-guide/features/plugins.md": {
-      "sha": "2a6818c6fd92eccb0c436b8041a0987dacdf1a74",
-      "last_updated": "2026-10-09T01:05:16.133509+00:00"
+      "sha": "bdf16ef015560a39e578e95c5288ecab77c466b4",
+      "last_updated": "2026-10-10T21:25:02.640550+00:00"
     },
     "user-guide/features/provider-routing.md": {
       "sha": "ecd7c3259c431ace69c565bb2e31151e4007e0ae",
@@ -1825,8 +1825,8 @@
       "last_updated": "2026-09-29T05:12:47.728731+00:00"
     },
     "developer-guide/plugins/catalog-submission.md": {
-      "sha": "f13e29b41a1ad6ec506a4f7bdeb824b1dd3f2295",
-      "last_updated": "2026-10-05T14:10:36.488548+00:00"
+      "sha": "5de5d4ec2e2c3a6bc9361e53275bc54bb617038c",
+      "last_updated": "2026-10-10T21:25:01.537269+00:00"
     },
     "user-guide/skills/optional/productivity/productivity-first-task.md": {
       "sha": "9153daa48b2bc88a21d7ceb9956a8709951c6060",
@@ -1837,7 +1837,7 @@
       "last_updated": "2026-10-08T00:52:09.441133+00:00"
     }
   },
-  "last_updated": "2026-10-10T17:11:47.903182+00:00",
+  "last_updated": "2026-10-10T21:25:02.846966+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
