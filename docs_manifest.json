@@ -41,8 +41,8 @@
       "last_updated": "2026-09-04T16:06:01.194698+00:00"
     },
     "developer-guide/context-compression-and-caching.md": {
-      "sha": "693d164ae164c9990cfcad7f74b98fcbba4d079c",
-      "last_updated": "2026-10-01T12:50:27.123296+00:00"
+      "sha": "cdc00273c93a8eea4c877b2ee8a9aa921a583c4d",
+      "last_updated": "2026-10-10T17:11:47.372455+00:00"
     },
     "developer-guide/context-engine-plugin.md": {
       "sha": "8ffc9822a03425565e4e05c79999f75cb71aa68d",
@@ -1729,8 +1729,8 @@
       "last_updated": "2026-09-19T10:39:20.973803+00:00"
     },
     "developer-guide/relay-shared-metrics.md": {
-      "sha": "0344c7c66f09cd29f3f832d08911d13c6b26c3a5",
-      "last_updated": "2026-10-10T09:37:42.364984+00:00"
+      "sha": "fac8da071de9cf7f761e7d30ceefcabea0b7686c",
+      "last_updated": "2026-10-10T17:11:47.689057+00:00"
     },
     "developer-guide/state-db-recovery.md": {
       "sha": "c33820b54605d34f661069de0484b666d6b7bf27",
@@ -1837,7 +1837,7 @@
       "last_updated": "2026-10-08T00:52:09.441133+00:00"
     }
   },
-  "last_updated": "2026-10-10T09:37:44.060965+00:00",
+  "last_updated": "2026-10-10T17:11:47.903182+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
