@@ -49,8 +49,8 @@
       "last_updated": "2026-09-29T05:12:43.759953+00:00"
     },
     "developer-guide/contributing.md": {
-      "sha": "aed4c50fd6649d9b9eb0b70ba28e9e2c6f07b42d",
-      "last_updated": "2026-10-05T14:10:35.065787+00:00"
+      "sha": "f0253fe0a0f1cda50b54c19df0fc5799d32daf57",
+      "last_updated": "2026-10-11T12:27:57.640589+00:00"
     },
     "developer-guide/creating-skills.md": {
       "sha": "2b8edca03db2e960fff45aad66e22b0eae89014e",
@@ -97,12 +97,12 @@
       "last_updated": "2026-10-10T21:25:02.088979+00:00"
     },
     "developer-guide/programmatic-integration.md": {
-      "sha": "828b3151028a6cb23b107e359cf3a4323bc861d7",
-      "last_updated": "2026-09-30T00:14:34.114100+00:00"
+      "sha": "3856f28082bf9c063a4f497c9d977c070b0febda",
+      "last_updated": "2026-10-11T12:27:58.466459+00:00"
     },
     "developer-guide/prompt-assembly.md": {
-      "sha": "5576353ea96094d4ca9b5faf0ca052177d99013a",
-      "last_updated": "2026-10-10T09:37:41.077521+00:00"
+      "sha": "f51608d4bbb2a8a1c4693788bc52cc84df879c76",
+      "last_updated": "2026-10-11T12:27:58.974309+00:00"
     },
     "developer-guide/provider-runtime.md": {
       "sha": "60f1638b1f931f7db52ba9c2ff6d12d99978ef64",
@@ -341,8 +341,8 @@
       "last_updated": "2026-10-06T05:49:04.022980+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "0f347622259d0c99d0ade3a4f12004ca0364f34d",
-      "last_updated": "2026-10-11T05:08:52.860606+00:00"
+      "sha": "c01bf9e3fb8cfe8763f53079c28aebd86006de81",
+      "last_updated": "2026-10-11T12:27:59.439993+00:00"
     },
     "reference/environment-variables.md": {
       "sha": "691c06571d4577c904d286478d7900239271c24c",
@@ -361,8 +361,8 @@
       "last_updated": "2026-09-18T20:42:25.458764+00:00"
     },
     "reference/optional-skills-catalog.md": {
-      "sha": "d3581e95f86ddee20c8f2d397bd555972f662c0c",
-      "last_updated": "2026-10-08T00:52:03.342711+00:00"
+      "sha": "8eaad46ba985c759483b9ff8c4d8c49ac3240639",
+      "last_updated": "2026-10-11T12:27:59.782733+00:00"
     },
     "reference/profile-commands.md": {
       "sha": "9f4f840f67da5bfd1f9adaa33b871364a74d95af",
@@ -373,16 +373,16 @@
       "last_updated": "2026-09-20T20:35:56.668754+00:00"
     },
     "reference/slash-commands.md": {
-      "sha": "ef7342532ce646c3587c12e5271cec346add472d",
-      "last_updated": "2026-10-08T00:52:03.762166+00:00"
+      "sha": "aa14bc2e20a8d5bcf011d8f14e7f284d9e7f0b98",
+      "last_updated": "2026-10-11T12:28:00.163249+00:00"
     },
     "reference/tools-reference.md": {
-      "sha": "3b09094854ce0ffa0df7a24608ea3779da442b37",
-      "last_updated": "2026-10-09T10:17:26.888441+00:00"
+      "sha": "6ea9f9f7fc4c47119a56ee921936fe8fc1b603aa",
+      "last_updated": "2026-10-11T12:28:00.559414+00:00"
     },
     "reference/toolsets-reference.md": {
-      "sha": "198c1d86ab423162b5a0d105d738af049083c014",
-      "last_updated": "2026-10-09T10:17:27.201592+00:00"
+      "sha": "a0fcb5a40534923b068ab8613921927ca992c668",
+      "last_updated": "2026-10-11T12:28:00.970088+00:00"
     },
     "user-guide/_category_.json": {
       "sha": "7911fa56fec15dafb51ceb520070a85fadf7addc",
@@ -585,12 +585,12 @@
       "last_updated": "2026-10-03T16:01:29.255412+00:00"
     },
     "user-guide/features/tool-gateway.md": {
-      "sha": "08d138097676341bdec55ba12be029b2df0b6274",
-      "last_updated": "2026-10-10T00:38:47.982168+00:00"
+      "sha": "6ccee78fd2c76345f9c76cd262194480b82a87e8",
+      "last_updated": "2026-10-11T12:28:01.355839+00:00"
     },
     "user-guide/features/tool-search.md": {
-      "sha": "06be76b336c6d20cf9b53abc0d13c2f9235eb222",
-      "last_updated": "2026-10-06T20:06:33.120815+00:00"
+      "sha": "8e54ef335d51fadd59a1ad24901e90185ea70707",
+      "last_updated": "2026-10-11T12:28:01.721229+00:00"
     },
     "user-guide/features/tools.md": {
       "sha": "3e1194b841c1712140b2f2fa432726d0809b6b1b",
@@ -1485,8 +1485,8 @@
       "last_updated": "2026-09-19T20:22:31.360878+00:00"
     },
     "user-guide/tui.md": {
-      "sha": "8d2679c193283b32f62d4899593e3bff2162935f",
-      "last_updated": "2026-09-24T04:09:55.292832+00:00"
+      "sha": "d52c465901846f63f0afcf9523dd005375d610f3",
+      "last_updated": "2026-10-11T12:28:02.471905+00:00"
     },
     "user-guide/which-file-does-what.md": {
       "sha": "fdd9f43de58c65c964ff1b954d634dab2575b13a",
@@ -1825,8 +1825,8 @@
       "last_updated": "2026-09-29T05:12:47.728731+00:00"
     },
     "developer-guide/plugins/catalog-submission.md": {
-      "sha": "5de5d4ec2e2c3a6bc9361e53275bc54bb617038c",
-      "last_updated": "2026-10-10T21:25:01.537269+00:00"
+      "sha": "06823c93ca7c291607aa405fcacebb9ef80e7565",
+      "last_updated": "2026-10-11T12:27:58.065207+00:00"
     },
     "user-guide/skills/optional/productivity/productivity-first-task.md": {
       "sha": "9153daa48b2bc88a21d7ceb9956a8709951c6060",
@@ -1835,9 +1835,13 @@
     "user-guide/skills/optional/productivity/productivity-initiate-setup.md": {
       "sha": "51cf497468b4a31812c9ee1eda91f079cf1c2cf9",
       "last_updated": "2026-10-08T00:52:09.441133+00:00"
+    },
+    "user-guide/skills/optional/creative/creative-anatomy.md": {
+      "sha": "c16d962c7dcfbe06676e5fbcc5e90b2f85bb71a2",
+      "last_updated": "2026-10-11T12:28:02.097119+00:00"
     }
   },
-  "last_updated": "2026-10-11T05:08:54.883261+00:00",
+  "last_updated": "2026-10-11T12:28:02.679322+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
