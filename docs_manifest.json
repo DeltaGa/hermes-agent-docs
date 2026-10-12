@@ -345,8 +345,8 @@
       "last_updated": "2026-10-11T12:27:59.439993+00:00"
     },
     "reference/environment-variables.md": {
-      "sha": "691c06571d4577c904d286478d7900239271c24c",
-      "last_updated": "2026-10-04T12:05:52.438514+00:00"
+      "sha": "2367cd40e15361fda7e269210e2182d60bdca77d",
+      "last_updated": "2026-10-12T00:21:58.399579+00:00"
     },
     "reference/faq.md": {
       "sha": "a0d1d67d7a7c22808fec65f42bc4f5a3c04be6dc",
@@ -397,8 +397,8 @@
       "last_updated": "2026-09-24T04:09:52.286835+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "fef1919ef0b54e6b0ce01fbba254e13e00ef7c8b",
-      "last_updated": "2026-10-08T00:52:05.524837+00:00"
+      "sha": "1f16eacb2b54cfbd072899761d03318403039724",
+      "last_updated": "2026-10-12T00:21:58.809150+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "cb36a867a7ef02217c7a5ba30400dd641ac01fec",
@@ -1841,7 +1841,7 @@
       "last_updated": "2026-10-11T12:28:02.097119+00:00"
     }
   },
-  "last_updated": "2026-10-11T19:25:43.813553+00:00",
+  "last_updated": "2026-10-12T00:21:59.015437+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
