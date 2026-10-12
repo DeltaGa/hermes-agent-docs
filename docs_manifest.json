@@ -381,8 +381,8 @@
       "last_updated": "2026-10-11T12:28:00.559414+00:00"
     },
     "reference/toolsets-reference.md": {
-      "sha": "a0fcb5a40534923b068ab8613921927ca992c668",
-      "last_updated": "2026-10-11T12:28:00.970088+00:00"
+      "sha": "57cb2791b1f7513f7af21f32b7fa10a5ad235304",
+      "last_updated": "2026-10-12T10:30:48.708674+00:00"
     },
     "user-guide/_category_.json": {
       "sha": "7911fa56fec15dafb51ceb520070a85fadf7addc",
@@ -393,16 +393,16 @@
       "last_updated": "2026-09-30T00:14:48.652411+00:00"
     },
     "user-guide/cli.md": {
-      "sha": "5af8fc9e07f96b8a21f6bd6fc1b5851381df10f4",
-      "last_updated": "2026-09-24T04:09:52.286835+00:00"
+      "sha": "1e7a114528983a6c03bece18d64686a557966f86",
+      "last_updated": "2026-10-12T10:30:49.000009+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "1f16eacb2b54cfbd072899761d03318403039724",
-      "last_updated": "2026-10-12T00:21:58.809150+00:00"
+      "sha": "528b113e1d1a06088544d20ad92b01258e855ac0",
+      "last_updated": "2026-10-12T10:30:49.332465+00:00"
     },
     "user-guide/configuring-models.md": {
-      "sha": "cb36a867a7ef02217c7a5ba30400dd641ac01fec",
-      "last_updated": "2026-10-06T13:07:08.090280+00:00"
+      "sha": "9af82859b63af91111a3c0a4e22621f5d560daaf",
+      "last_updated": "2026-10-12T10:30:49.634146+00:00"
     },
     "user-guide/desktop.md": {
       "sha": "625bb2d88c91b030dedcd85ed9a6adb11c5187a7",
@@ -1841,7 +1841,7 @@
       "last_updated": "2026-10-11T12:28:02.097119+00:00"
     }
   },
-  "last_updated": "2026-10-12T00:21:59.015437+00:00",
+  "last_updated": "2026-10-12T10:30:49.844345+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
