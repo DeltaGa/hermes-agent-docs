@@ -93,8 +93,8 @@
       "last_updated": "2026-10-06T05:49:02.325270+00:00"
     },
     "developer-guide/plugins/index.md": {
-      "sha": "c122b174a98635839812943ecd6f88dc0fdba603",
-      "last_updated": "2026-10-12T21:08:00.066233+00:00"
+      "sha": "e21dc01aae7b3b92ec955f4bf7387335960033ee",
+      "last_updated": "2026-10-13T06:20:56.771798+00:00"
     },
     "developer-guide/programmatic-integration.md": {
       "sha": "3856f28082bf9c063a4f497c9d977c070b0febda",
@@ -377,8 +377,8 @@
       "last_updated": "2026-10-11T12:28:00.163249+00:00"
     },
     "reference/tools-reference.md": {
-      "sha": "6ea9f9f7fc4c47119a56ee921936fe8fc1b603aa",
-      "last_updated": "2026-10-11T12:28:00.559414+00:00"
+      "sha": "8db7d9e7d38c5d56d33f195cb10f826a759971f6",
+      "last_updated": "2026-10-13T06:20:57.406839+00:00"
     },
     "reference/toolsets-reference.md": {
       "sha": "57cb2791b1f7513f7af21f32b7fa10a5ad235304",
@@ -533,8 +533,8 @@
       "last_updated": "2026-09-29T05:12:48.134028+00:00"
     },
     "user-guide/features/mcp.md": {
-      "sha": "8ca23c4d8158c1fb7332a71a08fc4d365bd58754",
-      "last_updated": "2026-10-08T00:52:07.444283+00:00"
+      "sha": "c42d98a39e6d00a0889f1a508769577ec1e68921",
+      "last_updated": "2026-10-13T06:20:57.700136+00:00"
     },
     "user-guide/features/memory-providers.md": {
       "sha": "4b3ddea5ffa0f2db6589362e1c861896b914c536",
@@ -1805,8 +1805,8 @@
       "last_updated": "2026-10-11T19:25:43.129109+00:00"
     },
     "reference/package-management.md": {
-      "sha": "7f3c2d7f107c6e63c3b1fda2814a75f3c2f2b61a",
-      "last_updated": "2026-10-12T21:08:01.376512+00:00"
+      "sha": "1a2e7d333615c931617a0d7f61a322e7d8222683",
+      "last_updated": "2026-10-13T06:20:57.089424+00:00"
     },
     "user-guide/switching-to-source.md": {
       "sha": "766782bed736ffa0bbb0ff70d3c46212547257a4",
@@ -1825,8 +1825,8 @@
       "last_updated": "2026-09-29T05:12:47.728731+00:00"
     },
     "developer-guide/plugins/catalog-submission.md": {
-      "sha": "df43fb33213cbd9a0aebd773ff689aabe4a73504",
-      "last_updated": "2026-10-12T21:07:59.777777+00:00"
+      "sha": "61864aa0d79e7c1ce4d389a11c6de14b4828b907",
+      "last_updated": "2026-10-13T06:20:56.462280+00:00"
     },
     "user-guide/skills/optional/productivity/productivity-first-task.md": {
       "sha": "9153daa48b2bc88a21d7ceb9956a8709951c6060",
@@ -1841,7 +1841,7 @@
       "last_updated": "2026-10-11T12:28:02.097119+00:00"
     }
   },
-  "last_updated": "2026-10-12T21:08:02.500121+00:00",
+  "last_updated": "2026-10-13T06:20:57.909817+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
