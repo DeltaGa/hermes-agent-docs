@@ -157,8 +157,8 @@
       "last_updated": "2026-10-06T13:07:05.985313+00:00"
     },
     "getting-started/platform-support.md": {
-      "sha": "75e98e519892b7387e30b48bd3c0279225889e3a",
-      "last_updated": "2026-10-11T19:25:43.603068+00:00"
+      "sha": "3deb9e52c8880dce0e246085ed5faf118d213697",
+      "last_updated": "2026-10-14T16:54:52.024834+00:00"
     },
     "getting-started/quickstart.md": {
       "sha": "6e921e288b94b5cd264cb66e9c2c7747a7b2dba6",
@@ -329,8 +329,8 @@
       "last_updated": "2026-09-24T21:21:45.915150+00:00"
     },
     "integrations/providers.md": {
-      "sha": "17c3a2f62cf4aff51d90a0e691986f83b0351ac7",
-      "last_updated": "2026-10-01T20:14:33.074059+00:00"
+      "sha": "7e85f0bea90d18ba075a2a414ff7304292c0db48",
+      "last_updated": "2026-10-14T16:54:52.373380+00:00"
     },
     "reference/_category_.json": {
       "sha": "8150d97ad57c8f434b72e9cc65a58abd091787c6",
@@ -1801,8 +1801,8 @@
       "last_updated": "2026-10-06T20:06:29.732929+00:00"
     },
     "developer-guide/stable-releases.md": {
-      "sha": "c2be0717b476481d5c1bd2f1c1f5cf712352935a",
-      "last_updated": "2026-10-14T04:22:09.318917+00:00"
+      "sha": "8b42302fe82e91e0ab013e34b4f1db330cdd25c4",
+      "last_updated": "2026-10-14T16:54:51.661524+00:00"
     },
     "reference/package-management.md": {
       "sha": "1a2e7d333615c931617a0d7f61a322e7d8222683",
@@ -1833,7 +1833,7 @@
       "last_updated": "2026-10-11T12:28:02.097119+00:00"
     }
   },
-  "last_updated": "2026-10-14T11:32:31.681951+00:00",
+  "last_updated": "2026-10-14T16:54:52.583277+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
