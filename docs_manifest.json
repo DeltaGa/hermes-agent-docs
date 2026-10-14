@@ -1637,8 +1637,8 @@
       "last_updated": "2026-09-25T04:23:28.758325+00:00"
     },
     "user-guide/local-models.md": {
-      "sha": "5674e265d281d5fcd0fcf3f5cce48da6b757af53",
-      "last_updated": "2026-10-09T18:12:40.132204+00:00"
+      "sha": "fcf5460c6c42d24b30ab0b15935a4bf3c3ebc548",
+      "last_updated": "2026-10-14T11:32:31.472052+00:00"
     },
     "developer-guide/cli-internals.md": {
       "sha": "5728006c804cd6578163b20dc35f2958a9a574db",
@@ -1833,7 +1833,7 @@
       "last_updated": "2026-10-11T12:28:02.097119+00:00"
     }
   },
-  "last_updated": "2026-10-14T04:22:13.644283+00:00",
+  "last_updated": "2026-10-14T11:32:31.681951+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
