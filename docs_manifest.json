@@ -145,8 +145,8 @@
       "last_updated": "2026-08-09T09:10:07.140471+00:00"
     },
     "getting-started/installation.md": {
-      "sha": "7fa27f20d688b5de276c114fd180f18e15b74e1c",
-      "last_updated": "2026-10-07T18:43:32.141270+00:00"
+      "sha": "550f867a20d136bec70edd4138dfb6b9e5edc6e7",
+      "last_updated": "2026-10-15T21:09:30.440845+00:00"
     },
     "getting-started/learning-path.md": {
       "sha": "6ddce59518667babf1122eb07d2f8b6836050fe0",
@@ -169,8 +169,8 @@
       "last_updated": "2026-09-25T04:23:08.701451+00:00"
     },
     "getting-started/updating.md": {
-      "sha": "06413dcfba194b33b802b044dc91b38bcdba872f",
-      "last_updated": "2026-10-14T21:28:18.335472+00:00"
+      "sha": "ff24de02d181b534f5f9f367ab5ac270d49bb65b",
+      "last_updated": "2026-10-15T21:09:30.805870+00:00"
     },
     "guides/_category_.json": {
       "sha": "6d1d2f0b9ec098f749715dd4deebc4d4b753b610",
@@ -1493,8 +1493,8 @@
       "last_updated": "2026-09-18T23:10:10.795284+00:00"
     },
     "user-guide/windows-native.md": {
-      "sha": "be6fac376136cb49436fbb9205504bc685b0c66f",
-      "last_updated": "2026-10-06T13:07:10.976647+00:00"
+      "sha": "245ae47e663002c87f8538144c88f5895a3162f6",
+      "last_updated": "2026-10-15T21:09:31.204991+00:00"
     },
     "user-guide/windows-wsl-quickstart.md": {
       "sha": "d361f3176439276070acaa78fdbbd8f066ef29dd",
@@ -1849,7 +1849,7 @@
       "last_updated": "2026-10-14T21:28:15.532425+00:00"
     }
   },
-  "last_updated": "2026-10-15T16:41:50.165437+00:00",
+  "last_updated": "2026-10-15T21:09:31.409815+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
