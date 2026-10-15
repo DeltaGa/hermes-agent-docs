@@ -93,8 +93,8 @@
       "last_updated": "2026-10-06T05:49:02.325270+00:00"
     },
     "developer-guide/plugins/index.md": {
-      "sha": "5ac5838684ab8c002bc098e5c37effa0952432c9",
-      "last_updated": "2026-10-14T21:28:16.445734+00:00"
+      "sha": "9cfb32e985d94d9a17ae485b7f9d500826cf8696",
+      "last_updated": "2026-10-15T16:41:49.221214+00:00"
     },
     "developer-guide/programmatic-integration.md": {
       "sha": "cfa6ff772b9da3ced2a614d565c77c477dec38a8",
@@ -437,8 +437,8 @@
       "last_updated": "2026-09-18T23:08:59.344738+00:00"
     },
     "user-guide/features/browser.md": {
-      "sha": "f2867da33a3d96e1c5a1520843812d1939e29639",
-      "last_updated": "2026-09-28T13:27:36.209685+00:00"
+      "sha": "ceb479de1019a23dc3dbd8a260eb3dca358a082a",
+      "last_updated": "2026-10-15T16:41:49.598645+00:00"
     },
     "user-guide/features/built-in-plugins.md": {
       "sha": "43a033d62ef4a64d7776b7dd90305c1428b943a5",
@@ -1509,8 +1509,8 @@
       "last_updated": "2026-09-20T20:36:12.104251+00:00"
     },
     "user-guide/features/loops.md": {
-      "sha": "9f47cdd1f0fd8b506eb00ed0b55be6a642426a73",
-      "last_updated": "2026-10-09T18:12:39.804604+00:00"
+      "sha": "6185e27965f3f029feca0ed722d22463348ee02c",
+      "last_updated": "2026-10-15T16:41:49.958759+00:00"
     },
     "user-guide/multi-connection-desktop.md": {
       "sha": "8a7f7ec42cfc1985598cad928ef357878ae467fb",
@@ -1849,7 +1849,7 @@
       "last_updated": "2026-10-14T21:28:15.532425+00:00"
     }
   },
-  "last_updated": "2026-10-15T11:10:47.332818+00:00",
+  "last_updated": "2026-10-15T16:41:50.165437+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
