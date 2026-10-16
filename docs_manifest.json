@@ -9,8 +9,8 @@
       "last_updated": "2026-10-14T21:28:12.912343+00:00"
     },
     "developer-guide/adding-platform-adapters.md": {
-      "sha": "56d6ea3e29a9bb0e6e20a2efc7c20ee5920fba81",
-      "last_updated": "2026-10-11T05:08:51.641432+00:00"
+      "sha": "5f23b286fdf9cb0730b75f9694a86cc15c526551",
+      "last_updated": "2026-10-16T16:24:16.664101+00:00"
     },
     "developer-guide/adding-providers.md": {
       "sha": "2bf4ef8efde1420469ad187733d213cc6dd32cbc",
@@ -25,8 +25,8 @@
       "last_updated": "2026-09-19T20:21:58.312547+00:00"
     },
     "developer-guide/architecture.md": {
-      "sha": "1ceb6e1a6a0725c3949ddffba65984fb9851f442",
-      "last_updated": "2026-10-04T12:05:50.168037+00:00"
+      "sha": "0a026fb1e767f96763f89101e2e51335fee91865",
+      "last_updated": "2026-10-16T16:24:16.994298+00:00"
     },
     "developer-guide/browser-provider-plugin.md": {
       "sha": "465e43e61f0b400a1d5dccd261e03cc569473333",
@@ -73,8 +73,8 @@
       "last_updated": "2026-09-25T04:22:59.917100+00:00"
     },
     "developer-guide/gateway-internals.md": {
-      "sha": "2bbe9c975b39010e93990c18012178cf2791625d",
-      "last_updated": "2026-10-15T04:04:35.268071+00:00"
+      "sha": "a1fc57fb2fdce6aa53078ae1d34b3142ba16dc4b",
+      "last_updated": "2026-10-16T16:24:17.333231+00:00"
     },
     "developer-guide/image-gen-provider-plugin.md": {
       "sha": "3f8a603c279ec5883972481f231237ff91b77ebd",
@@ -1849,7 +1849,7 @@
       "last_updated": "2026-10-14T21:28:15.532425+00:00"
     }
   },
-  "last_updated": "2026-10-16T04:00:55.655978+00:00",
+  "last_updated": "2026-10-16T16:24:17.543879+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
