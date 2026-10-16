@@ -409,8 +409,8 @@
       "last_updated": "2026-10-14T21:28:20.482051+00:00"
     },
     "user-guide/docker.md": {
-      "sha": "ef9c3794281e2d57d53956e86b318a8400a9649f",
-      "last_updated": "2026-10-02T09:32:59.975858+00:00"
+      "sha": "dff97a0364af815246d7ac55a764fb7f1dea21da",
+      "last_updated": "2026-10-16T04:00:55.081720+00:00"
     },
     "user-guide/egress/index.md": {
       "sha": "90ccbb8a05e663ba816b4ac1e8bef7bca32eed5b",
@@ -509,8 +509,8 @@
       "last_updated": "2026-10-02T17:42:41.503417+00:00"
     },
     "user-guide/features/hooks.md": {
-      "sha": "ea15a468b9540f79cb3027e75ad8923b11c5aedc",
-      "last_updated": "2026-10-08T18:41:57.733324+00:00"
+      "sha": "124926c6a44e83ae8dc294c24adcafd75e11c5f0",
+      "last_updated": "2026-10-16T04:00:55.446136+00:00"
     },
     "user-guide/features/image-generation.md": {
       "sha": "7c4f5738af0f7490bb6a4a940e9ed64d52d510de",
@@ -1849,7 +1849,7 @@
       "last_updated": "2026-10-14T21:28:15.532425+00:00"
     }
   },
-  "last_updated": "2026-10-15T21:09:31.409815+00:00",
+  "last_updated": "2026-10-16T04:00:55.655978+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
