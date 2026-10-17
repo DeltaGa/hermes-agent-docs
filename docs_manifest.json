@@ -81,8 +81,8 @@
       "last_updated": "2026-10-10T00:38:47.143002+00:00"
     },
     "developer-guide/memory-provider-plugin.md": {
-      "sha": "e307a615a370c6b292b44cd0f492eb51b452e224",
-      "last_updated": "2026-10-10T21:25:01.043156+00:00"
+      "sha": "9ea6b0bd8802ccc4113a08ea8f42662e83c140ad",
+      "last_updated": "2026-10-17T20:23:04.732454+00:00"
     },
     "developer-guide/model-provider-plugin.md": {
       "sha": "df1fbda3fd64e07fe9980a541a582d80c1601c9d",
@@ -393,8 +393,8 @@
       "last_updated": "2026-09-30T00:14:48.652411+00:00"
     },
     "user-guide/cli.md": {
-      "sha": "c9b984c93801d937a33dd3b9bc6b953543ece011",
-      "last_updated": "2026-10-14T21:28:19.894759+00:00"
+      "sha": "25561c48be77cd602e0f3354fbc1c96b8912c124",
+      "last_updated": "2026-10-17T20:23:05.071692+00:00"
     },
     "user-guide/configuration.md": {
       "sha": "668b809069f0e322402ff4138466fd9d8e60c40c",
@@ -429,8 +429,8 @@
       "last_updated": "2026-10-14T21:28:20.801519+00:00"
     },
     "user-guide/features/api-server.md": {
-      "sha": "0173a6f274a44562594cf4ee3b5ff481d44266cb",
-      "last_updated": "2026-10-14T21:28:21.116081+00:00"
+      "sha": "7e890da60a4c532b1ea009735e8fd13f6bbdb456",
+      "last_updated": "2026-10-17T20:23:05.444797+00:00"
     },
     "user-guide/features/batch-processing.md": {
       "sha": "cb86017543bf43b584b578304a8235cd1d0fd188",
@@ -529,8 +529,8 @@
       "last_updated": "2026-10-14T21:28:22.365821+00:00"
     },
     "user-guide/features/lsp.md": {
-      "sha": "a5e188c437dd0ddd6b0ee1ca18d13186d0892082",
-      "last_updated": "2026-09-29T05:12:48.134028+00:00"
+      "sha": "d580741915982a10bd08f2585ec681a6512df8fa",
+      "last_updated": "2026-10-17T20:23:05.796944+00:00"
     },
     "user-guide/features/mcp.md": {
       "sha": "c42d98a39e6d00a0889f1a508769577ec1e68921",
@@ -593,8 +593,8 @@
       "last_updated": "2026-10-12T21:08:02.290550+00:00"
     },
     "user-guide/features/tools.md": {
-      "sha": "3e1194b841c1712140b2f2fa432726d0809b6b1b",
-      "last_updated": "2026-10-09T10:17:28.701263+00:00"
+      "sha": "127608bcb2fccb54f33d5f221d63e292a7e6508d",
+      "last_updated": "2026-10-17T20:23:06.134294+00:00"
     },
     "user-guide/features/tts.md": {
       "sha": "726667c83cfd0f1044da58e896fb93716e6abd32",
@@ -1849,7 +1849,7 @@
       "last_updated": "2026-10-17T10:25:10.035076+00:00"
     }
   },
-  "last_updated": "2026-10-17T10:25:11.531919+00:00",
+  "last_updated": "2026-10-17T20:23:06.343880+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
