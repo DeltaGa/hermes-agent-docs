@@ -9,8 +9,8 @@
       "last_updated": "2026-10-14T21:28:12.912343+00:00"
     },
     "developer-guide/adding-platform-adapters.md": {
-      "sha": "a16cbbaecef4118fa025d22daccaba40dc541140",
-      "last_updated": "2026-10-17T03:51:39.246426+00:00"
+      "sha": "4631713eb36ad2555e009ceb040a79076f847b3f",
+      "last_updated": "2026-10-17T22:58:24.661559+00:00"
     },
     "developer-guide/adding-providers.md": {
       "sha": "2bf4ef8efde1420469ad187733d213cc6dd32cbc",
@@ -1849,7 +1849,7 @@
       "last_updated": "2026-10-17T10:25:10.035076+00:00"
     }
   },
-  "last_updated": "2026-10-17T20:23:06.343880+00:00",
+  "last_updated": "2026-10-17T22:58:24.868610+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
