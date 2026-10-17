@@ -9,8 +9,8 @@
       "last_updated": "2026-10-14T21:28:12.912343+00:00"
     },
     "developer-guide/adding-platform-adapters.md": {
-      "sha": "5f23b286fdf9cb0730b75f9694a86cc15c526551",
-      "last_updated": "2026-10-16T16:24:16.664101+00:00"
+      "sha": "a16cbbaecef4118fa025d22daccaba40dc541140",
+      "last_updated": "2026-10-17T03:51:39.246426+00:00"
     },
     "developer-guide/adding-providers.md": {
       "sha": "2bf4ef8efde1420469ad187733d213cc6dd32cbc",
@@ -445,8 +445,8 @@
       "last_updated": "2026-10-12T21:08:01.976032+00:00"
     },
     "user-guide/features/code-execution.md": {
-      "sha": "f373bb26dab932497f19780a8b6806589cb141cb",
-      "last_updated": "2026-09-25T04:23:15.881873+00:00"
+      "sha": "800fbf18f4d00119466586d1d6416fb3dbe44e56",
+      "last_updated": "2026-10-17T03:51:39.597250+00:00"
     },
     "user-guide/features/codex-app-server-runtime.md": {
       "sha": "60b865ace05e4bdc310931837e9e058e1101af1d",
@@ -509,8 +509,8 @@
       "last_updated": "2026-10-02T17:42:41.503417+00:00"
     },
     "user-guide/features/hooks.md": {
-      "sha": "906ac3e004f028d8029c3cf6618b3514a76eaeac",
-      "last_updated": "2026-10-16T23:22:34.495936+00:00"
+      "sha": "802d78fda9933a694813291bf2c52deb48d4a577",
+      "last_updated": "2026-10-17T03:51:39.934279+00:00"
     },
     "user-guide/features/image-generation.md": {
       "sha": "7c4f5738af0f7490bb6a4a940e9ed64d52d510de",
@@ -561,8 +561,8 @@
       "last_updated": "2026-09-18T23:09:07.084598+00:00"
     },
     "user-guide/features/plugins.md": {
-      "sha": "1a9bfd8cf6f0122871a1d390d7ae0780f14a28df",
-      "last_updated": "2026-10-16T23:22:35.298270+00:00"
+      "sha": "7f7d7e9317f0c0d784f84b94eab717b051f42bf4",
+      "last_updated": "2026-10-17T03:51:40.272334+00:00"
     },
     "user-guide/features/provider-routing.md": {
       "sha": "6cb93cd855d7d334a958b25d386211f5345b75b3",
@@ -809,8 +809,8 @@
       "last_updated": "2026-09-16T04:17:22.525104+00:00"
     },
     "user-guide/security.md": {
-      "sha": "3e420e58a8fe70dce9ab20cd913cde4fc301bc24",
-      "last_updated": "2026-10-08T18:41:58.645565+00:00"
+      "sha": "f4ea9afbadddce00277ce541d63d91f3c46ef462",
+      "last_updated": "2026-10-17T03:51:40.632268+00:00"
     },
     "user-guide/sessions.md": {
       "sha": "31bf98057baf1f00844a6a75c2ca103fd49e832b",
@@ -1849,7 +1849,7 @@
       "last_updated": "2026-10-14T21:28:15.532425+00:00"
     }
   },
-  "last_updated": "2026-10-16T23:22:37.160595+00:00",
+  "last_updated": "2026-10-17T03:51:40.838102+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
