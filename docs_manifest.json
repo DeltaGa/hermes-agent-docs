@@ -405,8 +405,8 @@
       "last_updated": "2026-10-14T21:28:20.196076+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "811c68edd34170835c3a400dfa8e72f8d415c221",
-      "last_updated": "2026-10-18T10:43:57.953201+00:00"
+      "sha": "2021ee43feb046d980a57b30d68a6e3e2c98d616",
+      "last_updated": "2026-10-19T04:07:04.848183+00:00"
     },
     "user-guide/docker.md": {
       "sha": "dff97a0364af815246d7ac55a764fb7f1dea21da",
@@ -477,8 +477,8 @@
       "last_updated": "2026-10-14T21:28:21.736277+00:00"
     },
     "user-guide/features/delegation.md": {
-      "sha": "1efe1662a818b23a2d8ed99b73c8d684a6ee5822",
-      "last_updated": "2026-10-16T23:22:33.646681+00:00"
+      "sha": "2dc4175ba35c8854c80ed2faa707427f071c24ed",
+      "last_updated": "2026-10-19T04:07:05.207572+00:00"
     },
     "user-guide/features/deliverable-mode.md": {
       "sha": "ea042049b33d23d91df269bdf350c9411c35ffd4",
@@ -1849,7 +1849,7 @@
       "last_updated": "2026-10-17T10:25:10.035076+00:00"
     }
   },
-  "last_updated": "2026-10-18T20:23:45.458243+00:00",
+  "last_updated": "2026-10-19T04:07:05.417346+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
