@@ -93,8 +93,8 @@
       "last_updated": "2026-10-06T05:49:02.325270+00:00"
     },
     "developer-guide/plugins/index.md": {
-      "sha": "b5c2cd8ab7871d8d0046e2b7bca21bf7610c8e4b",
-      "last_updated": "2026-10-18T10:43:56.877424+00:00"
+      "sha": "b612ee737bfa44954fb4a36a7f378eed9702e1a4",
+      "last_updated": "2026-10-19T12:43:21.629498+00:00"
     },
     "developer-guide/programmatic-integration.md": {
       "sha": "cfa6ff772b9da3ced2a614d565c77c477dec38a8",
@@ -341,20 +341,20 @@
       "last_updated": "2026-10-06T05:49:04.022980+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "c82066bdb9877766fde0a26a7652445f3ddbdfb6",
-      "last_updated": "2026-10-18T20:23:44.640149+00:00"
+      "sha": "9a6b5635594713218c16d6f1ac5705c21f277322",
+      "last_updated": "2026-10-19T12:43:22.054931+00:00"
     },
     "reference/environment-variables.md": {
-      "sha": "5a4858215d97a9ac999d7485f9afc53ab16cdfc5",
-      "last_updated": "2026-10-14T21:28:19.255577+00:00"
+      "sha": "ca0e4c0aca4034ed44465c1c3ff318287ec76f81",
+      "last_updated": "2026-10-19T12:43:22.507965+00:00"
     },
     "reference/faq.md": {
       "sha": "a0d1d67d7a7c22808fec65f42bc4f5a3c04be6dc",
       "last_updated": "2026-10-01T12:50:41.571530+00:00"
     },
     "reference/mcp-config-reference.md": {
-      "sha": "f2dbceddd0812b7a788b276908f34021a06ba81d",
-      "last_updated": "2026-10-07T18:43:33.454193+00:00"
+      "sha": "86b311a1a307e23e69e3d39bf7054d805289db6a",
+      "last_updated": "2026-10-19T12:43:22.943107+00:00"
     },
     "reference/model-catalog.md": {
       "sha": "e0b98a3ed705138505456a765e47c72bfccd4d1e",
@@ -373,8 +373,8 @@
       "last_updated": "2026-09-20T20:35:56.668754+00:00"
     },
     "reference/slash-commands.md": {
-      "sha": "2cfd74a74a6c68853472ce085701e60971036897",
-      "last_updated": "2026-10-18T10:43:57.154244+00:00"
+      "sha": "44b4a0e458c47b5246cad4bdc3d0f42c8111bead",
+      "last_updated": "2026-10-19T12:43:23.355448+00:00"
     },
     "reference/tools-reference.md": {
       "sha": "2b56f18270ddd43106f38806e8befde198bd47b7",
@@ -397,8 +397,8 @@
       "last_updated": "2026-10-18T10:43:57.431470+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "fc5d1897c731a39ff57457360fcb9afb731a156f",
-      "last_updated": "2026-10-18T20:23:44.943950+00:00"
+      "sha": "1d75272845b1814393557a43c46248222c1b60de",
+      "last_updated": "2026-10-19T12:43:23.930564+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "0e8e083d29713e3cf45d6b3cbc49700bd0cde974",
@@ -437,8 +437,8 @@
       "last_updated": "2026-09-18T23:08:59.344738+00:00"
     },
     "user-guide/features/browser.md": {
-      "sha": "ceb479de1019a23dc3dbd8a260eb3dca358a082a",
-      "last_updated": "2026-10-15T16:41:49.598645+00:00"
+      "sha": "ea41675bdd1c656b3b0f9e39fc1b68b380e0d4bf",
+      "last_updated": "2026-10-19T12:43:24.363278+00:00"
     },
     "user-guide/features/built-in-plugins.md": {
       "sha": "43a033d62ef4a64d7776b7dd90305c1428b943a5",
@@ -749,8 +749,8 @@
       "last_updated": "2026-09-25T04:23:23.100902+00:00"
     },
     "user-guide/messaging/telegram.md": {
-      "sha": "b318eaafb0f0123c9a2b0b34fc5ac0810652acd3",
-      "last_updated": "2026-10-03T16:01:30.803919+00:00"
+      "sha": "2ab887a536b0885f9251df05e80ae2ba2b718f7c",
+      "last_updated": "2026-10-19T12:43:24.782735+00:00"
     },
     "user-guide/messaging/webhooks.md": {
       "sha": "bc413bfe35981156f60fc0a472426d84ad4a1a5f",
@@ -1837,8 +1837,8 @@
       "last_updated": "2026-10-14T21:28:14.286430+00:00"
     },
     "developer-guide/gateway-command-parity.md": {
-      "sha": "59891960ca2eec57c719d411bcc02902ca130918",
-      "last_updated": "2026-10-18T20:23:44.404957+00:00"
+      "sha": "794b7e36a9dc76e8e764b350826b1581bd1f8a58",
+      "last_updated": "2026-10-19T12:43:21.180640+00:00"
     },
     "developer-guide/gateway-local-sessions.md": {
       "sha": "8da45145e8ee63da6b57d081885e63929257a2a9",
@@ -1849,7 +1849,7 @@
       "last_updated": "2026-10-17T10:25:10.035076+00:00"
     }
   },
-  "last_updated": "2026-10-19T04:07:05.417346+00:00",
+  "last_updated": "2026-10-19T12:43:24.992048+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
