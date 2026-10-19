@@ -93,8 +93,8 @@
       "last_updated": "2026-10-06T05:49:02.325270+00:00"
     },
     "developer-guide/plugins/index.md": {
-      "sha": "b612ee737bfa44954fb4a36a7f378eed9702e1a4",
-      "last_updated": "2026-10-19T12:43:21.629498+00:00"
+      "sha": "47e5ac56975a5e49d79d5fb3c4e775676f6a8f63",
+      "last_updated": "2026-10-19T20:28:42.522881+00:00"
     },
     "developer-guide/programmatic-integration.md": {
       "sha": "cfa6ff772b9da3ced2a614d565c77c477dec38a8",
@@ -341,8 +341,8 @@
       "last_updated": "2026-10-06T05:49:04.022980+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "9a6b5635594713218c16d6f1ac5705c21f277322",
-      "last_updated": "2026-10-19T12:43:22.054931+00:00"
+      "sha": "65e5414d81439011b248d1fd757efea95a05f92e",
+      "last_updated": "2026-10-19T20:28:42.845391+00:00"
     },
     "reference/environment-variables.md": {
       "sha": "ca0e4c0aca4034ed44465c1c3ff318287ec76f81",
@@ -373,8 +373,8 @@
       "last_updated": "2026-09-20T20:35:56.668754+00:00"
     },
     "reference/slash-commands.md": {
-      "sha": "44b4a0e458c47b5246cad4bdc3d0f42c8111bead",
-      "last_updated": "2026-10-19T12:43:23.355448+00:00"
+      "sha": "f5016dc32bf14f3f5e8c88fa068754819c2d0e41",
+      "last_updated": "2026-10-19T20:28:43.583901+00:00"
     },
     "reference/tools-reference.md": {
       "sha": "2b56f18270ddd43106f38806e8befde198bd47b7",
@@ -393,8 +393,8 @@
       "last_updated": "2026-09-30T00:14:48.652411+00:00"
     },
     "user-guide/cli.md": {
-      "sha": "3afc1a35d1f9de25ba6131049938be2d027f8af4",
-      "last_updated": "2026-10-18T10:43:57.431470+00:00"
+      "sha": "cf4abba893fec0cba13da3467003d0bc9fe30a17",
+      "last_updated": "2026-10-19T20:28:44.368369+00:00"
     },
     "user-guide/configuration.md": {
       "sha": "1d75272845b1814393557a43c46248222c1b60de",
@@ -561,8 +561,8 @@
       "last_updated": "2026-09-18T23:09:07.084598+00:00"
     },
     "user-guide/features/plugins.md": {
-      "sha": "2adc9abb550e8a7e03bb7efd7e8fdc928d976f0b",
-      "last_updated": "2026-10-18T10:43:58.509800+00:00"
+      "sha": "b60711f46ae60c48f5c95c8e96e711f2cdd9d411",
+      "last_updated": "2026-10-19T20:28:45.258271+00:00"
     },
     "user-guide/features/provider-routing.md": {
       "sha": "6cb93cd855d7d334a958b25d386211f5345b75b3",
@@ -1485,8 +1485,8 @@
       "last_updated": "2026-09-19T20:22:31.360878+00:00"
     },
     "user-guide/tui.md": {
-      "sha": "ad695665481b600f9fcb2c38ff1d1608fc3fe00c",
-      "last_updated": "2026-10-14T21:28:24.821880+00:00"
+      "sha": "dacedcbb8e0fdfe11581b73667d0b496ed4aac65",
+      "last_updated": "2026-10-19T20:28:49.388031+00:00"
     },
     "user-guide/which-file-does-what.md": {
       "sha": "fdd9f43de58c65c964ff1b954d634dab2575b13a",
@@ -1825,8 +1825,8 @@
       "last_updated": "2026-09-29T05:12:47.728731+00:00"
     },
     "developer-guide/plugins/catalog-submission.md": {
-      "sha": "61864aa0d79e7c1ce4d389a11c6de14b4828b907",
-      "last_updated": "2026-10-13T06:20:56.462280+00:00"
+      "sha": "942bea6d4f9f47a5c38fd1b51c45177ec9d3c255",
+      "last_updated": "2026-10-19T20:28:41.729195+00:00"
     },
     "user-guide/skills/optional/creative/creative-anatomy.md": {
       "sha": "c16d962c7dcfbe06676e5fbcc5e90b2f85bb71a2",
@@ -1849,7 +1849,7 @@
       "last_updated": "2026-10-17T10:25:10.035076+00:00"
     }
   },
-  "last_updated": "2026-10-19T12:43:24.992048+00:00",
+  "last_updated": "2026-10-19T20:28:49.595295+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
