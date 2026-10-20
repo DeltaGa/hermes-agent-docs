@@ -61,8 +61,8 @@
       "last_updated": "2026-10-14T21:28:13.651982+00:00"
     },
     "developer-guide/desktop-plugin-sdk.md": {
-      "sha": "24a0e136b8302b4811af920b3e8f58c5a480ee7a",
-      "last_updated": "2026-10-16T23:22:30.175814+00:00"
+      "sha": "2b2eb438b771125e9b61034415351202b93799ff",
+      "last_updated": "2026-10-20T14:12:38.032578+00:00"
     },
     "developer-guide/egress-internals.md": {
       "sha": "dde37d99ace8f900d6f23431db168637c191dda4",
@@ -341,8 +341,8 @@
       "last_updated": "2026-10-06T05:49:04.022980+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "65e5414d81439011b248d1fd757efea95a05f92e",
-      "last_updated": "2026-10-19T20:28:42.845391+00:00"
+      "sha": "51258b4bd6d108ccc73d466e208665731a2c3ceb",
+      "last_updated": "2026-10-20T14:12:40.175233+00:00"
     },
     "reference/environment-variables.md": {
       "sha": "ca0e4c0aca4034ed44465c1c3ff318287ec76f81",
@@ -373,8 +373,8 @@
       "last_updated": "2026-09-20T20:35:56.668754+00:00"
     },
     "reference/slash-commands.md": {
-      "sha": "f5016dc32bf14f3f5e8c88fa068754819c2d0e41",
-      "last_updated": "2026-10-19T20:28:43.583901+00:00"
+      "sha": "895fba92bc0b264291e9657b537a5dd7265fe613",
+      "last_updated": "2026-10-20T14:12:40.999637+00:00"
     },
     "reference/tools-reference.md": {
       "sha": "2b56f18270ddd43106f38806e8befde198bd47b7",
@@ -521,12 +521,12 @@
       "last_updated": "2026-09-18T20:42:31.698354+00:00"
     },
     "user-guide/features/kanban-worker-lanes.md": {
-      "sha": "6507462f9e226d161e477db23e1558db98cafd64",
-      "last_updated": "2026-09-18T20:42:32.208157+00:00"
+      "sha": "65606de0c8bab18926813582067ff81eacdf01c9",
+      "last_updated": "2026-10-20T14:12:46.961724+00:00"
     },
     "user-guide/features/kanban.md": {
-      "sha": "0502a9fc85201624ecf87d84411d8e42597c046f",
-      "last_updated": "2026-10-14T21:28:22.365821+00:00"
+      "sha": "d45fc03ec9db9511f0abb453f522eef8b2044ca3",
+      "last_updated": "2026-10-20T14:12:53.083421+00:00"
     },
     "user-guide/features/lsp.md": {
       "sha": "d580741915982a10bd08f2585ec681a6512df8fa",
@@ -641,8 +641,8 @@
       "last_updated": "2026-08-09T09:10:42.461411+00:00"
     },
     "user-guide/messaging/a2a.md": {
-      "sha": "3331a88455f90094c1e941d214dd575facc99b2c",
-      "last_updated": "2026-10-14T21:28:23.249028+00:00"
+      "sha": "8a31dc2ef11d0f4ace5d345c703f9bc007c5d254",
+      "last_updated": "2026-10-20T14:12:53.589026+00:00"
     },
     "user-guide/messaging/bluebubbles.md": {
       "sha": "f195ed9bf771ed13202cd440bf8574aabb5f07a4",
@@ -1849,7 +1849,7 @@
       "last_updated": "2026-10-17T10:25:10.035076+00:00"
     }
   },
-  "last_updated": "2026-10-20T08:20:55.754007+00:00",
+  "last_updated": "2026-10-20T14:12:53.801310+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
