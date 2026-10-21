@@ -93,8 +93,8 @@
       "last_updated": "2026-10-06T05:49:02.325270+00:00"
     },
     "developer-guide/plugins/index.md": {
-      "sha": "47e5ac56975a5e49d79d5fb3c4e775676f6a8f63",
-      "last_updated": "2026-10-19T20:28:42.522881+00:00"
+      "sha": "f2d6d1623a73ee1e85652938baf3b88b4d654758",
+      "last_updated": "2026-10-21T11:30:38.426191+00:00"
     },
     "developer-guide/programmatic-integration.md": {
       "sha": "cfa6ff772b9da3ced2a614d565c77c477dec38a8",
@@ -157,12 +157,12 @@
       "last_updated": "2026-10-14T21:28:18.029422+00:00"
     },
     "getting-started/platform-support.md": {
-      "sha": "3deb9e52c8880dce0e246085ed5faf118d213697",
-      "last_updated": "2026-10-14T16:54:52.024834+00:00"
+      "sha": "400706b2e71abfae3c0a8da9c47df8c2a6d8bd50",
+      "last_updated": "2026-10-21T11:30:39.321648+00:00"
     },
     "getting-started/quickstart.md": {
-      "sha": "6e921e288b94b5cd264cb66e9c2c7747a7b2dba6",
-      "last_updated": "2026-10-04T12:05:51.597944+00:00"
+      "sha": "5c82a75ee2240a9c0cbe9e705f2eff9a0866fe4b",
+      "last_updated": "2026-10-21T11:30:39.857634+00:00"
     },
     "getting-started/termux.md": {
       "sha": "cd6ccc8c246bf60cabe8120c5a525703d9795d82",
@@ -341,8 +341,8 @@
       "last_updated": "2026-10-06T05:49:04.022980+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "51258b4bd6d108ccc73d466e208665731a2c3ceb",
-      "last_updated": "2026-10-20T14:12:40.175233+00:00"
+      "sha": "e6cc93fbc0da95d7f32583c17d0d92f116e144cc",
+      "last_updated": "2026-10-21T11:30:40.239417+00:00"
     },
     "reference/environment-variables.md": {
       "sha": "f34cec7f944c132b1b675dfca49ec8270d5950bd",
@@ -353,8 +353,8 @@
       "last_updated": "2026-10-01T12:50:41.571530+00:00"
     },
     "reference/mcp-config-reference.md": {
-      "sha": "86b311a1a307e23e69e3d39bf7054d805289db6a",
-      "last_updated": "2026-10-19T12:43:22.943107+00:00"
+      "sha": "0d4aab6f0edcbcf7418bbb50013ac89ecdf9d185",
+      "last_updated": "2026-10-21T11:30:40.721941+00:00"
     },
     "reference/model-catalog.md": {
       "sha": "e0b98a3ed705138505456a765e47c72bfccd4d1e",
@@ -393,8 +393,8 @@
       "last_updated": "2026-09-30T00:14:48.652411+00:00"
     },
     "user-guide/cli.md": {
-      "sha": "cf4abba893fec0cba13da3467003d0bc9fe30a17",
-      "last_updated": "2026-10-19T20:28:44.368369+00:00"
+      "sha": "2adca4b4c50e9bbbc35a5cd374a2521bf376df8d",
+      "last_updated": "2026-10-21T11:30:41.586823+00:00"
     },
     "user-guide/configuration.md": {
       "sha": "1d75272845b1814393557a43c46248222c1b60de",
@@ -533,8 +533,8 @@
       "last_updated": "2026-10-17T20:23:05.796944+00:00"
     },
     "user-guide/features/mcp.md": {
-      "sha": "c42d98a39e6d00a0889f1a508769577ec1e68921",
-      "last_updated": "2026-10-13T06:20:57.700136+00:00"
+      "sha": "4c567fb6c922288173ebf558223da87f57a0c509",
+      "last_updated": "2026-10-21T11:30:41.989648+00:00"
     },
     "user-guide/features/memory-providers.md": {
       "sha": "4b3ddea5ffa0f2db6589362e1c861896b914c536",
@@ -1525,8 +1525,8 @@
       "last_updated": "2026-09-20T20:36:31.267388+00:00"
     },
     "user-guide/bot-mode.md": {
-      "sha": "3170f64b9d877c1d720b200b9ac761e714fa9dd3",
-      "last_updated": "2026-10-20T19:05:18.607003+00:00"
+      "sha": "fa085b9792d94dcbd2136ea9c407d3341a1a02bf",
+      "last_updated": "2026-10-21T11:30:41.153625+00:00"
     },
     "reference/cli-symbols.md": {
       "sha": "76d0fcd513551ad62992ffc06f63494b1ad2bed9",
@@ -1729,8 +1729,8 @@
       "last_updated": "2026-10-16T23:22:31.496470+00:00"
     },
     "developer-guide/relay-shared-metrics.md": {
-      "sha": "f0eb605665f3434512c8de9acfea782b8b2f750c",
-      "last_updated": "2026-10-14T21:28:17.074734+00:00"
+      "sha": "147cc683c12eac21dca4cac947b6e2407e850a0d",
+      "last_updated": "2026-10-21T11:30:38.837130+00:00"
     },
     "developer-guide/state-db-recovery.md": {
       "sha": "c33820b54605d34f661069de0484b666d6b7bf27",
@@ -1849,7 +1849,7 @@
       "last_updated": "2026-10-17T10:25:10.035076+00:00"
     }
   },
-  "last_updated": "2026-10-20T23:42:30.107952+00:00",
+  "last_updated": "2026-10-21T11:30:42.196652+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
