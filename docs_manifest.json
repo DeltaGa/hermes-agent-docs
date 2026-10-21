@@ -1661,8 +1661,8 @@
       "last_updated": "2026-09-20T20:37:03.470991+00:00"
     },
     "user-guide/features/plugin-catalog.md": {
-      "sha": "6680c136fe52d78b9f2d75ae3248c418e26a80c3",
-      "last_updated": "2026-10-20T08:20:55.170327+00:00"
+      "sha": "ee2a8bd161af619bef656527d9c5756a6aaad992",
+      "last_updated": "2026-10-21T16:57:18.692847+00:00"
     },
     "user-guide/features/credential-vault.md": {
       "sha": "dc3abb33ea7cf77667cf6e739004b09a07aad7db",
@@ -1825,8 +1825,8 @@
       "last_updated": "2026-09-29T05:12:47.728731+00:00"
     },
     "developer-guide/plugins/catalog-submission.md": {
-      "sha": "942bea6d4f9f47a5c38fd1b51c45177ec9d3c255",
-      "last_updated": "2026-10-19T20:28:41.729195+00:00"
+      "sha": "ab145ca0ef59a930f32f9002f11d9e8af8bd608c",
+      "last_updated": "2026-10-21T16:57:18.350038+00:00"
     },
     "user-guide/skills/optional/creative/creative-anatomy.md": {
       "sha": "c16d962c7dcfbe06676e5fbcc5e90b2f85bb71a2",
@@ -1849,7 +1849,7 @@
       "last_updated": "2026-10-17T10:25:10.035076+00:00"
     }
   },
-  "last_updated": "2026-10-21T11:30:42.196652+00:00",
+  "last_updated": "2026-10-21T16:57:18.902577+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
