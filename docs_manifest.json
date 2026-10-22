@@ -85,8 +85,8 @@
       "last_updated": "2026-10-17T20:23:04.732454+00:00"
     },
     "developer-guide/model-provider-plugin.md": {
-      "sha": "df1fbda3fd64e07fe9980a541a582d80c1601c9d",
-      "last_updated": "2026-10-14T21:28:15.852059+00:00"
+      "sha": "9442cc979bccf7892d92572d47c15ef08349b605",
+      "last_updated": "2026-10-22T11:30:12.242048+00:00"
     },
     "developer-guide/plugin-llm-access.md": {
       "sha": "e4a8063bcc3946d24b17ca3809ed393f243a4baa",
@@ -1849,7 +1849,7 @@
       "last_updated": "2026-10-17T10:25:10.035076+00:00"
     }
   },
-  "last_updated": "2026-10-22T04:09:08.124496+00:00",
+  "last_updated": "2026-10-22T11:30:12.452587+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
