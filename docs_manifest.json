@@ -93,8 +93,8 @@
       "last_updated": "2026-10-06T05:49:02.325270+00:00"
     },
     "developer-guide/plugins/index.md": {
-      "sha": "f2d6d1623a73ee1e85652938baf3b88b4d654758",
-      "last_updated": "2026-10-21T11:30:38.426191+00:00"
+      "sha": "da03a6ca2764959712e563257d05d8eaf7846be2",
+      "last_updated": "2026-10-22T21:22:44.387330+00:00"
     },
     "developer-guide/programmatic-integration.md": {
       "sha": "cfa6ff772b9da3ced2a614d565c77c477dec38a8",
@@ -161,8 +161,8 @@
       "last_updated": "2026-10-21T11:30:39.321648+00:00"
     },
     "getting-started/quickstart.md": {
-      "sha": "5c82a75ee2240a9c0cbe9e705f2eff9a0866fe4b",
-      "last_updated": "2026-10-21T11:30:39.857634+00:00"
+      "sha": "b3304561ffd7b107f716069107c8282c9c652551",
+      "last_updated": "2026-10-22T21:22:44.946788+00:00"
     },
     "getting-started/termux.md": {
       "sha": "cd6ccc8c246bf60cabe8120c5a525703d9795d82",
@@ -241,8 +241,8 @@
       "last_updated": "2026-08-09T09:10:13.046947+00:00"
     },
     "guides/migrate-from-openclaw.md": {
-      "sha": "d59080cc8769459032b98f4b14f51d8a7aeb3c71",
-      "last_updated": "2026-09-18T23:08:43.880879+00:00"
+      "sha": "dd662aa7fcdff18c60032cf5e48a1c7566f867a0",
+      "last_updated": "2026-10-22T21:22:45.469663+00:00"
     },
     "guides/minimax-oauth.md": {
       "sha": "ffc6aa10355e0de8313437cc99ab3e41a250340e",
@@ -341,8 +341,8 @@
       "last_updated": "2026-10-06T05:49:04.022980+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "c5194bc862d0f504cbc54911e31ff8da0630e0de",
-      "last_updated": "2026-10-22T04:09:06.141550+00:00"
+      "sha": "893a18d96d75c22ee0167123abe7e10532e3d756",
+      "last_updated": "2026-10-22T21:22:46.025247+00:00"
     },
     "reference/environment-variables.md": {
       "sha": "d3711e79fa1ae04eb03551fc5878094b72f2efe2",
@@ -361,8 +361,8 @@
       "last_updated": "2026-09-18T20:42:25.458764+00:00"
     },
     "reference/optional-skills-catalog.md": {
-      "sha": "df16db21de2620e8d680810f9c12ee4b099a5c16",
-      "last_updated": "2026-10-14T04:22:10.115069+00:00"
+      "sha": "835f842e326c928dbbc8884a88776af5ed63e182",
+      "last_updated": "2026-10-22T21:22:46.678021+00:00"
     },
     "reference/profile-commands.md": {
       "sha": "7baf4a26a3e2e5bea9659f447f18537ed47895c3",
@@ -429,8 +429,8 @@
       "last_updated": "2026-10-14T21:28:20.801519+00:00"
     },
     "user-guide/features/api-server.md": {
-      "sha": "7e890da60a4c532b1ea009735e8fd13f6bbdb456",
-      "last_updated": "2026-10-17T20:23:05.444797+00:00"
+      "sha": "2d920eb64d9cbb54ed2e31052163032acc33ea1a",
+      "last_updated": "2026-10-22T21:22:47.080021+00:00"
     },
     "user-guide/features/batch-processing.md": {
       "sha": "e1fc9175def1bd46c96d9893090602cbc30f0162",
@@ -533,8 +533,8 @@
       "last_updated": "2026-10-17T20:23:05.796944+00:00"
     },
     "user-guide/features/mcp.md": {
-      "sha": "27e77ef349dbb6428b3df83ffb80ef710ff2cc3c",
-      "last_updated": "2026-10-22T04:09:07.917205+00:00"
+      "sha": "b8a03dc55f5a437b296fada6e6fe38bc8b05602d",
+      "last_updated": "2026-10-22T21:22:47.420397+00:00"
     },
     "user-guide/features/memory-providers.md": {
       "sha": "4b3ddea5ffa0f2db6589362e1c861896b914c536",
@@ -569,8 +569,8 @@
       "last_updated": "2026-10-16T23:22:35.678074+00:00"
     },
     "user-guide/features/skills.md": {
-      "sha": "7c6b06930e51886ba1729ff175870980014cf758",
-      "last_updated": "2026-10-10T09:37:43.853444+00:00"
+      "sha": "4ecbd750b5a31c79535a2c333e7a69a0813d2078",
+      "last_updated": "2026-10-22T21:22:47.836688+00:00"
     },
     "user-guide/features/skins.md": {
       "sha": "dbf4b2f749294294982d93c9ed846d4e5fb9db2d",
@@ -629,8 +629,8 @@
       "last_updated": "2026-10-18T10:43:58.794499+00:00"
     },
     "user-guide/import-from-other-agents.md": {
-      "sha": "2814766b9bf017523419cf7f8aa3b65a266e2e55",
-      "last_updated": "2026-09-15T16:40:44.678618+00:00"
+      "sha": "89f56ec6cbc346e985c2a8e2dceeb749e80f698e",
+      "last_updated": "2026-10-22T21:22:48.182523+00:00"
     },
     "user-guide/managed-scope.md": {
       "sha": "46f9654477fe5efaf25e095b7738f6fa39d49eb4",
@@ -789,8 +789,8 @@
       "last_updated": "2026-10-04T12:05:57.393598+00:00"
     },
     "user-guide/profiles.md": {
-      "sha": "c816f6da495f40c8325614de7d7e5e9724f484ac",
-      "last_updated": "2026-10-07T18:43:36.065570+00:00"
+      "sha": "8daaaa56cb4b5dd7c969ead4c5842bb82f6709fc",
+      "last_updated": "2026-10-22T21:22:48.620148+00:00"
     },
     "user-guide/secrets/bitwarden.md": {
       "sha": "00cf5059d96429be936be49aced4d91e41602131",
@@ -1219,10 +1219,6 @@
     "user-guide/skills/optional/mcp/mcp-mcporter.md": {
       "sha": "0bc09c9a4f1dd96fde4821c24c1a9df153a05226",
       "last_updated": "2026-09-20T20:36:41.541355+00:00"
-    },
-    "user-guide/skills/optional/migration/migration-openclaw-migration.md": {
-      "sha": "dd4bc26368ddcc9e363c7367d4d4b8e835ccf3e7",
-      "last_updated": "2026-09-30T00:14:52.357265+00:00"
     },
     "user-guide/skills/optional/mlops/mlops-accelerate.md": {
       "sha": "ef74ff473a946d106cdb74242c666e2e36cfac0c",
@@ -1849,7 +1845,7 @@
       "last_updated": "2026-10-17T10:25:10.035076+00:00"
     }
   },
-  "last_updated": "2026-10-22T16:56:33.552667+00:00",
+  "last_updated": "2026-10-22T21:22:48.825458+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
