@@ -169,8 +169,8 @@
       "last_updated": "2026-09-25T04:23:08.701451+00:00"
     },
     "getting-started/updating.md": {
-      "sha": "ff24de02d181b534f5f9f367ab5ac270d49bb65b",
-      "last_updated": "2026-10-15T21:09:30.805870+00:00"
+      "sha": "0b72940538facbb2510565bcb80f4634da79aa04",
+      "last_updated": "2026-10-22T04:09:05.739066+00:00"
     },
     "guides/_category_.json": {
       "sha": "6d1d2f0b9ec098f749715dd4deebc4d4b753b610",
@@ -341,8 +341,8 @@
       "last_updated": "2026-10-06T05:49:04.022980+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "e6cc93fbc0da95d7f32583c17d0d92f116e144cc",
-      "last_updated": "2026-10-21T11:30:40.239417+00:00"
+      "sha": "c5194bc862d0f504cbc54911e31ff8da0630e0de",
+      "last_updated": "2026-10-22T04:09:06.141550+00:00"
     },
     "reference/environment-variables.md": {
       "sha": "f34cec7f944c132b1b675dfca49ec8270d5950bd",
@@ -353,8 +353,8 @@
       "last_updated": "2026-10-01T12:50:41.571530+00:00"
     },
     "reference/mcp-config-reference.md": {
-      "sha": "0d4aab6f0edcbcf7418bbb50013ac89ecdf9d185",
-      "last_updated": "2026-10-21T11:30:40.721941+00:00"
+      "sha": "44d25bc19bae30f9665f7c418a2dcf102e6fbccb",
+      "last_updated": "2026-10-22T04:09:06.515743+00:00"
     },
     "reference/model-catalog.md": {
       "sha": "e0b98a3ed705138505456a765e47c72bfccd4d1e",
@@ -509,8 +509,8 @@
       "last_updated": "2026-10-02T17:42:41.503417+00:00"
     },
     "user-guide/features/hooks.md": {
-      "sha": "b59ade9aea9006dd10e0f48e44ba93b983a78b13",
-      "last_updated": "2026-10-18T10:43:58.235629+00:00"
+      "sha": "71209c03370f5c4889b2961939389cd078b578ec",
+      "last_updated": "2026-10-22T04:09:07.534715+00:00"
     },
     "user-guide/features/image-generation.md": {
       "sha": "8badf33d14f9fcb368d9f0d697264037cce38532",
@@ -533,8 +533,8 @@
       "last_updated": "2026-10-17T20:23:05.796944+00:00"
     },
     "user-guide/features/mcp.md": {
-      "sha": "4c567fb6c922288173ebf558223da87f57a0c509",
-      "last_updated": "2026-10-21T11:30:41.989648+00:00"
+      "sha": "27e77ef349dbb6428b3df83ffb80ef710ff2cc3c",
+      "last_updated": "2026-10-22T04:09:07.917205+00:00"
     },
     "user-guide/features/memory-providers.md": {
       "sha": "4b3ddea5ffa0f2db6589362e1c861896b914c536",
@@ -1849,7 +1849,7 @@
       "last_updated": "2026-10-17T10:25:10.035076+00:00"
     }
   },
-  "last_updated": "2026-10-21T21:27:46.149116+00:00",
+  "last_updated": "2026-10-22T04:09:08.124496+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
