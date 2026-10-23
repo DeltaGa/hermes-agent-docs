@@ -1637,8 +1637,8 @@
       "last_updated": "2026-10-14T11:32:31.472052+00:00"
     },
     "developer-guide/cli-internals.md": {
-      "sha": "3b5da77adf678016862705f0b5a01e8a5b29d5b7",
-      "last_updated": "2026-10-23T04:13:05.790460+00:00"
+      "sha": "e3bfe64c37a1644bc25bf1eb89fdfbeee29e41e3",
+      "last_updated": "2026-10-23T16:48:45.806508+00:00"
     },
     "developer-guide/completion-backlog-delivery.md": {
       "sha": "8a516ce4769b3f4a0c9dd3e89993259c7d9c75bd",
@@ -1849,7 +1849,7 @@
       "last_updated": "2026-10-23T11:20:17.966721+00:00"
     }
   },
-  "last_updated": "2026-10-23T11:21:03.259273+00:00",
+  "last_updated": "2026-10-23T16:48:46.012589+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
