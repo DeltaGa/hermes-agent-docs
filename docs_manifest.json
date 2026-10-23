@@ -73,8 +73,8 @@
       "last_updated": "2026-09-25T04:22:59.917100+00:00"
     },
     "developer-guide/gateway-internals.md": {
-      "sha": "b754a73d61e64d8032ae80ecdb14b459176516b5",
-      "last_updated": "2026-10-17T10:25:09.653289+00:00"
+      "sha": "99b18a350fe9536ef3ce8a35c25ecfccc99ed685",
+      "last_updated": "2026-10-23T04:13:06.987188+00:00"
     },
     "developer-guide/image-gen-provider-plugin.md": {
       "sha": "6b1edf902f79e6cae58b4ce525c56226caabb587",
@@ -93,8 +93,8 @@
       "last_updated": "2026-10-06T05:49:02.325270+00:00"
     },
     "developer-guide/plugins/index.md": {
-      "sha": "da03a6ca2764959712e563257d05d8eaf7846be2",
-      "last_updated": "2026-10-22T21:22:44.387330+00:00"
+      "sha": "16170694ef234267a0e57a50c7006f47a2c9a011",
+      "last_updated": "2026-10-23T04:13:07.639439+00:00"
     },
     "developer-guide/programmatic-integration.md": {
       "sha": "cfa6ff772b9da3ced2a614d565c77c477dec38a8",
@@ -117,8 +117,8 @@
       "last_updated": "2026-10-14T21:28:17.397059+00:00"
     },
     "developer-guide/subagent-lifecycle-api.md": {
-      "sha": "a2bd44613dde7f04bfd0e1b5820c59a5c7ce36be",
-      "last_updated": "2026-10-12T21:08:00.722735+00:00"
+      "sha": "56d9388d0758835e59fd2dfed714764d42c8003e",
+      "last_updated": "2026-10-23T04:13:07.980827+00:00"
     },
     "developer-guide/tools-runtime.md": {
       "sha": "606fd221c9890dffd8a1990cd2761c8af58ee93b",
@@ -397,8 +397,8 @@
       "last_updated": "2026-10-21T11:30:41.586823+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "84facf4b33b28b6bbe14222ca9be568528314d3b",
-      "last_updated": "2026-10-22T16:56:30.629933+00:00"
+      "sha": "4468904026f40b78cd8f376619c2870f1fe47ab3",
+      "last_updated": "2026-10-23T04:13:09.152332+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "0e8e083d29713e3cf45d6b3cbc49700bd0cde974",
@@ -477,8 +477,8 @@
       "last_updated": "2026-10-14T21:28:21.736277+00:00"
     },
     "user-guide/features/delegation.md": {
-      "sha": "2dc4175ba35c8854c80ed2faa707427f071c24ed",
-      "last_updated": "2026-10-19T04:07:05.207572+00:00"
+      "sha": "659927389bf2b8799fd9f02f2448f89908f6539a",
+      "last_updated": "2026-10-23T04:13:09.500805+00:00"
     },
     "user-guide/features/deliverable-mode.md": {
       "sha": "ea042049b33d23d91df269bdf350c9411c35ffd4",
@@ -561,8 +561,8 @@
       "last_updated": "2026-09-18T23:09:07.084598+00:00"
     },
     "user-guide/features/plugins.md": {
-      "sha": "3899f0cf5e250b5394089ddf2f9aca06a279b420",
-      "last_updated": "2026-10-22T16:56:32.490416+00:00"
+      "sha": "46d79ded23f9d375d7823d689633a9c869d6da85",
+      "last_updated": "2026-10-23T04:13:10.082512+00:00"
     },
     "user-guide/features/provider-routing.md": {
       "sha": "6cb93cd855d7d334a958b25d386211f5345b75b3",
@@ -589,8 +589,8 @@
       "last_updated": "2026-10-20T23:42:29.898360+00:00"
     },
     "user-guide/features/tool-search.md": {
-      "sha": "75ed580ff3a226f4ffee47d5cdf7406be1416753",
-      "last_updated": "2026-10-12T21:08:02.290550+00:00"
+      "sha": "81c1017e7a6bae5b11484dbd17a9121ed4c2ca61",
+      "last_updated": "2026-10-23T04:13:10.757821+00:00"
     },
     "user-guide/features/tools.md": {
       "sha": "f3bb93f4c8219b262093eb6a5754dad6292998bf",
@@ -1637,8 +1637,8 @@
       "last_updated": "2026-10-14T11:32:31.472052+00:00"
     },
     "developer-guide/cli-internals.md": {
-      "sha": "5728006c804cd6578163b20dc35f2958a9a574db",
-      "last_updated": "2026-10-06T13:07:03.940443+00:00"
+      "sha": "3b5da77adf678016862705f0b5a01e8a5b29d5b7",
+      "last_updated": "2026-10-23T04:13:05.790460+00:00"
     },
     "developer-guide/completion-backlog-delivery.md": {
       "sha": "8a516ce4769b3f4a0c9dd3e89993259c7d9c75bd",
@@ -1801,8 +1801,8 @@
       "last_updated": "2026-10-20T23:42:28.120244+00:00"
     },
     "reference/package-management.md": {
-      "sha": "14eed929746397a55fbe370f2d1eaf08ab581d4f",
-      "last_updated": "2026-10-21T21:27:45.939086+00:00"
+      "sha": "e4d8c81cc9891dfc31e44ab935bc27aafa79ee1d",
+      "last_updated": "2026-10-23T04:13:08.325404+00:00"
     },
     "user-guide/switching-to-source.md": {
       "sha": "766782bed736ffa0bbb0ff70d3c46212547257a4",
@@ -1843,9 +1843,13 @@
     "developer-guide/hosted-profile-owners.md": {
       "sha": "576f9745b3663c60aa16190f2af713fd72337cf7",
       "last_updated": "2026-10-17T10:25:10.035076+00:00"
+    },
+    "developer-guide/delegation-provider-plugin.md": {
+      "sha": "80b8f40472c3f87cdb1f5734387313f04076ccdf",
+      "last_updated": "2026-10-23T04:13:06.144794+00:00"
     }
   },
-  "last_updated": "2026-10-22T21:22:48.825458+00:00",
+  "last_updated": "2026-10-23T04:13:10.967333+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
