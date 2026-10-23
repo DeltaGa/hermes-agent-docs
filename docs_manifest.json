@@ -61,8 +61,8 @@
       "last_updated": "2026-10-14T21:28:13.651982+00:00"
     },
     "developer-guide/desktop-plugin-sdk.md": {
-      "sha": "2b2eb438b771125e9b61034415351202b93799ff",
-      "last_updated": "2026-10-20T14:12:38.032578+00:00"
+      "sha": "b9bd9aa3680069c806bb3e3ec1e4565640e8709e",
+      "last_updated": "2026-10-23T21:14:13.161931+00:00"
     },
     "developer-guide/egress-internals.md": {
       "sha": "dde37d99ace8f900d6f23431db168637c191dda4",
@@ -525,8 +525,8 @@
       "last_updated": "2026-10-20T14:12:46.961724+00:00"
     },
     "user-guide/features/kanban.md": {
-      "sha": "7d8751f1747c559ccdf7898877a6d37fec7f1002",
-      "last_updated": "2026-10-22T16:56:32.109992+00:00"
+      "sha": "dacb7c60466f003936f1e062f46db23c3e2f564d",
+      "last_updated": "2026-10-23T21:14:13.481467+00:00"
     },
     "user-guide/features/lsp.md": {
       "sha": "d580741915982a10bd08f2585ec681a6512df8fa",
@@ -1637,8 +1637,8 @@
       "last_updated": "2026-10-14T11:32:31.472052+00:00"
     },
     "developer-guide/cli-internals.md": {
-      "sha": "e3bfe64c37a1644bc25bf1eb89fdfbeee29e41e3",
-      "last_updated": "2026-10-23T16:48:45.806508+00:00"
+      "sha": "510507aa2bf296c9000b7d27fa0fc308c7f9d601",
+      "last_updated": "2026-10-23T21:14:12.792489+00:00"
     },
     "developer-guide/completion-backlog-delivery.md": {
       "sha": "8a516ce4769b3f4a0c9dd3e89993259c7d9c75bd",
@@ -1849,7 +1849,7 @@
       "last_updated": "2026-10-23T11:20:17.966721+00:00"
     }
   },
-  "last_updated": "2026-10-23T16:48:46.012589+00:00",
+  "last_updated": "2026-10-23T21:14:13.691443+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
