@@ -61,8 +61,8 @@
       "last_updated": "2026-10-14T21:28:13.651982+00:00"
     },
     "developer-guide/desktop-plugin-sdk.md": {
-      "sha": "4e83feb369c77dc1e0ee71df734e492c3f636310",
-      "last_updated": "2026-10-24T04:04:35.946872+00:00"
+      "sha": "42ce5c71bad6397523cafbd36287340a9d3a8bdf",
+      "last_updated": "2026-10-24T15:41:28.236247+00:00"
     },
     "developer-guide/egress-internals.md": {
       "sha": "dde37d99ace8f900d6f23431db168637c191dda4",
@@ -93,8 +93,8 @@
       "last_updated": "2026-10-06T05:49:02.325270+00:00"
     },
     "developer-guide/plugins/index.md": {
-      "sha": "1dab2a0674c485f21c4d7296d7671fbcae6759b6",
-      "last_updated": "2026-10-24T04:04:36.319205+00:00"
+      "sha": "e1b20105471edcc4bc80f659e8dea363441faeb2",
+      "last_updated": "2026-10-24T15:41:28.526763+00:00"
     },
     "developer-guide/programmatic-integration.md": {
       "sha": "53501465c10100377a628c67d211bb4fc5cb2488",
@@ -373,8 +373,8 @@
       "last_updated": "2026-09-20T20:35:56.668754+00:00"
     },
     "reference/slash-commands.md": {
-      "sha": "895fba92bc0b264291e9657b537a5dd7265fe613",
-      "last_updated": "2026-10-20T14:12:40.999637+00:00"
+      "sha": "00fd3815f4c6eecdc2d7e310b2337041b46ee33d",
+      "last_updated": "2026-10-24T15:41:28.833200+00:00"
     },
     "reference/tools-reference.md": {
       "sha": "27f14469f6e14ba617e5c78133d29f2e6ade4362",
@@ -397,8 +397,8 @@
       "last_updated": "2026-10-21T11:30:41.586823+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "9caa4602aca1767670287933f06a0bac8ced709a",
-      "last_updated": "2026-10-23T11:20:27.712463+00:00"
+      "sha": "1f66c5d4ad176121c0cf601788f15efc7da2ad8b",
+      "last_updated": "2026-10-24T15:41:29.132784+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "0e8e083d29713e3cf45d6b3cbc49700bd0cde974",
@@ -477,8 +477,8 @@
       "last_updated": "2026-10-14T21:28:21.736277+00:00"
     },
     "user-guide/features/delegation.md": {
-      "sha": "8040ba38c30494f427529d3af8bb0864b56d9baa",
-      "last_updated": "2026-10-23T11:20:32.755049+00:00"
+      "sha": "dfe081aee7732c3ed8e7da0c2492cbb0dab9ed07",
+      "last_updated": "2026-10-24T15:41:29.412873+00:00"
     },
     "user-guide/features/deliverable-mode.md": {
       "sha": "ea042049b33d23d91df269bdf350c9411c35ffd4",
@@ -541,8 +541,8 @@
       "last_updated": "2026-10-11T05:08:53.482506+00:00"
     },
     "user-guide/features/memory.md": {
-      "sha": "83f672120e2f647c093deaad04755e4748ee736e",
-      "last_updated": "2026-10-13T16:49:33.369008+00:00"
+      "sha": "3bde00ee5eeebdf1a6aa8133d9e82c7d9c69cf79",
+      "last_updated": "2026-10-24T15:41:29.704595+00:00"
     },
     "user-guide/features/mixture-of-agents.md": {
       "sha": "18abd47e9e10e883e10e54d9755308d917af6e72",
@@ -1849,7 +1849,7 @@
       "last_updated": "2026-10-23T11:20:17.966721+00:00"
     }
   },
-  "last_updated": "2026-10-24T04:04:38.692655+00:00",
+  "last_updated": "2026-10-24T15:41:29.913977+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
