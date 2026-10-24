@@ -61,8 +61,8 @@
       "last_updated": "2026-10-14T21:28:13.651982+00:00"
     },
     "developer-guide/desktop-plugin-sdk.md": {
-      "sha": "b9bd9aa3680069c806bb3e3ec1e4565640e8709e",
-      "last_updated": "2026-10-23T21:14:13.161931+00:00"
+      "sha": "4e83feb369c77dc1e0ee71df734e492c3f636310",
+      "last_updated": "2026-10-24T04:04:35.946872+00:00"
     },
     "developer-guide/egress-internals.md": {
       "sha": "dde37d99ace8f900d6f23431db168637c191dda4",
@@ -93,8 +93,8 @@
       "last_updated": "2026-10-06T05:49:02.325270+00:00"
     },
     "developer-guide/plugins/index.md": {
-      "sha": "149d4c847543e8015b80684efef4676ae8a8ad60",
-      "last_updated": "2026-10-23T11:20:18.724178+00:00"
+      "sha": "1dab2a0674c485f21c4d7296d7671fbcae6759b6",
+      "last_updated": "2026-10-24T04:04:36.319205+00:00"
     },
     "developer-guide/programmatic-integration.md": {
       "sha": "53501465c10100377a628c67d211bb4fc5cb2488",
@@ -153,8 +153,8 @@
       "last_updated": "2026-09-18T23:08:36.921771+00:00"
     },
     "getting-started/nix-setup.md": {
-      "sha": "b0ab8f777170ec7d56af953ee0b24df7fa339c46",
-      "last_updated": "2026-10-14T21:28:18.029422+00:00"
+      "sha": "d378b55f79cd1e5430fdddd109b9f3abf062d4e8",
+      "last_updated": "2026-10-24T04:04:36.999282+00:00"
     },
     "getting-started/platform-support.md": {
       "sha": "400706b2e71abfae3c0a8da9c47df8c2a6d8bd50",
@@ -353,8 +353,8 @@
       "last_updated": "2026-10-01T12:50:41.571530+00:00"
     },
     "reference/mcp-config-reference.md": {
-      "sha": "44d25bc19bae30f9665f7c418a2dcf102e6fbccb",
-      "last_updated": "2026-10-22T04:09:06.515743+00:00"
+      "sha": "48e0c66eb13514cc3d194dfa1ed74afeaf0995f7",
+      "last_updated": "2026-10-24T04:04:37.334586+00:00"
     },
     "reference/model-catalog.md": {
       "sha": "e0b98a3ed705138505456a765e47c72bfccd4d1e",
@@ -533,8 +533,8 @@
       "last_updated": "2026-10-17T20:23:05.796944+00:00"
     },
     "user-guide/features/mcp.md": {
-      "sha": "b8a03dc55f5a437b296fada6e6fe38bc8b05602d",
-      "last_updated": "2026-10-22T21:22:47.420397+00:00"
+      "sha": "754de7fe2d4639c7db96dd9633c9dd7a15dea42b",
+      "last_updated": "2026-10-24T04:04:38.133752+00:00"
     },
     "user-guide/features/memory-providers.md": {
       "sha": "4b3ddea5ffa0f2db6589362e1c861896b914c536",
@@ -809,8 +809,8 @@
       "last_updated": "2026-09-16T04:17:22.525104+00:00"
     },
     "user-guide/security.md": {
-      "sha": "232a4eec9dc2d13954f28ab7d90f49499d797f0b",
-      "last_updated": "2026-10-23T11:20:36.642941+00:00"
+      "sha": "65fbd1e0e4fe2be81a424967643feb342232d2bb",
+      "last_updated": "2026-10-24T04:04:38.486687+00:00"
     },
     "user-guide/sessions.md": {
       "sha": "22dbb6974399ff3ff5e8ef2921812fbee4dc03eb",
@@ -1533,8 +1533,8 @@
       "last_updated": "2026-09-25T04:23:10.213440+00:00"
     },
     "developer-guide/terminal-environment-plugin.md": {
-      "sha": "a25924fd9c8d3f19f069386af8ea08baca8b442c",
-      "last_updated": "2026-10-22T16:56:28.302767+00:00"
+      "sha": "324e5e0595ce5b0c97c7b933f12260169b3fbcae",
+      "last_updated": "2026-10-24T04:04:36.665792+00:00"
     },
     "user-guide/skills/optional/web-development/web-development-publish-site.md": {
       "sha": "c1e418f65c38e080d7bb5342f305ed2ff25f3970",
@@ -1801,8 +1801,8 @@
       "last_updated": "2026-10-20T23:42:28.120244+00:00"
     },
     "reference/package-management.md": {
-      "sha": "db5265f675b76aef832784dc4035ab9757b60a31",
-      "last_updated": "2026-10-23T11:20:25.449792+00:00"
+      "sha": "bea6754db2ac9741bca4e6bc4889aa7bb71cfd88",
+      "last_updated": "2026-10-24T04:04:37.736134+00:00"
     },
     "user-guide/switching-to-source.md": {
       "sha": "766782bed736ffa0bbb0ff70d3c46212547257a4",
@@ -1849,7 +1849,7 @@
       "last_updated": "2026-10-23T11:20:17.966721+00:00"
     }
   },
-  "last_updated": "2026-10-23T21:14:13.691443+00:00",
+  "last_updated": "2026-10-24T04:04:38.692655+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
