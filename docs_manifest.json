@@ -597,8 +597,8 @@
       "last_updated": "2026-10-23T11:20:34.476938+00:00"
     },
     "user-guide/features/tts.md": {
-      "sha": "3c62222592ae8d4c31cdd7d54e10e8af4f54d355",
-      "last_updated": "2026-10-18T20:23:45.248832+00:00"
+      "sha": "2a42e8b048d37b6d4e8ce1036a7764d49e2e8c87",
+      "last_updated": "2026-10-25T23:06:27.457092+00:00"
     },
     "user-guide/features/vision.md": {
       "sha": "4b466ce0f8a4178909adc1fb51cf421a431c5542",
@@ -1853,7 +1853,7 @@
       "last_updated": "2026-10-25T15:52:22.489846+00:00"
     }
   },
-  "last_updated": "2026-10-25T15:52:28.722857+00:00",
+  "last_updated": "2026-10-25T23:06:27.664614+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
