@@ -41,8 +41,8 @@
       "last_updated": "2026-10-23T11:20:13.675994+00:00"
     },
     "developer-guide/context-compression-and-caching.md": {
-      "sha": "1a27aa0f42e31c9935c2ae1852b3810d8b60fa93",
-      "last_updated": "2026-10-15T04:04:34.620255+00:00"
+      "sha": "6dd5aea303f6f4b3bfd7e49348d28927bb8b437a",
+      "last_updated": "2026-10-25T04:06:36.647623+00:00"
     },
     "developer-guide/context-engine-plugin.md": {
       "sha": "8ffc9822a03425565e4e05c79999f75cb71aa68d",
@@ -89,12 +89,12 @@
       "last_updated": "2026-10-22T11:30:12.242048+00:00"
     },
     "developer-guide/plugin-llm-access.md": {
-      "sha": "e4a8063bcc3946d24b17ca3809ed393f243a4baa",
-      "last_updated": "2026-10-06T05:49:02.325270+00:00"
+      "sha": "d1ec91e8cb2e0512b7b962007680a63ca16fc7f9",
+      "last_updated": "2026-10-25T04:06:37.043838+00:00"
     },
     "developer-guide/plugins/index.md": {
-      "sha": "e1b20105471edcc4bc80f659e8dea363441faeb2",
-      "last_updated": "2026-10-24T15:41:28.526763+00:00"
+      "sha": "8ba0e26f4ad850df3e800006e610ec7dc92eb71d",
+      "last_updated": "2026-10-25T04:06:37.488445+00:00"
     },
     "developer-guide/programmatic-integration.md": {
       "sha": "53501465c10100377a628c67d211bb4fc5cb2488",
@@ -153,8 +153,8 @@
       "last_updated": "2026-09-18T23:08:36.921771+00:00"
     },
     "getting-started/nix-setup.md": {
-      "sha": "d378b55f79cd1e5430fdddd109b9f3abf062d4e8",
-      "last_updated": "2026-10-24T04:04:36.999282+00:00"
+      "sha": "a87b913776e3582fd2f44710fdd1364891482147",
+      "last_updated": "2026-10-25T04:06:38.239348+00:00"
     },
     "getting-started/platform-support.md": {
       "sha": "400706b2e71abfae3c0a8da9c47df8c2a6d8bd50",
@@ -397,8 +397,8 @@
       "last_updated": "2026-10-21T11:30:41.586823+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "1f66c5d4ad176121c0cf601788f15efc7da2ad8b",
-      "last_updated": "2026-10-24T15:41:29.132784+00:00"
+      "sha": "c332bc857a5d212b5f3520e8f387bb005b961d55",
+      "last_updated": "2026-10-25T04:06:39.246554+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "0e8e083d29713e3cf45d6b3cbc49700bd0cde974",
@@ -477,8 +477,8 @@
       "last_updated": "2026-10-14T21:28:21.736277+00:00"
     },
     "user-guide/features/delegation.md": {
-      "sha": "dfe081aee7732c3ed8e7da0c2492cbb0dab9ed07",
-      "last_updated": "2026-10-24T15:41:29.412873+00:00"
+      "sha": "27abe023e6815344ac5fcaa8fbced190402b73f2",
+      "last_updated": "2026-10-25T04:06:39.709295+00:00"
     },
     "user-guide/features/deliverable-mode.md": {
       "sha": "ea042049b33d23d91df269bdf350c9411c35ffd4",
@@ -509,8 +509,8 @@
       "last_updated": "2026-10-02T17:42:41.503417+00:00"
     },
     "user-guide/features/hooks.md": {
-      "sha": "71209c03370f5c4889b2961939389cd078b578ec",
-      "last_updated": "2026-10-22T04:09:07.534715+00:00"
+      "sha": "653edaa031f77cd01a197c46434547571360b5de",
+      "last_updated": "2026-10-25T04:06:40.194689+00:00"
     },
     "user-guide/features/image-generation.md": {
       "sha": "8badf33d14f9fcb368d9f0d697264037cce38532",
@@ -561,8 +561,8 @@
       "last_updated": "2026-09-18T23:09:07.084598+00:00"
     },
     "user-guide/features/plugins.md": {
-      "sha": "46d79ded23f9d375d7823d689633a9c869d6da85",
-      "last_updated": "2026-10-23T04:13:10.082512+00:00"
+      "sha": "759e8687d52df2c7e3b59b13f54aa1e798295d90",
+      "last_updated": "2026-10-25T04:06:40.676508+00:00"
     },
     "user-guide/features/provider-routing.md": {
       "sha": "6cb93cd855d7d334a958b25d386211f5345b75b3",
@@ -813,8 +813,8 @@
       "last_updated": "2026-10-24T04:04:38.486687+00:00"
     },
     "user-guide/sessions.md": {
-      "sha": "22dbb6974399ff3ff5e8ef2921812fbee4dc03eb",
-      "last_updated": "2026-10-17T10:25:11.322610+00:00"
+      "sha": "1bc637712f5ca1dba3bd0966f2b031660a87b075",
+      "last_updated": "2026-10-25T04:06:41.304709+00:00"
     },
     "user-guide/skills/bundled/apple/apple-apple-notes.md": {
       "sha": "d845e5b31985bb38ddf388f816a66993f4d3f177",
@@ -993,8 +993,8 @@
       "last_updated": "2026-10-23T11:20:39.508392+00:00"
     },
     "user-guide/skills/bundled/software-development/software-development-hermes-agent-skill-authoring.md": {
-      "sha": "b76b4813239d52a2288c0c2f8b307c7593abd8c3",
-      "last_updated": "2026-10-23T11:20:39.879662+00:00"
+      "sha": "cc363d7d7df1ea2eeecb278fe2d51352dafa44b1",
+      "last_updated": "2026-10-25T04:06:41.776894+00:00"
     },
     "user-guide/skills/bundled/software-development/software-development-inspecting-hermes-desktop-dom.md": {
       "sha": "516f42bbb930c47583d59f1a3a5ccba45a545fa8",
@@ -1801,8 +1801,8 @@
       "last_updated": "2026-10-20T23:42:28.120244+00:00"
     },
     "reference/package-management.md": {
-      "sha": "bea6754db2ac9741bca4e6bc4889aa7bb71cfd88",
-      "last_updated": "2026-10-24T04:04:37.736134+00:00"
+      "sha": "2a47b33bdcb919a3e1cad3bd0dda4fba0379d741",
+      "last_updated": "2026-10-25T04:06:38.656796+00:00"
     },
     "user-guide/switching-to-source.md": {
       "sha": "766782bed736ffa0bbb0ff70d3c46212547257a4",
@@ -1849,7 +1849,7 @@
       "last_updated": "2026-10-23T11:20:17.966721+00:00"
     }
   },
-  "last_updated": "2026-10-24T15:41:29.913977+00:00",
+  "last_updated": "2026-10-25T04:06:41.983763+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
