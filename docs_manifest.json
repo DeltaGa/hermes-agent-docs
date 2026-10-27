@@ -153,8 +153,8 @@
       "last_updated": "2026-09-18T23:08:36.921771+00:00"
     },
     "getting-started/nix-setup.md": {
-      "sha": "a87b913776e3582fd2f44710fdd1364891482147",
-      "last_updated": "2026-10-25T04:06:38.239348+00:00"
+      "sha": "8e97f284b01b481a43507f639c56ed85b56c1cf1",
+      "last_updated": "2026-10-27T21:59:51.391663+00:00"
     },
     "getting-started/platform-support.md": {
       "sha": "400706b2e71abfae3c0a8da9c47df8c2a6d8bd50",
@@ -345,8 +345,8 @@
       "last_updated": "2026-10-26T12:36:47.497317+00:00"
     },
     "reference/environment-variables.md": {
-      "sha": "fb1f9b10bd8f17753fc366c65009e4dd4dbf92c4",
-      "last_updated": "2026-10-26T12:36:47.885782+00:00"
+      "sha": "aba60dadc4e228696d153883a378a8402af5d85d",
+      "last_updated": "2026-10-27T21:59:51.692941+00:00"
     },
     "reference/faq.md": {
       "sha": "a0d1d67d7a7c22808fec65f42bc4f5a3c04be6dc",
@@ -405,12 +405,12 @@
       "last_updated": "2026-10-14T21:28:20.196076+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "c5905fd0cfd097a08e47647c6e3ce756d95be98f",
-      "last_updated": "2026-10-26T04:10:30.460257+00:00"
+      "sha": "b8c2384cfb5e259f53c8a9e060e14b7e1e97f406",
+      "last_updated": "2026-10-27T21:59:52.009201+00:00"
     },
     "user-guide/docker.md": {
-      "sha": "5517c3ff95c6452acacd92ed3fc71e657f313767",
-      "last_updated": "2026-10-23T11:20:28.482826+00:00"
+      "sha": "04b04008f85238372e543f3d4244de529d6a4c28",
+      "last_updated": "2026-10-27T21:59:52.331526+00:00"
     },
     "user-guide/egress/index.md": {
       "sha": "90ccbb8a05e663ba816b4ac1e8bef7bca32eed5b",
@@ -613,8 +613,8 @@
       "last_updated": "2026-09-25T04:23:19.154246+00:00"
     },
     "user-guide/features/web-dashboard.md": {
-      "sha": "a4dc957b0862291e4dbf90cf6479591761092f84",
-      "last_updated": "2026-10-17T10:25:10.902191+00:00"
+      "sha": "237ea018e25acb2f2c92a902b7f7b777e87bc536",
+      "last_updated": "2026-10-27T21:59:52.639310+00:00"
     },
     "user-guide/features/web-search.md": {
       "sha": "2d52120f7385b1797565b50593965b0b50b1e4c8",
@@ -1853,11 +1853,11 @@
       "last_updated": "2026-10-25T15:52:22.489846+00:00"
     },
     "developer-guide/config-backend.md": {
-      "sha": "8c3afdf9499752bd40ba25ad7b324a9054ba5461",
-      "last_updated": "2026-10-26T04:10:28.691893+00:00"
+      "sha": "158fd4fa42c48f272b75ed3388d4b8364c83cb0e",
+      "last_updated": "2026-10-27T21:59:51.055003+00:00"
     }
   },
-  "last_updated": "2026-10-27T08:48:39.887343+00:00",
+  "last_updated": "2026-10-27T21:59:52.848369+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
