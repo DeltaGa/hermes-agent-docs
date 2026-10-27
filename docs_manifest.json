@@ -361,8 +361,8 @@
       "last_updated": "2026-10-26T04:10:29.841555+00:00"
     },
     "reference/optional-skills-catalog.md": {
-      "sha": "835f842e326c928dbbc8884a88776af5ed63e182",
-      "last_updated": "2026-10-22T21:22:46.678021+00:00"
+      "sha": "5351974c7412241c66f07e8bab981b9df5fd3e22",
+      "last_updated": "2026-10-27T08:48:38.998388+00:00"
     },
     "reference/profile-commands.md": {
       "sha": "7baf4a26a3e2e5bea9659f447f18537ed47895c3",
@@ -641,8 +641,8 @@
       "last_updated": "2026-08-09T09:10:42.461411+00:00"
     },
     "user-guide/messaging/a2a.md": {
-      "sha": "8a31dc2ef11d0f4ace5d345c703f9bc007c5d254",
-      "last_updated": "2026-10-20T14:12:53.589026+00:00"
+      "sha": "c6e26aebbf76e695ccb2dd7893526b955524c0fe",
+      "last_updated": "2026-10-27T08:48:39.331349+00:00"
     },
     "user-guide/messaging/bluebubbles.md": {
       "sha": "f195ed9bf771ed13202cd440bf8574aabb5f07a4",
@@ -1449,8 +1449,8 @@
       "last_updated": "2026-09-20T20:37:02.161909+00:00"
     },
     "user-guide/skills/optional/security/security-unbroker.md": {
-      "sha": "431cbadf08d029c1c9fd6e39c5b1cf1e27d7aa36",
-      "last_updated": "2026-10-23T11:21:00.161257+00:00"
+      "sha": "48d457e673ccf7ecd1ee9a4a4cae1043f109cab9",
+      "last_updated": "2026-10-27T08:48:39.682272+00:00"
     },
     "user-guide/skills/optional/security/security-web-pentest.md": {
       "sha": "9a54ef8eceaa12f499d9d48c3d6d159bf3d97ab7",
@@ -1857,7 +1857,7 @@
       "last_updated": "2026-10-26T04:10:28.691893+00:00"
     }
   },
-  "last_updated": "2026-10-26T12:36:50.662396+00:00",
+  "last_updated": "2026-10-27T08:48:39.887343+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
