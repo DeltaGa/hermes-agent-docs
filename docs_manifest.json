@@ -45,8 +45,8 @@
       "last_updated": "2026-10-26T12:36:43.778608+00:00"
     },
     "developer-guide/context-engine-plugin.md": {
-      "sha": "8ffc9822a03425565e4e05c79999f75cb71aa68d",
-      "last_updated": "2026-09-29T05:12:43.759953+00:00"
+      "sha": "1fae25c8b207f02bdf7bb2d408d24c7a75973024",
+      "last_updated": "2026-10-28T05:02:21.100711+00:00"
     },
     "developer-guide/contributing.md": {
       "sha": "f8767accc25af8908b44f81778d013cc3934bc49",
@@ -61,8 +61,8 @@
       "last_updated": "2026-10-14T21:28:13.651982+00:00"
     },
     "developer-guide/desktop-plugin-sdk.md": {
-      "sha": "42ce5c71bad6397523cafbd36287340a9d3a8bdf",
-      "last_updated": "2026-10-24T15:41:28.236247+00:00"
+      "sha": "701ca99b1dc21f44e18b5314eed785ef32a3cbf8",
+      "last_updated": "2026-10-28T05:02:21.469492+00:00"
     },
     "developer-guide/egress-internals.md": {
       "sha": "dde37d99ace8f900d6f23431db168637c191dda4",
@@ -345,8 +345,8 @@
       "last_updated": "2026-10-26T12:36:47.497317+00:00"
     },
     "reference/environment-variables.md": {
-      "sha": "aba60dadc4e228696d153883a378a8402af5d85d",
-      "last_updated": "2026-10-27T21:59:51.692941+00:00"
+      "sha": "736aeba849aef0cb6e1cdee6c986d6de2555a9c6",
+      "last_updated": "2026-10-28T05:02:21.928516+00:00"
     },
     "reference/faq.md": {
       "sha": "a0d1d67d7a7c22808fec65f42bc4f5a3c04be6dc",
@@ -397,16 +397,16 @@
       "last_updated": "2026-10-21T11:30:41.586823+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "4a58d3d824b8730afe86c4d6e189d0099ffe262b",
-      "last_updated": "2026-10-26T12:36:48.252494+00:00"
+      "sha": "eaae3d8521cf8bcadffe7a76c40c8713ab18adad",
+      "last_updated": "2026-10-28T05:02:22.698681+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "0e8e083d29713e3cf45d6b3cbc49700bd0cde974",
       "last_updated": "2026-10-14T21:28:20.196076+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "b8c2384cfb5e259f53c8a9e060e14b7e1e97f406",
-      "last_updated": "2026-10-27T21:59:52.009201+00:00"
+      "sha": "c1de9ee675efe88893c8b85613bdca37b7575668",
+      "last_updated": "2026-10-28T05:02:23.117333+00:00"
     },
     "user-guide/docker.md": {
       "sha": "04b04008f85238372e543f3d4244de529d6a4c28",
@@ -613,8 +613,8 @@
       "last_updated": "2026-09-25T04:23:19.154246+00:00"
     },
     "user-guide/features/web-dashboard.md": {
-      "sha": "237ea018e25acb2f2c92a902b7f7b777e87bc536",
-      "last_updated": "2026-10-27T21:59:52.639310+00:00"
+      "sha": "b181aee88c1fbd05cb4ccc2a9d54a0f895b0dfeb",
+      "last_updated": "2026-10-28T05:02:23.563872+00:00"
     },
     "user-guide/features/web-search.md": {
       "sha": "2d52120f7385b1797565b50593965b0b50b1e4c8",
@@ -625,8 +625,8 @@
       "last_updated": "2026-09-18T23:09:11.211861+00:00"
     },
     "user-guide/git-worktrees.md": {
-      "sha": "675f677f8f675f4db0869929f728a82af293a824",
-      "last_updated": "2026-10-18T10:43:58.794499+00:00"
+      "sha": "96361e4920130c0f5360a0a560c4e1d29126cfdd",
+      "last_updated": "2026-10-28T05:02:23.912245+00:00"
     },
     "user-guide/import-from-other-agents.md": {
       "sha": "691b500e1ea28b6459ac12c557862b796f089272",
@@ -1801,8 +1801,8 @@
       "last_updated": "2026-10-20T23:42:28.120244+00:00"
     },
     "reference/package-management.md": {
-      "sha": "2a47b33bdcb919a3e1cad3bd0dda4fba0379d741",
-      "last_updated": "2026-10-25T04:06:38.656796+00:00"
+      "sha": "0d8585cb1a04ccbba5d07a5e2959da61dceee83c",
+      "last_updated": "2026-10-28T05:02:22.263046+00:00"
     },
     "user-guide/switching-to-source.md": {
       "sha": "766782bed736ffa0bbb0ff70d3c46212547257a4",
@@ -1853,11 +1853,15 @@
       "last_updated": "2026-10-25T15:52:22.489846+00:00"
     },
     "developer-guide/config-backend.md": {
-      "sha": "158fd4fa42c48f272b75ed3388d4b8364c83cb0e",
-      "last_updated": "2026-10-27T21:59:51.055003+00:00"
+      "sha": "4a921560f6945a42644901c9ba164abc53751da1",
+      "last_updated": "2026-10-28T05:02:20.742677+00:00"
+    },
+    "user-guide/remote-config.md": {
+      "sha": "33194e5cf054492ccf94d5e28251467e4ed2aba3",
+      "last_updated": "2026-10-28T05:02:24.253197+00:00"
     }
   },
-  "last_updated": "2026-10-27T21:59:52.848369+00:00",
+  "last_updated": "2026-10-28T05:02:24.462640+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
