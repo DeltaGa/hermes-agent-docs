@@ -525,8 +525,8 @@
       "last_updated": "2026-10-20T14:12:46.961724+00:00"
     },
     "user-guide/features/kanban.md": {
-      "sha": "dacb7c60466f003936f1e062f46db23c3e2f564d",
-      "last_updated": "2026-10-23T21:14:13.481467+00:00"
+      "sha": "0a5555bdfdc4e1a19d7456c9804b2dba719b2927",
+      "last_updated": "2026-10-28T12:28:55.727075+00:00"
     },
     "user-guide/features/lsp.md": {
       "sha": "d580741915982a10bd08f2585ec681a6512df8fa",
@@ -657,8 +657,8 @@
       "last_updated": "2026-09-25T04:23:20.353108+00:00"
     },
     "user-guide/messaging/discord.md": {
-      "sha": "8cd322ca9f559f3b36000abab367ca772ce181ac",
-      "last_updated": "2026-10-04T12:05:55.488033+00:00"
+      "sha": "87b45133c7674cc4383e5fae704146116ce81710",
+      "last_updated": "2026-10-28T12:28:56.179570+00:00"
     },
     "user-guide/messaging/email.md": {
       "sha": "37b3cced272b71a2994d882633001ba5c9df6b1a",
@@ -1861,7 +1861,7 @@
       "last_updated": "2026-10-28T05:02:24.253197+00:00"
     }
   },
-  "last_updated": "2026-10-28T05:02:24.462640+00:00",
+  "last_updated": "2026-10-28T12:28:56.386334+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
