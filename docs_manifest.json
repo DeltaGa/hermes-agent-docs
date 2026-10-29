@@ -61,8 +61,8 @@
       "last_updated": "2026-10-14T21:28:13.651982+00:00"
     },
     "developer-guide/desktop-plugin-sdk.md": {
-      "sha": "81d1bfc3e16beab4b06420d128df17280af493b6",
-      "last_updated": "2026-10-28T20:09:25.289560+00:00"
+      "sha": "2d30cc7059aaac031f7368032067e49dcf4bd0c5",
+      "last_updated": "2026-10-29T00:41:26.779542+00:00"
     },
     "developer-guide/egress-internals.md": {
       "sha": "dde37d99ace8f900d6f23431db168637c191dda4",
@@ -405,8 +405,8 @@
       "last_updated": "2026-10-14T21:28:20.196076+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "c1de9ee675efe88893c8b85613bdca37b7575668",
-      "last_updated": "2026-10-28T05:02:23.117333+00:00"
+      "sha": "f1ab2e4e50a03bdad65a296b014fc4518faa3a3a",
+      "last_updated": "2026-10-29T00:41:27.097305+00:00"
     },
     "user-guide/docker.md": {
       "sha": "04b04008f85238372e543f3d4244de529d6a4c28",
@@ -1861,7 +1861,7 @@
       "last_updated": "2026-10-28T05:02:24.253197+00:00"
     }
   },
-  "last_updated": "2026-10-28T20:09:48.863879+00:00",
+  "last_updated": "2026-10-29T00:41:27.306961+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
