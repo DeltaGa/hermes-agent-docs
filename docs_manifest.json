@@ -633,8 +633,8 @@
       "last_updated": "2026-10-23T11:20:35.607271+00:00"
     },
     "user-guide/managed-scope.md": {
-      "sha": "46f9654477fe5efaf25e095b7738f6fa39d49eb4",
-      "last_updated": "2026-08-09T09:10:42.161589+00:00"
+      "sha": "6a10e285c0c4f2fd91b354bad4887e073e2ab6e1",
+      "last_updated": "2026-10-29T18:18:00.733063+00:00"
     },
     "user-guide/messaging/_category_.json": {
       "sha": "5c8c368cc80370f0128ef01d410610668aec2250",
@@ -1657,8 +1657,8 @@
       "last_updated": "2026-10-06T20:06:28.028304+00:00"
     },
     "user-guide/features/bot-screen.md": {
-      "sha": "de65327fbf46f91afbdadacb9f31370198d1b1c9",
-      "last_updated": "2026-10-23T11:20:30.596542+00:00"
+      "sha": "1e7a3e4f5298240d2680ea0d1c7bb0fee0b58c82",
+      "last_updated": "2026-10-29T18:18:00.273599+00:00"
     },
     "developer-guide/macos-bundle-updates.md": {
       "sha": "3e1aa2aab2a5c50bd258068193c9d814d3a5a77f",
@@ -1793,7 +1793,7 @@
       "last_updated": "2026-10-29T09:42:16.226485+00:00"
     }
   },
-  "last_updated": "2026-10-29T09:42:16.924333+00:00",
+  "last_updated": "2026-10-29T18:18:00.941854+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
