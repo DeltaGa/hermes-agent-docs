@@ -709,8 +709,8 @@
       "last_updated": "2026-09-18T23:09:14.060622+00:00"
     },
     "user-guide/messaging/photon.md": {
-      "sha": "9d70a0aae16717f966cd97b9666322143dbd3eae",
-      "last_updated": "2026-09-25T04:23:21.594431+00:00"
+      "sha": "531ff232b084b7f80be0e52a79086b223413e0f0",
+      "last_updated": "2026-10-31T04:57:34.453057+00:00"
     },
     "user-guide/messaging/qqbot.md": {
       "sha": "5ad299bece6b25f5d8bd4f5af8fee9f0d61e368d",
@@ -793,8 +793,8 @@
       "last_updated": "2026-10-22T21:22:48.620148+00:00"
     },
     "user-guide/secrets/bitwarden.md": {
-      "sha": "00cf5059d96429be936be49aced4d91e41602131",
-      "last_updated": "2026-09-25T04:23:24.856455+00:00"
+      "sha": "21c56606391c986077f49f53e598996b955f1afb",
+      "last_updated": "2026-10-31T04:57:34.855354+00:00"
     },
     "user-guide/secrets/command.md": {
       "sha": "002e95c604e66c8e273d8ca5eb3b885e80708f16",
@@ -805,12 +805,12 @@
       "last_updated": "2026-09-18T23:09:19.079349+00:00"
     },
     "user-guide/secrets/onepassword.md": {
-      "sha": "a5a0898a451029ecbc2b8ffc2cb5c05024dc88d8",
-      "last_updated": "2026-09-16T04:17:22.525104+00:00"
+      "sha": "906be936ed2d86764daa67fb04ca561318e4d46b",
+      "last_updated": "2026-10-31T04:57:35.258039+00:00"
     },
     "user-guide/security.md": {
-      "sha": "2e0d44d0373ee1b0ecd077c173077963b706a02b",
-      "last_updated": "2026-10-29T09:41:41.785834+00:00"
+      "sha": "1b6423b347bf0af240c92b48243d20d727c5540c",
+      "last_updated": "2026-10-31T04:57:35.910579+00:00"
     },
     "user-guide/sessions.md": {
       "sha": "13b6703c63fd7a9ba985c6c38413e8598b18a716",
@@ -1793,7 +1793,7 @@
       "last_updated": "2026-10-29T09:42:16.226485+00:00"
     }
   },
-  "last_updated": "2026-10-30T17:53:40.444613+00:00",
+  "last_updated": "2026-10-31T04:57:36.117182+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
