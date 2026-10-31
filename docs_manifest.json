@@ -397,16 +397,16 @@
       "last_updated": "2026-10-29T09:41:36.155889+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "bac17a9b104d347d88aee8246f7670f48ab81a7e",
-      "last_updated": "2026-10-30T17:53:39.924313+00:00"
+      "sha": "4fc9743e63966f33cdfe1a44062ce4f7ff4fe05c",
+      "last_updated": "2026-10-31T11:58:34.093774+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "0e8e083d29713e3cf45d6b3cbc49700bd0cde974",
       "last_updated": "2026-10-14T21:28:20.196076+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "d60ee040a0e48a8600506bb49db5b2f5a51741f5",
-      "last_updated": "2026-10-29T09:41:36.974265+00:00"
+      "sha": "c1c961dccff254733a328ab61379455aa4a84860",
+      "last_updated": "2026-10-31T11:58:34.465042+00:00"
     },
     "user-guide/docker.md": {
       "sha": "04b04008f85238372e543f3d4244de529d6a4c28",
@@ -437,8 +437,8 @@
       "last_updated": "2026-10-22T16:56:30.967440+00:00"
     },
     "user-guide/features/browser.md": {
-      "sha": "e7f96a28b7f1d23c1d1d6d634b4dbd98243eabf6",
-      "last_updated": "2026-10-29T09:41:37.593512+00:00"
+      "sha": "c2673bc30b7bd988fa6c2a2de8fb0880b7a2e44d",
+      "last_updated": "2026-10-31T11:58:34.769118+00:00"
     },
     "user-guide/features/built-in-plugins.md": {
       "sha": "43a033d62ef4a64d7776b7dd90305c1428b943a5",
@@ -677,8 +677,8 @@
       "last_updated": "2026-10-11T05:08:54.673849+00:00"
     },
     "user-guide/messaging/index.md": {
-      "sha": "3bef1150036c265512b96f9e6198e05b07eb980e",
-      "last_updated": "2026-10-26T12:36:50.139321+00:00"
+      "sha": "2e832d57ae2a87588c2c92492bd477a72de48555",
+      "last_updated": "2026-10-31T11:58:35.141102+00:00"
     },
     "user-guide/messaging/irc.md": {
       "sha": "4fd21061621fc5e44a64222b7813561b41b28dd9",
@@ -749,8 +749,8 @@
       "last_updated": "2026-09-25T04:23:23.100902+00:00"
     },
     "user-guide/messaging/telegram.md": {
-      "sha": "557ecc24a24977ed14706ad96fc2267f404b7784",
-      "last_updated": "2026-10-29T09:41:41.054083+00:00"
+      "sha": "c769604fdb0378b8caca08f9d42468528bbe72ed",
+      "last_updated": "2026-10-31T11:58:35.504367+00:00"
     },
     "user-guide/messaging/webhooks.md": {
       "sha": "bc413bfe35981156f60fc0a472426d84ad4a1a5f",
@@ -809,8 +809,8 @@
       "last_updated": "2026-10-31T04:57:35.258039+00:00"
     },
     "user-guide/security.md": {
-      "sha": "1b6423b347bf0af240c92b48243d20d727c5540c",
-      "last_updated": "2026-10-31T04:57:35.910579+00:00"
+      "sha": "29f09c33cfc3db5206de20e7136e0062db45d71b",
+      "last_updated": "2026-10-31T11:58:35.876340+00:00"
     },
     "user-guide/sessions.md": {
       "sha": "13b6703c63fd7a9ba985c6c38413e8598b18a716",
@@ -845,8 +845,8 @@
       "last_updated": "2026-10-23T11:20:36.982302+00:00"
     },
     "user-guide/skills/bundled/autonomous-ai-agents/autonomous-ai-agents-hermes-agent.md": {
-      "sha": "9e1a056cab6761f93a6cbd96f8fd32367c6cdfd9",
-      "last_updated": "2026-10-29T09:41:56.818009+00:00"
+      "sha": "0cc9f2b5e642b2f3d62acff94d8613dae5ead9cd",
+      "last_updated": "2026-10-31T11:58:36.224507+00:00"
     },
     "user-guide/skills/bundled/creative/creative-architecture-diagram.md": {
       "sha": "977316e40fbc4f207c2ba2a42d8fec8b904063d4",
@@ -917,8 +917,8 @@
       "last_updated": "2026-10-29T09:42:03.707060+00:00"
     },
     "user-guide/skills/bundled/productivity/productivity-pdf.md": {
-      "sha": "330f50718f947e37f5eddf5108c2eb019cbeb3f8",
-      "last_updated": "2026-10-29T09:42:04.508768+00:00"
+      "sha": "a19428dfc0dcd3661a4d39887020d3bf129a6a43",
+      "last_updated": "2026-10-31T11:58:36.953393+00:00"
     },
     "user-guide/skills/bundled/productivity/productivity-product-price-monitor.md": {
       "sha": "4c321ac9ba946c8fd5cf4035fa39ed4c258310ea",
@@ -1109,8 +1109,8 @@
       "last_updated": "2026-10-29T09:42:09.267774+00:00"
     },
     "user-guide/skills/optional/finance/finance-excel-author.md": {
-      "sha": "ed1a459f602fa9ca14d106809adc1aa5cea3581b",
-      "last_updated": "2026-10-29T09:42:09.626720+00:00"
+      "sha": "31f5a5d175faf918a7d110b85990ecc48113b1e9",
+      "last_updated": "2026-10-31T11:58:37.300330+00:00"
     },
     "user-guide/skills/optional/finance/finance-lbo-model.md": {
       "sha": "cd16a4634813f25d6ccfb1cb600834da0e18ee54",
@@ -1125,8 +1125,8 @@
       "last_updated": "2026-09-20T20:36:38.534924+00:00"
     },
     "user-guide/skills/optional/finance/finance-pptx-author.md": {
-      "sha": "8ad8c51d18ffbd234c0702356d0c2cba1b59755e",
-      "last_updated": "2026-10-29T09:42:10.317482+00:00"
+      "sha": "023ff881a609322c99b05b74b25719b25643ac65",
+      "last_updated": "2026-10-31T11:58:37.636803+00:00"
     },
     "user-guide/skills/optional/finance/finance-stocks.md": {
       "sha": "0fd703752c2ba551e82b4be1b0d598dba5c603e2",
@@ -1741,8 +1741,8 @@
       "last_updated": "2026-10-28T05:02:24.253197+00:00"
     },
     "user-guide/skills/bundled/productivity/productivity-microsoft-office.md": {
-      "sha": "b9a6dd6cdf39bca0cddd12b4670218598c289c7c",
-      "last_updated": "2026-10-29T09:42:04.143548+00:00"
+      "sha": "13ad3ae9e1d81b790cd6641e37acb43049b43d14",
+      "last_updated": "2026-10-31T11:58:36.588771+00:00"
     },
     "user-guide/skills/optional/autonomous-ai-agents/autonomous-ai-agents-opencode.md": {
       "sha": "e65213a67731bf9f34b5915977326e95e8f0d440",
@@ -1793,7 +1793,7 @@
       "last_updated": "2026-10-29T09:42:16.226485+00:00"
     }
   },
-  "last_updated": "2026-10-31T04:57:36.117182+00:00",
+  "last_updated": "2026-10-31T11:58:37.842397+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
