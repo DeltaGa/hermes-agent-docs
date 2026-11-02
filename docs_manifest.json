@@ -341,8 +341,8 @@
       "last_updated": "2026-10-06T05:49:04.022980+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "819280965fd8b3cf1600a5f9d95b30bbc59f7368",
-      "last_updated": "2026-11-01T19:26:31.186731+00:00"
+      "sha": "62a0d99484163158314e00b79b58f1d7477a077d",
+      "last_updated": "2026-11-02T10:46:47.659494+00:00"
     },
     "reference/environment-variables.md": {
       "sha": "736aeba849aef0cb6e1cdee6c986d6de2555a9c6",
@@ -397,16 +397,16 @@
       "last_updated": "2026-10-29T09:41:36.155889+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "808b59c20239d3a480c7599a8477b3001a03289c",
-      "last_updated": "2026-11-01T19:26:31.522684+00:00"
+      "sha": "c0adcae4b02cc5e5b21fa9271e33660ec8bebb66",
+      "last_updated": "2026-11-02T10:46:48.415063+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "0e8e083d29713e3cf45d6b3cbc49700bd0cde974",
       "last_updated": "2026-10-14T21:28:20.196076+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "c1c961dccff254733a328ab61379455aa4a84860",
-      "last_updated": "2026-10-31T11:58:34.465042+00:00"
+      "sha": "88fd95c0c406e9f7fe8e4dd662ec4ceee24bfeb2",
+      "last_updated": "2026-11-02T10:46:48.784829+00:00"
     },
     "user-guide/docker.md": {
       "sha": "04b04008f85238372e543f3d4244de529d6a4c28",
@@ -629,8 +629,8 @@
       "last_updated": "2026-10-28T05:02:23.912245+00:00"
     },
     "user-guide/import-from-other-agents.md": {
-      "sha": "691b500e1ea28b6459ac12c557862b796f089272",
-      "last_updated": "2026-10-23T11:20:35.607271+00:00"
+      "sha": "1fdf9ed44a629a3a7e603df48b5d911145f4615e",
+      "last_updated": "2026-11-02T10:46:49.171732+00:00"
     },
     "user-guide/managed-scope.md": {
       "sha": "6a10e285c0c4f2fd91b354bad4887e073e2ab6e1",
@@ -1681,8 +1681,8 @@
       "last_updated": "2026-10-20T23:42:28.120244+00:00"
     },
     "reference/package-management.md": {
-      "sha": "ea477f61952f00c831bd1b693dcffc8af81f0380",
-      "last_updated": "2026-10-29T09:41:34.629002+00:00"
+      "sha": "188aa0c8012f7a9c9276f3e55fc07666c282505d",
+      "last_updated": "2026-11-02T10:46:48.036428+00:00"
     },
     "user-guide/switching-to-source.md": {
       "sha": "766782bed736ffa0bbb0ff70d3c46212547257a4",
@@ -1793,7 +1793,7 @@
       "last_updated": "2026-10-29T09:42:16.226485+00:00"
     }
   },
-  "last_updated": "2026-11-02T00:27:47.736430+00:00",
+  "last_updated": "2026-11-02T10:46:49.378639+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
