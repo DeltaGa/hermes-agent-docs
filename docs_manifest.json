@@ -341,12 +341,12 @@
       "last_updated": "2026-10-06T05:49:04.022980+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "62a0d99484163158314e00b79b58f1d7477a077d",
-      "last_updated": "2026-11-02T10:46:47.659494+00:00"
+      "sha": "229c23a34754fe7f9c8df6d8401964ebe7d52234",
+      "last_updated": "2026-11-02T21:35:44.603683+00:00"
     },
     "reference/environment-variables.md": {
-      "sha": "736aeba849aef0cb6e1cdee6c986d6de2555a9c6",
-      "last_updated": "2026-10-28T05:02:21.928516+00:00"
+      "sha": "8692eee673ff05202fe5ef97c2e8e83465190aeb",
+      "last_updated": "2026-11-02T21:35:44.984958+00:00"
     },
     "reference/faq.md": {
       "sha": "a0d1d67d7a7c22808fec65f42bc4f5a3c04be6dc",
@@ -397,8 +397,8 @@
       "last_updated": "2026-10-29T09:41:36.155889+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "c0adcae4b02cc5e5b21fa9271e33660ec8bebb66",
-      "last_updated": "2026-11-02T10:46:48.415063+00:00"
+      "sha": "a3ce2a708f909181320cc2da1481de14d7c1f188",
+      "last_updated": "2026-11-02T21:35:45.325073+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "0e8e083d29713e3cf45d6b3cbc49700bd0cde974",
@@ -613,8 +613,8 @@
       "last_updated": "2026-09-25T04:23:19.154246+00:00"
     },
     "user-guide/features/web-dashboard.md": {
-      "sha": "0600b755b0aa7bdb62c9a8dedf875f8914c9b19b",
-      "last_updated": "2026-10-28T20:09:48.653897+00:00"
+      "sha": "03f82beedde4a3a7107c08189df60610022581c4",
+      "last_updated": "2026-11-02T21:35:45.650316+00:00"
     },
     "user-guide/features/web-search.md": {
       "sha": "2d52120f7385b1797565b50593965b0b50b1e4c8",
@@ -845,8 +845,8 @@
       "last_updated": "2026-10-23T11:20:36.982302+00:00"
     },
     "user-guide/skills/bundled/autonomous-ai-agents/autonomous-ai-agents-hermes-agent.md": {
-      "sha": "0cc9f2b5e642b2f3d62acff94d8613dae5ead9cd",
-      "last_updated": "2026-10-31T11:58:36.224507+00:00"
+      "sha": "140220925f4318c434094e6c53190dae1d35f296",
+      "last_updated": "2026-11-02T21:35:45.988906+00:00"
     },
     "user-guide/skills/bundled/creative/creative-architecture-diagram.md": {
       "sha": "977316e40fbc4f207c2ba2a42d8fec8b904063d4",
@@ -1605,8 +1605,8 @@
       "last_updated": "2026-10-16T23:22:31.496470+00:00"
     },
     "developer-guide/relay-shared-metrics.md": {
-      "sha": "cc26317befe8a9f0668de7ba3047a88ab44af7fd",
-      "last_updated": "2026-11-02T00:27:46.557260+00:00"
+      "sha": "99773172dbc84db5fdd8c45473780943558ef885",
+      "last_updated": "2026-11-02T21:35:44.230124+00:00"
     },
     "developer-guide/state-db-recovery.md": {
       "sha": "c33820b54605d34f661069de0484b666d6b7bf27",
@@ -1793,7 +1793,7 @@
       "last_updated": "2026-10-29T09:42:16.226485+00:00"
     }
   },
-  "last_updated": "2026-11-02T10:46:49.378639+00:00",
+  "last_updated": "2026-11-02T21:35:46.197247+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
