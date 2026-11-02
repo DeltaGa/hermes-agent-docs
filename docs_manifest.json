@@ -73,8 +73,8 @@
       "last_updated": "2026-09-25T04:22:59.917100+00:00"
     },
     "developer-guide/gateway-internals.md": {
-      "sha": "99b18a350fe9536ef3ce8a35c25ecfccc99ed685",
-      "last_updated": "2026-10-23T04:13:06.987188+00:00"
+      "sha": "4d8af44658b60ed9b67dd08f3c225b911d4e7aa4",
+      "last_updated": "2026-11-02T00:27:46.237966+00:00"
     },
     "developer-guide/image-gen-provider-plugin.md": {
       "sha": "6b1edf902f79e6cae58b4ce525c56226caabb587",
@@ -473,8 +473,8 @@
       "last_updated": "2026-10-30T17:53:40.230769+00:00"
     },
     "user-guide/features/curator.md": {
-      "sha": "c89fab7267bac4c6d2120c06c0487c201c82b29f",
-      "last_updated": "2026-10-14T21:28:21.736277+00:00"
+      "sha": "07a7700610c94da06671de01838eded3b2948264",
+      "last_updated": "2026-11-02T00:27:46.884332+00:00"
     },
     "user-guide/features/delegation.md": {
       "sha": "bbfb81aef84fc4f33b7d784d2e72e6b91bed1a3f",
@@ -569,8 +569,8 @@
       "last_updated": "2026-10-16T23:22:35.678074+00:00"
     },
     "user-guide/features/skills.md": {
-      "sha": "ba9dd6e2e7639df0cae0a266b5a4b4797479aa81",
-      "last_updated": "2026-10-29T09:41:40.401957+00:00"
+      "sha": "08869b701ad935c5c7b5128414010876c37ef578",
+      "last_updated": "2026-11-02T00:27:47.212941+00:00"
     },
     "user-guide/features/skins.md": {
       "sha": "dbf4b2f749294294982d93c9ed846d4e5fb9db2d",
@@ -1397,8 +1397,8 @@
       "last_updated": "2026-10-15T16:41:49.958759+00:00"
     },
     "user-guide/multi-connection-desktop.md": {
-      "sha": "8a7f7ec42cfc1985598cad928ef357878ae467fb",
-      "last_updated": "2026-10-14T21:28:23.586825+00:00"
+      "sha": "36482854a3d1f206496ef8bca0d306323b2e59bb",
+      "last_updated": "2026-11-02T00:27:47.530324+00:00"
     },
     "user-guide/skills/optional/creative/creative-draw-your-font.md": {
       "sha": "a55080b1a2d39f51d2cb8a0f5ab649e4071325d2",
@@ -1605,8 +1605,8 @@
       "last_updated": "2026-10-16T23:22:31.496470+00:00"
     },
     "developer-guide/relay-shared-metrics.md": {
-      "sha": "99d60e9b4d1c2dcf644a306f53e106761d0e3b9b",
-      "last_updated": "2026-10-26T12:36:45.887825+00:00"
+      "sha": "cc26317befe8a9f0668de7ba3047a88ab44af7fd",
+      "last_updated": "2026-11-02T00:27:46.557260+00:00"
     },
     "developer-guide/state-db-recovery.md": {
       "sha": "c33820b54605d34f661069de0484b666d6b7bf27",
@@ -1793,7 +1793,7 @@
       "last_updated": "2026-10-29T09:42:16.226485+00:00"
     }
   },
-  "last_updated": "2026-11-01T19:26:32.402257+00:00",
+  "last_updated": "2026-11-02T00:27:47.736430+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
