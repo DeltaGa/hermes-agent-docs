@@ -345,8 +345,8 @@
       "last_updated": "2026-11-02T21:35:44.603683+00:00"
     },
     "reference/environment-variables.md": {
-      "sha": "8692eee673ff05202fe5ef97c2e8e83465190aeb",
-      "last_updated": "2026-11-02T21:35:44.984958+00:00"
+      "sha": "c0d85ac9a1f04642481e7d93b535aba997f54e1f",
+      "last_updated": "2026-11-03T06:04:10.218043+00:00"
     },
     "reference/faq.md": {
       "sha": "a0d1d67d7a7c22808fec65f42bc4f5a3c04be6dc",
@@ -509,8 +509,8 @@
       "last_updated": "2026-10-02T17:42:41.503417+00:00"
     },
     "user-guide/features/hooks.md": {
-      "sha": "93b09426b1676c07dc0a6085d746620594f06e65",
-      "last_updated": "2026-11-01T12:58:35.040917+00:00"
+      "sha": "cea0f7b4ac85b7cfc51b8aa81766e831bf40e525",
+      "last_updated": "2026-11-03T06:04:11.179000+00:00"
     },
     "user-guide/features/image-generation.md": {
       "sha": "8badf33d14f9fcb368d9f0d697264037cce38532",
@@ -733,8 +733,8 @@
       "last_updated": "2026-09-27T16:44:52.468704+00:00"
     },
     "user-guide/messaging/slack.md": {
-      "sha": "85549b7cd4a8ab91bf9cad81ef0699a25ddb0ce8",
-      "last_updated": "2026-10-16T23:22:36.470644+00:00"
+      "sha": "3fc5d503f07157451358e7fb207f86eeece3fa5e",
+      "last_updated": "2026-11-03T06:04:11.560182+00:00"
     },
     "user-guide/messaging/sms.md": {
       "sha": "d8cc112e065ef6f3ce9890664d390525a22c0c37",
@@ -809,8 +809,8 @@
       "last_updated": "2026-10-31T04:57:35.258039+00:00"
     },
     "user-guide/security.md": {
-      "sha": "29f09c33cfc3db5206de20e7136e0062db45d71b",
-      "last_updated": "2026-10-31T11:58:35.876340+00:00"
+      "sha": "8a07e2f74824a9f2c352d9e1d32e4ca06eb0f893",
+      "last_updated": "2026-11-03T06:04:11.945049+00:00"
     },
     "user-guide/sessions.md": {
       "sha": "13b6703c63fd7a9ba985c6c38413e8598b18a716",
@@ -1669,8 +1669,8 @@
       "last_updated": "2026-09-25T04:23:04.575652+00:00"
     },
     "developer-guide/shared-bundle-builds.md": {
-      "sha": "64033875c2c8f60d9b1ca353b77e3b6fd868de52",
-      "last_updated": "2026-09-25T04:23:04.875784+00:00"
+      "sha": "b25603e5b99ffcec47b595341f959a6f1266dd1e",
+      "last_updated": "2026-11-03T06:04:09.819544+00:00"
     },
     "developer-guide/source-update-completion.md": {
       "sha": "cc093846ed301d265db6b031a0d5db4d4b2d6764",
@@ -1681,8 +1681,8 @@
       "last_updated": "2026-10-20T23:42:28.120244+00:00"
     },
     "reference/package-management.md": {
-      "sha": "188aa0c8012f7a9c9276f3e55fc07666c282505d",
-      "last_updated": "2026-11-02T10:46:48.036428+00:00"
+      "sha": "d7733cb059054d3e622c27cbad04f6ceef9d79da",
+      "last_updated": "2026-11-03T06:04:10.645786+00:00"
     },
     "user-guide/switching-to-source.md": {
       "sha": "766782bed736ffa0bbb0ff70d3c46212547257a4",
@@ -1793,7 +1793,7 @@
       "last_updated": "2026-10-29T09:42:16.226485+00:00"
     }
   },
-  "last_updated": "2026-11-02T21:35:46.197247+00:00",
+  "last_updated": "2026-11-03T06:04:12.153638+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
