@@ -53,8 +53,8 @@
       "last_updated": "2026-10-23T11:20:16.245389+00:00"
     },
     "developer-guide/creating-skills.md": {
-      "sha": "8e2f55063029940a061efeaee5d6bb08dc5906b9",
-      "last_updated": "2026-10-23T11:20:17.176161+00:00"
+      "sha": "f3dc99eb02f2563e485e11181af178a5932cb8c9",
+      "last_updated": "2026-11-03T23:03:54.589223+00:00"
     },
     "developer-guide/cron-internals.md": {
       "sha": "b00c317f9eae5193387f4cf3140415cfe54b9bd8",
@@ -157,8 +157,8 @@
       "last_updated": "2026-10-27T21:59:51.391663+00:00"
     },
     "getting-started/platform-support.md": {
-      "sha": "400706b2e71abfae3c0a8da9c47df8c2a6d8bd50",
-      "last_updated": "2026-10-21T11:30:39.321648+00:00"
+      "sha": "5db054f36bfb60cff54c193cdeca807433e0bcfa",
+      "last_updated": "2026-11-03T23:03:55.714395+00:00"
     },
     "getting-started/quickstart.md": {
       "sha": "0d7c3a7e542ecbb10ad77544edde7175fa12f616",
@@ -345,8 +345,8 @@
       "last_updated": "2026-11-02T21:35:44.603683+00:00"
     },
     "reference/environment-variables.md": {
-      "sha": "c0d85ac9a1f04642481e7d93b535aba997f54e1f",
-      "last_updated": "2026-11-03T06:04:10.218043+00:00"
+      "sha": "e072bab825f71dbbcfabd92e8b937f2f4169c515",
+      "last_updated": "2026-11-03T23:03:56.087871+00:00"
     },
     "reference/faq.md": {
       "sha": "a0d1d67d7a7c22808fec65f42bc4f5a3c04be6dc",
@@ -361,8 +361,8 @@
       "last_updated": "2026-10-26T04:10:29.841555+00:00"
     },
     "reference/optional-skills-catalog.md": {
-      "sha": "b6a9115984c30b299466449c919c912fcd45bc00",
-      "last_updated": "2026-10-29T09:41:34.063696+00:00"
+      "sha": "23b4ab1671b5b956c41ae83b4efc50d3ba6d4a16",
+      "last_updated": "2026-11-03T23:03:56.593682+00:00"
     },
     "reference/profile-commands.md": {
       "sha": "7baf4a26a3e2e5bea9659f447f18537ed47895c3",
@@ -405,8 +405,8 @@
       "last_updated": "2026-10-14T21:28:20.196076+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "88fd95c0c406e9f7fe8e4dd662ec4ceee24bfeb2",
-      "last_updated": "2026-11-02T10:46:48.784829+00:00"
+      "sha": "6785b69e9fabe45aec907526e27c7c457e4ea5a0",
+      "last_updated": "2026-11-03T23:03:57.326692+00:00"
     },
     "user-guide/docker.md": {
       "sha": "04b04008f85238372e543f3d4244de529d6a4c28",
@@ -569,8 +569,8 @@
       "last_updated": "2026-10-16T23:22:35.678074+00:00"
     },
     "user-guide/features/skills.md": {
-      "sha": "08869b701ad935c5c7b5128414010876c37ef578",
-      "last_updated": "2026-11-02T00:27:47.212941+00:00"
+      "sha": "11c4ab0c7463e45c58c29276dee3e078d02cb072",
+      "last_updated": "2026-11-03T23:03:57.653349+00:00"
     },
     "user-guide/features/skins.md": {
       "sha": "dbf4b2f749294294982d93c9ed846d4e5fb9db2d",
@@ -617,8 +617,8 @@
       "last_updated": "2026-11-02T21:35:45.650316+00:00"
     },
     "user-guide/features/web-search.md": {
-      "sha": "2d52120f7385b1797565b50593965b0b50b1e4c8",
-      "last_updated": "2026-10-23T11:20:34.869400+00:00"
+      "sha": "1288ee9e391d6030261ecdaa456021ed935d01af",
+      "last_updated": "2026-11-03T23:03:58.045298+00:00"
     },
     "user-guide/features/x-search.md": {
       "sha": "86318db7d287d2f50b44d97b85cf2f32aab4e758",
@@ -749,8 +749,8 @@
       "last_updated": "2026-09-25T04:23:23.100902+00:00"
     },
     "user-guide/messaging/telegram.md": {
-      "sha": "066ccd2ddce501aa33c009c5180817aa73fd095f",
-      "last_updated": "2026-11-01T19:26:32.193567+00:00"
+      "sha": "fa1eb3798f361204518f3cf7818288e7620b4e94",
+      "last_updated": "2026-11-03T23:03:58.443818+00:00"
     },
     "user-guide/messaging/webhooks.md": {
       "sha": "bc413bfe35981156f60fc0a472426d84ad4a1a5f",
@@ -901,8 +901,8 @@
       "last_updated": "2026-09-20T20:36:11.452729+00:00"
     },
     "user-guide/skills/bundled/productivity/productivity-document-to-action-items.md": {
-      "sha": "7b5e5c2c6e2990fee9d69e9cac5ecf0b6163f02f",
-      "last_updated": "2026-10-29T09:42:03.355428+00:00"
+      "sha": "d7a65103e934ad59034cbd5772984608d408064d",
+      "last_updated": "2026-11-03T23:03:58.789392+00:00"
     },
     "user-guide/skills/bundled/productivity/productivity-google-workspace.md": {
       "sha": "fe22fd0ab114fb6635ed583445252ec97c41a3b1",
@@ -913,12 +913,12 @@
       "last_updated": "2026-09-20T20:36:13.449241+00:00"
     },
     "user-guide/skills/bundled/productivity/productivity-meeting-action-items.md": {
-      "sha": "4bc39457a88be6b827c00624e22c751fe67e49ef",
-      "last_updated": "2026-10-29T09:42:03.707060+00:00"
+      "sha": "c653c1bb6bbc9e278e4bd56b5db86e1445d7a989",
+      "last_updated": "2026-11-03T23:03:59.139554+00:00"
     },
     "user-guide/skills/bundled/productivity/productivity-pdf.md": {
-      "sha": "a19428dfc0dcd3661a4d39887020d3bf129a6a43",
-      "last_updated": "2026-10-31T11:58:36.953393+00:00"
+      "sha": "0925a4053259f01800c1e43bad83f079d6568b55",
+      "last_updated": "2026-11-03T23:04:00.240549+00:00"
     },
     "user-guide/skills/bundled/productivity/productivity-product-price-monitor.md": {
       "sha": "4c321ac9ba946c8fd5cf4035fa39ed4c258310ea",
@@ -929,8 +929,8 @@
       "last_updated": "2026-09-20T20:36:15.089919+00:00"
     },
     "user-guide/skills/bundled/productivity/productivity-weekly-review-planning.md": {
-      "sha": "d9019437b1fc4078f22e8c2a29934ec1f2a678fe",
-      "last_updated": "2026-10-29T09:42:04.874796+00:00"
+      "sha": "e930ed4e3bddc5acf0d60760fcec36a3fed3fada",
+      "last_updated": "2026-11-03T23:04:00.767262+00:00"
     },
     "user-guide/skills/bundled/research/research-arxiv.md": {
       "sha": "9d0d19a99f430f71ceae1b4f23470a7fc8afc08a",
@@ -987,10 +987,6 @@
     "user-guide/skills/optional/autonomous-ai-agents/autonomous-ai-agents-grok.md": {
       "sha": "ec82fbc82675ef2ab1c12d0bdad00d458eecdd10",
       "last_updated": "2026-09-20T20:36:22.567710+00:00"
-    },
-    "user-guide/skills/optional/autonomous-ai-agents/autonomous-ai-agents-honcho.md": {
-      "sha": "fa2a6c5f6720bbcb197a6c8637802c51c610f37a",
-      "last_updated": "2026-10-02T17:42:43.996010+00:00"
     },
     "user-guide/skills/optional/autonomous-ai-agents/autonomous-ai-agents-openhands.md": {
       "sha": "b5789d0a42a044e6876609a69138dccbda8c2544",
@@ -1109,8 +1105,8 @@
       "last_updated": "2026-10-29T09:42:09.267774+00:00"
     },
     "user-guide/skills/optional/finance/finance-excel-author.md": {
-      "sha": "31f5a5d175faf918a7d110b85990ecc48113b1e9",
-      "last_updated": "2026-10-31T11:58:37.300330+00:00"
+      "sha": "7f843c14e440815b1373619af1244934fa47e434",
+      "last_updated": "2026-11-03T23:04:01.293376+00:00"
     },
     "user-guide/skills/optional/finance/finance-lbo-model.md": {
       "sha": "cd16a4634813f25d6ccfb1cb600834da0e18ee54",
@@ -1125,8 +1121,8 @@
       "last_updated": "2026-09-20T20:36:38.534924+00:00"
     },
     "user-guide/skills/optional/finance/finance-pptx-author.md": {
-      "sha": "023ff881a609322c99b05b74b25719b25643ac65",
-      "last_updated": "2026-10-31T11:58:37.636803+00:00"
+      "sha": "b0c4ac840f35d550c8949b3e3d05e7dcdf6c882a",
+      "last_updated": "2026-11-03T23:04:01.658227+00:00"
     },
     "user-guide/skills/optional/finance/finance-stocks.md": {
       "sha": "0fd703752c2ba551e82b4be1b0d598dba5c603e2",
@@ -1240,17 +1236,13 @@
       "sha": "28b70227971ef81d50345281da1ddee763f7e309",
       "last_updated": "2026-09-20T20:36:52.546320+00:00"
     },
-    "user-guide/skills/optional/payments/payments-mpp-agent.md": {
-      "sha": "d0c12eb5f66db8fe525427b73f156ea82f1a774b",
-      "last_updated": "2026-09-20T20:36:53.245154+00:00"
-    },
     "user-guide/skills/optional/payments/payments-stripe-link-cli.md": {
-      "sha": "d3ea09efb577259521249934429a801e07f2a248",
-      "last_updated": "2026-09-20T20:36:53.556607+00:00"
+      "sha": "44e986836a06791529763ff31bbb2d37cc97cdfe",
+      "last_updated": "2026-11-03T23:04:02.166796+00:00"
     },
     "user-guide/skills/optional/payments/payments-stripe-projects.md": {
-      "sha": "8e94eba01457bd62396d82a479b678472e563701",
-      "last_updated": "2026-09-20T20:36:53.872315+00:00"
+      "sha": "f9339d33eb452ccad6e9a129500d6bf3a1f2af2d",
+      "last_updated": "2026-11-03T23:04:02.530219+00:00"
     },
     "user-guide/skills/optional/productivity/productivity-canvas.md": {
       "sha": "90f44f1a61895e171d45d07300e7d6f8e2144106",
@@ -1265,16 +1257,12 @@
       "last_updated": "2026-09-25T04:23:28.165474+00:00"
     },
     "user-guide/skills/optional/productivity/productivity-shop.md": {
-      "sha": "da757d540f1256403f6875a47f7abfbcb37aee3c",
-      "last_updated": "2026-09-20T20:36:55.454971+00:00"
-    },
-    "user-guide/skills/optional/productivity/productivity-shopify.md": {
-      "sha": "6ea97dd0dc6378abf322ceb658c8c4cc562e24ea",
-      "last_updated": "2026-10-29T09:42:13.702997+00:00"
+      "sha": "c094eb871bbe6afe7d3176245b89d25c5aa1c058",
+      "last_updated": "2026-11-03T23:04:02.894447+00:00"
     },
     "user-guide/skills/optional/productivity/productivity-siyuan.md": {
-      "sha": "242ac1619ba4687bc1b32b5437b0b457bb37181e",
-      "last_updated": "2026-10-29T09:42:14.079518+00:00"
+      "sha": "f6ca53aac0e67e24ae657412df31bbfd85ce0506",
+      "last_updated": "2026-11-03T23:04:03.592591+00:00"
     },
     "user-guide/skills/optional/productivity/productivity-telephony.md": {
       "sha": "b0b2116092e8c89154ed2f2ae3b012903e62a04f",
@@ -1296,10 +1284,6 @@
       "sha": "e147e022583142ce88dab6854a17f01ee6421aae",
       "last_updated": "2026-09-20T20:36:57.685723+00:00"
     },
-    "user-guide/skills/optional/research/research-duckduckgo-search.md": {
-      "sha": "7cc4a475f6c3259c9650b332030c9352332343de",
-      "last_updated": "2026-09-20T20:36:58.022732+00:00"
-    },
     "user-guide/skills/optional/research/research-gitnexus-explorer.md": {
       "sha": "19adbafc1dcc4cabc496b63818e2ce566889c48c",
       "last_updated": "2026-09-20T20:36:58.336768+00:00"
@@ -1309,20 +1293,16 @@
       "last_updated": "2026-09-20T20:36:58.649718+00:00"
     },
     "user-guide/skills/optional/research/research-parallel-cli.md": {
-      "sha": "3892ebbda620e8c1cc356a57a2b885354b1c9e53",
-      "last_updated": "2026-09-20T20:36:58.992708+00:00"
+      "sha": "c0584b85c8ee8ef1f02d394769753f3538a2e5c4",
+      "last_updated": "2026-11-03T23:04:04.031184+00:00"
     },
     "user-guide/skills/optional/research/research-qmd.md": {
       "sha": "2cefd00a1571d1738f0cbefe4c7cd70ee8ccfa5a",
       "last_updated": "2026-09-20T20:36:59.629120+00:00"
     },
     "user-guide/skills/optional/research/research-scrapling.md": {
-      "sha": "bc2a876dbcbeca1b709f08a06fa0430d98a404ad",
-      "last_updated": "2026-09-20T20:37:00.582583+00:00"
-    },
-    "user-guide/skills/optional/research/research-searxng-search.md": {
-      "sha": "89de0e9a2634e4adf1aa2979d86c8d4f899e100d",
-      "last_updated": "2026-09-20T20:37:00.897397+00:00"
+      "sha": "c308257f784e71d9b5bf8a57efeb62c2fdd13a74",
+      "last_updated": "2026-11-03T23:04:04.444338+00:00"
     },
     "user-guide/skills/optional/security/security-1password.md": {
       "sha": "5a38286338ab8130bf01d233cf3c0ea749649bc3",
@@ -1409,8 +1389,8 @@
       "last_updated": "2026-09-20T20:36:31.267388+00:00"
     },
     "user-guide/bot-mode.md": {
-      "sha": "fa085b9792d94dcbd2136ea9c407d3341a1a02bf",
-      "last_updated": "2026-10-21T11:30:41.153625+00:00"
+      "sha": "14df51a6dd8d6b593909c16eba5f5a26c08a2a99",
+      "last_updated": "2026-11-03T23:03:56.934763+00:00"
     },
     "reference/cli-symbols.md": {
       "sha": "76d0fcd513551ad62992ffc06f63494b1ad2bed9",
@@ -1661,8 +1641,8 @@
       "last_updated": "2026-10-29T18:18:00.273599+00:00"
     },
     "developer-guide/macos-bundle-updates.md": {
-      "sha": "3e1aa2aab2a5c50bd258068193c9d814d3a5a77f",
-      "last_updated": "2026-09-25T04:23:01.015407+00:00"
+      "sha": "2b64815975e6185710927ee10e3277ccaa7c3f4e",
+      "last_updated": "2026-11-03T23:03:54.937581+00:00"
     },
     "developer-guide/pm-audit-status.md": {
       "sha": "d91cc20f151850173b68225fe1bdf4aed5c78186",
@@ -1677,8 +1657,8 @@
       "last_updated": "2026-10-06T20:06:29.732929+00:00"
     },
     "developer-guide/stable-releases.md": {
-      "sha": "9777c69ea428e634515e13eb06dd1089c4737e68",
-      "last_updated": "2026-10-20T23:42:28.120244+00:00"
+      "sha": "c9b960dbf29374e51e53b10b177015111614670a",
+      "last_updated": "2026-11-03T23:03:55.288637+00:00"
     },
     "reference/package-management.md": {
       "sha": "c4e911940cb9eb9f8fc9b2205594157383950aaa",
@@ -1741,8 +1721,8 @@
       "last_updated": "2026-10-28T05:02:24.253197+00:00"
     },
     "user-guide/skills/bundled/productivity/productivity-microsoft-office.md": {
-      "sha": "13ad3ae9e1d81b790cd6641e37acb43049b43d14",
-      "last_updated": "2026-10-31T11:58:36.588771+00:00"
+      "sha": "74dfb0b7bcf22ca821359f0b595aab62852f4bfa",
+      "last_updated": "2026-11-03T23:03:59.763086+00:00"
     },
     "user-guide/skills/optional/autonomous-ai-agents/autonomous-ai-agents-opencode.md": {
       "sha": "e65213a67731bf9f34b5915977326e95e8f0d440",
@@ -1760,17 +1740,9 @@
       "sha": "ff791fef0bbdfe05a5ad3f73cb8536abfd5c93bf",
       "last_updated": "2026-10-29T09:42:11.364716+00:00"
     },
-    "user-guide/skills/optional/productivity/productivity-airtable.md": {
-      "sha": "75ea68c20cfb0dfc106ca1d3dc7cc52befa2a629",
-      "last_updated": "2026-10-29T09:42:12.305352+00:00"
-    },
     "user-guide/skills/optional/productivity/productivity-box.md": {
       "sha": "e3ba0f0b88bb7532c1feb2f949c4e0dd53b866ec",
       "last_updated": "2026-10-29T09:42:12.861784+00:00"
-    },
-    "user-guide/skills/optional/productivity/productivity-notion.md": {
-      "sha": "56a2627004a576a842e7446dd0d8c1f3c7420866",
-      "last_updated": "2026-10-29T09:42:13.327974+00:00"
     },
     "user-guide/skills/optional/research/research-llm-wiki.md": {
       "sha": "8f79702f7ae4bc2776da6d39b67dd4d3269b753c",
@@ -1793,7 +1765,7 @@
       "last_updated": "2026-10-29T09:42:16.226485+00:00"
     }
   },
-  "last_updated": "2026-11-03T16:55:00.604198+00:00",
+  "last_updated": "2026-11-03T23:04:04.648993+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
