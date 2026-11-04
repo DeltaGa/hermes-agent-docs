@@ -345,8 +345,8 @@
       "last_updated": "2026-11-02T21:35:44.603683+00:00"
     },
     "reference/environment-variables.md": {
-      "sha": "e072bab825f71dbbcfabd92e8b937f2f4169c515",
-      "last_updated": "2026-11-03T23:03:56.087871+00:00"
+      "sha": "b10491fa9ba1b4197585e4546372d47de43766d7",
+      "last_updated": "2026-11-04T14:07:08.357340+00:00"
     },
     "reference/faq.md": {
       "sha": "a0d1d67d7a7c22808fec65f42bc4f5a3c04be6dc",
@@ -397,8 +397,8 @@
       "last_updated": "2026-10-29T09:41:36.155889+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "a3ce2a708f909181320cc2da1481de14d7c1f188",
-      "last_updated": "2026-11-02T21:35:45.325073+00:00"
+      "sha": "4bb5f39424d8afd41790148f5fc44733d8ec6096",
+      "last_updated": "2026-11-04T14:07:09.040932+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "0e8e083d29713e3cf45d6b3cbc49700bd0cde974",
@@ -593,8 +593,8 @@
       "last_updated": "2026-10-23T04:13:10.757821+00:00"
     },
     "user-guide/features/tools.md": {
-      "sha": "9059cffeefc17658429fe2e7dbdaf0f5b0f7b549",
-      "last_updated": "2026-10-23T11:20:34.476938+00:00"
+      "sha": "92da7b0baa6617e2e9b06a1d3708e4dbc5cacd46",
+      "last_updated": "2026-11-04T14:07:09.417210+00:00"
     },
     "user-guide/features/tts.md": {
       "sha": "2a42e8b048d37b6d4e8ce1036a7764d49e2e8c87",
@@ -809,8 +809,8 @@
       "last_updated": "2026-10-31T04:57:35.258039+00:00"
     },
     "user-guide/security.md": {
-      "sha": "8a07e2f74824a9f2c352d9e1d32e4ca06eb0f893",
-      "last_updated": "2026-11-03T06:04:11.945049+00:00"
+      "sha": "1aaf5031de0e95a54b06ab33cc513c6a1f1fc2f5",
+      "last_updated": "2026-11-04T14:07:09.839774+00:00"
     },
     "user-guide/sessions.md": {
       "sha": "13b6703c63fd7a9ba985c6c38413e8598b18a716",
@@ -1765,7 +1765,7 @@
       "last_updated": "2026-10-29T09:42:16.226485+00:00"
     }
   },
-  "last_updated": "2026-11-04T05:43:33.071159+00:00",
+  "last_updated": "2026-11-04T14:07:10.045299+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
