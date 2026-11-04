@@ -13,16 +13,16 @@
       "last_updated": "2026-10-17T22:58:24.661559+00:00"
     },
     "developer-guide/adding-providers.md": {
-      "sha": "1cd0964858a4ae75faca65a0a7e90596b2ff6d96",
-      "last_updated": "2026-10-26T12:36:43.402869+00:00"
+      "sha": "542f8ff34de36680dacbc127b649603b3320621a",
+      "last_updated": "2026-11-04T21:10:22.788074+00:00"
     },
     "developer-guide/adding-tools.md": {
       "sha": "c625cb68f1f571b25b9c1d618284275d9924b97d",
       "last_updated": "2026-09-20T20:35:50.212417+00:00"
     },
     "developer-guide/agent-loop.md": {
-      "sha": "17bc53ea47ac56ec54ab55ee2f1a9fa11868d442",
-      "last_updated": "2026-09-19T20:21:58.312547+00:00"
+      "sha": "e43afe0de936b01d37a3a54fc8ad75912e1fc91b",
+      "last_updated": "2026-11-04T21:10:23.202188+00:00"
     },
     "developer-guide/architecture.md": {
       "sha": "4d92e5c5668dc069c3fc904d4443373e1409ff2c",
@@ -105,8 +105,8 @@
       "last_updated": "2026-10-11T12:27:58.974309+00:00"
     },
     "developer-guide/provider-runtime.md": {
-      "sha": "04801d675f57840b188ebd0f3ce58e9a811e4d4e",
-      "last_updated": "2026-10-26T12:36:44.990808+00:00"
+      "sha": "d41b4a886ac01f1d2d96b00bb867446bbd9e9150",
+      "last_updated": "2026-11-04T21:10:23.625961+00:00"
     },
     "developer-guide/secret-source-plugin.md": {
       "sha": "869db2fec3cf6b8f823fce7752367325756a3420",
@@ -189,8 +189,8 @@
       "last_updated": "2026-09-25T04:23:09.309209+00:00"
     },
     "guides/aws-bedrock.md": {
-      "sha": "a22526d19fa7d0031e70c28ec5db45e24a964a4a",
-      "last_updated": "2026-10-06T13:07:06.782675+00:00"
+      "sha": "695df4f56b6c3875c344755c43c75a725146b8e1",
+      "last_updated": "2026-11-04T21:10:24.120553+00:00"
     },
     "guides/azure-foundry.md": {
       "sha": "0535d9b1ba3364e901b27569f7d4b1cfbc65860d",
@@ -321,16 +321,16 @@
       "last_updated": "2026-09-18T23:08:50.423331+00:00"
     },
     "integrations/index.md": {
-      "sha": "373c6c64904aad83c1e8cb9bb8d247094b8a31d4",
-      "last_updated": "2026-10-23T11:20:22.592470+00:00"
+      "sha": "2a44cef7cf775b454755a68e1d00cb725b12d5c3",
+      "last_updated": "2026-11-04T21:10:24.477026+00:00"
     },
     "integrations/nous-portal.md": {
       "sha": "f820099af7db31e62c24384565eb658938aea7f2",
       "last_updated": "2026-10-23T11:20:23.507816+00:00"
     },
     "integrations/providers.md": {
-      "sha": "5b8f0504cb5ec3204f6641e16d962d3de3ec948a",
-      "last_updated": "2026-10-26T12:36:47.098063+00:00"
+      "sha": "02d1a310945984f21b60eedea4e3980436e88890",
+      "last_updated": "2026-11-04T21:10:24.824660+00:00"
     },
     "reference/_category_.json": {
       "sha": "8150d97ad57c8f434b72e9cc65a58abd091787c6",
@@ -341,8 +341,8 @@
       "last_updated": "2026-10-06T05:49:04.022980+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "229c23a34754fe7f9c8df6d8401964ebe7d52234",
-      "last_updated": "2026-11-02T21:35:44.603683+00:00"
+      "sha": "bd2430ae53089ee8bd35d53dc2119dcd6722147e",
+      "last_updated": "2026-11-04T21:10:25.222454+00:00"
     },
     "reference/environment-variables.md": {
       "sha": "b10491fa9ba1b4197585e4546372d47de43766d7",
@@ -397,12 +397,12 @@
       "last_updated": "2026-10-29T09:41:36.155889+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "4bb5f39424d8afd41790148f5fc44733d8ec6096",
-      "last_updated": "2026-11-04T14:07:09.040932+00:00"
+      "sha": "d67b49225d81a1a480f37eed61b32d378806c6c6",
+      "last_updated": "2026-11-04T21:10:25.960685+00:00"
     },
     "user-guide/configuring-models.md": {
-      "sha": "0e8e083d29713e3cf45d6b3cbc49700bd0cde974",
-      "last_updated": "2026-10-14T21:28:20.196076+00:00"
+      "sha": "3e15fe3b8a97ddeaa7bfd996c3fd5f90849770d9",
+      "last_updated": "2026-11-04T21:10:26.821566+00:00"
     },
     "user-guide/desktop.md": {
       "sha": "6785b69e9fabe45aec907526e27c7c457e4ea5a0",
@@ -425,8 +425,8 @@
       "last_updated": "2026-08-09T09:10:24.733947+00:00"
     },
     "user-guide/features/acp.md": {
-      "sha": "8bcb68b08a2985b03dda091a0b1ce1f7e573cd5a",
-      "last_updated": "2026-10-23T11:20:29.182935+00:00"
+      "sha": "02a807814249869598540c9abeabaf5e0748acb9",
+      "last_updated": "2026-11-04T21:10:27.212470+00:00"
     },
     "user-guide/features/api-server.md": {
       "sha": "e927f32e92dd71f16055c92d25284501071c8f28",
@@ -493,8 +493,8 @@
       "last_updated": "2026-10-16T23:22:34.045850+00:00"
     },
     "user-guide/features/fallback-providers.md": {
-      "sha": "849e6ee68ba23aff2a8459a4ed8eb3755434cc8c",
-      "last_updated": "2026-10-26T12:36:48.637507+00:00"
+      "sha": "b3130556342755fac31d458d0ad960ab7962b2f8",
+      "last_updated": "2026-11-04T21:10:27.902753+00:00"
     },
     "user-guide/features/goals.md": {
       "sha": "323d5f8f484b747428b88b4ef8139978056aeb40",
@@ -561,8 +561,8 @@
       "last_updated": "2026-09-18T23:09:07.084598+00:00"
     },
     "user-guide/features/plugins.md": {
-      "sha": "880521209b00506d2816b440df7d75e576908838",
-      "last_updated": "2026-10-25T15:52:27.498298+00:00"
+      "sha": "1f24022828d6cadbc5ff983caaa62a9eb617fd31",
+      "last_updated": "2026-11-04T21:10:28.420626+00:00"
     },
     "user-guide/features/provider-routing.md": {
       "sha": "6cb93cd855d7d334a958b25d386211f5345b75b3",
@@ -1389,8 +1389,8 @@
       "last_updated": "2026-09-20T20:36:31.267388+00:00"
     },
     "user-guide/bot-mode.md": {
-      "sha": "14df51a6dd8d6b593909c16eba5f5a26c08a2a99",
-      "last_updated": "2026-11-03T23:03:56.934763+00:00"
+      "sha": "880f6bd509dcfa1f643d38a13dfce2a5450f9804",
+      "last_updated": "2026-11-04T21:10:25.590530+00:00"
     },
     "reference/cli-symbols.md": {
       "sha": "76d0fcd513551ad62992ffc06f63494b1ad2bed9",
@@ -1765,7 +1765,7 @@
       "last_updated": "2026-10-29T09:42:16.226485+00:00"
     }
   },
-  "last_updated": "2026-11-04T14:07:10.045299+00:00",
+  "last_updated": "2026-11-04T21:10:28.626451+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
