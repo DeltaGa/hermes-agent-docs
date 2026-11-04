@@ -1641,8 +1641,8 @@
       "last_updated": "2026-10-29T18:18:00.273599+00:00"
     },
     "developer-guide/macos-bundle-updates.md": {
-      "sha": "2b64815975e6185710927ee10e3277ccaa7c3f4e",
-      "last_updated": "2026-11-03T23:03:54.937581+00:00"
+      "sha": "8f7b82b97a29743beb82042e47281cbeefa0211a",
+      "last_updated": "2026-11-04T05:43:32.559219+00:00"
     },
     "developer-guide/pm-audit-status.md": {
       "sha": "d91cc20f151850173b68225fe1bdf4aed5c78186",
@@ -1657,8 +1657,8 @@
       "last_updated": "2026-10-06T20:06:29.732929+00:00"
     },
     "developer-guide/stable-releases.md": {
-      "sha": "c9b960dbf29374e51e53b10b177015111614670a",
-      "last_updated": "2026-11-03T23:03:55.288637+00:00"
+      "sha": "4c68bc8749687642a62afd1c0d92a55d4d2ae23e",
+      "last_updated": "2026-11-04T05:43:32.861048+00:00"
     },
     "reference/package-management.md": {
       "sha": "c4e911940cb9eb9f8fc9b2205594157383950aaa",
@@ -1765,7 +1765,7 @@
       "last_updated": "2026-10-29T09:42:16.226485+00:00"
     }
   },
-  "last_updated": "2026-11-03T23:04:04.648993+00:00",
+  "last_updated": "2026-11-04T05:43:33.071159+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
