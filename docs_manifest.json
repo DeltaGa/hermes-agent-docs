@@ -73,32 +73,32 @@
       "last_updated": "2026-09-25T04:22:59.917100+00:00"
     },
     "developer-guide/gateway-internals.md": {
-      "sha": "7d93aa6ea9cdb92a7060ba60f64e7e0d7950f1db",
-      "last_updated": "2026-11-05T23:29:03.208852+00:00"
+      "sha": "ed0b18c76d69eb0cd7a04c2989e99dafe2a07bdc",
+      "last_updated": "2026-11-06T20:46:01.187281+00:00"
     },
     "developer-guide/image-gen-provider-plugin.md": {
       "sha": "6b1edf902f79e6cae58b4ce525c56226caabb587",
       "last_updated": "2026-10-20T23:42:27.833193+00:00"
     },
     "developer-guide/memory-provider-plugin.md": {
-      "sha": "569f6131d2185b35fb3eb5048e80ad418a40b73e",
-      "last_updated": "2026-11-06T05:57:07.510337+00:00"
+      "sha": "74cadc7b025e74a4598f155f825523346f975687",
+      "last_updated": "2026-11-06T20:46:01.508662+00:00"
     },
     "developer-guide/model-provider-plugin.md": {
       "sha": "8a4dd97e6d32615ddcad4187938404c8884924f4",
       "last_updated": "2026-10-26T12:36:44.624256+00:00"
     },
     "developer-guide/plugin-llm-access.md": {
-      "sha": "d1ec91e8cb2e0512b7b962007680a63ca16fc7f9",
-      "last_updated": "2026-10-25T04:06:37.043838+00:00"
+      "sha": "0c2552778317d88a70921d61d4073852b2c65845",
+      "last_updated": "2026-11-06T20:46:02.195337+00:00"
     },
     "developer-guide/plugins/index.md": {
-      "sha": "4f374a68ccb5e08a197dcba9f210b2f53a830a3f",
-      "last_updated": "2026-11-06T05:57:07.881832+00:00"
+      "sha": "4d2e6955e00e6527951e142a1a4bad5922036ab1",
+      "last_updated": "2026-11-06T20:46:02.785661+00:00"
     },
     "developer-guide/programmatic-integration.md": {
-      "sha": "53501465c10100377a628c67d211bb4fc5cb2488",
-      "last_updated": "2026-10-23T11:20:19.163042+00:00"
+      "sha": "1e5cee65502be56f51c308341c3da53c3f177e3d",
+      "last_updated": "2026-11-06T20:46:03.569110+00:00"
     },
     "developer-guide/prompt-assembly.md": {
       "sha": "f51608d4bbb2a8a1c4693788bc52cc84df879c76",
@@ -341,8 +341,8 @@
       "last_updated": "2026-10-06T05:49:04.022980+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "f4aa3d1343f3c12c904ebe4f59ae3c0c887b8da0",
-      "last_updated": "2026-11-06T05:57:10.238373+00:00"
+      "sha": "8625a62939fb44e4bd362e8b23fbde3d17993492",
+      "last_updated": "2026-11-06T20:46:04.059519+00:00"
     },
     "reference/environment-variables.md": {
       "sha": "c69e09dd961cbcc4a76827fec58232c4e4628bb6",
@@ -373,8 +373,8 @@
       "last_updated": "2026-10-29T09:41:35.364451+00:00"
     },
     "reference/slash-commands.md": {
-      "sha": "36af38ebd0214d8855d0f5da30e29fc02e89ca7e",
-      "last_updated": "2026-11-05T17:14:14.957426+00:00"
+      "sha": "37787af596cfc6a8f7d4c70b63a658f3aca09f8c",
+      "last_updated": "2026-11-06T20:46:04.421695+00:00"
     },
     "reference/tools-reference.md": {
       "sha": "27f14469f6e14ba617e5c78133d29f2e6ade4362",
@@ -393,8 +393,8 @@
       "last_updated": "2026-11-06T14:07:02.770563+00:00"
     },
     "user-guide/cli.md": {
-      "sha": "a99a9b686f9530c8d0c1836d3eb16ddec5843c16",
-      "last_updated": "2026-11-05T17:14:15.688994+00:00"
+      "sha": "6aa707c11f469caec68d208454d3fb437c8c92fd",
+      "last_updated": "2026-11-06T20:46:05.321111+00:00"
     },
     "user-guide/configuration.md": {
       "sha": "dd05d4537eb79861a08e921177d77a52af9eda25",
@@ -509,8 +509,8 @@
       "last_updated": "2026-10-02T17:42:41.503417+00:00"
     },
     "user-guide/features/hooks.md": {
-      "sha": "cea0f7b4ac85b7cfc51b8aa81766e831bf40e525",
-      "last_updated": "2026-11-03T06:04:11.179000+00:00"
+      "sha": "2a4d4c312a5073299cc01a4f99f89ac7cd862481",
+      "last_updated": "2026-11-06T20:46:05.676063+00:00"
     },
     "user-guide/features/image-generation.md": {
       "sha": "8badf33d14f9fcb368d9f0d697264037cce38532",
@@ -1353,8 +1353,8 @@
       "last_updated": "2026-09-19T20:22:31.360878+00:00"
     },
     "user-guide/tui.md": {
-      "sha": "372671d2bdcddd9168101d0ab97f5d6036f6df70",
-      "last_updated": "2026-11-05T17:14:21.071211+00:00"
+      "sha": "9af6c5b2c233bba27d008cbbb2f241cae206a743",
+      "last_updated": "2026-11-06T20:46:06.028689+00:00"
     },
     "user-guide/which-file-does-what.md": {
       "sha": "6c9f21e31d1853ab695692f9037332bb4212844b",
@@ -1389,8 +1389,8 @@
       "last_updated": "2026-09-20T20:36:31.267388+00:00"
     },
     "user-guide/bot-mode.md": {
-      "sha": "b0f21a9d5083a5e1d8270a45a8bb4f87ac3bd3b4",
-      "last_updated": "2026-11-05T23:29:03.893562+00:00"
+      "sha": "8d1f5a5a8c127d4c1ac04b823e1bfdd9fe8ef09b",
+      "last_updated": "2026-11-06T20:46:04.759728+00:00"
     },
     "reference/cli-symbols.md": {
       "sha": "76d0fcd513551ad62992ffc06f63494b1ad2bed9",
@@ -1569,8 +1569,8 @@
       "last_updated": "2026-09-23T21:20:12.986041+00:00"
     },
     "developer-guide/middleware.md": {
-      "sha": "913a99e86e72e7207a7eee6a5166de7eceaef3ac",
-      "last_updated": "2026-09-30T00:14:21.798425+00:00"
+      "sha": "b4d4174acafaa82741c19791eed57c2b3466a2a4",
+      "last_updated": "2026-11-06T20:46:01.852436+00:00"
     },
     "developer-guide/multiplexing-gateway.md": {
       "sha": "73abddcc321440f4385b8978f113184473d7748f",
@@ -1769,11 +1769,11 @@
       "last_updated": "2026-11-05T17:14:14.194942+00:00"
     },
     "developer-guide/plugins/public-api.md": {
-      "sha": "89c16c17583e0d6d0c85b90aa3697b2b8e36731a",
-      "last_updated": "2026-11-06T05:57:08.283794+00:00"
+      "sha": "6bb29d23f772461ca13f734e125039cf7fa17ffa",
+      "last_updated": "2026-11-06T20:46:03.119997+00:00"
     }
   },
-  "last_updated": "2026-11-06T14:07:02.976532+00:00",
+  "last_updated": "2026-11-06T20:46:06.232880+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
