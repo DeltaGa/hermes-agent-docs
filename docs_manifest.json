@@ -49,8 +49,8 @@
       "last_updated": "2026-10-28T05:02:21.100711+00:00"
     },
     "developer-guide/contributing.md": {
-      "sha": "f8767accc25af8908b44f81778d013cc3934bc49",
-      "last_updated": "2026-10-23T11:20:16.245389+00:00"
+      "sha": "dbb5a1d8eaddc92a72a79d0c9c1e9de56b92dadf",
+      "last_updated": "2026-11-06T05:57:06.674062+00:00"
     },
     "developer-guide/creating-skills.md": {
       "sha": "f3dc99eb02f2563e485e11181af178a5932cb8c9",
@@ -61,8 +61,8 @@
       "last_updated": "2026-10-29T09:41:32.442731+00:00"
     },
     "developer-guide/desktop-plugin-sdk.md": {
-      "sha": "2d30cc7059aaac031f7368032067e49dcf4bd0c5",
-      "last_updated": "2026-10-29T00:41:26.779542+00:00"
+      "sha": "0ab244c5c57c9af878003a060dce8efe5c81a2a3",
+      "last_updated": "2026-11-06T05:57:07.122977+00:00"
     },
     "developer-guide/egress-internals.md": {
       "sha": "dde37d99ace8f900d6f23431db168637c191dda4",
@@ -81,8 +81,8 @@
       "last_updated": "2026-10-20T23:42:27.833193+00:00"
     },
     "developer-guide/memory-provider-plugin.md": {
-      "sha": "79d5eaec159bff09e26981fb552788f728191bdb",
-      "last_updated": "2026-11-05T17:14:13.831219+00:00"
+      "sha": "569f6131d2185b35fb3eb5048e80ad418a40b73e",
+      "last_updated": "2026-11-06T05:57:07.510337+00:00"
     },
     "developer-guide/model-provider-plugin.md": {
       "sha": "8a4dd97e6d32615ddcad4187938404c8884924f4",
@@ -93,8 +93,8 @@
       "last_updated": "2026-10-25T04:06:37.043838+00:00"
     },
     "developer-guide/plugins/index.md": {
-      "sha": "744df7b219bf944ad27791e18a28fc332bce7d81",
-      "last_updated": "2026-11-01T12:58:34.220906+00:00"
+      "sha": "4f374a68ccb5e08a197dcba9f210b2f53a830a3f",
+      "last_updated": "2026-11-06T05:57:07.881832+00:00"
     },
     "developer-guide/programmatic-integration.md": {
       "sha": "53501465c10100377a628c67d211bb4fc5cb2488",
@@ -137,24 +137,24 @@
       "last_updated": "2026-09-25T04:23:06.484286+00:00"
     },
     "developer-guide/worktree-ui-dev.md": {
-      "sha": "464365f642add12650147bd104236cc683f9d19e",
-      "last_updated": "2026-09-16T11:14:12.415235+00:00"
+      "sha": "4253c7a368f1668ea44259ff14e19b14a6a0364b",
+      "last_updated": "2026-11-06T05:57:09.093906+00:00"
     },
     "getting-started/_category_.json": {
       "sha": "e3fd17f7a356e0b23257f145182faffab67518b9",
       "last_updated": "2026-08-09T09:10:07.140471+00:00"
     },
     "getting-started/installation.md": {
-      "sha": "bd1a6539237d9daa6924369790b2b4873329c661",
-      "last_updated": "2026-10-30T09:47:23.971712+00:00"
+      "sha": "86d20858d488548a292fb62201d66d6bc4bb2508",
+      "last_updated": "2026-11-06T05:57:09.470638+00:00"
     },
     "getting-started/learning-path.md": {
       "sha": "6ddce59518667babf1122eb07d2f8b6836050fe0",
       "last_updated": "2026-09-18T23:08:36.921771+00:00"
     },
     "getting-started/nix-setup.md": {
-      "sha": "8e97f284b01b481a43507f639c56ed85b56c1cf1",
-      "last_updated": "2026-10-27T21:59:51.391663+00:00"
+      "sha": "3a1860db935225ab9b767ee717ff50a1aa8c1869",
+      "last_updated": "2026-11-06T05:57:09.857970+00:00"
     },
     "getting-started/platform-support.md": {
       "sha": "5db054f36bfb60cff54c193cdeca807433e0bcfa",
@@ -341,12 +341,12 @@
       "last_updated": "2026-10-06T05:49:04.022980+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "bd2430ae53089ee8bd35d53dc2119dcd6722147e",
-      "last_updated": "2026-11-04T21:10:25.222454+00:00"
+      "sha": "f4aa3d1343f3c12c904ebe4f59ae3c0c887b8da0",
+      "last_updated": "2026-11-06T05:57:10.238373+00:00"
     },
     "reference/environment-variables.md": {
-      "sha": "bbb2c14e9a823d562e6a94532c5337cd607d429a",
-      "last_updated": "2026-11-05T17:14:14.558909+00:00"
+      "sha": "c69e09dd961cbcc4a76827fec58232c4e4628bb6",
+      "last_updated": "2026-11-06T05:57:10.583491+00:00"
     },
     "reference/faq.md": {
       "sha": "a0d1d67d7a7c22808fec65f42bc4f5a3c04be6dc",
@@ -397,16 +397,16 @@
       "last_updated": "2026-11-05T17:14:15.688994+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "27f3c1065ee49fd3994525afe2d2f50b3eed05b1",
-      "last_updated": "2026-11-05T17:14:16.048059+00:00"
+      "sha": "dd05d4537eb79861a08e921177d77a52af9eda25",
+      "last_updated": "2026-11-06T05:57:16.496253+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "3e15fe3b8a97ddeaa7bfd996c3fd5f90849770d9",
       "last_updated": "2026-11-04T21:10:26.821566+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "531d510f2fb084504dc502b57b81db0228c3737e",
-      "last_updated": "2026-11-05T23:29:04.512817+00:00"
+      "sha": "56a871e09cfe2e38c0d9e068d0509910f8737928",
+      "last_updated": "2026-11-06T05:57:16.839490+00:00"
     },
     "user-guide/docker.md": {
       "sha": "0cb953d5475b597c940b73cb340e43932543d7e5",
@@ -489,8 +489,8 @@
       "last_updated": "2026-09-19T20:22:10.582777+00:00"
     },
     "user-guide/features/extending-the-dashboard.md": {
-      "sha": "1fafafd4e9d2cf55e8876128e3a765b5990c9623",
-      "last_updated": "2026-10-16T23:22:34.045850+00:00"
+      "sha": "8a671d4f26565e822e116a3b8d21ee8841fdeb96",
+      "last_updated": "2026-11-06T05:57:22.577867+00:00"
     },
     "user-guide/features/fallback-providers.md": {
       "sha": "b3130556342755fac31d458d0ad960ab7962b2f8",
@@ -561,8 +561,8 @@
       "last_updated": "2026-09-18T23:09:07.084598+00:00"
     },
     "user-guide/features/plugins.md": {
-      "sha": "ea6678d4c36c5616d13690aa953d43c90ddb1f0d",
-      "last_updated": "2026-11-05T17:14:17.139512+00:00"
+      "sha": "c1dc0b6d3785e00bf8002b2a15695149c2df1fa6",
+      "last_updated": "2026-11-06T05:57:22.995927+00:00"
     },
     "user-guide/features/provider-routing.md": {
       "sha": "6cb93cd855d7d334a958b25d386211f5345b75b3",
@@ -613,8 +613,8 @@
       "last_updated": "2026-09-25T04:23:19.154246+00:00"
     },
     "user-guide/features/web-dashboard.md": {
-      "sha": "03f82beedde4a3a7107c08189df60610022581c4",
-      "last_updated": "2026-11-02T21:35:45.650316+00:00"
+      "sha": "4434d031aa76f5e0aea130a8b6a8b3ce5f043829",
+      "last_updated": "2026-11-06T05:57:23.299350+00:00"
     },
     "user-guide/features/web-search.md": {
       "sha": "1288ee9e391d6030261ecdaa456021ed935d01af",
@@ -625,8 +625,8 @@
       "last_updated": "2026-09-18T23:09:11.211861+00:00"
     },
     "user-guide/git-worktrees.md": {
-      "sha": "96361e4920130c0f5360a0a560c4e1d29126cfdd",
-      "last_updated": "2026-10-28T05:02:23.912245+00:00"
+      "sha": "6b108b56ea0d6717c24f36973866bb19ed386809",
+      "last_updated": "2026-11-06T05:57:23.678120+00:00"
     },
     "user-guide/import-from-other-agents.md": {
       "sha": "1fdf9ed44a629a3a7e603df48b5d911145f4615e",
@@ -1649,8 +1649,8 @@
       "last_updated": "2026-09-25T04:23:04.575652+00:00"
     },
     "developer-guide/shared-bundle-builds.md": {
-      "sha": "b25603e5b99ffcec47b595341f959a6f1266dd1e",
-      "last_updated": "2026-11-03T06:04:09.819544+00:00"
+      "sha": "225a5024f7d739b6b19e9bc59996d2adf9aa4dd1",
+      "last_updated": "2026-11-06T05:57:08.680572+00:00"
     },
     "developer-guide/source-update-completion.md": {
       "sha": "cc093846ed301d265db6b031a0d5db4d4b2d6764",
@@ -1661,8 +1661,8 @@
       "last_updated": "2026-11-04T05:43:32.861048+00:00"
     },
     "reference/package-management.md": {
-      "sha": "c4e911940cb9eb9f8fc9b2205594157383950aaa",
-      "last_updated": "2026-11-03T16:55:00.394949+00:00"
+      "sha": "2537aed4cfd5bbe7c1a5f5f1288f7f2201b396c0",
+      "last_updated": "2026-11-06T05:57:16.095871+00:00"
     },
     "user-guide/switching-to-source.md": {
       "sha": "766782bed736ffa0bbb0ff70d3c46212547257a4",
@@ -1753,12 +1753,12 @@
       "last_updated": "2026-10-29T09:42:15.077859+00:00"
     },
     "user-guide/skills/optional/software-development/software-development-inspecting-hermes-desktop-dom.md": {
-      "sha": "5ae1f73c16e13d347429aea23eb8974e40898088",
-      "last_updated": "2026-10-29T09:42:15.415987+00:00"
+      "sha": "922c561dbc77c4f3fca8328f3d05acd65647a880",
+      "last_updated": "2026-11-06T05:57:24.082244+00:00"
     },
     "user-guide/skills/optional/software-development/software-development-node-inspect-debugger.md": {
-      "sha": "57bdc0cc3b3ff582d514b30c614704fad645b69b",
-      "last_updated": "2026-10-29T09:42:15.783449+00:00"
+      "sha": "b786dde6aa164259c5e491a092b7fca555088d6b",
+      "last_updated": "2026-11-06T05:57:29.790529+00:00"
     },
     "user-guide/skills/optional/software-development/software-development-python-debugpy.md": {
       "sha": "78c5b7ba50256b1f2667ad076d2648262bcad097",
@@ -1767,9 +1767,13 @@
     "getting-started/official-domains.md": {
       "sha": "00225df28f35ace1730223abad40a34b52986719",
       "last_updated": "2026-11-05T17:14:14.194942+00:00"
+    },
+    "developer-guide/plugins/public-api.md": {
+      "sha": "89c16c17583e0d6d0c85b90aa3697b2b8e36731a",
+      "last_updated": "2026-11-06T05:57:08.283794+00:00"
     }
   },
-  "last_updated": "2026-11-05T23:29:05.079811+00:00",
+  "last_updated": "2026-11-06T05:57:30.001038+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
