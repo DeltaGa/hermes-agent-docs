@@ -389,8 +389,8 @@
       "last_updated": "2026-08-09T09:10:22.209483+00:00"
     },
     "user-guide/checkpoints-and-rollback.md": {
-      "sha": "a08d5f54f66d1b5ca393440fdc25f3cde3db09c2",
-      "last_updated": "2026-11-05T23:29:04.179978+00:00"
+      "sha": "c25efd0e083748a9c4dba1b2718ee48a11898142",
+      "last_updated": "2026-11-06T14:07:02.770563+00:00"
     },
     "user-guide/cli.md": {
       "sha": "a99a9b686f9530c8d0c1836d3eb16ddec5843c16",
@@ -1773,7 +1773,7 @@
       "last_updated": "2026-11-06T05:57:08.283794+00:00"
     }
   },
-  "last_updated": "2026-11-06T05:57:30.001038+00:00",
+  "last_updated": "2026-11-06T14:07:02.976532+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
