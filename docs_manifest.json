@@ -49,8 +49,8 @@
       "last_updated": "2026-10-28T05:02:21.100711+00:00"
     },
     "developer-guide/contributing.md": {
-      "sha": "dbb5a1d8eaddc92a72a79d0c9c1e9de56b92dadf",
-      "last_updated": "2026-11-06T05:57:06.674062+00:00"
+      "sha": "1262d661121ab70f513a3cbb4f0f99abbf5b98e1",
+      "last_updated": "2026-11-07T00:46:35.856054+00:00"
     },
     "developer-guide/creating-skills.md": {
       "sha": "f3dc99eb02f2563e485e11181af178a5932cb8c9",
@@ -405,8 +405,8 @@
       "last_updated": "2026-11-04T21:10:26.821566+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "56a871e09cfe2e38c0d9e068d0509910f8737928",
-      "last_updated": "2026-11-06T05:57:16.839490+00:00"
+      "sha": "2e8e670141fed42891f246b26cdce1d2fd1d319f",
+      "last_updated": "2026-11-07T00:46:36.730793+00:00"
     },
     "user-guide/docker.md": {
       "sha": "0cb953d5475b597c940b73cb340e43932543d7e5",
@@ -1661,8 +1661,8 @@
       "last_updated": "2026-11-04T05:43:32.861048+00:00"
     },
     "reference/package-management.md": {
-      "sha": "2537aed4cfd5bbe7c1a5f5f1288f7f2201b396c0",
-      "last_updated": "2026-11-06T05:57:16.095871+00:00"
+      "sha": "8f7cf03c7e5fe4e747662f03eb3be94c079d2d28",
+      "last_updated": "2026-11-07T00:46:36.366050+00:00"
     },
     "user-guide/switching-to-source.md": {
       "sha": "766782bed736ffa0bbb0ff70d3c46212547257a4",
@@ -1773,7 +1773,7 @@
       "last_updated": "2026-11-06T20:46:03.119997+00:00"
     }
   },
-  "last_updated": "2026-11-06T20:46:06.232880+00:00",
+  "last_updated": "2026-11-07T00:46:36.936515+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
