@@ -25,8 +25,8 @@
       "last_updated": "2026-11-04T21:10:23.202188+00:00"
     },
     "developer-guide/architecture.md": {
-      "sha": "0fd7f080823a1a52df6a44a6142ed79246e2d7f4",
-      "last_updated": "2026-11-05T23:29:02.909466+00:00"
+      "sha": "23ce42e2ef917de017fcb1638e59488479538368",
+      "last_updated": "2026-11-07T09:48:52.512796+00:00"
     },
     "developer-guide/browser-provider-plugin.md": {
       "sha": "72a1a342ca0db2f505a9cbadb552a235a4375f35",
@@ -73,32 +73,32 @@
       "last_updated": "2026-09-25T04:22:59.917100+00:00"
     },
     "developer-guide/gateway-internals.md": {
-      "sha": "ed0b18c76d69eb0cd7a04c2989e99dafe2a07bdc",
-      "last_updated": "2026-11-06T20:46:01.187281+00:00"
+      "sha": "d5dbff3985ed556b0529244291b9ddd7eca24e94",
+      "last_updated": "2026-11-07T09:48:52.799978+00:00"
     },
     "developer-guide/image-gen-provider-plugin.md": {
       "sha": "6b1edf902f79e6cae58b4ce525c56226caabb587",
       "last_updated": "2026-10-20T23:42:27.833193+00:00"
     },
     "developer-guide/memory-provider-plugin.md": {
-      "sha": "74cadc7b025e74a4598f155f825523346f975687",
-      "last_updated": "2026-11-06T20:46:01.508662+00:00"
+      "sha": "06b603e98ba3af7fcbc0edc08189a598f0b9ba5a",
+      "last_updated": "2026-11-07T09:48:53.372655+00:00"
     },
     "developer-guide/model-provider-plugin.md": {
       "sha": "8a4dd97e6d32615ddcad4187938404c8884924f4",
       "last_updated": "2026-10-26T12:36:44.624256+00:00"
     },
     "developer-guide/plugin-llm-access.md": {
-      "sha": "0c2552778317d88a70921d61d4073852b2c65845",
-      "last_updated": "2026-11-06T20:46:02.195337+00:00"
+      "sha": "22efc71c202d0c17caf0346a10d1c2186b76f36a",
+      "last_updated": "2026-11-07T09:48:53.660802+00:00"
     },
     "developer-guide/plugins/index.md": {
-      "sha": "4d2e6955e00e6527951e142a1a4bad5922036ab1",
-      "last_updated": "2026-11-06T20:46:02.785661+00:00"
+      "sha": "ef2ebbb0d29ccb94db3e36e0c6db2f6aa3f3af93",
+      "last_updated": "2026-11-07T09:48:53.959875+00:00"
     },
     "developer-guide/programmatic-integration.md": {
-      "sha": "1e5cee65502be56f51c308341c3da53c3f177e3d",
-      "last_updated": "2026-11-06T20:46:03.569110+00:00"
+      "sha": "a62754a5fbee6079e02a768cbdc4a281ef44baba",
+      "last_updated": "2026-11-07T09:48:54.505332+00:00"
     },
     "developer-guide/prompt-assembly.md": {
       "sha": "f51608d4bbb2a8a1c4693788bc52cc84df879c76",
@@ -113,8 +113,8 @@
       "last_updated": "2026-09-18T23:08:34.749928+00:00"
     },
     "developer-guide/session-storage.md": {
-      "sha": "d3a6c86141a2791464d963df151d4fcf90a432ea",
-      "last_updated": "2026-10-14T21:28:17.397059+00:00"
+      "sha": "9a7589ada870811671d770407f6c524aac182030",
+      "last_updated": "2026-11-07T09:48:54.808889+00:00"
     },
     "developer-guide/subagent-lifecycle-api.md": {
       "sha": "56d9388d0758835e59fd2dfed714764d42c8003e",
@@ -153,8 +153,8 @@
       "last_updated": "2026-09-18T23:08:36.921771+00:00"
     },
     "getting-started/nix-setup.md": {
-      "sha": "3a1860db935225ab9b767ee717ff50a1aa8c1869",
-      "last_updated": "2026-11-06T05:57:09.857970+00:00"
+      "sha": "64fe44b68f3e80fd2fad112f1c895f802b0149f4",
+      "last_updated": "2026-11-07T09:48:55.400238+00:00"
     },
     "getting-started/platform-support.md": {
       "sha": "5db054f36bfb60cff54c193cdeca807433e0bcfa",
@@ -169,8 +169,8 @@
       "last_updated": "2026-10-23T11:20:21.882796+00:00"
     },
     "getting-started/updating.md": {
-      "sha": "44a3fc0203ea1e2d287db9e4524dec0851bb2d07",
-      "last_updated": "2026-11-03T16:55:00.050255+00:00"
+      "sha": "34ab1dbf9f40d557b121a3bcc79242d4c252dd85",
+      "last_updated": "2026-11-07T09:48:55.698527+00:00"
     },
     "guides/_category_.json": {
       "sha": "6d1d2f0b9ec098f749715dd4deebc4d4b753b610",
@@ -341,8 +341,8 @@
       "last_updated": "2026-10-06T05:49:04.022980+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "8625a62939fb44e4bd362e8b23fbde3d17993492",
-      "last_updated": "2026-11-06T20:46:04.059519+00:00"
+      "sha": "da6f622ced28538b2c0abab1c9d8fd063653be57",
+      "last_updated": "2026-11-07T09:48:55.985130+00:00"
     },
     "reference/environment-variables.md": {
       "sha": "c69e09dd961cbcc4a76827fec58232c4e4628bb6",
@@ -361,8 +361,8 @@
       "last_updated": "2026-10-26T04:10:29.841555+00:00"
     },
     "reference/optional-skills-catalog.md": {
-      "sha": "23b4ab1671b5b956c41ae83b4efc50d3ba6d4a16",
-      "last_updated": "2026-11-03T23:03:56.593682+00:00"
+      "sha": "2fa9b830239578e2191035bee890ba55363fd38f",
+      "last_updated": "2026-11-07T09:48:56.270356+00:00"
     },
     "reference/profile-commands.md": {
       "sha": "7baf4a26a3e2e5bea9659f447f18537ed47895c3",
@@ -377,12 +377,12 @@
       "last_updated": "2026-11-06T20:46:04.421695+00:00"
     },
     "reference/tools-reference.md": {
-      "sha": "27f14469f6e14ba617e5c78133d29f2e6ade4362",
-      "last_updated": "2026-10-23T11:20:25.857139+00:00"
+      "sha": "49d01eabbc844f52d31fda378a10dcb8a78c71bd",
+      "last_updated": "2026-11-07T09:48:56.851766+00:00"
     },
     "reference/toolsets-reference.md": {
-      "sha": "4173fd7ec6ffe38de04b1589166a7aa115750a06",
-      "last_updated": "2026-10-23T11:20:26.831261+00:00"
+      "sha": "e6e4c508cacb6cfcf3277f6dec2636f41b8118f4",
+      "last_updated": "2026-11-07T09:48:57.131681+00:00"
     },
     "user-guide/_category_.json": {
       "sha": "7911fa56fec15dafb51ceb520070a85fadf7addc",
@@ -405,8 +405,8 @@
       "last_updated": "2026-11-04T21:10:26.821566+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "2e8e670141fed42891f246b26cdce1d2fd1d319f",
-      "last_updated": "2026-11-07T00:46:36.730793+00:00"
+      "sha": "cf5b9f468b708b0b48217744665b584ccc2aeb44",
+      "last_updated": "2026-11-07T09:48:57.415583+00:00"
     },
     "user-guide/docker.md": {
       "sha": "0cb953d5475b597c940b73cb340e43932543d7e5",
@@ -509,8 +509,8 @@
       "last_updated": "2026-10-02T17:42:41.503417+00:00"
     },
     "user-guide/features/hooks.md": {
-      "sha": "2a4d4c312a5073299cc01a4f99f89ac7cd862481",
-      "last_updated": "2026-11-06T20:46:05.676063+00:00"
+      "sha": "8545fc02750397c135ea549f934af8aff10e99ad",
+      "last_updated": "2026-11-07T09:48:57.981418+00:00"
     },
     "user-guide/features/image-generation.md": {
       "sha": "8badf33d14f9fcb368d9f0d697264037cce38532",
@@ -561,8 +561,8 @@
       "last_updated": "2026-09-18T23:09:07.084598+00:00"
     },
     "user-guide/features/plugins.md": {
-      "sha": "c1dc0b6d3785e00bf8002b2a15695149c2df1fa6",
-      "last_updated": "2026-11-06T05:57:22.995927+00:00"
+      "sha": "115af2b389c74fca9586a5868da04f9477e9f334",
+      "last_updated": "2026-11-07T09:48:58.262391+00:00"
     },
     "user-guide/features/provider-routing.md": {
       "sha": "6cb93cd855d7d334a958b25d386211f5345b75b3",
@@ -613,8 +613,8 @@
       "last_updated": "2026-09-25T04:23:19.154246+00:00"
     },
     "user-guide/features/web-dashboard.md": {
-      "sha": "4434d031aa76f5e0aea130a8b6a8b3ce5f043829",
-      "last_updated": "2026-11-06T05:57:23.299350+00:00"
+      "sha": "2478c7e07d6b3684f0224d8dc7437a97c4a32642",
+      "last_updated": "2026-11-07T09:48:58.556390+00:00"
     },
     "user-guide/features/web-search.md": {
       "sha": "1288ee9e391d6030261ecdaa456021ed935d01af",
@@ -677,8 +677,8 @@
       "last_updated": "2026-10-11T05:08:54.673849+00:00"
     },
     "user-guide/messaging/index.md": {
-      "sha": "127c17bc060eac4158d7122160a021592bbfd1af",
-      "last_updated": "2026-11-05T17:14:18.586430+00:00"
+      "sha": "c496af4714295def2c80c9638c296dc950764f70",
+      "last_updated": "2026-11-07T09:48:58.848229+00:00"
     },
     "user-guide/messaging/irc.md": {
       "sha": "4fd21061621fc5e44a64222b7813561b41b28dd9",
@@ -777,12 +777,12 @@
       "last_updated": "2026-10-29T09:41:41.391700+00:00"
     },
     "user-guide/messaging/yuanbao.md": {
-      "sha": "e85b9da27673cdd2b662ac52ac313f9d15ac285c",
-      "last_updated": "2026-09-25T04:23:24.277812+00:00"
+      "sha": "bd81fa960564820984a26d509c9401a9b1b488ea",
+      "last_updated": "2026-11-07T09:48:59.134183+00:00"
     },
     "user-guide/multi-profile-gateways.md": {
-      "sha": "8de2f29d51be8dc4076d662c0f6320932261e8d2",
-      "last_updated": "2026-11-05T17:14:19.705300+00:00"
+      "sha": "88744e0b9a7f1a9730d5e3b01819a16dbeedfcee",
+      "last_updated": "2026-11-07T09:48:59.454857+00:00"
     },
     "user-guide/profile-distributions.md": {
       "sha": "a041d507f13902861be331f977cf52945a6c1e1b",
@@ -1348,10 +1348,6 @@
       "sha": "c9292e5937491897ce985eadec5b1098b926b811",
       "last_updated": "2026-10-23T11:21:02.670386+00:00"
     },
-    "user-guide/skills/optional/yuanbao/yuanbao-yuanbao.md": {
-      "sha": "d9f18746c28ed43f318473dc1d93b4de0abd7f5c",
-      "last_updated": "2026-09-19T20:22:31.360878+00:00"
-    },
     "user-guide/tui.md": {
       "sha": "9af6c5b2c233bba27d008cbbb2f241cae206a743",
       "last_updated": "2026-11-06T20:46:06.028689+00:00"
@@ -1521,8 +1517,8 @@
       "last_updated": "2026-10-23T11:20:33.132898+00:00"
     },
     "user-guide/features/credential-vault.md": {
-      "sha": "b023c8c7953e0aefab46140487df83a6ca1928f6",
-      "last_updated": "2026-10-29T09:41:38.118954+00:00"
+      "sha": "1ff5f89eb4d08f12455fb173d7cd3cec76918067",
+      "last_updated": "2026-11-07T09:48:57.706425+00:00"
     },
     "user-guide/skills/optional/creative/creative-archify.md": {
       "sha": "aaca38c574ae1c32ca70b31baa2ae17fedd61e3a",
@@ -1653,16 +1649,16 @@
       "last_updated": "2026-11-06T05:57:08.680572+00:00"
     },
     "developer-guide/source-update-completion.md": {
-      "sha": "cc093846ed301d265db6b031a0d5db4d4b2d6764",
-      "last_updated": "2026-10-06T20:06:29.732929+00:00"
+      "sha": "d5343d1afc456f8b9a3b26f9611b0bd266a338aa",
+      "last_updated": "2026-11-07T09:48:55.111328+00:00"
     },
     "developer-guide/stable-releases.md": {
       "sha": "4c68bc8749687642a62afd1c0d92a55d4d2ae23e",
       "last_updated": "2026-11-04T05:43:32.861048+00:00"
     },
     "reference/package-management.md": {
-      "sha": "8f7cf03c7e5fe4e747662f03eb3be94c079d2d28",
-      "last_updated": "2026-11-07T00:46:36.366050+00:00"
+      "sha": "28badcf8624aa21aa0edad4dba983a85b6a0741b",
+      "last_updated": "2026-11-07T09:48:56.567442+00:00"
     },
     "user-guide/switching-to-source.md": {
       "sha": "766782bed736ffa0bbb0ff70d3c46212547257a4",
@@ -1697,8 +1693,8 @@
       "last_updated": "2026-11-05T17:14:13.436175+00:00"
     },
     "developer-guide/gateway-local-sessions.md": {
-      "sha": "78536116f642bd9fcdc0aa88beb9fff96bf9e893",
-      "last_updated": "2026-11-05T23:29:03.590221+00:00"
+      "sha": "fd2bed5ed9b0bde232d31cf50b8f98003ccb6972",
+      "last_updated": "2026-11-07T09:48:53.075673+00:00"
     },
     "developer-guide/hosted-profile-owners.md": {
       "sha": "576f9745b3663c60aa16190f2af713fd72337cf7",
@@ -1769,11 +1765,11 @@
       "last_updated": "2026-11-05T17:14:14.194942+00:00"
     },
     "developer-guide/plugins/public-api.md": {
-      "sha": "6bb29d23f772461ca13f734e125039cf7fa17ffa",
-      "last_updated": "2026-11-06T20:46:03.119997+00:00"
+      "sha": "0e68213f3d7c0e9bc1f42857889dbdd8bb3bb162",
+      "last_updated": "2026-11-07T09:48:54.232458+00:00"
     }
   },
-  "last_updated": "2026-11-07T00:46:36.936515+00:00",
+  "last_updated": "2026-11-07T09:48:59.663806+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
