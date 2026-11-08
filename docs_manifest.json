@@ -773,8 +773,8 @@
       "last_updated": "2026-10-02T00:36:54.422396+00:00"
     },
     "user-guide/messaging/whatsapp.md": {
-      "sha": "fd69d7af519f7e723a5dd85417622764520290c8",
-      "last_updated": "2026-10-29T09:41:41.391700+00:00"
+      "sha": "8cd39a5f12c33b4f2ca45b3245dde5fa1f628e23",
+      "last_updated": "2026-11-08T13:03:13.914387+00:00"
     },
     "user-guide/messaging/yuanbao.md": {
       "sha": "bd81fa960564820984a26d509c9401a9b1b488ea",
@@ -1769,7 +1769,7 @@
       "last_updated": "2026-11-07T09:48:54.232458+00:00"
     }
   },
-  "last_updated": "2026-11-08T05:28:52.169312+00:00",
+  "last_updated": "2026-11-08T13:03:14.123095+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
