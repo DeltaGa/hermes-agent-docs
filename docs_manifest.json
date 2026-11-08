@@ -49,8 +49,8 @@
       "last_updated": "2026-10-28T05:02:21.100711+00:00"
     },
     "developer-guide/contributing.md": {
-      "sha": "1262d661121ab70f513a3cbb4f0f99abbf5b98e1",
-      "last_updated": "2026-11-07T00:46:35.856054+00:00"
+      "sha": "c1efc2277e9254e4f67f57d037430304b0ef8cc5",
+      "last_updated": "2026-11-08T05:28:49.848186+00:00"
     },
     "developer-guide/creating-skills.md": {
       "sha": "f3dc99eb02f2563e485e11181af178a5932cb8c9",
@@ -165,8 +165,8 @@
       "last_updated": "2026-10-26T12:36:46.287813+00:00"
     },
     "getting-started/termux.md": {
-      "sha": "4862ec51f6aff832b7739756898a0a5394c945bf",
-      "last_updated": "2026-10-23T11:20:21.882796+00:00"
+      "sha": "69d3f0b6c32fafc48c48566553d5886c24fcff9c",
+      "last_updated": "2026-11-08T05:28:50.143302+00:00"
     },
     "getting-started/updating.md": {
       "sha": "34ab1dbf9f40d557b121a3bcc79242d4c252dd85",
@@ -397,16 +397,16 @@
       "last_updated": "2026-11-06T20:46:05.321111+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "dd05d4537eb79861a08e921177d77a52af9eda25",
-      "last_updated": "2026-11-06T05:57:16.496253+00:00"
+      "sha": "de5b4568ba07540cc7e50ebe42ba7d8d50887015",
+      "last_updated": "2026-11-08T05:28:50.770399+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "3e15fe3b8a97ddeaa7bfd996c3fd5f90849770d9",
       "last_updated": "2026-11-04T21:10:26.821566+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "054e3648aa787dc24624b1499b76366c42a61092",
-      "last_updated": "2026-11-07T21:39:04.004100+00:00"
+      "sha": "3cf43f3f14afd51ba2a2e29b6ce81244a6904cb7",
+      "last_updated": "2026-11-08T05:28:51.068370+00:00"
     },
     "user-guide/docker.md": {
       "sha": "0cb953d5475b597c940b73cb340e43932543d7e5",
@@ -657,8 +657,8 @@
       "last_updated": "2026-09-25T04:23:20.353108+00:00"
     },
     "user-guide/messaging/discord.md": {
-      "sha": "87b45133c7674cc4383e5fae704146116ce81710",
-      "last_updated": "2026-10-28T12:28:56.179570+00:00"
+      "sha": "6b43a4aa29ae3883a89c80ecd19883dacf08728a",
+      "last_updated": "2026-11-08T05:28:51.361150+00:00"
     },
     "user-guide/messaging/email.md": {
       "sha": "37b3cced272b71a2994d882633001ba5c9df6b1a",
@@ -749,8 +749,8 @@
       "last_updated": "2026-09-25T04:23:23.100902+00:00"
     },
     "user-guide/messaging/telegram.md": {
-      "sha": "a26226ad9fa79e90d2cc1a6ae3ea599a482ef028",
-      "last_updated": "2026-11-05T17:14:19.336371+00:00"
+      "sha": "3c49c5e8f9f1d12d3e7f061612fac61dcca3fac5",
+      "last_updated": "2026-11-08T05:28:51.657080+00:00"
     },
     "user-guide/messaging/webhooks.md": {
       "sha": "bc413bfe35981156f60fc0a472426d84ad4a1a5f",
@@ -1373,8 +1373,8 @@
       "last_updated": "2026-10-15T16:41:49.958759+00:00"
     },
     "user-guide/multi-connection-desktop.md": {
-      "sha": "36482854a3d1f206496ef8bca0d306323b2e59bb",
-      "last_updated": "2026-11-02T00:27:47.530324+00:00"
+      "sha": "c1bf02e9de3ef92cb9811dd8900cf1d2bdacd290",
+      "last_updated": "2026-11-08T05:28:51.961057+00:00"
     },
     "user-guide/skills/optional/creative/creative-draw-your-font.md": {
       "sha": "a55080b1a2d39f51d2cb8a0f5ab649e4071325d2",
@@ -1657,8 +1657,8 @@
       "last_updated": "2026-11-04T05:43:32.861048+00:00"
     },
     "reference/package-management.md": {
-      "sha": "28badcf8624aa21aa0edad4dba983a85b6a0741b",
-      "last_updated": "2026-11-07T09:48:56.567442+00:00"
+      "sha": "cd3dc09283646ca6e3bd6fc69db9e791e532a546",
+      "last_updated": "2026-11-08T05:28:50.463162+00:00"
     },
     "user-guide/switching-to-source.md": {
       "sha": "766782bed736ffa0bbb0ff70d3c46212547257a4",
@@ -1769,7 +1769,7 @@
       "last_updated": "2026-11-07T09:48:54.232458+00:00"
     }
   },
-  "last_updated": "2026-11-07T21:39:04.548554+00:00",
+  "last_updated": "2026-11-08T05:28:52.169312+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
