@@ -9,8 +9,8 @@
       "last_updated": "2026-10-14T21:28:12.912343+00:00"
     },
     "developer-guide/adding-platform-adapters.md": {
-      "sha": "8acb17d89767e67b0616a6faff31b9b4b80f5f59",
-      "last_updated": "2026-11-05T17:14:13.072490+00:00"
+      "sha": "7a110475f51183edfa0c7a86e117569cb3ab13a7",
+      "last_updated": "2026-11-09T11:10:31.557126+00:00"
     },
     "developer-guide/adding-providers.md": {
       "sha": "542f8ff34de36680dacbc127b649603b3320621a",
@@ -93,8 +93,8 @@
       "last_updated": "2026-11-07T09:48:53.660802+00:00"
     },
     "developer-guide/plugins/index.md": {
-      "sha": "14d2073d721a1185f4d3ffb996d483d9a7694116",
-      "last_updated": "2026-11-09T00:40:08.568449+00:00"
+      "sha": "dcbc411cfddad033dc82350dbdb278e50122d7ab",
+      "last_updated": "2026-11-09T11:10:32.085007+00:00"
     },
     "developer-guide/programmatic-integration.md": {
       "sha": "a62754a5fbee6079e02a768cbdc4a281ef44baba",
@@ -153,8 +153,8 @@
       "last_updated": "2026-09-18T23:08:36.921771+00:00"
     },
     "getting-started/nix-setup.md": {
-      "sha": "64fe44b68f3e80fd2fad112f1c895f802b0149f4",
-      "last_updated": "2026-11-07T09:48:55.400238+00:00"
+      "sha": "ccff056839e8758d029d0e554c9a389f4bf4f1ec",
+      "last_updated": "2026-11-09T11:10:35.853831+00:00"
     },
     "getting-started/platform-support.md": {
       "sha": "5db054f36bfb60cff54c193cdeca807433e0bcfa",
@@ -749,8 +749,8 @@
       "last_updated": "2026-09-25T04:23:23.100902+00:00"
     },
     "user-guide/messaging/telegram.md": {
-      "sha": "3c49c5e8f9f1d12d3e7f061612fac61dcca3fac5",
-      "last_updated": "2026-11-08T05:28:51.657080+00:00"
+      "sha": "7a4ea58165736fad08d93ba255e6e54d6c762f72",
+      "last_updated": "2026-11-09T11:10:36.487649+00:00"
     },
     "user-guide/messaging/webhooks.md": {
       "sha": "bc413bfe35981156f60fc0a472426d84ad4a1a5f",
@@ -809,8 +809,8 @@
       "last_updated": "2026-10-31T04:57:35.258039+00:00"
     },
     "user-guide/security.md": {
-      "sha": "1aaf5031de0e95a54b06ab33cc513c6a1f1fc2f5",
-      "last_updated": "2026-11-04T14:07:09.839774+00:00"
+      "sha": "f30125fb2ff5e90755c073b704a97e0bfb620e28",
+      "last_updated": "2026-11-09T11:10:36.839843+00:00"
     },
     "user-guide/sessions.md": {
       "sha": "03d8eb59d99e97d786667f3f85c14e02a9873d5d",
@@ -1577,8 +1577,8 @@
       "last_updated": "2026-11-01T12:58:33.848126+00:00"
     },
     "developer-guide/relay-connector-contract.md": {
-      "sha": "45e831ecef85a5d0d6c51ed7493acdfc8dee5be2",
-      "last_updated": "2026-10-16T23:22:31.496470+00:00"
+      "sha": "38e7cd1a55dbf60cc089a080319fd2275293af61",
+      "last_updated": "2026-11-09T11:10:33.243466+00:00"
     },
     "developer-guide/relay-shared-metrics.md": {
       "sha": "99773172dbc84db5fdd8c45473780943558ef885",
@@ -1765,11 +1765,11 @@
       "last_updated": "2026-11-05T17:14:14.194942+00:00"
     },
     "developer-guide/plugins/public-api.md": {
-      "sha": "0e68213f3d7c0e9bc1f42857889dbdd8bb3bb162",
-      "last_updated": "2026-11-07T09:48:54.232458+00:00"
+      "sha": "b9b87fb512ea1ccd0f9ebb356d065981c370541e",
+      "last_updated": "2026-11-09T11:10:32.688993+00:00"
     }
   },
-  "last_updated": "2026-11-09T00:40:09.996236+00:00",
+  "last_updated": "2026-11-09T11:10:37.046311+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
