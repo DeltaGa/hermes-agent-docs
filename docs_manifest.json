@@ -49,8 +49,8 @@
       "last_updated": "2026-10-28T05:02:21.100711+00:00"
     },
     "developer-guide/contributing.md": {
-      "sha": "c1efc2277e9254e4f67f57d037430304b0ef8cc5",
-      "last_updated": "2026-11-08T05:28:49.848186+00:00"
+      "sha": "f5d4ee14521d5cfa81e8a6a1fe2de4a74e739fc9",
+      "last_updated": "2026-11-09T22:09:08.163966+00:00"
     },
     "developer-guide/creating-skills.md": {
       "sha": "f3dc99eb02f2563e485e11181af178a5932cb8c9",
@@ -537,8 +537,8 @@
       "last_updated": "2026-10-24T04:04:38.133752+00:00"
     },
     "user-guide/features/memory-providers.md": {
-      "sha": "4b3ddea5ffa0f2db6589362e1c861896b914c536",
-      "last_updated": "2026-10-11T05:08:53.482506+00:00"
+      "sha": "c9274add900e067818127e3f631e278b748478f2",
+      "last_updated": "2026-11-09T22:09:09.377886+00:00"
     },
     "user-guide/features/memory.md": {
       "sha": "3bde00ee5eeebdf1a6aa8133d9e82c7d9c69cf79",
@@ -677,8 +677,8 @@
       "last_updated": "2026-10-11T05:08:54.673849+00:00"
     },
     "user-guide/messaging/index.md": {
-      "sha": "c496af4714295def2c80c9638c296dc950764f70",
-      "last_updated": "2026-11-07T09:48:58.848229+00:00"
+      "sha": "a58252807728ef0017b33282d3ae5b31162982b9",
+      "last_updated": "2026-11-09T22:09:09.838958+00:00"
     },
     "user-guide/messaging/irc.md": {
       "sha": "4fd21061621fc5e44a64222b7813561b41b28dd9",
@@ -749,8 +749,8 @@
       "last_updated": "2026-09-25T04:23:23.100902+00:00"
     },
     "user-guide/messaging/telegram.md": {
-      "sha": "7a4ea58165736fad08d93ba255e6e54d6c762f72",
-      "last_updated": "2026-11-09T11:10:36.487649+00:00"
+      "sha": "9f1b102bee73807f736a0f519038c5f6a69e57f5",
+      "last_updated": "2026-11-09T22:09:10.227321+00:00"
     },
     "user-guide/messaging/webhooks.md": {
       "sha": "bc413bfe35981156f60fc0a472426d84ad4a1a5f",
@@ -789,8 +789,8 @@
       "last_updated": "2026-10-04T12:05:57.393598+00:00"
     },
     "user-guide/profiles.md": {
-      "sha": "c6337a6cf87d6fc9616f237906f1756f9f0e2203",
-      "last_updated": "2026-11-05T17:14:19.962821+00:00"
+      "sha": "d90f1e635c99b5ab87a29fa6b635fa4af50ce7b5",
+      "last_updated": "2026-11-09T22:09:10.595985+00:00"
     },
     "user-guide/secrets/bitwarden.md": {
       "sha": "21c56606391c986077f49f53e598996b955f1afb",
@@ -1657,8 +1657,8 @@
       "last_updated": "2026-11-04T05:43:32.861048+00:00"
     },
     "reference/package-management.md": {
-      "sha": "cd3dc09283646ca6e3bd6fc69db9e791e532a546",
-      "last_updated": "2026-11-08T05:28:50.463162+00:00"
+      "sha": "cbd03ca376102a6cf968ddbfce634001f9311a29",
+      "last_updated": "2026-11-09T22:09:08.884140+00:00"
     },
     "user-guide/switching-to-source.md": {
       "sha": "766782bed736ffa0bbb0ff70d3c46212547257a4",
@@ -1769,7 +1769,7 @@
       "last_updated": "2026-11-09T11:10:32.688993+00:00"
     }
   },
-  "last_updated": "2026-11-09T11:10:37.046311+00:00",
+  "last_updated": "2026-11-09T22:09:10.803296+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
