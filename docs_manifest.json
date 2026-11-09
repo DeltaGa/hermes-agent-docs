@@ -93,8 +93,8 @@
       "last_updated": "2026-11-07T09:48:53.660802+00:00"
     },
     "developer-guide/plugins/index.md": {
-      "sha": "ef2ebbb0d29ccb94db3e36e0c6db2f6aa3f3af93",
-      "last_updated": "2026-11-07T09:48:53.959875+00:00"
+      "sha": "14d2073d721a1185f4d3ffb996d483d9a7694116",
+      "last_updated": "2026-11-09T00:40:08.568449+00:00"
     },
     "developer-guide/programmatic-integration.md": {
       "sha": "a62754a5fbee6079e02a768cbdc4a281ef44baba",
@@ -509,8 +509,8 @@
       "last_updated": "2026-10-02T17:42:41.503417+00:00"
     },
     "user-guide/features/hooks.md": {
-      "sha": "8545fc02750397c135ea549f934af8aff10e99ad",
-      "last_updated": "2026-11-07T09:48:57.981418+00:00"
+      "sha": "c867d976e8f12fb2d52052b451012c098a42e7ee",
+      "last_updated": "2026-11-09T00:40:09.300893+00:00"
     },
     "user-guide/features/image-generation.md": {
       "sha": "8badf33d14f9fcb368d9f0d697264037cce38532",
@@ -561,8 +561,8 @@
       "last_updated": "2026-09-18T23:09:07.084598+00:00"
     },
     "user-guide/features/plugins.md": {
-      "sha": "115af2b389c74fca9586a5868da04f9477e9f334",
-      "last_updated": "2026-11-07T09:48:58.262391+00:00"
+      "sha": "a251c80661ff40aabe95682708c07e7ebfe60342",
+      "last_updated": "2026-11-09T00:40:09.789279+00:00"
     },
     "user-guide/features/provider-routing.md": {
       "sha": "6cb93cd855d7d334a958b25d386211f5345b75b3",
@@ -1769,7 +1769,7 @@
       "last_updated": "2026-11-07T09:48:54.232458+00:00"
     }
   },
-  "last_updated": "2026-11-08T13:03:14.123095+00:00",
+  "last_updated": "2026-11-09T00:40:09.996236+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
