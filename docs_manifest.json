@@ -9,8 +9,8 @@
       "last_updated": "2026-10-14T21:28:12.912343+00:00"
     },
     "developer-guide/adding-platform-adapters.md": {
-      "sha": "7a110475f51183edfa0c7a86e117569cb3ab13a7",
-      "last_updated": "2026-11-09T11:10:31.557126+00:00"
+      "sha": "219f0d4efd159f321a67b4a8ce81cf826c283391",
+      "last_updated": "2026-11-10T06:48:44.326785+00:00"
     },
     "developer-guide/adding-providers.md": {
       "sha": "542f8ff34de36680dacbc127b649603b3320621a",
@@ -93,8 +93,8 @@
       "last_updated": "2026-11-07T09:48:53.660802+00:00"
     },
     "developer-guide/plugins/index.md": {
-      "sha": "dcbc411cfddad033dc82350dbdb278e50122d7ab",
-      "last_updated": "2026-11-09T11:10:32.085007+00:00"
+      "sha": "5a60af1708dbcb0c461b33e5ace7af951c7ef868",
+      "last_updated": "2026-11-10T06:48:45.918767+00:00"
     },
     "developer-guide/programmatic-integration.md": {
       "sha": "a62754a5fbee6079e02a768cbdc4a281ef44baba",
@@ -345,8 +345,8 @@
       "last_updated": "2026-11-07T09:48:55.985130+00:00"
     },
     "reference/environment-variables.md": {
-      "sha": "c69e09dd961cbcc4a76827fec58232c4e4628bb6",
-      "last_updated": "2026-11-06T05:57:10.583491+00:00"
+      "sha": "4649be4ed11475187f310ce97fe5f34c33d71d48",
+      "last_updated": "2026-11-10T06:48:47.173305+00:00"
     },
     "reference/faq.md": {
       "sha": "a0d1d67d7a7c22808fec65f42bc4f5a3c04be6dc",
@@ -489,8 +489,8 @@
       "last_updated": "2026-09-19T20:22:10.582777+00:00"
     },
     "user-guide/features/extending-the-dashboard.md": {
-      "sha": "8a671d4f26565e822e116a3b8d21ee8841fdeb96",
-      "last_updated": "2026-11-06T05:57:22.577867+00:00"
+      "sha": "51d8ab83313ea64cd70d4dbdea30cb523a5556b8",
+      "last_updated": "2026-11-10T06:48:47.527127+00:00"
     },
     "user-guide/features/fallback-providers.md": {
       "sha": "b3130556342755fac31d458d0ad960ab7962b2f8",
@@ -749,8 +749,8 @@
       "last_updated": "2026-09-25T04:23:23.100902+00:00"
     },
     "user-guide/messaging/telegram.md": {
-      "sha": "9f1b102bee73807f736a0f519038c5f6a69e57f5",
-      "last_updated": "2026-11-09T22:09:10.227321+00:00"
+      "sha": "b2220e346c3ad09e96ad4547591c9aea6c1fdd44",
+      "last_updated": "2026-11-10T06:48:48.124113+00:00"
     },
     "user-guide/messaging/webhooks.md": {
       "sha": "bc413bfe35981156f60fc0a472426d84ad4a1a5f",
@@ -809,8 +809,8 @@
       "last_updated": "2026-10-31T04:57:35.258039+00:00"
     },
     "user-guide/security.md": {
-      "sha": "f30125fb2ff5e90755c073b704a97e0bfb620e28",
-      "last_updated": "2026-11-09T11:10:36.839843+00:00"
+      "sha": "aa4f86be6ed5c359d6246f38c6298b1c405fa153",
+      "last_updated": "2026-11-10T06:48:48.700548+00:00"
     },
     "user-guide/sessions.md": {
       "sha": "03d8eb59d99e97d786667f3f85c14e02a9873d5d",
@@ -1557,8 +1557,8 @@
       "last_updated": "2026-09-25T04:23:00.728516+00:00"
     },
     "developer-guide/gateway-session-lifecycle.md": {
-      "sha": "ccbec078e8cdfcb2000060a004c611d30b3fbfa1",
-      "last_updated": "2026-09-29T05:12:44.693978+00:00"
+      "sha": "afa8cbdfd2fde794867c9a2e560df2f6115d50b6",
+      "last_updated": "2026-11-10T06:48:44.891286+00:00"
     },
     "developer-guide/micro-compaction.md": {
       "sha": "3c3f3190862b4499b01868cf3ae260a307317615",
@@ -1765,11 +1765,11 @@
       "last_updated": "2026-11-05T17:14:14.194942+00:00"
     },
     "developer-guide/plugins/public-api.md": {
-      "sha": "b9b87fb512ea1ccd0f9ebb356d065981c370541e",
-      "last_updated": "2026-11-09T11:10:32.688993+00:00"
+      "sha": "60304c42b6d204dfbd710cc74afffc51e96beeba",
+      "last_updated": "2026-11-10T06:48:46.275982+00:00"
     }
   },
-  "last_updated": "2026-11-09T22:09:10.803296+00:00",
+  "last_updated": "2026-11-10T06:48:48.915077+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
