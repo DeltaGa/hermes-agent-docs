@@ -61,8 +61,8 @@
       "last_updated": "2026-10-29T09:41:32.442731+00:00"
     },
     "developer-guide/desktop-plugin-sdk.md": {
-      "sha": "0ab244c5c57c9af878003a060dce8efe5c81a2a3",
-      "last_updated": "2026-11-06T05:57:07.122977+00:00"
+      "sha": "53a2a2a7cf25987cc43ec98cd64e1414f8416d29",
+      "last_updated": "2026-11-11T21:48:52.033935+00:00"
     },
     "developer-guide/egress-internals.md": {
       "sha": "dde37d99ace8f900d6f23431db168637c191dda4",
@@ -477,8 +477,8 @@
       "last_updated": "2026-11-02T00:27:46.884332+00:00"
     },
     "user-guide/features/delegation.md": {
-      "sha": "c95297be6163c4d21f7c9dae253a785eccac4a4c",
-      "last_updated": "2026-11-10T23:03:14.298890+00:00"
+      "sha": "e76dca5e1d936827daf89c1a7ae682f01e6d7628",
+      "last_updated": "2026-11-11T21:48:53.963484+00:00"
     },
     "user-guide/features/deliverable-mode.md": {
       "sha": "dc35c889ed271984b799f9303be379b690ceafee",
@@ -789,8 +789,8 @@
       "last_updated": "2026-10-04T12:05:57.393598+00:00"
     },
     "user-guide/profiles.md": {
-      "sha": "da63112aaca50b82e8cf53189a662d21128c9f54",
-      "last_updated": "2026-11-10T23:03:16.382592+00:00"
+      "sha": "1f1ef68c86cd617b08a52065a7769e01367fb710",
+      "last_updated": "2026-11-11T21:48:56.544706+00:00"
     },
     "user-guide/secrets/bitwarden.md": {
       "sha": "21c56606391c986077f49f53e598996b955f1afb",
@@ -1397,8 +1397,8 @@
       "last_updated": "2026-09-25T04:23:10.213440+00:00"
     },
     "developer-guide/terminal-environment-plugin.md": {
-      "sha": "a2b4cc8270c506778f452ba1ee6301f71082cf6f",
-      "last_updated": "2026-11-10T23:03:11.943985+00:00"
+      "sha": "d1af14b594e405783f5c2efb84685f6f8013a9e9",
+      "last_updated": "2026-11-11T21:48:53.525918+00:00"
     },
     "user-guide/skills/optional/web-development/web-development-publish-site.md": {
       "sha": "c1e418f65c38e080d7bb5342f305ed2ff25f3970",
@@ -1569,8 +1569,8 @@
       "last_updated": "2026-11-06T20:46:01.852436+00:00"
     },
     "developer-guide/multiplexing-gateway.md": {
-      "sha": "73abddcc321440f4385b8978f113184473d7748f",
-      "last_updated": "2026-10-14T21:28:16.148010+00:00"
+      "sha": "22fadd34458fb39ccd4e29d98e7227ffd06aa2cb",
+      "last_updated": "2026-11-11T21:48:52.973514+00:00"
     },
     "developer-guide/observer-hooks.md": {
       "sha": "58a527062ecdab6e152140d6c51b77c0df024eb6",
@@ -1685,8 +1685,8 @@
       "last_updated": "2026-10-23T11:20:40.230962+00:00"
     },
     "developer-guide/gateway-classic-cli.md": {
-      "sha": "448b7e33b2fe0e87daea284b846d3e53f3bf5ff4",
-      "last_updated": "2026-10-14T21:28:14.286430+00:00"
+      "sha": "f5d369eea42e3017f23c9a870c6e4a07178c8c90",
+      "last_updated": "2026-11-11T21:48:52.538915+00:00"
     },
     "developer-guide/gateway-command-parity.md": {
       "sha": "ef91436a66338f9bc3b40ab83abb07ac30077e2c",
@@ -1769,7 +1769,7 @@
       "last_updated": "2026-11-10T23:03:11.567769+00:00"
     }
   },
-  "last_updated": "2026-11-11T13:54:23.748961+00:00",
+  "last_updated": "2026-11-11T21:48:56.750693+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
