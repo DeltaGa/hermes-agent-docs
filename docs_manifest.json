@@ -589,8 +589,8 @@
       "last_updated": "2026-10-23T11:20:33.621117+00:00"
     },
     "user-guide/features/tool-search.md": {
-      "sha": "0a7a01199bfdb3cd6507f901b399229d7dfd778d",
-      "last_updated": "2026-11-11T05:37:40.421289+00:00"
+      "sha": "9dfc35275124c7bed468d8f33e1e5e10d53035c2",
+      "last_updated": "2026-11-11T13:54:22.712273+00:00"
     },
     "user-guide/features/tools.md": {
       "sha": "92da7b0baa6617e2e9b06a1d3708e4dbc5cacd46",
@@ -613,8 +613,8 @@
       "last_updated": "2026-09-25T04:23:19.154246+00:00"
     },
     "user-guide/features/web-dashboard.md": {
-      "sha": "8030352b83f8cdbe05d3aaf64df331dae478644b",
-      "last_updated": "2026-11-10T23:03:15.039077+00:00"
+      "sha": "b4baaaebdbbfcff761973e7336ad9f6e6812d82b",
+      "last_updated": "2026-11-11T13:54:23.113194+00:00"
     },
     "user-guide/features/web-search.md": {
       "sha": "1288ee9e391d6030261ecdaa456021ed935d01af",
@@ -1309,8 +1309,8 @@
       "last_updated": "2026-09-20T20:37:01.213624+00:00"
     },
     "user-guide/skills/optional/security/security-godmode.md": {
-      "sha": "d755caf4e272d7507967748b25668191808bebda",
-      "last_updated": "2026-09-25T04:23:28.461108+00:00"
+      "sha": "c91d91dac6de1a0e09e26fc6c585036bdfa2d3c9",
+      "last_updated": "2026-11-11T13:54:23.544469+00:00"
     },
     "user-guide/skills/optional/security/security-oss-forensics.md": {
       "sha": "7a03ae0f68fe73fcd2cc15a3c66e89d71cadc156",
@@ -1769,7 +1769,7 @@
       "last_updated": "2026-11-10T23:03:11.567769+00:00"
     }
   },
-  "last_updated": "2026-11-11T05:37:41.821053+00:00",
+  "last_updated": "2026-11-11T13:54:23.748961+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
