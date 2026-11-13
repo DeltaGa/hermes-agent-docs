@@ -241,8 +241,8 @@
       "last_updated": "2026-08-09T09:10:13.046947+00:00"
     },
     "guides/migrate-from-openclaw.md": {
-      "sha": "dd662aa7fcdff18c60032cf5e48a1c7566f867a0",
-      "last_updated": "2026-10-22T21:22:45.469663+00:00"
+      "sha": "3dd52799ff3159d91c861703b05ea9c73a26cf56",
+      "last_updated": "2026-11-13T05:59:00.497299+00:00"
     },
     "guides/minimax-oauth.md": {
       "sha": "ffc6aa10355e0de8313437cc99ab3e41a250340e",
@@ -309,12 +309,12 @@
       "last_updated": "2026-09-18T23:08:49.563380+00:00"
     },
     "guides/xai-grok-oauth.md": {
-      "sha": "6645229a0c1ebf523850c611aa591a67f786df44",
-      "last_updated": "2026-08-19T12:56:39.461922+00:00"
+      "sha": "1352a9c7c7d73d655e6ee27857713e85a4f7e889",
+      "last_updated": "2026-11-13T05:59:00.876683+00:00"
     },
     "index.mdx": {
-      "sha": "6f9b7c689c7f02f2d2b8f087aa88985cd4e2436d",
-      "last_updated": "2026-10-30T09:47:24.348253+00:00"
+      "sha": "e38f9fb875803b231fa384098add30271a93a0fa",
+      "last_updated": "2026-11-13T05:59:01.186377+00:00"
     },
     "integrations/buzz.md": {
       "sha": "32074ebb087eba68cf57dc61fd774ec4a1adfe35",
@@ -325,8 +325,8 @@
       "last_updated": "2026-11-04T21:10:24.477026+00:00"
     },
     "integrations/nous-portal.md": {
-      "sha": "f820099af7db31e62c24384565eb658938aea7f2",
-      "last_updated": "2026-10-23T11:20:23.507816+00:00"
+      "sha": "d65a203c3469b5cccd1fe4f39cb56d427691f0f3",
+      "last_updated": "2026-11-13T05:59:01.487259+00:00"
     },
     "integrations/providers.md": {
       "sha": "c1d686f3b5cd8e600c4596eacb028aa625ad7b64",
@@ -449,8 +449,8 @@
       "last_updated": "2026-11-12T06:43:08.370700+00:00"
     },
     "user-guide/features/codex-app-server-runtime.md": {
-      "sha": "db80c5d40b4802c6c815a98d74ec216347e03f4f",
-      "last_updated": "2026-10-23T11:20:31.814974+00:00"
+      "sha": "81ac64fb7bc01425c728a8d0a079573deec7f96d",
+      "last_updated": "2026-11-13T05:59:01.787896+00:00"
     },
     "user-guide/features/computer-use.md": {
       "sha": "eadd92f0a82695c078447519654fda2e3454ebb4",
@@ -565,8 +565,8 @@
       "last_updated": "2026-11-09T00:40:09.789279+00:00"
     },
     "user-guide/features/provider-routing.md": {
-      "sha": "6cb93cd855d7d334a958b25d386211f5345b75b3",
-      "last_updated": "2026-10-16T23:22:35.678074+00:00"
+      "sha": "cb6658b693d5d20483aedffb4a249cd5b366863d",
+      "last_updated": "2026-11-13T05:59:02.081912+00:00"
     },
     "user-guide/features/skills.md": {
       "sha": "11c4ab0c7463e45c58c29276dee3e078d02cb072",
@@ -593,12 +593,12 @@
       "last_updated": "2026-11-11T13:54:22.712273+00:00"
     },
     "user-guide/features/tools.md": {
-      "sha": "92da7b0baa6617e2e9b06a1d3708e4dbc5cacd46",
-      "last_updated": "2026-11-04T14:07:09.417210+00:00"
+      "sha": "553f40e67201a70b8f986b15b1a6edf43e0e7db3",
+      "last_updated": "2026-11-13T05:59:02.404287+00:00"
     },
     "user-guide/features/tts.md": {
-      "sha": "c143a074c6f227c8841ab3c71f0a84b86f49fb52",
-      "last_updated": "2026-11-12T06:43:09.214012+00:00"
+      "sha": "cf1e931e62a819404ad00193a09f840c544dceb7",
+      "last_updated": "2026-11-13T05:59:02.750135+00:00"
     },
     "user-guide/features/vision.md": {
       "sha": "4b466ce0f8a4178909adc1fb51cf421a431c5542",
@@ -753,8 +753,8 @@
       "last_updated": "2026-11-12T17:28:26.529885+00:00"
     },
     "user-guide/messaging/webhooks.md": {
-      "sha": "7a79083afa7611b8c44ad444a7d9c6c853a1c329",
-      "last_updated": "2026-11-12T17:28:27.101643+00:00"
+      "sha": "51bfe2977e2a9f3b3257e95e8dcb2860df8c43d2",
+      "last_updated": "2026-11-13T05:59:03.079270+00:00"
     },
     "user-guide/messaging/wecom-callback.md": {
       "sha": "f33f26eef1d5b181745c930e145fc59e34ef7881",
@@ -773,8 +773,8 @@
       "last_updated": "2026-10-02T00:36:54.422396+00:00"
     },
     "user-guide/messaging/whatsapp.md": {
-      "sha": "2094b29a81a86120571d7dea362915ee9f47f4dc",
-      "last_updated": "2026-11-12T23:24:19.933768+00:00"
+      "sha": "4c3f603c2775ce11875d8490e1723d6365fc3263",
+      "last_updated": "2026-11-13T05:59:03.495857+00:00"
     },
     "user-guide/messaging/yuanbao.md": {
       "sha": "bd81fa960564820984a26d509c9401a9b1b488ea",
@@ -833,12 +833,12 @@
       "last_updated": "2026-09-20T20:36:04.147239+00:00"
     },
     "user-guide/skills/bundled/autonomous-ai-agents/autonomous-ai-agents-claude-code.md": {
-      "sha": "315ecf7fefd6767565c66f75b9825a020ae21f58",
-      "last_updated": "2026-10-29T09:41:56.177474+00:00"
+      "sha": "badd19f465ed64d62c5eb3afd4df8c9cf2db8058",
+      "last_updated": "2026-11-13T05:59:03.808769+00:00"
     },
     "user-guide/skills/bundled/autonomous-ai-agents/autonomous-ai-agents-codex.md": {
-      "sha": "7e88ecfa76a4e91da58808ce871f09d7f1b15603",
-      "last_updated": "2026-09-20T20:36:04.808484+00:00"
+      "sha": "b651955b3a7bad65d0f35c993ed1341152d8b822",
+      "last_updated": "2026-11-13T05:59:04.193258+00:00"
     },
     "user-guide/skills/bundled/autonomous-ai-agents/autonomous-ai-agents-computer-use.md": {
       "sha": "9e7c5c15c7daae8a2825d0ee6c41ae104594a155",
@@ -1721,8 +1721,8 @@
       "last_updated": "2026-11-03T23:03:59.763086+00:00"
     },
     "user-guide/skills/optional/autonomous-ai-agents/autonomous-ai-agents-opencode.md": {
-      "sha": "e65213a67731bf9f34b5915977326e95e8f0d440",
-      "last_updated": "2026-10-29T09:42:05.610699+00:00"
+      "sha": "1cf842660eb881d57e6faf3ec75030d3a8a55c82",
+      "last_updated": "2026-11-13T05:59:04.505692+00:00"
     },
     "user-guide/skills/optional/creative/creative-design-md.md": {
       "sha": "397f1f34fb14ea09e7c3aafd6c13db2d5e1419aa",
@@ -1769,7 +1769,7 @@
       "last_updated": "2026-11-12T06:43:07.269636+00:00"
     }
   },
-  "last_updated": "2026-11-12T23:24:21.008578+00:00",
+  "last_updated": "2026-11-13T05:59:04.711148+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
