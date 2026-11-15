@@ -85,8 +85,8 @@
       "last_updated": "2026-11-13T21:19:32.455363+00:00"
     },
     "developer-guide/model-provider-plugin.md": {
-      "sha": "c48a87458dd4f94602c7b95e27a234174c620e37",
-      "last_updated": "2026-11-14T05:48:30.669292+00:00"
+      "sha": "8da2deaf8efbbfb3ede795ba922f2b7c8b43b25e",
+      "last_updated": "2026-11-15T10:35:35.780823+00:00"
     },
     "developer-guide/plugin-llm-access.md": {
       "sha": "a619c06ae25e17c6d0b0f1cb93fd9e3ea8e6c4db",
@@ -97,8 +97,8 @@
       "last_updated": "2026-11-14T05:48:31.617034+00:00"
     },
     "developer-guide/programmatic-integration.md": {
-      "sha": "ead7170e9988cb6e52b7ddf022d8b3fa3a53b0ed",
-      "last_updated": "2026-11-13T21:19:33.339021+00:00"
+      "sha": "67a648165f733e9a9cb645772d6fc94a15022815",
+      "last_updated": "2026-11-15T10:35:36.119437+00:00"
     },
     "developer-guide/prompt-assembly.md": {
       "sha": "f51608d4bbb2a8a1c4693788bc52cc84df879c76",
@@ -301,8 +301,8 @@
       "last_updated": "2026-11-14T13:16:25.330485+00:00"
     },
     "guides/webhook-github-pr-review.md": {
-      "sha": "df458e460640799ef30acaa290dd5ca992815449",
-      "last_updated": "2026-11-12T17:28:21.942343+00:00"
+      "sha": "78b9a927cdeb409c1503452018a639058a35e8f1",
+      "last_updated": "2026-11-15T10:35:36.518667+00:00"
     },
     "guides/work-with-skills.md": {
       "sha": "59b81b6321f11664eaaad264e09447e22bdd9e8c",
@@ -537,8 +537,8 @@
       "last_updated": "2026-11-14T19:49:58.869862+00:00"
     },
     "user-guide/features/memory-providers.md": {
-      "sha": "c9274add900e067818127e3f631e278b748478f2",
-      "last_updated": "2026-11-09T22:09:09.377886+00:00"
+      "sha": "a7827a17909641403c3c5edf4ba665db4d7a3606",
+      "last_updated": "2026-11-15T10:35:37.206718+00:00"
     },
     "user-guide/features/memory.md": {
       "sha": "3d0291dc247d51bd5932745749685577ed28bb6d",
@@ -561,8 +561,8 @@
       "last_updated": "2026-09-18T23:09:07.084598+00:00"
     },
     "user-guide/features/plugins.md": {
-      "sha": "b0c641bbae289c73f9f149a84cd0f1ebb845fd4b",
-      "last_updated": "2026-11-14T19:49:59.179211+00:00"
+      "sha": "94a36c5bf76106517e5f38501d0ba948575249db",
+      "last_updated": "2026-11-15T10:35:37.537990+00:00"
     },
     "user-guide/features/provider-routing.md": {
       "sha": "cb6658b693d5d20483aedffb4a249cd5b366863d",
@@ -665,8 +665,8 @@
       "last_updated": "2026-10-04T12:05:55.873969+00:00"
     },
     "user-guide/messaging/feishu.md": {
-      "sha": "5a5f29bac8ea529f1341a80d5ce497726ab32f70",
-      "last_updated": "2026-11-12T23:24:19.363158+00:00"
+      "sha": "ce46cf7abb654115371cf589aa7c00bd288ab1b8",
+      "last_updated": "2026-11-15T10:35:37.919418+00:00"
     },
     "user-guide/messaging/google_chat.md": {
       "sha": "ebc8e582f909781101ee2374e793e5511be38f94",
@@ -753,12 +753,12 @@
       "last_updated": "2026-11-14T19:49:59.485151+00:00"
     },
     "user-guide/messaging/webhooks.md": {
-      "sha": "5e779aba5e6118cba3cddb5b033dda1a3a92ccf2",
-      "last_updated": "2026-11-14T05:48:36.956187+00:00"
+      "sha": "c80c241358f08c262cc8f3d1945944a81e729f2d",
+      "last_updated": "2026-11-15T10:35:38.599659+00:00"
     },
     "user-guide/messaging/wecom-callback.md": {
-      "sha": "f33f26eef1d5b181745c930e145fc59e34ef7881",
-      "last_updated": "2026-10-02T00:36:53.811903+00:00"
+      "sha": "b169ab08bbc68119113119c8b26eb030f4da5df3",
+      "last_updated": "2026-11-15T10:35:39.149734+00:00"
     },
     "user-guide/messaging/wecom.md": {
       "sha": "83feb7509809777e052135e0f9d72e4579a64abf",
@@ -781,8 +781,8 @@
       "last_updated": "2026-11-07T09:48:59.134183+00:00"
     },
     "user-guide/multi-profile-gateways.md": {
-      "sha": "cec85b2415061280a2247fb9b7f9da0b1cfd7370",
-      "last_updated": "2026-11-14T19:49:59.797035+00:00"
+      "sha": "20dc37685b20b42294438f4548accc53c477eec7",
+      "last_updated": "2026-11-15T10:35:39.516519+00:00"
     },
     "user-guide/profile-distributions.md": {
       "sha": "be38fe367371f6cef2766b2503d4a4b03491a997",
@@ -809,8 +809,8 @@
       "last_updated": "2026-11-13T21:19:39.892032+00:00"
     },
     "user-guide/security.md": {
-      "sha": "8b599daa1ba7f5d6a26bf93640346c4f674bf79d",
-      "last_updated": "2026-11-14T13:16:30.797671+00:00"
+      "sha": "d0ed79186e65eddb695aeb1f71e5e2ad2b45ac73",
+      "last_updated": "2026-11-15T10:35:40.081117+00:00"
     },
     "user-guide/sessions.md": {
       "sha": "c9debd3173606ed7ecc11c579f1287527e06799d",
@@ -833,8 +833,8 @@
       "last_updated": "2026-09-20T20:36:04.147239+00:00"
     },
     "user-guide/skills/bundled/autonomous-ai-agents/autonomous-ai-agents-claude-code.md": {
-      "sha": "badd19f465ed64d62c5eb3afd4df8c9cf2db8058",
-      "last_updated": "2026-11-13T05:59:03.808769+00:00"
+      "sha": "fcb8610ecdf3b5d54bbf39a24daa94f8ab5bd175",
+      "last_updated": "2026-11-15T10:35:40.644317+00:00"
     },
     "user-guide/skills/bundled/autonomous-ai-agents/autonomous-ai-agents-codex.md": {
       "sha": "b651955b3a7bad65d0f35c993ed1341152d8b822",
@@ -1441,8 +1441,8 @@
       "last_updated": "2026-09-20T20:36:25.472868+00:00"
     },
     "user-guide/skills/optional/creative/creative-comfyui.md": {
-      "sha": "aba8707c504daf0990684831a9f95c9cbe8fa648",
-      "last_updated": "2026-10-29T09:42:06.889691+00:00"
+      "sha": "350019c9e5cf3a44bf2ad55e07c09f65ca5405ca",
+      "last_updated": "2026-11-15T10:35:41.017887+00:00"
     },
     "user-guide/skills/optional/creative/creative-excalidraw.md": {
       "sha": "d70d31f506ef3b776a28fff83cd6fdf54f046cc3",
@@ -1773,7 +1773,7 @@
       "last_updated": "2026-11-14T19:49:56.398535+00:00"
     }
   },
-  "last_updated": "2026-11-14T19:50:00.610590+00:00",
+  "last_updated": "2026-11-15T10:35:41.222865+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
