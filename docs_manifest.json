@@ -9,8 +9,8 @@
       "last_updated": "2026-10-14T21:28:12.912343+00:00"
     },
     "developer-guide/adding-platform-adapters.md": {
-      "sha": "9fdf90e0bf544fb4c8b56589fb46449858e26c82",
-      "last_updated": "2026-11-13T21:19:31.585216+00:00"
+      "sha": "d0fb92ecfccf928fc0a894ab693210990c60acdb",
+      "last_updated": "2026-11-16T21:50:51.102091+00:00"
     },
     "developer-guide/adding-providers.md": {
       "sha": "542f8ff34de36680dacbc127b649603b3320621a",
@@ -125,8 +125,8 @@
       "last_updated": "2026-10-23T11:20:20.239391+00:00"
     },
     "developer-guide/trajectory-format.md": {
-      "sha": "e0fbfb319c1bcf499f64e6705d53f50e26e8d90b",
-      "last_updated": "2026-09-04T16:06:49.371051+00:00"
+      "sha": "a07378de35fe6159058ad5926422d45972e17594",
+      "last_updated": "2026-11-16T21:50:51.403123+00:00"
     },
     "developer-guide/video-gen-provider-plugin.md": {
       "sha": "784a9107fd2e234c8f5d8e7803fa34d1617583ff",
@@ -341,8 +341,8 @@
       "last_updated": "2026-10-06T05:49:04.022980+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "711cd21ecf319f7dee109797a7c5694dd147a95b",
-      "last_updated": "2026-11-14T19:49:57.339065+00:00"
+      "sha": "5febec2160e252ccfcc4e17aecf15acedd3624f3",
+      "last_updated": "2026-11-16T21:50:51.720876+00:00"
     },
     "reference/environment-variables.md": {
       "sha": "7da88fdb5bc1882cda33d4e14779496605341665",
@@ -1771,9 +1771,13 @@
     "developer-guide/gateway-ssh-clients.md": {
       "sha": "a0525e5d143964cc9da7a2f0ab9762b126c185e0",
       "last_updated": "2026-11-14T19:49:56.398535+00:00"
+    },
+    "user-guide/backup-and-transfer.md": {
+      "sha": "ea1de8c7ee88e3ff42a2d2568e3ad805ba9a0d74",
+      "last_updated": "2026-11-16T21:50:52.021268+00:00"
     }
   },
-  "last_updated": "2026-11-16T10:51:40.235424+00:00",
+  "last_updated": "2026-11-16T21:50:52.226662+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
