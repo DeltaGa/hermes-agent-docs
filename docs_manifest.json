@@ -85,8 +85,8 @@
       "last_updated": "2026-11-13T21:19:32.455363+00:00"
     },
     "developer-guide/model-provider-plugin.md": {
-      "sha": "8da2deaf8efbbfb3ede795ba922f2b7c8b43b25e",
-      "last_updated": "2026-11-15T10:35:35.780823+00:00"
+      "sha": "78942db3e1b24afa927aae63db73ca7e165091c8",
+      "last_updated": "2026-11-16T00:53:10.458603+00:00"
     },
     "developer-guide/plugin-llm-access.md": {
       "sha": "a619c06ae25e17c6d0b0f1cb93fd9e3ea8e6c4db",
@@ -113,8 +113,8 @@
       "last_updated": "2026-09-18T23:08:34.749928+00:00"
     },
     "developer-guide/session-storage.md": {
-      "sha": "a8111ec307f7603e859d6c47651a6e16d54c1fb4",
-      "last_updated": "2026-11-14T19:49:56.705961+00:00"
+      "sha": "a07e398598adc23d52d9b22f19f3de1e56e6dfd7",
+      "last_updated": "2026-11-16T00:53:10.747392+00:00"
     },
     "developer-guide/subagent-lifecycle-api.md": {
       "sha": "56d9388d0758835e59fd2dfed714764d42c8003e",
@@ -373,8 +373,8 @@
       "last_updated": "2026-10-29T09:41:35.364451+00:00"
     },
     "reference/slash-commands.md": {
-      "sha": "3367471547b24341c4e0c1a0b266f6fb9e6dd248",
-      "last_updated": "2026-11-14T19:49:57.642685+00:00"
+      "sha": "6637b5caf2553d32603a0dad3ad4ffc6f2b2d49a",
+      "last_updated": "2026-11-16T00:53:11.090662+00:00"
     },
     "reference/tools-reference.md": {
       "sha": "49d01eabbc844f52d31fda378a10dcb8a78c71bd",
@@ -397,8 +397,8 @@
       "last_updated": "2026-11-12T06:43:07.736937+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "d936bde8a0be54baac31c1c7da1bd4d6b23fe6da",
-      "last_updated": "2026-11-15T18:41:04.477987+00:00"
+      "sha": "50589708ce372a2c2b5d9d1ef72c413da594cee6",
+      "last_updated": "2026-11-16T00:53:11.384335+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "3e15fe3b8a97ddeaa7bfd996c3fd5f90849770d9",
@@ -1773,7 +1773,7 @@
       "last_updated": "2026-11-14T19:49:56.398535+00:00"
     }
   },
-  "last_updated": "2026-11-15T18:41:05.415155+00:00",
+  "last_updated": "2026-11-16T00:53:11.589774+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
