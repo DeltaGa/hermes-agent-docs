@@ -53,8 +53,8 @@
       "last_updated": "2026-11-09T22:09:08.163966+00:00"
     },
     "developer-guide/creating-skills.md": {
-      "sha": "f3dc99eb02f2563e485e11181af178a5932cb8c9",
-      "last_updated": "2026-11-03T23:03:54.589223+00:00"
+      "sha": "46247a0d615e0ae54b9bd2f02254634cdb9b48ad",
+      "last_updated": "2026-11-16T10:51:38.652132+00:00"
     },
     "developer-guide/cron-internals.md": {
       "sha": "a96b681939cd8054823b4cd475b820d58beca5fb",
@@ -389,8 +389,8 @@
       "last_updated": "2026-08-09T09:10:22.209483+00:00"
     },
     "user-guide/checkpoints-and-rollback.md": {
-      "sha": "c25efd0e083748a9c4dba1b2718ee48a11898142",
-      "last_updated": "2026-11-06T14:07:02.770563+00:00"
+      "sha": "c3c3382dcbc54455623dd75138c261ad95b3776a",
+      "last_updated": "2026-11-16T10:51:39.316191+00:00"
     },
     "user-guide/cli.md": {
       "sha": "1b5e3613c38b884f60291c83e499b9111150840a",
@@ -405,8 +405,8 @@
       "last_updated": "2026-11-04T21:10:26.821566+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "3cf43f3f14afd51ba2a2e29b6ce81244a6904cb7",
-      "last_updated": "2026-11-08T05:28:51.068370+00:00"
+      "sha": "4ec27fc9c6913f14abbeabb84b97fb5eb9fe259d",
+      "last_updated": "2026-11-16T10:51:39.696592+00:00"
     },
     "user-guide/docker.md": {
       "sha": "90582abc245c2b117d17186abd94db03a19531e4",
@@ -781,8 +781,8 @@
       "last_updated": "2026-11-07T09:48:59.134183+00:00"
     },
     "user-guide/multi-profile-gateways.md": {
-      "sha": "20dc37685b20b42294438f4548accc53c477eec7",
-      "last_updated": "2026-11-15T10:35:39.516519+00:00"
+      "sha": "b5eb74ddc77b637de255a3d0472f884d450a3f58",
+      "last_updated": "2026-11-16T10:51:40.029327+00:00"
     },
     "user-guide/profile-distributions.md": {
       "sha": "be38fe367371f6cef2766b2503d4a4b03491a997",
@@ -1397,8 +1397,8 @@
       "last_updated": "2026-09-25T04:23:10.213440+00:00"
     },
     "developer-guide/terminal-environment-plugin.md": {
-      "sha": "d1af14b594e405783f5c2efb84685f6f8013a9e9",
-      "last_updated": "2026-11-11T21:48:53.525918+00:00"
+      "sha": "27696709dc4ccff254fefee60457b1a2586ca591",
+      "last_updated": "2026-11-16T10:51:38.964269+00:00"
     },
     "user-guide/skills/optional/web-development/web-development-publish-site.md": {
       "sha": "c1e418f65c38e080d7bb5342f305ed2ff25f3970",
@@ -1773,7 +1773,7 @@
       "last_updated": "2026-11-14T19:49:56.398535+00:00"
     }
   },
-  "last_updated": "2026-11-16T00:53:11.589774+00:00",
+  "last_updated": "2026-11-16T10:51:40.235424+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
