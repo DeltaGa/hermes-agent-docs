@@ -93,8 +93,8 @@
       "last_updated": "2026-11-14T05:48:30.980093+00:00"
     },
     "developer-guide/plugins/index.md": {
-      "sha": "21317108905f177b27600ac95892ac3b1a7616c5",
-      "last_updated": "2026-11-14T05:48:31.617034+00:00"
+      "sha": "dd48b392b5da4e4000db40504b79ce4c34edb649",
+      "last_updated": "2026-11-17T07:26:10.815353+00:00"
     },
     "developer-guide/programmatic-integration.md": {
       "sha": "67a648165f733e9a9cb645772d6fc94a15022815",
@@ -237,8 +237,8 @@
       "last_updated": "2026-09-19T20:22:03.246542+00:00"
     },
     "guides/microsoft-graph-app-registration.md": {
-      "sha": "70de0498cfedc9f9687eb0dc5961c80842f5304a",
-      "last_updated": "2026-08-09T09:10:13.046947+00:00"
+      "sha": "0edcd914902ce5611707e6c5fbcd2f8a562e95e3",
+      "last_updated": "2026-11-17T07:26:11.726339+00:00"
     },
     "guides/migrate-from-openclaw.md": {
       "sha": "3dd52799ff3159d91c861703b05ea9c73a26cf56",
@@ -1765,8 +1765,8 @@
       "last_updated": "2026-11-05T17:14:14.194942+00:00"
     },
     "developer-guide/plugins/public-api.md": {
-      "sha": "57ce269c200efafd139f78f84b70a99fa07be58f",
-      "last_updated": "2026-11-13T21:19:33.054632+00:00"
+      "sha": "8d274143f48e0d2920b24df81b4340d45a7ac38b",
+      "last_updated": "2026-11-17T07:26:11.367756+00:00"
     },
     "developer-guide/gateway-ssh-clients.md": {
       "sha": "a0525e5d143964cc9da7a2f0ab9762b126c185e0",
@@ -1777,7 +1777,7 @@
       "last_updated": "2026-11-16T21:50:52.021268+00:00"
     }
   },
-  "last_updated": "2026-11-16T21:50:52.226662+00:00",
+  "last_updated": "2026-11-17T07:26:11.932273+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
