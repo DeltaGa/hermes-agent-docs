@@ -41,16 +41,16 @@
       "last_updated": "2026-11-18T11:23:37.822376+00:00"
     },
     "developer-guide/context-compression-and-caching.md": {
-      "sha": "d2c80435c6f0959bf656b450261215e5db3d88eb",
-      "last_updated": "2026-11-10T23:03:10.360243+00:00"
+      "sha": "9f69c4ca3ca86ab92a0f4695c3392ff1efeb8999",
+      "last_updated": "2026-11-18T20:15:37.228179+00:00"
     },
     "developer-guide/context-engine-plugin.md": {
       "sha": "cc77e98af9ef3a2346cb782187a9bf8a90a98186",
       "last_updated": "2026-11-18T11:23:38.163595+00:00"
     },
     "developer-guide/contributing.md": {
-      "sha": "f5d4ee14521d5cfa81e8a6a1fe2de4a74e739fc9",
-      "last_updated": "2026-11-09T22:09:08.163966+00:00"
+      "sha": "39f31d0e4832447e8a9f7bcddcee2af7a1ea0d5b",
+      "last_updated": "2026-11-18T20:15:37.559340+00:00"
     },
     "developer-guide/creating-skills.md": {
       "sha": "46247a0d615e0ae54b9bd2f02254634cdb9b48ad",
@@ -77,24 +77,24 @@
       "last_updated": "2026-11-18T11:23:39.166132+00:00"
     },
     "developer-guide/image-gen-provider-plugin.md": {
-      "sha": "6b1edf902f79e6cae58b4ce525c56226caabb587",
-      "last_updated": "2026-10-20T23:42:27.833193+00:00"
+      "sha": "411f9f9f7f7545b18b8d6479061f7c717ddc5090",
+      "last_updated": "2026-11-18T20:15:37.946199+00:00"
     },
     "developer-guide/memory-provider-plugin.md": {
       "sha": "685622323bcc2ef175c56e0536fe90ffd5414b8d",
       "last_updated": "2026-11-18T11:23:40.271420+00:00"
     },
     "developer-guide/model-provider-plugin.md": {
-      "sha": "78942db3e1b24afa927aae63db73ca7e165091c8",
-      "last_updated": "2026-11-16T00:53:10.458603+00:00"
+      "sha": "8ba7b10abe83d02ee0c4a2e62f99047740259cef",
+      "last_updated": "2026-11-18T20:15:38.328336+00:00"
     },
     "developer-guide/plugin-llm-access.md": {
       "sha": "a619c06ae25e17c6d0b0f1cb93fd9e3ea8e6c4db",
       "last_updated": "2026-11-14T05:48:30.980093+00:00"
     },
     "developer-guide/plugins/index.md": {
-      "sha": "90f9c226b29c3d410b2e32345c39b8652c4c53f6",
-      "last_updated": "2026-11-18T11:23:40.593162+00:00"
+      "sha": "4e84ff266023d20766f3ee3e92f0435806e93e27",
+      "last_updated": "2026-11-18T20:15:38.725257+00:00"
     },
     "developer-guide/programmatic-integration.md": {
       "sha": "67a648165f733e9a9cb645772d6fc94a15022815",
@@ -397,8 +397,8 @@
       "last_updated": "2026-11-12T06:43:07.736937+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "32c9b55fd41e4eda5b450aae6ac917523b2f5ee0",
-      "last_updated": "2026-11-18T11:23:43.334150+00:00"
+      "sha": "22e78ba9000cb6e66bcabb383e9f3560f8f53e1d",
+      "last_updated": "2026-11-18T20:15:39.157662+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "3e15fe3b8a97ddeaa7bfd996c3fd5f90849770d9",
@@ -869,8 +869,8 @@
       "last_updated": "2026-09-20T20:36:07.832553+00:00"
     },
     "user-guide/skills/bundled/creative/creative-manim-video.md": {
-      "sha": "f22a7005d822b5d3be22fa74a882fbce5073e364",
-      "last_updated": "2026-09-20T20:36:08.153799+00:00"
+      "sha": "3164639b7c94a0a03748fd5893d49bb9257d81da",
+      "last_updated": "2026-11-18T20:15:39.492738+00:00"
     },
     "user-guide/skills/bundled/creative/creative-p5js.md": {
       "sha": "0246aacef2c903f754ab7d2c851cbbac3e5b3a2f",
@@ -957,8 +957,8 @@
       "last_updated": "2026-09-20T20:36:19.599248+00:00"
     },
     "user-guide/skills/bundled/software-development/software-development-simplify-code.md": {
-      "sha": "132841821035e149794506b3e8b2c1880dd5e908",
-      "last_updated": "2026-09-20T20:36:19.915613+00:00"
+      "sha": "4a630b0f49c9ef57ae745d6ff11ef5e86ab5632e",
+      "last_updated": "2026-11-18T20:15:39.818459+00:00"
     },
     "user-guide/skills/bundled/software-development/software-development-spike.md": {
       "sha": "3e5b66f2b2099c9f45fb4b427fcded9ed0a64a65",
@@ -1077,12 +1077,12 @@
       "last_updated": "2026-09-20T20:36:34.567459+00:00"
     },
     "user-guide/skills/optional/devops/devops-pinggy-tunnel.md": {
-      "sha": "3d92fb49e690cbf584b286ed9c516279f3efdb88",
-      "last_updated": "2026-09-20T20:36:34.880011+00:00"
+      "sha": "017ba1df655923384cd38f01e1c0288e1f0c5d50",
+      "last_updated": "2026-11-18T20:15:40.523976+00:00"
     },
     "user-guide/skills/optional/devops/devops-watchers.md": {
-      "sha": "9d2fc7f7523baaad78fc64fd2c957fe43ce194db",
-      "last_updated": "2026-09-20T20:36:35.543956+00:00"
+      "sha": "7e74cae174687d4cc2ce61a83b9cc0d754540f72",
+      "last_updated": "2026-11-18T20:15:40.903429+00:00"
     },
     "user-guide/skills/optional/dogfood/dogfood-adversarial-ux-test.md": {
       "sha": "91ab50efe73918d32aec1e15eb013c3ccc9dde46",
@@ -1129,12 +1129,12 @@
       "last_updated": "2026-09-20T20:36:39.180608+00:00"
     },
     "user-guide/skills/optional/gaming/gaming-minecraft-modpack-server.md": {
-      "sha": "73a8e3093a4fafae68ae4cbf2a1b4aba90f1f085",
-      "last_updated": "2026-09-25T04:23:26.928661+00:00"
+      "sha": "c92f33a559181d2b8e6d80eec050926b6c54bc8b",
+      "last_updated": "2026-11-18T20:15:41.245432+00:00"
     },
     "user-guide/skills/optional/gaming/gaming-pokemon-player.md": {
-      "sha": "d474e9c3aa7aeafe1ceb429051b56c248a8140b2",
-      "last_updated": "2026-09-20T20:36:39.903853+00:00"
+      "sha": "a1af5b28479ea5b56d8b8172d78065f8edd05c0a",
+      "last_updated": "2026-11-18T20:15:41.591189+00:00"
     },
     "user-guide/skills/optional/health/health-fitness-nutrition.md": {
       "sha": "16142f5db21afbec7bc00b171e1b4b491a526855",
@@ -1149,8 +1149,8 @@
       "last_updated": "2026-09-20T20:36:40.909696+00:00"
     },
     "user-guide/skills/optional/mcp/mcp-mcp-oauth-remote-gateway.md": {
-      "sha": "a618aff3470fe6218b3cd77198e3c58c49d56052",
-      "last_updated": "2026-09-20T20:36:41.217558+00:00"
+      "sha": "65bed14830935d45739074340584727a3e344bb4",
+      "last_updated": "2026-11-18T20:15:41.936797+00:00"
     },
     "user-guide/skills/optional/mcp/mcp-mcporter.md": {
       "sha": "0bc09c9a4f1dd96fde4821c24c1a9df153a05226",
@@ -1269,8 +1269,8 @@
       "last_updated": "2026-09-20T20:36:56.420047+00:00"
     },
     "user-guide/skills/optional/research/research-bioinformatics.md": {
-      "sha": "ec08e6c7bb0e49e2041eff08513bf4e6e50b195b",
-      "last_updated": "2026-09-20T20:36:56.739644+00:00"
+      "sha": "1b16b8d2ea19252b8320fc2456bd4abbb05b2db4",
+      "last_updated": "2026-11-18T20:15:42.316762+00:00"
     },
     "user-guide/skills/optional/research/research-darwinian-evolver.md": {
       "sha": "f11ed932971f80af10a11380c392a7d37af42e7f",
@@ -1289,16 +1289,16 @@
       "last_updated": "2026-09-20T20:36:58.336768+00:00"
     },
     "user-guide/skills/optional/research/research-osint-investigation.md": {
-      "sha": "8c03b88a6696a8003520932a94323007839fabd6",
-      "last_updated": "2026-09-20T20:36:58.649718+00:00"
+      "sha": "2a60a304052088cba1a7ed735255646d094ddb12",
+      "last_updated": "2026-11-18T20:15:42.670161+00:00"
     },
     "user-guide/skills/optional/research/research-parallel-cli.md": {
       "sha": "c0584b85c8ee8ef1f02d394769753f3538a2e5c4",
       "last_updated": "2026-11-03T23:04:04.031184+00:00"
     },
     "user-guide/skills/optional/research/research-qmd.md": {
-      "sha": "2cefd00a1571d1738f0cbefe4c7cd70ee8ccfa5a",
-      "last_updated": "2026-09-20T20:36:59.629120+00:00"
+      "sha": "8cc2b0a5f576dc81400f2739b48cbbcfbcb83565",
+      "last_updated": "2026-11-18T20:15:43.024969+00:00"
     },
     "user-guide/skills/optional/research/research-scrapling.md": {
       "sha": "c308257f784e71d9b5bf8a57efeb62c2fdd13a74",
@@ -1329,8 +1329,8 @@
       "last_updated": "2026-10-23T11:21:00.904734+00:00"
     },
     "user-guide/skills/optional/software-development/software-development-code-wiki.md": {
-      "sha": "606e2d5b82a7f4a2b88809ea3b53e794b970d7eb",
-      "last_updated": "2026-09-20T20:37:04.099111+00:00"
+      "sha": "1895f26e736fc37b1a6b8c3708c0b8dc79794a01",
+      "last_updated": "2026-11-18T20:15:44.124626+00:00"
     },
     "user-guide/skills/optional/software-development/software-development-rest-graphql-debug.md": {
       "sha": "307f04073ad04598ce248f816aa8a6a92193cae4",
@@ -1401,8 +1401,8 @@
       "last_updated": "2026-11-16T10:51:38.964269+00:00"
     },
     "user-guide/skills/optional/web-development/web-development-publish-site.md": {
-      "sha": "c1e418f65c38e080d7bb5342f305ed2ff25f3970",
-      "last_updated": "2026-09-20T20:37:06.573951+00:00"
+      "sha": "1f55959474ef637c8e595c3adeaa1034d1366dad",
+      "last_updated": "2026-11-18T20:15:44.882979+00:00"
     },
     "user-guide/skills/optional/devops/devops-setup-wizard-generator.md": {
       "sha": "ec89593a37fea72f2a05b0cf8204f30b607ee12e",
@@ -1473,16 +1473,16 @@
       "last_updated": "2026-09-05T22:43:43.549041+00:00"
     },
     "user-guide/skills/optional/research/research-research-paper-writing.md": {
-      "sha": "94f7c9bf8193864c5004330d57670c999c1fba3b",
-      "last_updated": "2026-09-20T20:36:59.947500+00:00"
+      "sha": "3d7dcd8e1d30c59aaa9a164ffa475cf3e86c8be4",
+      "last_updated": "2026-11-18T20:15:43.385853+00:00"
     },
     "user-guide/skills/optional/smart-home/smart-home-openhue.md": {
       "sha": "90e574a053b0d97d1f80ca421ac17d68b95b8997",
       "last_updated": "2026-09-20T20:37:03.150894+00:00"
     },
     "user-guide/skills/optional/software-development/software-development-ast-grep.md": {
-      "sha": "5e3818e0b785755598c58a3c6171d041d0479c55",
-      "last_updated": "2026-09-20T20:37:03.783581+00:00"
+      "sha": "bb0f3ada31a6569e677e6808d6148ee83864481b",
+      "last_updated": "2026-11-18T20:15:43.752308+00:00"
     },
     "user-guide/skills/optional/web-development/web-development-har-derived-api-client.md": {
       "sha": "f8c24aa8fef908a42db12f9e0bfb781ae2e0d8e7",
@@ -1541,8 +1541,8 @@
       "last_updated": "2026-09-18T23:09:49.381956+00:00"
     },
     "user-guide/skills/optional/creative/creative-system-atlas.md": {
-      "sha": "d00b97eef7d6e3b92fae2d84696730c7e231f019",
-      "last_updated": "2026-10-04T12:05:59.108588+00:00"
+      "sha": "1108d7a4f5e608b0822ef6f33d701c85211fb209",
+      "last_updated": "2026-11-18T20:15:40.170661+00:00"
     },
     "developer-guide/billing-lifecycle.md": {
       "sha": "4ac7e406fe986e69632e9c073a3e2da52df2c7ee",
@@ -1757,8 +1757,8 @@
       "last_updated": "2026-11-06T05:57:29.790529+00:00"
     },
     "user-guide/skills/optional/software-development/software-development-python-debugpy.md": {
-      "sha": "78c5b7ba50256b1f2667ad076d2648262bcad097",
-      "last_updated": "2026-10-29T09:42:16.226485+00:00"
+      "sha": "4686fa0ecd90ef86673accac65f2cd018ef4d7c5",
+      "last_updated": "2026-11-18T20:15:44.518233+00:00"
     },
     "getting-started/official-domains.md": {
       "sha": "00225df28f35ace1730223abad40a34b52986719",
@@ -1781,7 +1781,7 @@
       "last_updated": "2026-11-18T11:23:42.427009+00:00"
     }
   },
-  "last_updated": "2026-11-18T11:23:45.394127+00:00",
+  "last_updated": "2026-11-18T20:15:45.088462+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
