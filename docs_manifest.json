@@ -41,8 +41,8 @@
       "last_updated": "2026-11-18T11:23:37.822376+00:00"
     },
     "developer-guide/context-compression-and-caching.md": {
-      "sha": "9f69c4ca3ca86ab92a0f4695c3392ff1efeb8999",
-      "last_updated": "2026-11-18T20:15:37.228179+00:00"
+      "sha": "36602ac3f95516a82bd756268ecd8ea6a7699697",
+      "last_updated": "2026-11-19T11:21:23.844219+00:00"
     },
     "developer-guide/context-engine-plugin.md": {
       "sha": "cc77e98af9ef3a2346cb782187a9bf8a90a98186",
@@ -73,8 +73,8 @@
       "last_updated": "2026-09-25T04:22:59.917100+00:00"
     },
     "developer-guide/gateway-internals.md": {
-      "sha": "dcfe916a5f1091c7e2d973d8b449e40eea0b64c9",
-      "last_updated": "2026-11-18T11:23:39.166132+00:00"
+      "sha": "c95c05d8a4ae85d59d83300e4339ccbeb410c842",
+      "last_updated": "2026-11-19T11:21:24.134456+00:00"
     },
     "developer-guide/image-gen-provider-plugin.md": {
       "sha": "411f9f9f7f7545b18b8d6479061f7c717ddc5090",
@@ -97,8 +97,8 @@
       "last_updated": "2026-11-18T20:15:38.725257+00:00"
     },
     "developer-guide/programmatic-integration.md": {
-      "sha": "67a648165f733e9a9cb645772d6fc94a15022815",
-      "last_updated": "2026-11-15T10:35:36.119437+00:00"
+      "sha": "ed1f8f863cdb6966dad332ab2fab4bab1540474b",
+      "last_updated": "2026-11-19T11:21:24.425142+00:00"
     },
     "developer-guide/prompt-assembly.md": {
       "sha": "f51608d4bbb2a8a1c4693788bc52cc84df879c76",
@@ -157,8 +157,8 @@
       "last_updated": "2026-11-09T11:10:35.853831+00:00"
     },
     "getting-started/platform-support.md": {
-      "sha": "5db054f36bfb60cff54c193cdeca807433e0bcfa",
-      "last_updated": "2026-11-03T23:03:55.714395+00:00"
+      "sha": "8fc60b3c541676527c141229468c43a37a785c13",
+      "last_updated": "2026-11-19T11:21:25.232827+00:00"
     },
     "getting-started/quickstart.md": {
       "sha": "0d7c3a7e542ecbb10ad77544edde7175fa12f616",
@@ -397,8 +397,8 @@
       "last_updated": "2026-11-12T06:43:07.736937+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "22e78ba9000cb6e66bcabb383e9f3560f8f53e1d",
-      "last_updated": "2026-11-18T20:15:39.157662+00:00"
+      "sha": "010525c356a609a51996dc3c701827b353f45f41",
+      "last_updated": "2026-11-19T11:21:25.527712+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "3e15fe3b8a97ddeaa7bfd996c3fd5f90849770d9",
@@ -1645,16 +1645,16 @@
       "last_updated": "2026-09-25T04:23:04.575652+00:00"
     },
     "developer-guide/shared-bundle-builds.md": {
-      "sha": "514b87c414942b4d4587c377f7c65075b0fffdea",
-      "last_updated": "2026-11-13T21:19:33.639296+00:00"
+      "sha": "d008f84cf1b7e76e5c33f5f49502375562c8843c",
+      "last_updated": "2026-11-19T11:21:24.690584+00:00"
     },
     "developer-guide/source-update-completion.md": {
       "sha": "d5343d1afc456f8b9a3b26f9611b0bd266a338aa",
       "last_updated": "2026-11-07T09:48:55.111328+00:00"
     },
     "developer-guide/stable-releases.md": {
-      "sha": "8b99f66c35bfbfd601803a69ce973f6137b1a5c6",
-      "last_updated": "2026-11-18T11:23:41.498045+00:00"
+      "sha": "73abc22f200c40d973b67ec69f1c11ecb4ca3b0d",
+      "last_updated": "2026-11-19T11:21:24.961036+00:00"
     },
     "reference/package-management.md": {
       "sha": "b066d18ddce561ec7808bc4aecc86a90040805c5",
@@ -1781,7 +1781,7 @@
       "last_updated": "2026-11-18T11:23:42.427009+00:00"
     }
   },
-  "last_updated": "2026-11-18T20:15:45.088462+00:00",
+  "last_updated": "2026-11-19T11:21:25.736926+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
