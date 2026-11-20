@@ -61,8 +61,8 @@
       "last_updated": "2026-11-14T13:16:23.922673+00:00"
     },
     "developer-guide/desktop-plugin-sdk.md": {
-      "sha": "d5fb0eb655c544df3e8eb62b46afc53b27aa5912",
-      "last_updated": "2026-11-18T11:23:38.479105+00:00"
+      "sha": "822da5fcca04324a9671ba8d083baf66da525126",
+      "last_updated": "2026-11-20T19:50:41.356263+00:00"
     },
     "developer-guide/egress-internals.md": {
       "sha": "dde37d99ace8f900d6f23431db168637c191dda4",
@@ -93,8 +93,8 @@
       "last_updated": "2026-11-14T05:48:30.980093+00:00"
     },
     "developer-guide/plugins/index.md": {
-      "sha": "24c22627aeea909328b0857e02ae10ce49658aae",
-      "last_updated": "2026-11-20T11:09:52.240789+00:00"
+      "sha": "ef0c42b8c37baad63fcab4087186de70f7480c4a",
+      "last_updated": "2026-11-20T19:50:42.104665+00:00"
     },
     "developer-guide/programmatic-integration.md": {
       "sha": "ed1f8f863cdb6966dad332ab2fab4bab1540474b",
@@ -341,8 +341,8 @@
       "last_updated": "2026-10-06T05:49:04.022980+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "b4b5ff7809bba300ac41eec34b571137487254a4",
-      "last_updated": "2026-11-20T11:09:53.620730+00:00"
+      "sha": "be5c9cbff1c4ab2d99f875152e7c355bac32bb6d",
+      "last_updated": "2026-11-20T19:50:42.877846+00:00"
     },
     "reference/environment-variables.md": {
       "sha": "015b658cfe9a02c7c9fb6d8f3db8e19cd2280814",
@@ -397,16 +397,16 @@
       "last_updated": "2026-11-12T06:43:07.736937+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "d4f6c0318cf620f2650f71efb0888caeb1a7476e",
-      "last_updated": "2026-11-20T02:09:35.894744+00:00"
+      "sha": "292b3ee9badf2312398f268f4904ab1efc7df196",
+      "last_updated": "2026-11-20T19:50:43.257946+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "3e15fe3b8a97ddeaa7bfd996c3fd5f90849770d9",
       "last_updated": "2026-11-04T21:10:26.821566+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "a56c6938ab9f484d33c6bff74afe36150f4715d2",
-      "last_updated": "2026-11-17T18:20:22.545831+00:00"
+      "sha": "50a420d5bf362c823853915d7b88bb8122901d46",
+      "last_updated": "2026-11-20T19:50:43.703859+00:00"
     },
     "user-guide/docker.md": {
       "sha": "90582abc245c2b117d17186abd94db03a19531e4",
@@ -809,8 +809,8 @@
       "last_updated": "2026-11-13T21:19:39.892032+00:00"
     },
     "user-guide/security.md": {
-      "sha": "74c56ddb56ddcd775f36139f0f48e6915d51a225",
-      "last_updated": "2026-11-15T18:41:05.210200+00:00"
+      "sha": "a2f53ee93583a96aff303f31f0c8dce6d9407c82",
+      "last_updated": "2026-11-20T19:50:44.033997+00:00"
     },
     "user-guide/sessions.md": {
       "sha": "c9debd3173606ed7ecc11c579f1287527e06799d",
@@ -1653,8 +1653,8 @@
       "last_updated": "2026-11-07T09:48:55.111328+00:00"
     },
     "developer-guide/stable-releases.md": {
-      "sha": "73abc22f200c40d973b67ec69f1c11ecb4ca3b0d",
-      "last_updated": "2026-11-19T11:21:24.961036+00:00"
+      "sha": "3baf1366dc82576c380d0cf555699b222bf88f4d",
+      "last_updated": "2026-11-20T19:50:42.510987+00:00"
     },
     "reference/package-management.md": {
       "sha": "b066d18ddce561ec7808bc4aecc86a90040805c5",
@@ -1693,8 +1693,8 @@
       "last_updated": "2026-11-14T05:48:30.310087+00:00"
     },
     "developer-guide/gateway-local-sessions.md": {
-      "sha": "a9367dd87684b9a4f44fe4e88a9f755d48d3e215",
-      "last_updated": "2026-11-18T11:23:39.495928+00:00"
+      "sha": "927810a2b207e591f96f278751cfd2f17480f65a",
+      "last_updated": "2026-11-20T19:50:41.738979+00:00"
     },
     "developer-guide/hosted-profile-owners.md": {
       "sha": "576f9745b3663c60aa16190f2af713fd72337cf7",
@@ -1781,7 +1781,7 @@
       "last_updated": "2026-11-18T11:23:42.427009+00:00"
     }
   },
-  "last_updated": "2026-11-20T11:09:54.248030+00:00",
+  "last_updated": "2026-11-20T19:50:44.242326+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
