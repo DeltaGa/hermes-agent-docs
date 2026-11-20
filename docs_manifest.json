@@ -397,8 +397,8 @@
       "last_updated": "2026-11-12T06:43:07.736937+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "010525c356a609a51996dc3c701827b353f45f41",
-      "last_updated": "2026-11-19T11:21:25.527712+00:00"
+      "sha": "d4f6c0318cf620f2650f71efb0888caeb1a7476e",
+      "last_updated": "2026-11-20T02:09:35.894744+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "3e15fe3b8a97ddeaa7bfd996c3fd5f90849770d9",
@@ -633,8 +633,8 @@
       "last_updated": "2026-11-19T20:19:26.154927+00:00"
     },
     "user-guide/managed-scope.md": {
-      "sha": "c514bab280fc6cef2706980b1b63c67eaaf9e802",
-      "last_updated": "2026-11-13T21:19:36.871945+00:00"
+      "sha": "7d3f9e1d776ccdac4b3fc2c293a77b8434f43c5f",
+      "last_updated": "2026-11-20T02:09:36.629548+00:00"
     },
     "user-guide/messaging/_category_.json": {
       "sha": "5c8c368cc80370f0128ef01d410610668aec2250",
@@ -1517,8 +1517,8 @@
       "last_updated": "2026-11-17T18:20:23.485371+00:00"
     },
     "user-guide/features/credential-vault.md": {
-      "sha": "0f1f547ba14bc01d34046ff4cd4c64bd13ee9261",
-      "last_updated": "2026-11-07T21:39:04.339283+00:00"
+      "sha": "6dc88c439133b0678f79f249c96e136989ee8ce6",
+      "last_updated": "2026-11-20T02:09:36.262295+00:00"
     },
     "user-guide/skills/optional/creative/creative-archify.md": {
       "sha": "aaca38c574ae1c32ca70b31baa2ae17fedd61e3a",
@@ -1781,7 +1781,7 @@
       "last_updated": "2026-11-18T11:23:42.427009+00:00"
     }
   },
-  "last_updated": "2026-11-19T20:19:26.359875+00:00",
+  "last_updated": "2026-11-20T02:09:36.838177+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
