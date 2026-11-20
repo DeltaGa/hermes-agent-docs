@@ -93,8 +93,8 @@
       "last_updated": "2026-11-14T05:48:30.980093+00:00"
     },
     "developer-guide/plugins/index.md": {
-      "sha": "9f26a5a89c7292006ea8efdf5c1ddf1b10ca7d5e",
-      "last_updated": "2026-11-19T20:19:24.417102+00:00"
+      "sha": "24c22627aeea909328b0857e02ae10ce49658aae",
+      "last_updated": "2026-11-20T11:09:52.240789+00:00"
     },
     "developer-guide/programmatic-integration.md": {
       "sha": "ed1f8f863cdb6966dad332ab2fab4bab1540474b",
@@ -221,12 +221,12 @@
       "last_updated": "2026-09-18T23:08:40.933250+00:00"
     },
     "guides/google-gemini.md": {
-      "sha": "7c8b2658a7f8338662981aa63e11ca72283c3613",
-      "last_updated": "2026-11-12T23:24:17.677880+00:00"
+      "sha": "61d8f4457d26bad5845c946a1f3a58825e0c8bb1",
+      "last_updated": "2026-11-20T11:09:52.668041+00:00"
     },
     "guides/google-vertex.md": {
-      "sha": "fd8f08e461414910c7847a587d5ee808215c1292",
-      "last_updated": "2026-09-18T23:08:41.837232+00:00"
+      "sha": "8d23788003df0e9de930ab17c4dc3d4f6a736967",
+      "last_updated": "2026-11-20T11:09:53.229371+00:00"
     },
     "guides/local-llm-on-mac.md": {
       "sha": "c2492651d682c53c767ed336fecf66636f1d8f3d",
@@ -341,8 +341,8 @@
       "last_updated": "2026-10-06T05:49:04.022980+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "246e5ac92d14b936ab9a1ddfc9d82a4d8498d6e0",
-      "last_updated": "2026-11-19T20:19:25.275717+00:00"
+      "sha": "b4b5ff7809bba300ac41eec34b571137487254a4",
+      "last_updated": "2026-11-20T11:09:53.620730+00:00"
     },
     "reference/environment-variables.md": {
       "sha": "015b658cfe9a02c7c9fb6d8f3db8e19cd2280814",
@@ -561,8 +561,8 @@
       "last_updated": "2026-09-18T23:09:07.084598+00:00"
     },
     "user-guide/features/plugins.md": {
-      "sha": "94a36c5bf76106517e5f38501d0ba948575249db",
-      "last_updated": "2026-11-15T10:35:37.537990+00:00"
+      "sha": "1519785423b56d4350028cb072bcb28e80cb51f3",
+      "last_updated": "2026-11-20T11:09:54.042070+00:00"
     },
     "user-guide/features/provider-routing.md": {
       "sha": "cb6658b693d5d20483aedffb4a249cd5b366863d",
@@ -1781,7 +1781,7 @@
       "last_updated": "2026-11-18T11:23:42.427009+00:00"
     }
   },
-  "last_updated": "2026-11-20T02:09:36.838177+00:00",
+  "last_updated": "2026-11-20T11:09:54.248030+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
