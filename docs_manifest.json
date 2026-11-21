@@ -97,8 +97,8 @@
       "last_updated": "2026-11-20T19:50:42.104665+00:00"
     },
     "developer-guide/programmatic-integration.md": {
-      "sha": "ed1f8f863cdb6966dad332ab2fab4bab1540474b",
-      "last_updated": "2026-11-19T11:21:24.425142+00:00"
+      "sha": "0a56c436f60cb243b63077e1973d0c98da7d9372",
+      "last_updated": "2026-11-21T02:02:20.353545+00:00"
     },
     "developer-guide/prompt-assembly.md": {
       "sha": "f51608d4bbb2a8a1c4693788bc52cc84df879c76",
@@ -201,8 +201,8 @@
       "last_updated": "2026-09-27T21:09:53.636364+00:00"
     },
     "guides/cron-troubleshooting.md": {
-      "sha": "14a7aef87f8da9b8ca3b244ab822a41c7c664160",
-      "last_updated": "2026-10-14T21:28:18.635061+00:00"
+      "sha": "b90b3be17312260523a9b7de8f5454a23d68148d",
+      "last_updated": "2026-11-21T02:02:21.282680+00:00"
     },
     "guides/daily-briefing-bot.md": {
       "sha": "88193ec8f8e94b4895091d6cc3d34beae869c6af",
@@ -397,16 +397,16 @@
       "last_updated": "2026-11-12T06:43:07.736937+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "292b3ee9badf2312398f268f4904ab1efc7df196",
-      "last_updated": "2026-11-20T19:50:43.257946+00:00"
+      "sha": "0f235e34343cb860ba88a4dbff4eb70f93e7a019",
+      "last_updated": "2026-11-21T02:02:21.628656+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "3e15fe3b8a97ddeaa7bfd996c3fd5f90849770d9",
       "last_updated": "2026-11-04T21:10:26.821566+00:00"
     },
     "user-guide/desktop.md": {
-      "sha": "50a420d5bf362c823853915d7b88bb8122901d46",
-      "last_updated": "2026-11-20T19:50:43.703859+00:00"
+      "sha": "983fd4519b994de36a121862b132818b0a054092",
+      "last_updated": "2026-11-21T02:02:21.926024+00:00"
     },
     "user-guide/docker.md": {
       "sha": "90582abc245c2b117d17186abd94db03a19531e4",
@@ -533,8 +533,8 @@
       "last_updated": "2026-10-17T20:23:05.796944+00:00"
     },
     "user-guide/features/mcp.md": {
-      "sha": "944b1ae11eb4626e156129d541249b5239c19ecd",
-      "last_updated": "2026-11-19T20:19:25.835570+00:00"
+      "sha": "f5b4d653c61622dc89f22a1892d189da72c7ac37",
+      "last_updated": "2026-11-21T02:02:22.177249+00:00"
     },
     "user-guide/features/memory-providers.md": {
       "sha": "a7827a17909641403c3c5edf4ba665db4d7a3606",
@@ -1581,8 +1581,8 @@
       "last_updated": "2026-11-09T11:10:33.243466+00:00"
     },
     "developer-guide/relay-shared-metrics.md": {
-      "sha": "99773172dbc84db5fdd8c45473780943558ef885",
-      "last_updated": "2026-11-02T21:35:44.230124+00:00"
+      "sha": "d9dc0a7d6814ee04941fa8bce467a6f35c8dc934",
+      "last_updated": "2026-11-21T02:02:20.680710+00:00"
     },
     "developer-guide/state-db-recovery.md": {
       "sha": "cb70aaae1e7af943e51e2b78e2cccbc8abdfae91",
@@ -1653,8 +1653,8 @@
       "last_updated": "2026-11-07T09:48:55.111328+00:00"
     },
     "developer-guide/stable-releases.md": {
-      "sha": "3baf1366dc82576c380d0cf555699b222bf88f4d",
-      "last_updated": "2026-11-20T19:50:42.510987+00:00"
+      "sha": "080323a4ea0c343610255293beba0ad547d8c31b",
+      "last_updated": "2026-11-21T02:02:20.976267+00:00"
     },
     "reference/package-management.md": {
       "sha": "b066d18ddce561ec7808bc4aecc86a90040805c5",
@@ -1781,7 +1781,7 @@
       "last_updated": "2026-11-18T11:23:42.427009+00:00"
     }
   },
-  "last_updated": "2026-11-20T19:50:44.242326+00:00",
+  "last_updated": "2026-11-21T02:02:22.383686+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
