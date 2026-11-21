@@ -153,8 +153,8 @@
       "last_updated": "2026-09-18T23:08:36.921771+00:00"
     },
     "getting-started/nix-setup.md": {
-      "sha": "ccff056839e8758d029d0e554c9a389f4bf4f1ec",
-      "last_updated": "2026-11-09T11:10:35.853831+00:00"
+      "sha": "c10cd2d252cee2e2dfc7f022b6be5a72be8070c3",
+      "last_updated": "2026-11-21T18:56:33.852015+00:00"
     },
     "getting-started/platform-support.md": {
       "sha": "8fc60b3c541676527c141229468c43a37a785c13",
@@ -341,8 +341,8 @@
       "last_updated": "2026-10-06T05:49:04.022980+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "be5c9cbff1c4ab2d99f875152e7c355bac32bb6d",
-      "last_updated": "2026-11-20T19:50:42.877846+00:00"
+      "sha": "dfeb3b7bc2e26ad61c4c1faea4b98a8cdac28ba3",
+      "last_updated": "2026-11-21T18:56:34.397442+00:00"
     },
     "reference/environment-variables.md": {
       "sha": "015b658cfe9a02c7c9fb6d8f3db8e19cd2280814",
@@ -409,8 +409,8 @@
       "last_updated": "2026-11-21T02:02:21.926024+00:00"
     },
     "user-guide/docker.md": {
-      "sha": "90582abc245c2b117d17186abd94db03a19531e4",
-      "last_updated": "2026-11-14T05:48:33.781000+00:00"
+      "sha": "13dc493df32e67ca1ef473e5305cb1afc9579f1e",
+      "last_updated": "2026-11-21T18:56:34.938129+00:00"
     },
     "user-guide/egress/index.md": {
       "sha": "90ccbb8a05e663ba816b4ac1e8bef7bca32eed5b",
@@ -613,8 +613,8 @@
       "last_updated": "2026-09-25T04:23:19.154246+00:00"
     },
     "user-guide/features/web-dashboard.md": {
-      "sha": "138a7f6a09155267f1957b2ca747920d26067138",
-      "last_updated": "2026-11-14T05:48:35.164910+00:00"
+      "sha": "ba609bef4be57a34af7f19a412b747655caf7bf2",
+      "last_updated": "2026-11-21T18:56:35.291306+00:00"
     },
     "user-guide/features/web-search.md": {
       "sha": "1288ee9e391d6030261ecdaa456021ed935d01af",
@@ -1357,8 +1357,8 @@
       "last_updated": "2026-10-29T09:42:16.712027+00:00"
     },
     "user-guide/windows-native.md": {
-      "sha": "d7cd8383ddbbf9a997df7c61b31da5e43b57e6fc",
-      "last_updated": "2026-11-14T19:50:00.403888+00:00"
+      "sha": "343824ddd24f93b48391c5b4ca715a9d94a5313b",
+      "last_updated": "2026-11-21T18:56:35.598948+00:00"
     },
     "user-guide/windows-wsl-quickstart.md": {
       "sha": "d361f3176439276070acaa78fdbbd8f066ef29dd",
@@ -1553,8 +1553,8 @@
       "last_updated": "2026-10-07T10:03:05.338186+00:00"
     },
     "developer-guide/gateway-monitoring.md": {
-      "sha": "8963c052e46ba793f39238d4aff716256226635e",
-      "last_updated": "2026-09-25T04:23:00.728516+00:00"
+      "sha": "06a5bd3901e78a61cfde62d38def8c6dc6686c55",
+      "last_updated": "2026-11-21T18:56:33.492071+00:00"
     },
     "developer-guide/gateway-session-lifecycle.md": {
       "sha": "ba751d46d7d0fca113a26966d94f648b01f68977",
@@ -1781,7 +1781,7 @@
       "last_updated": "2026-11-18T11:23:42.427009+00:00"
     }
   },
-  "last_updated": "2026-11-21T10:49:03.676474+00:00",
+  "last_updated": "2026-11-21T18:56:35.805012+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
