@@ -1653,12 +1653,12 @@
       "last_updated": "2026-11-07T09:48:55.111328+00:00"
     },
     "developer-guide/stable-releases.md": {
-      "sha": "080323a4ea0c343610255293beba0ad547d8c31b",
-      "last_updated": "2026-11-21T02:02:20.976267+00:00"
+      "sha": "424fcd72e149f76fbb3af3d4abd20a49c3907be5",
+      "last_updated": "2026-11-21T10:49:03.118635+00:00"
     },
     "reference/package-management.md": {
-      "sha": "b066d18ddce561ec7808bc4aecc86a90040805c5",
-      "last_updated": "2026-11-13T21:19:34.835626+00:00"
+      "sha": "49b960a16fe31dbf8d7c7817cd5d3e1733b8c40e",
+      "last_updated": "2026-11-21T10:49:03.470476+00:00"
     },
     "user-guide/switching-to-source.md": {
       "sha": "766782bed736ffa0bbb0ff70d3c46212547257a4",
@@ -1781,7 +1781,7 @@
       "last_updated": "2026-11-18T11:23:42.427009+00:00"
     }
   },
-  "last_updated": "2026-11-21T02:02:22.383686+00:00",
+  "last_updated": "2026-11-21T10:49:03.676474+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
