@@ -81,8 +81,8 @@
       "last_updated": "2026-11-18T20:15:37.946199+00:00"
     },
     "developer-guide/memory-provider-plugin.md": {
-      "sha": "685622323bcc2ef175c56e0536fe90ffd5414b8d",
-      "last_updated": "2026-11-18T11:23:40.271420+00:00"
+      "sha": "2eaae99d9679fafe7bc35151cc73f7c68c9da88a",
+      "last_updated": "2026-11-22T19:17:24.490957+00:00"
     },
     "developer-guide/model-provider-plugin.md": {
       "sha": "99a86257561ff897cea7240229992ae81bdbc7a3",
@@ -469,8 +469,8 @@
       "last_updated": "2026-11-13T21:19:35.729035+00:00"
     },
     "user-guide/features/cron.md": {
-      "sha": "f690b70ac2298d047d38aff21f459e69b50daac3",
-      "last_updated": "2026-11-14T13:16:27.221112+00:00"
+      "sha": "3ff641711534fb6dcbf91e7230a03103fdaaa5d8",
+      "last_updated": "2026-11-22T19:17:25.025185+00:00"
     },
     "user-guide/features/curator.md": {
       "sha": "5c5934afeb9f78287a613ebf236020e3620fe3a2",
@@ -677,8 +677,8 @@
       "last_updated": "2026-10-11T05:08:54.673849+00:00"
     },
     "user-guide/messaging/index.md": {
-      "sha": "65fb8244eb11f978468cdc593921208e68558895",
-      "last_updated": "2026-11-14T13:16:30.153982+00:00"
+      "sha": "3a44be4dfbc2a22d9164bb66d0d44b2c78dd41d9",
+      "last_updated": "2026-11-22T19:17:25.369748+00:00"
     },
     "user-guide/messaging/irc.md": {
       "sha": "4fd21061621fc5e44a64222b7813561b41b28dd9",
@@ -1781,7 +1781,7 @@
       "last_updated": "2026-11-18T11:23:42.427009+00:00"
     }
   },
-  "last_updated": "2026-11-22T01:05:06.379642+00:00",
+  "last_updated": "2026-11-22T19:17:25.575041+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
