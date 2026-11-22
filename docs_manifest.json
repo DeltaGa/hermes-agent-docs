@@ -93,8 +93,8 @@
       "last_updated": "2026-11-14T05:48:30.980093+00:00"
     },
     "developer-guide/plugins/index.md": {
-      "sha": "ef0c42b8c37baad63fcab4087186de70f7480c4a",
-      "last_updated": "2026-11-20T19:50:42.104665+00:00"
+      "sha": "236ac4d42737aee1286cc98ad5cea41e60791809",
+      "last_updated": "2026-11-22T01:05:05.480826+00:00"
     },
     "developer-guide/programmatic-integration.md": {
       "sha": "0a56c436f60cb243b63077e1973d0c98da7d9372",
@@ -397,8 +397,8 @@
       "last_updated": "2026-11-12T06:43:07.736937+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "0f235e34343cb860ba88a4dbff4eb70f93e7a019",
-      "last_updated": "2026-11-21T02:02:21.628656+00:00"
+      "sha": "e3361fee1b7321b95a9d4e91234847e59ac1f828",
+      "last_updated": "2026-11-22T01:05:05.818424+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "3e15fe3b8a97ddeaa7bfd996c3fd5f90849770d9",
@@ -601,8 +601,8 @@
       "last_updated": "2026-11-15T18:41:04.832778+00:00"
     },
     "user-guide/features/vision.md": {
-      "sha": "4b466ce0f8a4178909adc1fb51cf421a431c5542",
-      "last_updated": "2026-10-16T23:22:36.060173+00:00"
+      "sha": "6e8063cef1373965c18ab79dfb7796685281390c",
+      "last_updated": "2026-11-22T01:05:06.170915+00:00"
     },
     "user-guide/features/voice-mode.md": {
       "sha": "71671b875fd9484268ce29de016a37881bdc5c8b",
@@ -1781,7 +1781,7 @@
       "last_updated": "2026-11-18T11:23:42.427009+00:00"
     }
   },
-  "last_updated": "2026-11-21T18:56:35.805012+00:00",
+  "last_updated": "2026-11-22T01:05:06.379642+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
