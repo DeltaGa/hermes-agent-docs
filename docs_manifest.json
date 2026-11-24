@@ -61,8 +61,8 @@
       "last_updated": "2026-11-14T13:16:23.922673+00:00"
     },
     "developer-guide/desktop-plugin-sdk.md": {
-      "sha": "822da5fcca04324a9671ba8d083baf66da525126",
-      "last_updated": "2026-11-20T19:50:41.356263+00:00"
+      "sha": "8e8ae6736e80296457f4d0b58967dc9f654d5b1f",
+      "last_updated": "2026-11-24T02:03:51.630480+00:00"
     },
     "developer-guide/egress-internals.md": {
       "sha": "dde37d99ace8f900d6f23431db168637c191dda4",
@@ -85,8 +85,8 @@
       "last_updated": "2026-11-22T19:17:24.490957+00:00"
     },
     "developer-guide/model-provider-plugin.md": {
-      "sha": "99a86257561ff897cea7240229992ae81bdbc7a3",
-      "last_updated": "2026-11-19T20:19:24.127952+00:00"
+      "sha": "485f76482e3bc8e0ccfc2e643c287369ef6648b3",
+      "last_updated": "2026-11-24T02:03:52.567649+00:00"
     },
     "developer-guide/plugin-llm-access.md": {
       "sha": "a619c06ae25e17c6d0b0f1cb93fd9e3ea8e6c4db",
@@ -97,8 +97,8 @@
       "last_updated": "2026-11-22T01:05:05.480826+00:00"
     },
     "developer-guide/programmatic-integration.md": {
-      "sha": "0a56c436f60cb243b63077e1973d0c98da7d9372",
-      "last_updated": "2026-11-21T02:02:20.353545+00:00"
+      "sha": "aa8786784418d8977c57750fce8be2c306d1d0aa",
+      "last_updated": "2026-11-24T02:03:53.470002+00:00"
     },
     "developer-guide/prompt-assembly.md": {
       "sha": "f51608d4bbb2a8a1c4693788bc52cc84df879c76",
@@ -489,8 +489,8 @@
       "last_updated": "2026-09-19T20:22:10.582777+00:00"
     },
     "user-guide/features/extending-the-dashboard.md": {
-      "sha": "80342fd0994ef53c61a06b93a7480e57ffe3e90b",
-      "last_updated": "2026-11-18T11:23:44.235569+00:00"
+      "sha": "e644e396a79647051182ea05cf29faac328cbdb3",
+      "last_updated": "2026-11-24T02:03:54.431369+00:00"
     },
     "user-guide/features/fallback-providers.md": {
       "sha": "f1678b20db2d6b45d39e3888e28ad434a3c2bf03",
@@ -561,8 +561,8 @@
       "last_updated": "2026-09-18T23:09:07.084598+00:00"
     },
     "user-guide/features/plugins.md": {
-      "sha": "1519785423b56d4350028cb072bcb28e80cb51f3",
-      "last_updated": "2026-11-20T11:09:54.042070+00:00"
+      "sha": "af6cd9a273e22cc42d052d24cee50237ae256f65",
+      "last_updated": "2026-11-24T02:03:54.969892+00:00"
     },
     "user-guide/features/provider-routing.md": {
       "sha": "cb6658b693d5d20483aedffb4a249cd5b366863d",
@@ -613,8 +613,8 @@
       "last_updated": "2026-09-25T04:23:19.154246+00:00"
     },
     "user-guide/features/web-dashboard.md": {
-      "sha": "ba609bef4be57a34af7f19a412b747655caf7bf2",
-      "last_updated": "2026-11-21T18:56:35.291306+00:00"
+      "sha": "8298556647af281028ac3004cef8b8b1a45cf2df",
+      "last_updated": "2026-11-24T02:03:55.444121+00:00"
     },
     "user-guide/features/web-search.md": {
       "sha": "1288ee9e391d6030261ecdaa456021ed935d01af",
@@ -1581,8 +1581,8 @@
       "last_updated": "2026-11-09T11:10:33.243466+00:00"
     },
     "developer-guide/relay-shared-metrics.md": {
-      "sha": "d9dc0a7d6814ee04941fa8bce467a6f35c8dc934",
-      "last_updated": "2026-11-21T02:02:20.680710+00:00"
+      "sha": "03eaaef482cc351dd51f4e65641c46341c7f9e8f",
+      "last_updated": "2026-11-24T02:03:54.076730+00:00"
     },
     "developer-guide/state-db-recovery.md": {
       "sha": "cb70aaae1e7af943e51e2b78e2cccbc8abdfae91",
@@ -1693,8 +1693,8 @@
       "last_updated": "2026-11-14T05:48:30.310087+00:00"
     },
     "developer-guide/gateway-local-sessions.md": {
-      "sha": "927810a2b207e591f96f278751cfd2f17480f65a",
-      "last_updated": "2026-11-20T19:50:41.738979+00:00"
+      "sha": "eb8720c96a47a481482f5046f2a6c73a1cec6bdd",
+      "last_updated": "2026-11-24T02:03:52.161381+00:00"
     },
     "developer-guide/hosted-profile-owners.md": {
       "sha": "576f9745b3663c60aa16190f2af713fd72337cf7",
@@ -1765,8 +1765,8 @@
       "last_updated": "2026-11-05T17:14:14.194942+00:00"
     },
     "developer-guide/plugins/public-api.md": {
-      "sha": "92e698e2b29f58a3142efd151248fffeca9afedb",
-      "last_updated": "2026-11-18T11:23:40.910392+00:00"
+      "sha": "5be3df2508528af5f8c368136e245b2b69aa02e4",
+      "last_updated": "2026-11-24T02:03:52.927961+00:00"
     },
     "developer-guide/gateway-ssh-clients.md": {
       "sha": "a0525e5d143964cc9da7a2f0ab9762b126c185e0",
@@ -1781,7 +1781,7 @@
       "last_updated": "2026-11-18T11:23:42.427009+00:00"
     }
   },
-  "last_updated": "2026-11-23T12:03:29.121952+00:00",
+  "last_updated": "2026-11-24T02:03:55.652910+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
