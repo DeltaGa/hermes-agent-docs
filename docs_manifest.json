@@ -397,8 +397,8 @@
       "last_updated": "2026-11-12T06:43:07.736937+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "e3361fee1b7321b95a9d4e91234847e59ac1f828",
-      "last_updated": "2026-11-22T01:05:05.818424+00:00"
+      "sha": "cfd3d57278c73a89f2bc770a7e27b5696756c0e4",
+      "last_updated": "2026-11-25T07:54:08.826973+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "3e15fe3b8a97ddeaa7bfd996c3fd5f90849770d9",
@@ -1637,8 +1637,8 @@
       "last_updated": "2026-10-29T18:18:00.273599+00:00"
     },
     "developer-guide/macos-bundle-updates.md": {
-      "sha": "e4a64bd6ec091528c83f4b4740269b8cafb3027a",
-      "last_updated": "2026-11-13T21:19:32.165092+00:00"
+      "sha": "013903c3e4a719d9e5b50cb155e1940d5e322614",
+      "last_updated": "2026-11-25T07:54:07.181702+00:00"
     },
     "developer-guide/pm-audit-status.md": {
       "sha": "d91cc20f151850173b68225fe1bdf4aed5c78186",
@@ -1653,12 +1653,12 @@
       "last_updated": "2026-11-07T09:48:55.111328+00:00"
     },
     "developer-guide/stable-releases.md": {
-      "sha": "380b1e8440ba96254171d172497e9cb1cd4e152f",
-      "last_updated": "2026-11-23T12:03:28.914308+00:00"
+      "sha": "4b6c7ddf2fec8aec595b57bd1b9becb8c4c58e1c",
+      "last_updated": "2026-11-25T07:54:07.875413+00:00"
     },
     "reference/package-management.md": {
-      "sha": "49b960a16fe31dbf8d7c7817cd5d3e1733b8c40e",
-      "last_updated": "2026-11-21T10:49:03.470476+00:00"
+      "sha": "589e713fbcc5e5f1729b885e13effac2db3b9471",
+      "last_updated": "2026-11-25T07:54:08.541165+00:00"
     },
     "user-guide/switching-to-source.md": {
       "sha": "766782bed736ffa0bbb0ff70d3c46212547257a4",
@@ -1781,7 +1781,7 @@
       "last_updated": "2026-11-18T11:23:42.427009+00:00"
     }
   },
-  "last_updated": "2026-11-24T23:48:26.375083+00:00",
+  "last_updated": "2026-11-25T07:54:09.036110+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
