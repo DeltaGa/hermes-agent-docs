@@ -153,8 +153,8 @@
       "last_updated": "2026-09-18T23:08:36.921771+00:00"
     },
     "getting-started/nix-setup.md": {
-      "sha": "c10cd2d252cee2e2dfc7f022b6be5a72be8070c3",
-      "last_updated": "2026-11-21T18:56:33.852015+00:00"
+      "sha": "d0265aa4b9933828cbb928c2ea88445e8f5c5869",
+      "last_updated": "2026-11-26T16:40:52.272570+00:00"
     },
     "getting-started/platform-support.md": {
       "sha": "caaf456500b2bbe67972ec99454cf8ce7219b2ec",
@@ -341,8 +341,8 @@
       "last_updated": "2026-10-06T05:49:04.022980+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "059c8f2ac1528efbcc667fe0f33386341ad26671",
-      "last_updated": "2026-11-24T23:48:25.466997+00:00"
+      "sha": "09d31919747b6d93c4e750ea3ac13da81a72940f",
+      "last_updated": "2026-11-26T16:40:52.609367+00:00"
     },
     "reference/environment-variables.md": {
       "sha": "195fb6574b54489690e2169f0725abe4b4cd2221",
@@ -377,8 +377,8 @@
       "last_updated": "2026-11-16T00:53:11.090662+00:00"
     },
     "reference/tools-reference.md": {
-      "sha": "09b81d00eb106829ea1c7a3dfc87272f50997ccc",
-      "last_updated": "2026-11-26T03:26:33.050912+00:00"
+      "sha": "541281e816e7ebbba56e0ea94aac1284e6325d7b",
+      "last_updated": "2026-11-26T16:40:52.940526+00:00"
     },
     "reference/toolsets-reference.md": {
       "sha": "e139fde28b0c3ed3994a45e91a3cb4a5c8dee325",
@@ -613,8 +613,8 @@
       "last_updated": "2026-09-25T04:23:19.154246+00:00"
     },
     "user-guide/features/web-dashboard.md": {
-      "sha": "b8733611411a0b05e54e6b028df52be19315828a",
-      "last_updated": "2026-11-26T03:26:35.609705+00:00"
+      "sha": "c2ef5b8ffbd268eac2d820da62dda4eb3171b082",
+      "last_updated": "2026-11-26T16:40:53.615563+00:00"
     },
     "user-guide/features/web-search.md": {
       "sha": "1288ee9e391d6030261ecdaa456021ed935d01af",
@@ -677,8 +677,8 @@
       "last_updated": "2026-10-11T05:08:54.673849+00:00"
     },
     "user-guide/messaging/index.md": {
-      "sha": "42d26e73cf782e307576b7dedf288567dba646c7",
-      "last_updated": "2026-11-26T03:26:35.998374+00:00"
+      "sha": "c0af708d7100b9c62ce5791ed0f80d3630212786",
+      "last_updated": "2026-11-26T16:40:53.953471+00:00"
     },
     "user-guide/messaging/irc.md": {
       "sha": "4fd21061621fc5e44a64222b7813561b41b28dd9",
@@ -813,8 +813,8 @@
       "last_updated": "2026-11-20T19:50:44.033997+00:00"
     },
     "user-guide/sessions.md": {
-      "sha": "c9debd3173606ed7ecc11c579f1287527e06799d",
-      "last_updated": "2026-11-13T21:19:40.438850+00:00"
+      "sha": "b6e43fbafe3be1ef6de85a6d6fa7b6f588d9fe0b",
+      "last_updated": "2026-11-26T16:40:54.295989+00:00"
     },
     "user-guide/skills/bundled/apple/apple-apple-notes.md": {
       "sha": "d845e5b31985bb38ddf388f816a66993f4d3f177",
@@ -1513,8 +1513,8 @@
       "last_updated": "2026-10-23T11:21:01.251516+00:00"
     },
     "user-guide/features/plugin-catalog.md": {
-      "sha": "bf1c0c072b0da025c248228017480ac944054762",
-      "last_updated": "2026-11-17T18:20:23.485371+00:00"
+      "sha": "7002284a1eb543d0423ba5309b7a3edf946586dd",
+      "last_updated": "2026-11-26T16:40:53.250436+00:00"
     },
     "user-guide/features/credential-vault.md": {
       "sha": "6dc88c439133b0678f79f249c96e136989ee8ce6",
@@ -1781,7 +1781,7 @@
       "last_updated": "2026-11-18T11:23:42.427009+00:00"
     }
   },
-  "last_updated": "2026-11-26T03:26:36.559487+00:00",
+  "last_updated": "2026-11-26T16:40:54.501614+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
