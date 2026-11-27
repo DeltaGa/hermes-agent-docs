@@ -81,8 +81,8 @@
       "last_updated": "2026-11-18T20:15:37.946199+00:00"
     },
     "developer-guide/memory-provider-plugin.md": {
-      "sha": "2eaae99d9679fafe7bc35151cc73f7c68c9da88a",
-      "last_updated": "2026-11-22T19:17:24.490957+00:00"
+      "sha": "83282891cb5521cf059cd797a298cd2dc9af9422",
+      "last_updated": "2026-11-27T21:00:14.409224+00:00"
     },
     "developer-guide/model-provider-plugin.md": {
       "sha": "e52e824e0fd37a4f0daa4bc5128ffd99b8b2dd96",
@@ -397,8 +397,8 @@
       "last_updated": "2026-11-12T06:43:07.736937+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "7df8d5e0c54a6c0ae1376862819a563662518e47",
-      "last_updated": "2026-11-27T11:55:54.515670+00:00"
+      "sha": "0170f1b23f445821d2abf328216eb563288d5988",
+      "last_updated": "2026-11-27T21:00:14.774871+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "3e15fe3b8a97ddeaa7bfd996c3fd5f90849770d9",
@@ -465,12 +465,12 @@
       "last_updated": "2026-08-09T09:10:27.953058+00:00"
     },
     "user-guide/features/credential-pools.md": {
-      "sha": "fe4038ec0fa34aa05c06a08467cfec8552a9ce4d",
-      "last_updated": "2026-11-13T21:19:35.729035+00:00"
+      "sha": "bed9971d5cbf2492125a6f35af4133f4718d2b88",
+      "last_updated": "2026-11-27T21:00:15.098852+00:00"
     },
     "user-guide/features/cron.md": {
-      "sha": "3ff641711534fb6dcbf91e7230a03103fdaaa5d8",
-      "last_updated": "2026-11-22T19:17:25.025185+00:00"
+      "sha": "94aba2b8d4d2678c0afd4b86ba845cb86f9e23e4",
+      "last_updated": "2026-11-27T21:00:15.472721+00:00"
     },
     "user-guide/features/curator.md": {
       "sha": "5c5934afeb9f78287a613ebf236020e3620fe3a2",
@@ -561,8 +561,8 @@
       "last_updated": "2026-09-18T23:09:07.084598+00:00"
     },
     "user-guide/features/plugins.md": {
-      "sha": "2f25ec8a730f638dca6b269639aa5a030463a024",
-      "last_updated": "2026-11-26T03:26:35.266342+00:00"
+      "sha": "c672da333ff0da36c99c987c2ac49b4c73d8c63f",
+      "last_updated": "2026-11-27T21:00:15.961565+00:00"
     },
     "user-guide/features/provider-routing.md": {
       "sha": "cb6658b693d5d20483aedffb4a249cd5b366863d",
@@ -613,8 +613,8 @@
       "last_updated": "2026-09-25T04:23:19.154246+00:00"
     },
     "user-guide/features/web-dashboard.md": {
-      "sha": "c2ef5b8ffbd268eac2d820da62dda4eb3171b082",
-      "last_updated": "2026-11-26T16:40:53.615563+00:00"
+      "sha": "d14939434789e4bd6a4e6bc2e8a1731593f69aca",
+      "last_updated": "2026-11-27T21:00:16.300653+00:00"
     },
     "user-guide/features/web-search.md": {
       "sha": "1288ee9e391d6030261ecdaa456021ed935d01af",
@@ -1781,7 +1781,7 @@
       "last_updated": "2026-11-18T11:23:42.427009+00:00"
     }
   },
-  "last_updated": "2026-11-27T11:55:55.091035+00:00",
+  "last_updated": "2026-11-27T21:00:16.506871+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
