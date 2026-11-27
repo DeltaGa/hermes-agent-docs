@@ -41,8 +41,8 @@
       "last_updated": "2026-11-18T11:23:37.822376+00:00"
     },
     "developer-guide/context-compression-and-caching.md": {
-      "sha": "36602ac3f95516a82bd756268ecd8ea6a7699697",
-      "last_updated": "2026-11-19T11:21:23.844219+00:00"
+      "sha": "04e9b95958d026286ad5d04f3d33558bba59c179",
+      "last_updated": "2026-11-27T11:55:53.163503+00:00"
     },
     "developer-guide/context-engine-plugin.md": {
       "sha": "cc77e98af9ef3a2346cb782187a9bf8a90a98186",
@@ -93,8 +93,8 @@
       "last_updated": "2026-11-14T05:48:30.980093+00:00"
     },
     "developer-guide/plugins/index.md": {
-      "sha": "cf20d043143aaf0112aebe744e14d2cede0b6dec",
-      "last_updated": "2026-11-24T23:48:24.741746+00:00"
+      "sha": "1464bfa6f0961d4453f84e4a79bf10614a0f7b2c",
+      "last_updated": "2026-11-27T11:55:53.702242+00:00"
     },
     "developer-guide/programmatic-integration.md": {
       "sha": "aa8786784418d8977c57750fce8be2c306d1d0aa",
@@ -341,8 +341,8 @@
       "last_updated": "2026-10-06T05:49:04.022980+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "09d31919747b6d93c4e750ea3ac13da81a72940f",
-      "last_updated": "2026-11-26T16:40:52.609367+00:00"
+      "sha": "0d18c4454d701ae55c9aa70b3380e2b3c84f1a44",
+      "last_updated": "2026-11-27T11:55:54.138011+00:00"
     },
     "reference/environment-variables.md": {
       "sha": "195fb6574b54489690e2169f0725abe4b4cd2221",
@@ -397,8 +397,8 @@
       "last_updated": "2026-11-12T06:43:07.736937+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "6a66fe2cbe6513b46b80070bdd07f6ee73160f3a",
-      "last_updated": "2026-11-26T03:26:33.451738+00:00"
+      "sha": "7df8d5e0c54a6c0ae1376862819a563662518e47",
+      "last_updated": "2026-11-27T11:55:54.515670+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "3e15fe3b8a97ddeaa7bfd996c3fd5f90849770d9",
@@ -677,8 +677,8 @@
       "last_updated": "2026-10-11T05:08:54.673849+00:00"
     },
     "user-guide/messaging/index.md": {
-      "sha": "c0af708d7100b9c62ce5791ed0f80d3630212786",
-      "last_updated": "2026-11-26T16:40:53.953471+00:00"
+      "sha": "a03443389e69d818483fbae7a57500a27ec164ad",
+      "last_updated": "2026-11-27T11:55:54.884268+00:00"
     },
     "user-guide/messaging/irc.md": {
       "sha": "4fd21061621fc5e44a64222b7813561b41b28dd9",
@@ -1781,7 +1781,7 @@
       "last_updated": "2026-11-18T11:23:42.427009+00:00"
     }
   },
-  "last_updated": "2026-11-26T16:40:54.501614+00:00",
+  "last_updated": "2026-11-27T11:55:55.091035+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
