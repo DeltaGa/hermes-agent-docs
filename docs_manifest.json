@@ -9,8 +9,8 @@
       "last_updated": "2026-11-18T11:23:36.876493+00:00"
     },
     "developer-guide/adding-platform-adapters.md": {
-      "sha": "e9a73c511f26beb23387e1763d9643d38636fb0e",
-      "last_updated": "2026-11-24T23:48:23.970107+00:00"
+      "sha": "04159913e24f0d6ab66c4048b94d06d8594e5dd3",
+      "last_updated": "2026-11-28T17:26:20.137657+00:00"
     },
     "developer-guide/adding-providers.md": {
       "sha": "542f8ff34de36680dacbc127b649603b3320621a",
@@ -25,8 +25,8 @@
       "last_updated": "2026-11-26T03:26:28.369865+00:00"
     },
     "developer-guide/architecture.md": {
-      "sha": "4c3f7f393ffcec54a6ce14b255ccbbbc28d808eb",
-      "last_updated": "2026-11-18T11:23:37.484525+00:00"
+      "sha": "1ce6e07994b87c5e86bed29fe5c3ea4b603d032b",
+      "last_updated": "2026-11-28T17:26:20.487787+00:00"
     },
     "developer-guide/browser-provider-plugin.md": {
       "sha": "72a1a342ca0db2f505a9cbadb552a235a4375f35",
@@ -73,8 +73,8 @@
       "last_updated": "2026-09-25T04:22:59.917100+00:00"
     },
     "developer-guide/gateway-internals.md": {
-      "sha": "a2dd80c0e3b84929607816ca9917c5771c7d924f",
-      "last_updated": "2026-11-24T13:27:23.191738+00:00"
+      "sha": "a4f9c483ac5a25ed79f1afe76b76353d66548133",
+      "last_updated": "2026-11-28T17:26:20.874022+00:00"
     },
     "developer-guide/image-gen-provider-plugin.md": {
       "sha": "411f9f9f7f7545b18b8d6479061f7c717ddc5090",
@@ -93,8 +93,8 @@
       "last_updated": "2026-11-14T05:48:30.980093+00:00"
     },
     "developer-guide/plugins/index.md": {
-      "sha": "1464bfa6f0961d4453f84e4a79bf10614a0f7b2c",
-      "last_updated": "2026-11-27T11:55:53.702242+00:00"
+      "sha": "9ec47ced58608a6ebc157eb240f5d2f67e503834",
+      "last_updated": "2026-11-28T17:26:21.317901+00:00"
     },
     "developer-guide/programmatic-integration.md": {
       "sha": "aa8786784418d8977c57750fce8be2c306d1d0aa",
@@ -153,8 +153,8 @@
       "last_updated": "2026-09-18T23:08:36.921771+00:00"
     },
     "getting-started/nix-setup.md": {
-      "sha": "d0265aa4b9933828cbb928c2ea88445e8f5c5869",
-      "last_updated": "2026-11-26T16:40:52.272570+00:00"
+      "sha": "a7f68011e607488d48f152cd4ecf329d52e9bd07",
+      "last_updated": "2026-11-28T17:26:21.672393+00:00"
     },
     "getting-started/platform-support.md": {
       "sha": "caaf456500b2bbe67972ec99454cf8ce7219b2ec",
@@ -321,8 +321,8 @@
       "last_updated": "2026-09-18T23:08:50.423331+00:00"
     },
     "integrations/index.md": {
-      "sha": "7af3a5cd685365e4508919e4447a2a6540dab600",
-      "last_updated": "2026-11-18T11:23:42.111504+00:00"
+      "sha": "f3567dc7ce81c3a4e54ffa709573489030fc9648",
+      "last_updated": "2026-11-28T17:26:22.031821+00:00"
     },
     "integrations/nous-portal.md": {
       "sha": "d65a203c3469b5cccd1fe4f39cb56d427691f0f3",
@@ -341,12 +341,12 @@
       "last_updated": "2026-10-06T05:49:04.022980+00:00"
     },
     "reference/cli-commands.md": {
-      "sha": "0d18c4454d701ae55c9aa70b3380e2b3c84f1a44",
-      "last_updated": "2026-11-27T11:55:54.138011+00:00"
+      "sha": "ae42bbf8a1a8ce3623cd31919e75fcdb430cb66a",
+      "last_updated": "2026-11-28T17:26:22.482061+00:00"
     },
     "reference/environment-variables.md": {
-      "sha": "195fb6574b54489690e2169f0725abe4b4cd2221",
-      "last_updated": "2026-11-26T03:26:32.733118+00:00"
+      "sha": "18f3a081bd5633749f3c0dd8af787866ec5cb918",
+      "last_updated": "2026-11-28T17:26:22.960174+00:00"
     },
     "reference/faq.md": {
       "sha": "9534a4306bfc92bdebaf3ff883464743dd0e1836",
@@ -381,8 +381,8 @@
       "last_updated": "2026-11-26T16:40:52.940526+00:00"
     },
     "reference/toolsets-reference.md": {
-      "sha": "e139fde28b0c3ed3994a45e91a3cb4a5c8dee325",
-      "last_updated": "2026-11-13T14:28:06.973778+00:00"
+      "sha": "ee4cefc4cd498ce783bd994e4d2a20611cdab359",
+      "last_updated": "2026-11-28T17:26:23.304153+00:00"
     },
     "user-guide/_category_.json": {
       "sha": "7911fa56fec15dafb51ceb520070a85fadf7addc",
@@ -397,8 +397,8 @@
       "last_updated": "2026-11-12T06:43:07.736937+00:00"
     },
     "user-guide/configuration.md": {
-      "sha": "0170f1b23f445821d2abf328216eb563288d5988",
-      "last_updated": "2026-11-27T21:00:14.774871+00:00"
+      "sha": "0b3234d78474cfe83616bd163aece3f89867e51a",
+      "last_updated": "2026-11-28T17:26:23.640770+00:00"
     },
     "user-guide/configuring-models.md": {
       "sha": "3e15fe3b8a97ddeaa7bfd996c3fd5f90849770d9",
@@ -537,20 +537,20 @@
       "last_updated": "2026-11-21T02:02:22.177249+00:00"
     },
     "user-guide/features/memory-providers.md": {
-      "sha": "a7827a17909641403c3c5edf4ba665db4d7a3606",
-      "last_updated": "2026-11-15T10:35:37.206718+00:00"
+      "sha": "dad9f13df0a18d6b6fa6e2cd5b6a996d3c5b0338",
+      "last_updated": "2026-11-28T17:26:23.950598+00:00"
     },
     "user-guide/features/memory.md": {
-      "sha": "3d0291dc247d51bd5932745749685577ed28bb6d",
-      "last_updated": "2026-11-14T13:16:27.877228+00:00"
+      "sha": "1f46357a35a82af1fdf177c7e65dd7dccc26b940",
+      "last_updated": "2026-11-28T17:26:24.288083+00:00"
     },
     "user-guide/features/mixture-of-agents.md": {
       "sha": "18abd47e9e10e883e10e54d9755308d917af6e72",
       "last_updated": "2026-09-19T04:04:27.824994+00:00"
     },
     "user-guide/features/overview.md": {
-      "sha": "8a51fb6348d66e78f2808c698aa1d52c932a41b2",
-      "last_updated": "2026-11-26T03:26:34.926401+00:00"
+      "sha": "e1a4b3564d0f6370268562a8e35e9da12ac1ba17",
+      "last_updated": "2026-11-28T17:26:24.609868+00:00"
     },
     "user-guide/features/personality.md": {
       "sha": "7037af11bdf630bb343411ddd7e9161a084c55c3",
@@ -613,8 +613,8 @@
       "last_updated": "2026-09-25T04:23:19.154246+00:00"
     },
     "user-guide/features/web-dashboard.md": {
-      "sha": "d14939434789e4bd6a4e6bc2e8a1731593f69aca",
-      "last_updated": "2026-11-27T21:00:16.300653+00:00"
+      "sha": "9fea8dad6b3a7065190981c946d309bf9e9a753a",
+      "last_updated": "2026-11-28T17:26:24.969416+00:00"
     },
     "user-guide/features/web-search.md": {
       "sha": "1288ee9e391d6030261ecdaa456021ed935d01af",
@@ -653,8 +653,8 @@
       "last_updated": "2026-09-16T04:17:20.418099+00:00"
     },
     "user-guide/messaging/dingtalk.md": {
-      "sha": "571b7464443b70ca757080a33de76316d850fce5",
-      "last_updated": "2026-09-25T04:23:20.353108+00:00"
+      "sha": "c6058d8b6d897855ff9b72bb6be2ea1b408044bc",
+      "last_updated": "2026-11-28T17:26:25.327144+00:00"
     },
     "user-guide/messaging/discord.md": {
       "sha": "e86a13b4b7d3e9ddb689f2c588ef377b8f9b228a",
@@ -677,8 +677,8 @@
       "last_updated": "2026-10-11T05:08:54.673849+00:00"
     },
     "user-guide/messaging/index.md": {
-      "sha": "a03443389e69d818483fbae7a57500a27ec164ad",
-      "last_updated": "2026-11-27T11:55:54.884268+00:00"
+      "sha": "24612f10de387ca0d5f645a1313f4d5058b187af",
+      "last_updated": "2026-11-28T17:26:25.814982+00:00"
     },
     "user-guide/messaging/irc.md": {
       "sha": "4fd21061621fc5e44a64222b7813561b41b28dd9",
@@ -757,12 +757,12 @@
       "last_updated": "2026-11-15T10:35:38.599659+00:00"
     },
     "user-guide/messaging/wecom-callback.md": {
-      "sha": "b169ab08bbc68119113119c8b26eb030f4da5df3",
-      "last_updated": "2026-11-15T10:35:39.149734+00:00"
+      "sha": "56ff02cdd6677fedac1bdc3dfb97b6c74d45ec88",
+      "last_updated": "2026-11-28T17:26:26.170126+00:00"
     },
     "user-guide/messaging/wecom.md": {
-      "sha": "83feb7509809777e052135e0f9d72e4579a64abf",
-      "last_updated": "2026-10-02T00:36:54.109087+00:00"
+      "sha": "94a439b98734919ddb356507e27bc70c2536301d",
+      "last_updated": "2026-11-28T17:26:26.538094+00:00"
     },
     "user-guide/messaging/weixin.md": {
       "sha": "8216be13c790e0def59142de7bd4a2b5c46be81b",
@@ -781,8 +781,8 @@
       "last_updated": "2026-11-07T09:48:59.134183+00:00"
     },
     "user-guide/multi-profile-gateways.md": {
-      "sha": "c143143fbebbef9865ffbe6f7b1f12f2087d2802",
-      "last_updated": "2026-11-24T13:27:28.356899+00:00"
+      "sha": "cd16e9b8caa312511afb96e2d06b11a207f691a5",
+      "last_updated": "2026-11-28T17:26:26.884746+00:00"
     },
     "user-guide/profile-distributions.md": {
       "sha": "be38fe367371f6cef2766b2503d4a4b03491a997",
@@ -1781,7 +1781,7 @@
       "last_updated": "2026-11-18T11:23:42.427009+00:00"
     }
   },
-  "last_updated": "2026-11-28T07:12:59.012608+00:00",
+  "last_updated": "2026-11-28T17:26:27.091376+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
