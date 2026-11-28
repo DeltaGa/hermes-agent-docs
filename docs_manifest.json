@@ -409,8 +409,8 @@
       "last_updated": "2026-11-26T03:26:33.821869+00:00"
     },
     "user-guide/docker.md": {
-      "sha": "13dc493df32e67ca1ef473e5305cb1afc9579f1e",
-      "last_updated": "2026-11-21T18:56:34.938129+00:00"
+      "sha": "1bbca8db386d13d6eaa4133a197d597111526bf6",
+      "last_updated": "2026-11-28T07:12:58.804583+00:00"
     },
     "user-guide/egress/index.md": {
       "sha": "90ccbb8a05e663ba816b4ac1e8bef7bca32eed5b",
@@ -1781,7 +1781,7 @@
       "last_updated": "2026-11-18T11:23:42.427009+00:00"
     }
   },
-  "last_updated": "2026-11-27T21:00:16.506871+00:00",
+  "last_updated": "2026-11-28T07:12:59.012608+00:00",
   "source": {
     "owner": "NousResearch",
     "repo": "hermes-agent",
